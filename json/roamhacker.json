@@ -6789,7 +6789,81 @@
         },
         "children": [
           {
-            "string": "New Jump nav commands",
+            "string": "New Jump fix:",
+            "create-time": 1613313884118,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Meta-j d  (delete current block) now is updated to use Roam new api for deletion. I use this a lot, and found in some cases the old technique failed (like when there was :hiccup in the block)",
+                "create-time": 1613313863383,
+                "uid": "z7Sis92HJ",
+                "edit-time": 1613313871294,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "SZmhNZaKa",
+            "edit-time": 1613313900896,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "Roam42",
+            "create-time": 1613313905688,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Trying to fix the Roam42 menu Icons from getting shuffled through the top bar. While I don't have a perfect solution, I have it at least tamed.",
+                "create-time": 1613313863383,
+                "uid": "TpAgEfDum",
+                "edit-time": 1613313904633,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "lPGz_uy2e",
+            "edit-time": 1613313907593,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "JYCudUIM0",
+        "edit-time": 1613027549237,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1613313962445,
+        "uid": "hXKfOG8cn",
+        "edit-time": 1613313962445,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "edit-time": 1613313978144,
+        "children": [
+          {
+            "string": "New jump nav commands",
             "create-time": 1613027552106,
             ":create/user": {
               ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
@@ -6818,32 +6892,47 @@
                 ":edit/user": {
                   ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                 }
+              },
+              {
+                "string": "",
+                "create-time": 1613313876639,
+                "uid": "fwCBmzMUd",
+                "edit-time": 1613313876639,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
               }
             ],
             "uid": "B8ji-_lSj",
-            "edit-time": 1613027557008,
+            "edit-time": 1613313966551,
             ":edit/user": {
               ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
             }
           }
         ],
-        "uid": "JYCudUIM0",
-        "edit-time": 1613027549237,
-        ":edit/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1613027543306,
+        "refs": [
+          {
+            "uid": "02-10-2021"
+          }
+        ],
         "uid": "RxJe--MNs",
-        "edit-time": 1613027543306,
+        ":block/refs": [
+          {
+            ":block/uid": "02-10-2021"
+          }
+        ],
+        "string": "[[February 10th, 2021]]",
         ":create/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         },
+        "create-time": 1613027543306,
         ":edit/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        }
+        },
+        "heading": 1
       },
       {
         "edit-time": 1613027541987,
@@ -36920,6 +37009,18 @@
     },
     ":edit/user": {
       ":user/uid": "3cIf98kUtvQh54EPAQyRsfuPxh33"
+    }
+  },
+  {
+    "create-time": 1613318406637,
+    "title": "February 15th, 2021",
+    "uid": "02-15-2021",
+    "edit-time": 1613318406637,
+    ":create/user": {
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
+    },
+    ":edit/user": {
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
     }
   }
 ]
