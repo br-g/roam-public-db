@@ -4699,8 +4699,8 @@
               "iframe": {
                 "https://roam-quickref.glitch.me/roam42-install.html": {
                   "size": {
-                    "width": 529,
-                    "height": 78
+                    "width": 417,
+                    "height": 20
                   }
                 }
               }
@@ -4710,8 +4710,8 @@
               ":iframe": {
                 "https://roam-quickref.glitch.me/roam42-install.html": {
                   ":size": {
-                    ":width": 529,
-                    ":height": 78
+                    ":width": 417,
+                    ":height": 20
                   }
                 }
               }
@@ -35880,18 +35880,6 @@
     }
   },
   {
-    "create-time": 1610955170405,
-    "title": "Hypothes.is 42Settings",
-    "uid": "rMVBYrY6o",
-    "edit-time": 1610955170407,
-    ":create/user": {
-      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-    },
-    ":edit/user": {
-      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-    }
-  },
-  {
     "create-time": 1611061840269,
     "title": "January 19th, 2021",
     "uid": "01-19-2021",
@@ -35912,7 +35900,7 @@
     "children": [
       {
         "string": "Version date: [[February 11th, 2021]] [Check for updates at roam42.com](https://roamresearch.com/#/app/roamhacker/page/sbLVGfgDI)",
-        "create-time": 1610956542713,
+        "create-time": 1613488892895,
         ":block/refs": [
           {
             ":block/uid": "02-11-2021"
@@ -35924,818 +35912,34 @@
           }
         ],
         ":create/user": {
+          ":user/uid": "cgZ2606MPeR6HkCid1KZIZhgwAE2"
+        },
+        "uid": "8-HnB40hI",
+        "edit-time": 1613488893178,
+        ":edit/user": {
+          ":user/uid": "cgZ2606MPeR6HkCid1KZIZhgwAE2"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1613506995340,
+        "uid": "nXBFVMj7R",
+        "edit-time": 1613506995340,
+        ":create/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         },
-        "uid": "58NkebHY7",
-        "edit-time": 1613045014181,
         ":edit/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         }
       },
       {
         "string": "",
-        "create-time": 1612785358233,
-        "uid": "nFloHMEEN",
-        "edit-time": 1613045014181,
+        "create-time": 1613506991095,
+        "uid": "o5RMxiK_a",
+        "edit-time": 1613506991095,
         ":create/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         },
-        ":edit/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        }
-      },
-      {
-        "string": "Instructions",
-        "create-time": 1610956542711,
-        "heading": 2,
-        ":create/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        },
-        "children": [
-          {
-            "string": "Overview",
-            "create-time": 1610956542711,
-            "heading": 3,
-            ":create/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            },
-            "children": [
-              {
-                "string": "These SmartBlocks are designed to pull in annotations from [Hypothes.is](https://hypothes.is). The following is a description of the SmartBlocks included with this collection. Also, please make sure to follow the instructions in the configuration section of this page.",
-                "create-time": 1610956542711,
-                ":create/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                },
-                "children": [
-                  {
-                    "string": "Requirements:",
-                    "create-time": 1610956542710,
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    "children": [
-                      {
-                        "string": "A free registered user account at [Hypothes.is](https://hypothes.is)",
-                        "create-time": 1610956542710,
-                        "uid": "qODm888db",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      }
-                    ],
-                    "uid": "umQ4LdH4w",
-                    "edit-time": 1613045014181,
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  },
-                  {
-                    "string": "Steps to enable the Hypothes.is SmartBlocks",
-                    "create-time": 1610956542711,
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    "children": [
-                      {
-                        "string": " Assign the Hypothesis User Token API (See Configuration section on this page)",
-                        "create-time": 1610956542711,
-                        "uid": "LNmvqDlTA",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      },
-                      {
-                        "string": "Enable the roam/js later on this page",
-                        "create-time": 1610956542711,
-                        "uid": "ha7Uu9dq2",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      }
-                    ],
-                    "uid": "XtaO2td1j",
-                    "edit-time": 1613045014181,
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  }
-                ],
-                "uid": "lA-Mu3Z1C",
-                "edit-time": 1613045014181,
-                ":edit/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                }
-              }
-            ],
-            "uid": "7al-YaIIv",
-            "edit-time": 1613045014181,
-            ":edit/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            }
-          },
-          {
-            "string": "Configuration",
-            "create-time": 1610956542710,
-            "heading": 3,
-            ":create/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            },
-            "children": [
-              {
-                "string": "The following settings are for configuring the behavior of the Hypothes.is SmartBlocks. It is recommended that these settings are stored on a separate page, perhaps: [[Hypothes.is 42Settings]]. That way in the future when these SmartBlocks are updated, this page with the code can simply be replaced without losing your settings.",
-                "create-time": 1610956542710,
-                ":block/refs": [
-                  {
-                    ":block/uid": "rMVBYrY6o"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "rMVBYrY6o"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                },
-                "uid": "jGCpmMbnF",
-                "edit-time": 1613045014181,
-                ":edit/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                }
-              },
-              {
-                "string": "**HypothesisUserToken** (Required)",
-                "create-time": 1610956542710,
-                ":create/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                },
-                "children": [
-                  {
-                    "string": "To access your annotations, you need a free developer key from Hypothes.is which can be obtained at: [https://hypothes.is/account/developer](https://hypothes.is/account/developer) ",
-                    "create-time": 1612646998518,
-                    "uid": "ig3qcfgJm",
-                    "edit-time": 1613045014181,
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  },
-                  {
-                    "string": "Go to this page and copy your API key. The key from this page should be added to a 42Setting using the following command:",
-                    "create-time": 1610956542710,
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    "children": [
-                      {
-                        "string": "`#42Setting HypothesisUserToken YourKeyHere`",
-                        "create-time": 1610956542710,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        "children": [
-                          {
-                            "string": "**NOTE**: When copying this block, remove the back tick ` from the beginning of the line and the end. The back tick is used here to make the block appear as code.",
-                            "create-time": 1612646709514,
-                            "uid": "Lpfzr4OeF",
-                            "edit-time": 1613045014181,
-                            ":create/user": {
-                              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                            }
-                          }
-                        ],
-                        "uid": "l2OA9V-l1",
-                        "edit-time": 1613045014181,
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      }
-                    ],
-                    "uid": "DcZFTgch5",
-                    "edit-time": 1613045014181,
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  }
-                ],
-                "uid": "nnlKhhrDd",
-                "edit-time": 1613045014181,
-                ":edit/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                }
-              },
-              {
-                "string": "**HypothesisHighlightTemplate** (Optional)",
-                "create-time": 1610999794565,
-                ":create/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                },
-                "children": [
-                  {
-                    "string": "The output format for the block for a highlight can be customized. You can use standard Roam elements in a block and in the template include HIGHLIGHT for where the highlight text should appear and URL for where the URL to the hypothesis annotation. Example:",
-                    "create-time": 1610999831838,
-                    "uid": "UgFJR9a1N",
-                    "edit-time": 1613045014181,
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  },
-                  {
-                    "string": "`#42Setting HypothesisHighlightTemplate  HIGHLIGHT [->](URL)`",
-                    "create-time": 1610999942628,
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    "children": [
-                      {
-                        "string": "**NOTE**: When copying this block, remove the back tick ` from the beginning of the line and the end. The back tick is used here to make the block appear as code.",
-                        "create-time": 1612646712679,
-                        "uid": "Jk9RNHP4m",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      }
-                    ],
-                    "uid": "sVWGQOAA7",
-                    "edit-time": 1613045014181,
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  }
-                ],
-                "uid": "CN6-tM-iW",
-                "edit-time": 1613045014181,
-                ":edit/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                }
-              },
-              {
-                "string": "**HypothesisNoteTemplate** (Optional)",
-                "create-time": 1611000830620,
-                ":create/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                },
-                "children": [
-                  {
-                    "string": "The output format for the block for a note can be customized. You can use standard Roam elements in a block and in the template include NOTE for where the note text should appear and URL for where the URL to the hypothesis annotation. Example:",
-                    "create-time": 1611000830619,
-                    "uid": "S_g0Lzf76",
-                    "edit-time": 1613045014181,
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  },
-                  {
-                    "string": "`#42Setting HypothesisNoteTemplate NOTE`",
-                    "create-time": 1611000830619,
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    "children": [
-                      {
-                        "string": "**NOTE**: When copying this block, remove the back tick ` from the beginning of the line and the end. The back tick is used here to make the block appear as code.",
-                        "create-time": 1612646717179,
-                        "uid": "MyPc3yFEz",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      }
-                    ],
-                    "uid": "5XiFGipps",
-                    "edit-time": 1613045014181,
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  }
-                ],
-                "uid": "sukSefd60",
-                "edit-time": 1613045014181,
-                ":edit/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                }
-              }
-            ],
-            "uid": "i3zNw9PES",
-            "edit-time": 1613045014181,
-            ":edit/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            }
-          }
-        ],
-        "uid": "xXEbpA60I",
-        "edit-time": 1613045014181,
-        ":edit/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        }
-      },
-      {
-        "string": "SmartBlocks",
-        "create-time": 1610956542712,
-        "heading": 2,
-        ":create/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        },
-        "children": [
-          {
-            "string": "Useful commands",
-            "create-time": 1610977431760,
-            "heading": 3,
-            ":create/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            },
-            "children": [
-              {
-                "string": "**Description: **adds two buttons to a block. Button one will look for a URL in the current block and open the URL in a separate tab opened into Hypothes.is for annotation. The second button will insert as child blocks below the current block all your annotations.",
-                "create-time": 1610956542711,
-                ":create/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                },
-                "children": [
-                  {
-                    "edit-time": 1613045014181,
-                    "children": [
-                      {
-                        "string": "<%J: return rhHypothesis.sbButton %>",
-                        "create-time": 1610956542711,
-                        "uid": "sCorUlQU_",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "4Srab4yOS"
-                      }
-                    ],
-                    "uid": "cVOQXazFO",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "4Srab4yOS"
-                      }
-                    ],
-                    "string": "#42SmartBlock Hypothes.is - Add buttons <%NOCURSOR%>",
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    "create-time": 1610956542711,
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  }
-                ],
-                "uid": "XUjGzbBc3",
-                "edit-time": 1613045014181,
-                ":edit/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                }
-              },
-              {
-                "string": "**Description:** look at text in the current block for a URL. It opens the URL in Hypothes.is for annotation",
-                "create-time": 1610956542711,
-                ":create/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                },
-                "children": [
-                  {
-                    "edit-time": 1613045014181,
-                    "children": [
-                      {
-                        "string": "<%JA:```javascript\nconst links = linkify.find(document.activeElement.value);\nif(links.length>0) rhHypothesis.openArticleInHypothesis(links[0].href);\nreturn '';```%>",
-                        "create-time": 1610956542711,
-                        "uid": "cxLWfxg9r",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "4Srab4yOS"
-                      }
-                    ],
-                    "uid": "nESizpGyP",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "4Srab4yOS"
-                      }
-                    ],
-                    "string": "#42SmartBlock Hypothes.is - Open site <%NOCURSOR%>",
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    "create-time": 1610956542711,
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  }
-                ],
-                "uid": "u5JPWXmbP",
-                "edit-time": 1613045014181,
-                ":edit/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                }
-              }
-            ],
-            "uid": "_esXcp9FY",
-            "edit-time": 1613045014181,
-            ":edit/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            }
-          },
-          {
-            "string": "Retrieve annotations for specific URL",
-            "create-time": 1610977477686,
-            "heading": 3,
-            ":create/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            },
-            "children": [
-              {
-                "string": "**Description:** Looks at text in the current block for a URL to an article. For that URL retrieves all annotations and inserts them as child blocks. There are two variantions (1) returns \"my\" annotations and (2) returns annotations from all users for the article.",
-                "create-time": 1610956542711,
-                ":create/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                },
-                "children": [
-                  {
-                    "edit-time": 1613045014181,
-                    "children": [
-                      {
-                        "string": "<%JA:```javascript\n\nconst links = linkify.find(document.activeElement.value);\nif(links.length>0) \n  await rhHypothesis.insertAnnotions(await rhHypothesis.getMyAnnotations(links[0].href));\nreturn '';```%>",
-                        "create-time": 1610956542711,
-                        "uid": "ccrLTD4uN",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "4Srab4yOS"
-                      }
-                    ],
-                    "uid": "gTb6aO-EX",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "4Srab4yOS"
-                      }
-                    ],
-                    "string": "#42SmartBlock Hypothes.is - Insert my annotations from site in current block<%NOCURSOR%>",
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    "create-time": 1610956542711,
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  },
-                  {
-                    "edit-time": 1613045014181,
-                    "children": [
-                      {
-                        "string": "<%JA:```javascript\n\nconst links = linkify.find(document.activeElement.value);\nvar annotations = null;\nif(links.length>0) \n  annotations = await rhHypothesis.getAllAnnotations(links[0].href);\n  let startingUid = document.activeElement.id.slice(-9);\n  let counter = 1;\nif(annotations) {  \n  var users = [...new Set( annotations.map(e=>e.user))];\n  startingUid = await roam42.common.createBlock(startingUid,0,\n\t`[${annotations[0].title}](https://via.hypothes.is/${annotations[0].uri})`);\n  for(var user of users) {\n    var f = annotations.filter(e=> e.user==user)\n    var user = f[0].user.replace('acct:','').replace('@hypothes.is','')\n    user = `[${user}](https://hypothes.is/users/${user})`\n    let newUserUID = await roam42.common.createBlock(startingUid,counter, user);\n\tcounter +=1;\n    await rhHypothesis.insertAnnotions( f, true,newUserUID );\n  }\n}\nreturn '';```%>",
-                        "create-time": 1610956738733,
-                        "uid": "G24QLUiMd",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "4Srab4yOS"
-                      }
-                    ],
-                    "uid": "EhHPPzuom",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "4Srab4yOS"
-                      }
-                    ],
-                    "string": "#42SmartBlock Hypothes.is - Insert all PUBLIC annotations for the document url from the current block<%NOCURSOR%>",
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    "create-time": 1610956738733,
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  }
-                ],
-                "uid": "ugYdra6uX",
-                "edit-time": 1613045014181,
-                ":edit/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                }
-              }
-            ],
-            "uid": "hN4No8TJp",
-            "edit-time": 1613045014181,
-            ":edit/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            }
-          },
-          {
-            "string": "Retrieve annotations by date and/or with tags",
-            "create-time": 1610977519031,
-            "heading": 3,
-            ":create/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            },
-            "children": [
-              {
-                "string": "**Description:** Asks for a start date and returns all annotations made by the user from that date until now",
-                "create-time": 1610956542712,
-                ":create/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                },
-                "children": [
-                  {
-                    "edit-time": 1613045014181,
-                    "children": [
-                      {
-                        "string": "<%SET:dtHypRet,<%DATE:<%INPUT:annotations from date%%Today%>,YYYY-MM-DD%>%><%NOBLOCKOUTPUT%>",
-                        "create-time": 1610956542711,
-                        "uid": "M0N8b7GPI",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      },
-                      {
-                        "string": "<%JA:```javascript\n\nvar annotations = await rhHypothesis.getAnnotationsSinceDate(roam42.sb.vars['dtHypRet']);\nvar articlesURIs = [...new Set( annotations.map(e=>e.uri))];\nlet startingUid = document.activeElement.id.slice(-9);\nlet counter = 1;\nstartingUid = await roam42.common.createSiblingBlock(startingUid, \n       `Annotations made from ${roam42.sb.vars['dtHypRet']} on Hypothes.is`);\n\nfor(var uri of articlesURIs) {\n  var f = annotations.filter(e=> e.uri==uri)\n\tlet newUID = await roam42.common.createBlock(startingUid, counter,\n\t\t\t\t\t`[${f[0].title}](${f[0].uri})`);\n\tcounter +=1;\n    await rhHypothesis.insertAnnotions( f, true, newUID );\n}\nreturn '';```%>",
-                        "create-time": 1610956542711,
-                        "uid": "m-Tutr9ea",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "4Srab4yOS"
-                      }
-                    ],
-                    "uid": "VdYQ11vGw",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "4Srab4yOS"
-                      }
-                    ],
-                    "string": "#42SmartBlock Hypothes.is - Insert my annotations made from a date until now<%NOCURSOR%>",
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    "create-time": 1610956542712,
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  },
-                  {
-                    "edit-time": 1613045014181,
-                    "children": [
-                      {
-                        "string": "<%SET:dtHypRet,<%DATE:<%INPUT:annotations from date%%Today%>,YYYY-MM-DD%>%><%NOBLOCKOUTPUT%>",
-                        "create-time": 1610970020952,
-                        "uid": "CaxOCuayo",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      },
-                      {
-                        "string": "<%J:```javascript\nsetTimeout( async()=>{\n  var annotations = await rhHypothesis.getAnnotationsSinceDate(roam42.sb.vars['dtHypRet']);\n  var articlesURIs = [...new Set( annotations.map(e=>e.uri))];\n  let startingUid = document.activeElement.id.slice(-9);\n  startingUid = await roam42.common.createSiblingBlock(startingUid, \n         `Articles annotated from ${roam42.sb.vars['dtHypRet']} on Hypothes.is`);  \n  let counter = 1;\n  for(var uri of articlesURIs) {  \n    var f = annotations.filter(e=> e.uri==uri)\n\tlet newUID = await roam42.common.createBlock(startingUid, counter,\n\t\t\t\t\t`[${f[0].title}](${f[0].uri})`);\n    counter += 1;\n  }  \n},100);\nreturn '';```%>",
-                        "create-time": 1610970020952,
-                        "uid": "G2eP-0NTm",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "4Srab4yOS"
-                      }
-                    ],
-                    "uid": "iQiPk2ufT",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "4Srab4yOS"
-                      }
-                    ],
-                    "string": "#42SmartBlock Hypothes.is - Insert article titles of articles I have annotated  from a date until now<%NOCURSOR%>",
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    "create-time": 1610970020952,
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  },
-                  {
-                    "edit-time": 1613045014181,
-                    "children": [
-                      {
-                        "string": "<%SET:dtHypRet,<%DATE:<%INPUT:annotations from date%%Today%>,YYYY-MM-DD%>%><%NOBLOCKOUTPUT%>",
-                        "create-time": 1610977215634,
-                        "uid": "sU4kJXMwY",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      },
-                      {
-                        "string": "<%SET:sHypTags,<%INPUT:With tag(s) (separate tags with comma)%>%><%NOBLOCKOUTPUT%>",
-                        "create-time": 1610977316684,
-                        "uid": "tRQV73ARq",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      },
-                      {
-                        "string": "<%JA:```javascript\n\nvar annotations = await rhHypothesis.getAnnotationsSinceDateWithTags(\n  roam42.sb.vars['dtHypRet'],roam42.sb.vars['sHypTags']);\nvar articlesURIs = [...new Set( annotations.map(e=>e.uri))];\n  let startingUid = document.activeElement.id.slice(-9);\n  startingUid = await roam42.common.createSiblingBlock(startingUid, \n         `Articles annotated from ${roam42.sb.vars['dtHypRet']} on Hypothes.is with tag ${roam42.sb.vars['sHypTags']}`);  \n  let counter = 1;\n\nfor(var uri of articlesURIs) {\n  var f = annotations.filter(e=> e.uri==uri)\n  let newUID = await roam42.common.createBlock(startingUid, counter,\n                  `[${f[0].title}](${f[0].uri})`);\n  counter +=1;\n  await rhHypothesis.insertAnnotions( f, true, newUID );  \n}\nreturn '';```%>",
-                        "create-time": 1610977215634,
-                        "uid": "TKje3p1uL",
-                        "edit-time": 1613045014181,
-                        ":create/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "4Srab4yOS"
-                      }
-                    ],
-                    "uid": "yBh0QyhPf",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "4Srab4yOS"
-                      }
-                    ],
-                    "string": "#42SmartBlock Hypothes.is - Insert annotations from date with tag(s) <%NOCURSOR%>",
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    "create-time": 1610977215634,
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  }
-                ],
-                "uid": "xhP0S37rg",
-                "edit-time": 1613045014181,
-                ":edit/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                }
-              }
-            ],
-            "uid": "n_upSxh-c",
-            "edit-time": 1613045014181,
-            ":edit/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            }
-          }
-        ],
-        "uid": "KGUySgX92",
-        "edit-time": 1613045014181,
-        ":edit/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        }
-      },
-      {
-        "string": "roam/js",
-        "create-time": 1610956542713,
-        "heading": 2,
-        ":create/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        },
-        "children": [
-          {
-            "string": "This roam/js code must be enabled for the SmartBlocks to work.",
-            "create-time": 1610956542713,
-            ":create/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            },
-            "children": [
-              {
-                "edit-time": 1613045014181,
-                "children": [
-                  {
-                    "string": "```javascript\n//load Hypothesis SB code\n;(()=>{\n  window.rhHypothesis = {};\n  rhHypothesis.userToken    = '';\n  rhHypothesis.userProfile  = '';\n  rhHypothesis.initialized  = false;\n  rhHypothesis.highlightTemplate = 'HIGHLIGHT [->](URL)';\n  rhHypothesis.noteTemplate = 'NOTE';\n  rhHypothesis.sbButton = '{{=:|#hypothesis}}' +\n    '{{📰:42SmartBlock:Hypothes.is - Open site:42RemoveButton=false}}'+\n    '{{📑:42SmartBlock:Hypothes.is - Insert my annotations from site in current block:42RemoveButton=false}}';\n  const apiUrl = 'https://api.hypothes.is/api/';\n  const getUserProfile = async ()=> await apiHTTPGet(`${apiUrl}profile`);\n\n  const apiHTTPGet = async (apiCall, data) => {\n    const settings = { \"url\": apiCall, \"method\": \"GET\", \"async\": false, \n                      \"headers\": { \"Authorization\": \"Bearer \" + rhHypothesis.userToken} };\n    return $.ajax(settings).done((response) => response);\n  }  \n  \n  const formatHighlightBasedOnTemplate = (template,highlight,url) =>{\n    return template.replace('HIGHLIGHT', highlight.trim())\n      \t\t\t   .replace('URL', url).trim();    \n  }\n\n  const formatNoteBasedOnTemplate = (template,note,url) =>{\n    return template.replace('NOTE', note.trim())\n      \t\t\t   .replace('URL', url).trim();    \n  }\n  \n  rhHypothesis.insertAnnotions = async (results,undoLastIndent=false, startingUid='')=> { \n    var hTemplate = await roam42.settings.get('HypothesisHighlightTemplate');\n    var nTemplate = await roam42.settings.get('HypothesisNoteTemplate');\n    if(!hTemplate) hTemplate = rhHypothesis.highlightTemplate;\n\tif(!nTemplate) nTemplate = rhHypothesis.noteTemplate;\n    if(results) {\n      if(startingUid=='')\n \t     startingUid = document.activeElement.id.slice(-9);\n      let currentBlock = 0;\n      for(var i=0; i<results.length; i++) {\n        var e = results[i];\n        var output = '';\n        if(e.highlight!='') output += \n          \tformatHighlightBasedOnTemplate(hTemplate, e.highlight, e.context);\n        output = output.trim();\n        if(e.tags.length>0) output += e.tags.map(e=>` #[[${e}]]`).reduce((e,a)=>e+a);\n        //output += ` [->](${e.context})`;\n        if(i==results.length-1) output += '  '; //last block, need spaces\n\t\tlet newBlock = await roam42.common.createBlock(startingUid,currentBlock,output);\n        currentBlock += 1;\n        if(e.text!='') { //insert note\n          var textOutput = await formatNoteBasedOnTemplate(nTemplate, e.text, e.context); \n  \t\t  await roam42.common.createBlock(newBlock,0,textOutput);\n        }\n      }\n    }\n  }  \n\n  const apiAnnotationSimplify = async (results)=>{\n    return results.rows.map(e=>{ \n      var r = { \n        title: e.document.title[0], uri:e.uri, context: e.links.incontext,\n        text: e.text, highlight: '', tags: e.tags, \n        user: e.user, group:e.group,  created: e.created, updated: e.updated,  \n      };\n      try { \n        if(e.target[0].selector) {\n          var txt = e.target[0].selector.filter(e=>e.type=='TextQuoteSelector');\n          if(txt) r.highlight = txt[0].exact; \n        }\n      } catch(e){};\n      return r;\n    });\n  }  \n  \n  rhHypothesis.getAllAnnotations = async (articleUrl)=> {\n\tconst searchUrl = `search?order=asc&uri=${encodeURI(articleUrl)}`;\n\tconst results = await apiHTTPGet(`${apiUrl}${searchUrl}`);\n    return await apiAnnotationSimplify(results);\n  }\n\n  rhHypothesis.getMyAnnotations = async (articleUrl)=> {\n\tconst searchUrl = `search?user=${rhHypothesis.userProfile.userid}&order=asc&uri=${encodeURI(articleUrl)}`;\n\tconst results = await apiHTTPGet(`${apiUrl}${searchUrl}`);\n    return await apiAnnotationSimplify(results);\n  }\n\n  rhHypothesis.getAnnotationsSinceDateWithTags = async (fromDate,tags)=> {\n\tconst searchUrl = `search?tags=${encodeURI(tags)}&user=${rhHypothesis.userProfile.userid}&sort=updated&order=asc&search_after=${fromDate}`;\n\tconst results = await apiHTTPGet(`${apiUrl}${searchUrl}`); \n    console.log(results)\n    return await apiAnnotationSimplify(results);\n  }\n\n  \n  rhHypothesis.getAnnotationsSinceDate = async (fromDate)=> {\n\tconst searchUrl = `search?user=${rhHypothesis.userProfile.userid}&sort=updated&order=asc&search_after=${fromDate}`;\n\tconst results = await apiHTTPGet(`${apiUrl}${searchUrl}`); \n    console.log(results)\n    return await apiAnnotationSimplify(results);\n  }\n  \n  rhHypothesis.openArticleInHypothesis = async (articleUrl)=> {\n    window.open('https://via.hypothes.is/' + articleUrl, '_blank');\n  }\n  \n  const initialize = async ()=> {\n    rhHypothesis.userToken   = await roam42.settings.get('HypothesisUserToken');\n  \trhHypothesis.userProfile = await getUserProfile();\n    if(rhHypothesis.userProfile.userid != null) rhHypothesis.initialized = true;\n  }\n  \n  var loadingCounter = 0;\n  const interval = setInterval( async ()=> {\n    if (roam42.keyevents) {\n      clearInterval(interval);\n\t  roam42.loader.addScriptToPage('linkifyjs', 'https://cdn.jsdelivr.net/npm/linkifyjs@2.1.9/dist/linkify.min.js');      \n      await initialize();\n    }\n    if(loadingCounter>20) { clearInterval(interval) } else {loadingCounter += 1}; \n  }, 5000);  \n  \n})();```",
-                    "create-time": 1610956542712,
-                    "uid": "cPawfRGd9",
-                    "edit-time": 1613045014181,
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "za3DJAcdg"
-                  }
-                ],
-                "uid": "AHV3FVt5b",
-                ":block/refs": [
-                  {
-                    ":block/uid": "za3DJAcdg"
-                  }
-                ],
-                "string": "{{[[roam/js]]}}",
-                ":create/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                },
-                "create-time": 1610956542712,
-                ":edit/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                }
-              }
-            ],
-            "uid": "2pz7be5Ru",
-            "edit-time": 1613045014181,
-            ":edit/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            }
-          }
-        ],
-        "uid": "0wTkdLmwS",
-        "edit-time": 1613045014181,
         ":edit/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         }
@@ -37072,15 +36276,27 @@
     }
   },
   {
-    "create-time": 1613416075241,
+    "create-time": 1613411690284,
     "title": "February 16th, 2021",
     "uid": "02-16-2021",
-    "edit-time": 1613416075241,
+    "edit-time": 1613411690284,
     ":create/user": {
-      ":user/uid": "KlMw4CisrVY45So9nQZvGX7SfDO2"
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
     },
     ":edit/user": {
-      ":user/uid": "KlMw4CisrVY45So9nQZvGX7SfDO2"
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
+    }
+  },
+  {
+    "create-time": 1613491584491,
+    "title": "February 17th, 2021",
+    "uid": "02-17-2021",
+    "edit-time": 1613491584491,
+    ":create/user": {
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
+    },
+    ":edit/user": {
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
     }
   }
 ]
