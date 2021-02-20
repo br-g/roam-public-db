@@ -273,10 +273,10 @@
         },
         "children": [
           {
-            "string": "Roam42 is a collection of tools for power users of Roam, a note-taking tool\nfor networked thought.",
+            "string": "Roam42 is the ultimate swiss army knife of the Roam power user. Roam42 makes it easy and fast to navigate and manipulate Roam.",
             "create-time": 1603635020869,
             "uid": "yu868Wq1k",
-            "edit-time": 1603635063509,
+            "edit-time": 1613739532037,
             ":create/user": {
               ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
             },
@@ -5423,8 +5423,8 @@
               "iframe": {
                 "https://roam-quickref.glitch.me/roam42-install.html": {
                   "size": {
-                    "width": 529,
-                    "height": 78
+                    "width": 720,
+                    "height": 320
                   }
                 }
               }
@@ -5434,8 +5434,8 @@
               ":iframe": {
                 "https://roam-quickref.glitch.me/roam42-install.html": {
                   ":size": {
-                    ":width": 529,
-                    ":height": 78
+                    ":width": 720,
+                    ":height": 320
                   }
                 }
               }
@@ -43832,6 +43832,18 @@
     },
     ":edit/user": {
       ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
+    }
+  },
+  {
+    "create-time": 1613751970518,
+    "title": "February 20th, 2021",
+    "uid": "02-20-2021",
+    "edit-time": 1613751970518,
+    ":create/user": {
+      ":user/uid": "eoRMgQd9RhVBDKv5nVF51TEiLTB2"
+    },
+    ":edit/user": {
+      ":user/uid": "eoRMgQd9RhVBDKv5nVF51TEiLTB2"
     }
   }
 ]
