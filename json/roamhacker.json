@@ -5531,44 +5531,6 @@
         }
       },
       {
-        "string": "**Customizations with additional roam/js scripts**",
-        "create-time": 1598043112934,
-        ":create/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        },
-        "children": [
-          {
-            "string": "[Insert custom text with a keyboard shortcut](https://gist.github.com/roamhacker/18d7055d89f6a8bff0f308f3e13d6e7d)",
-            "uid": "pKebqT6qN",
-            "edit-time": 1600326769264,
-            ":edit/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            }
-          },
-          {
-            "string": "[Checkbox strikethrough for Roam](https://gist.github.com/roamhacker/94fd043b195af43e3e6fb715bda7409b)",
-            "uid": "Z1p4_2kvC",
-            "edit-time": 1600326769264,
-            ":edit/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            }
-          },
-          {
-            "string": "[Customize Help menu shortcut](https://gist.github.com/roamhacker/423726039a463490877f88e0f8919f29)",
-            "uid": "k9NR2QjYP",
-            "edit-time": 1600326769264,
-            ":edit/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            }
-          }
-        ],
-        "uid": "Dh71x38CS",
-        "edit-time": 1600326777551,
-        ":edit/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        }
-      },
-      {
         "string": "**=== END: COPY until here===**",
         "create-time": 1609156792604,
         "uid": "WU7L7-z4E",
@@ -43859,15 +43821,27 @@
     }
   },
   {
-    "create-time": 1613925695614,
+    "create-time": 1613992315190,
     "title": "February 22nd, 2021",
     "uid": "02-22-2021",
-    "edit-time": 1613925695615,
+    "edit-time": 1613992315190,
     ":create/user": {
-      ":user/uid": "eoRMgQd9RhVBDKv5nVF51TEiLTB2"
+      ":user/uid": "Tz4C6CrZQabeb1fwJS5zsvbbf5u2"
     },
     ":edit/user": {
-      ":user/uid": "eoRMgQd9RhVBDKv5nVF51TEiLTB2"
+      ":user/uid": "Tz4C6CrZQabeb1fwJS5zsvbbf5u2"
+    }
+  },
+  {
+    "create-time": 1614040927030,
+    "title": "February 23rd, 2021",
+    "uid": "02-23-2021",
+    "edit-time": 1614040927030,
+    ":create/user": {
+      ":user/uid": "76pijgekOIVI57TgcJm5NGURO6O2"
+    },
+    ":edit/user": {
+      ":user/uid": "76pijgekOIVI57TgcJm5NGURO6O2"
     }
   }
 ]
