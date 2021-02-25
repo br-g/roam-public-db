@@ -25638,6 +25638,18 @@
                     },
                     "children": [
                       {
+                        "string": "If a block on a DNP contains a date, the date in the block takes precedence over the date of the DNP. So if the date is for the future, even though recorded in the past, it will not be considered overdue.",
+                        "create-time": 1614198248819,
+                        "uid": "wCgH91wKa",
+                        "edit-time": 1614198337082,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
                         "string": "Includes support for the <%PAGE%> Subcommand",
                         "create-time": 1607987362970,
                         "uid": "HJ5m-h8WK",
@@ -43714,10 +43726,22 @@
     }
   },
   {
-    "create-time": 1614121306132,
+    "create-time": 1614183187336,
     "title": "February 24th, 2021",
     "uid": "02-24-2021",
-    "edit-time": 1614121306132,
+    "edit-time": 1614183187337,
+    ":create/user": {
+      ":user/uid": "cdSpoS9zPJeter6xSsMLGgb3hIA2"
+    },
+    ":edit/user": {
+      ":user/uid": "cdSpoS9zPJeter6xSsMLGgb3hIA2"
+    }
+  },
+  {
+    "create-time": 1614210342790,
+    "title": "February 25th, 2021",
+    "uid": "02-25-2021",
+    "edit-time": 1614210342792,
     ":create/user": {
       ":user/uid": "5Ax9Wj3JqSWv49rjgZkNZ5dJzqg2"
     },
