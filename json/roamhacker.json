@@ -602,6 +602,42 @@
                 }
               },
               {
+                "edit-time": 1614444633240,
+                "children": [
+                  {
+                    "string": "Advanced keyboard navigation of Roam using the keyboard. Can jump to any block in a page or sidebar.",
+                    "create-time": 1614444633226,
+                    "uid": "ZzMo6jqh_",
+                    "edit-time": 1614444657513,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_izxsutRv"
+                  }
+                ],
+                "uid": "G8FAytwmw",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_izxsutRv"
+                  }
+                ],
+                "string": "[[Deep nav]]",
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "create-time": 1614444627003,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
                 "edit-time": 1603637132720,
                 "children": [
                   {
@@ -689,38 +725,6 @@
                 ":block/refs": [
                   {
                     ":block/uid": "y7QR1ihC0"
-                  }
-                ],
-                ":edit/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                }
-              },
-              {
-                "string": "[[Template engine]]",
-                "refs": [
-                  {
-                    "uid": "65tPgAYri"
-                  }
-                ],
-                "children": [
-                  {
-                    "string": "Insert reusable boilerplate text in your page. ",
-                    "create-time": 1603636711323,
-                    "uid": "71OB409z1",
-                    "edit-time": 1603636737701,
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  }
-                ],
-                "uid": "42-cDPeqZ",
-                "edit-time": 1603635725647,
-                ":block/refs": [
-                  {
-                    ":block/uid": "65tPgAYri"
                   }
                 ],
                 ":edit/user": {
@@ -17432,18 +17436,6 @@
     ],
     "uid": "Zz5jzKG_H",
     "edit-time": 1603635301539,
-    ":edit/user": {
-      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-    }
-  },
-  {
-    "create-time": 1603635674344,
-    "title": "Template engine",
-    "uid": "65tPgAYri",
-    "edit-time": 1603635674347,
-    ":create/user": {
-      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-    },
     ":edit/user": {
       ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
     }
@@ -43806,10 +43798,159 @@
     }
   },
   {
-    "create-time": 1614384008027,
+    "create-time": 1614447132334,
     "title": "February 27th, 2021",
     "uid": "02-27-2021",
-    "edit-time": 1614384008027,
+    "edit-time": 1614447132334,
+    ":create/user": {
+      ":user/uid": "EBG5B6jkWgT55ML8T3RQIUVma9m1"
+    },
+    ":edit/user": {
+      ":user/uid": "EBG5B6jkWgT55ML8T3RQIUVma9m1"
+    }
+  },
+  {
+    "create-time": 1614444633242,
+    "title": "Deep nav",
+    ":create/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    },
+    "children": [
+      {
+        "string": "Advanced keyboard navigation of Roam using the keyboard. Can jump to any block in a page or sidebar.",
+        "create-time": 1614444705634,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "",
+            "create-time": 1614444781129,
+            "uid": "XybNRnDPS",
+            "edit-time": 1614444781129,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "{{[[video]]: https://www.youtube.com/watch?v=tb_6HdAhZwo}}",
+            "create-time": 1614444698308,
+            ":block/refs": [
+              {
+                ":block/uid": "frzAWtPky"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "frzAWtPky"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "uid": "UiGN70ktv",
+            "edit-time": 1614444727170,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "WV_3XrWfF",
+        "edit-time": 1614444718296,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1614444733953,
+        "uid": "dRn3p5kqb",
+        "edit-time": 1614444733953,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Customize Deep nav via CSS",
+        "create-time": 1614444727306,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "edit-time": 1614444807716,
+            "children": [
+              {
+                "string": "```css\n.roam_navigator_hint {\n  color: #79554868 !important;\n}\n.sidebar-content .roam_navigator_hint {\n  color: #795548BF87 !important;\n}```",
+                "create-time": 1614444811928,
+                "uid": "TNcpFJFON",
+                "edit-time": 1614444829607,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "t5zyNKbCN"
+              }
+            ],
+            "uid": "kFwuLuJtE",
+            ":block/refs": [
+              {
+                ":block/uid": "t5zyNKbCN"
+              }
+            ],
+            "string": "Add the following to [[roam/css]] page",
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "create-time": 1614444741841,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "DiIYExyPa",
+        "edit-time": 1614444764605,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      }
+    ],
+    "uid": "_izxsutRv",
+    "edit-time": 1614444633243,
+    ":edit/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    }
+  },
+  {
+    "create-time": 1614444807717,
+    "title": "roam/css",
+    "uid": "t5zyNKbCN",
+    "edit-time": 1614444807718,
+    ":create/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    },
+    ":edit/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    }
+  },
+  {
+    "create-time": 1614470408934,
+    "title": "February 28th, 2021",
+    "uid": "02-28-2021",
+    "edit-time": 1614470408935,
     ":create/user": {
       ":user/uid": "nynDeWYzCPM40ixIXscVANAN2k02"
     },
