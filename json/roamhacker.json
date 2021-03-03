@@ -43888,10 +43888,10 @@
             "edit-time": 1614444807716,
             "children": [
               {
-                "string": "```css\n.roam_navigator_hint {\n  color: #79554868 !important;\n}\n.sidebar-content .roam_navigator_hint {\n  color: #795548BF87 !important;\n}```",
+                "string": "```css\n.roam_navigator_hint {\n  color: #79554868 !important;\n}\n.sidebar-content .roam_navigator_hint {\n  color: #795548BF87 !important;\n}\n```",
                 "create-time": 1614444811928,
                 "uid": "TNcpFJFON",
-                "edit-time": 1614444829607,
+                "edit-time": 1614678559887,
                 ":create/user": {
                   ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                 },
@@ -43919,10 +43919,60 @@
             ":edit/user": {
               ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
             }
+          },
+          {
+            "string": "Fix for use on iPad and numbers/letters being cut off on the right margin",
+            "create-time": 1614678562575,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "```css\n.roam-article div.rm-block-main {\n   margin-left: 25px;\n}```",
+                "create-time": 1614678128121,
+                "uid": "TIjZ-wuML",
+                "edit-time": 1614678586776,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "uyjZn12w1",
+            "edit-time": 1614678580928,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
           }
         ],
         "uid": "DiIYExyPa",
         "edit-time": 1614444764605,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1614678593932,
+        "uid": "4mdrDbWM3",
+        "edit-time": 1614678593932,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1614678123465,
+        "uid": "NvdrcdfSg",
+        "edit-time": 1614678592505,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
         ":edit/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         }
@@ -43971,10 +44021,22 @@
     }
   },
   {
-    "create-time": 1614615293027,
+    "create-time": 1614722902648,
     "title": "March 2nd, 2021",
     "uid": "03-02-2021",
-    "edit-time": 1614615293028,
+    "edit-time": 1614722902648,
+    ":create/user": {
+      ":user/uid": "QhSebM53lUNpD0TJAVC6q9rEzHl2"
+    },
+    ":edit/user": {
+      ":user/uid": "QhSebM53lUNpD0TJAVC6q9rEzHl2"
+    }
+  },
+  {
+    "create-time": 1614700802883,
+    "title": "March 3rd, 2021",
+    "uid": "03-03-2021",
+    "edit-time": 1614700802883,
     ":create/user": {
       ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
     },
