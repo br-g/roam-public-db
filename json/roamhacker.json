@@ -44069,10 +44069,22 @@
     }
   },
   {
-    "create-time": 1614995397414,
+    "create-time": 1615028459328,
     "title": "March 6th, 2021",
     "uid": "03-06-2021",
-    "edit-time": 1614995397414,
+    "edit-time": 1615028459328,
+    ":create/user": {
+      ":user/uid": "zFEH4bBMzaRoXj8xm1ht0BCD1n33"
+    },
+    ":edit/user": {
+      ":user/uid": "zFEH4bBMzaRoXj8xm1ht0BCD1n33"
+    }
+  },
+  {
+    "create-time": 1615082033392,
+    "title": "March 7th, 2021",
+    "uid": "03-07-2021",
+    "edit-time": 1615082033392,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
