@@ -5282,8 +5282,8 @@
               "iframe": {
                 "https://roam-quickref.glitch.me/roam42-install.html": {
                   "size": {
-                    "width": 187,
-                    "height": 47
+                    "width": 715,
+                    "height": 134
                   }
                 }
               }
@@ -5293,8 +5293,8 @@
               ":iframe": {
                 "https://roam-quickref.glitch.me/roam42-install.html": {
                   ":size": {
-                    ":width": 187,
-                    ":height": 47
+                    ":width": 715,
+                    ":height": 134
                   }
                 }
               }
@@ -44944,48 +44944,130 @@
     }
   },
   {
-    "create-time": 1614909081485,
+    "create-time": 1614874460689,
     "title": "March 5th, 2021",
     "uid": "03-05-2021",
-    "edit-time": 1614909081485,
+    "edit-time": 1614874460689,
     ":create/user": {
-      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
     },
     ":edit/user": {
-      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
     }
   },
   {
-    "create-time": 1615028459328,
+    "create-time": 1614963782285,
     "title": "March 6th, 2021",
     "uid": "03-06-2021",
-    "edit-time": 1615028459328,
+    "edit-time": 1614963782285,
     ":create/user": {
-      ":user/uid": "zFEH4bBMzaRoXj8xm1ht0BCD1n33"
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
     },
     ":edit/user": {
-      ":user/uid": "zFEH4bBMzaRoXj8xm1ht0BCD1n33"
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
     }
   },
   {
-    "create-time": 1615082033392,
+    "create-time": 1615058169762,
     "title": "March 7th, 2021",
     "uid": "03-07-2021",
-    "edit-time": 1615082033392,
+    "edit-time": 1615058169762,
     ":create/user": {
-      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
     },
     ":edit/user": {
-      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
     }
   },
   {
-    "create-time": 1615134541015,
+    "create-time": 1615132804504,
     "title": "March 8th, 2021",
     ":create/user": {
-      ":user/uid": "MLUUjjYQJnaHUQQ8iFEwtsa2mg62"
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
     },
     "children": [
+      {
+        "string": "Help me memorize this fact with DELTA      {{[[r/moved]]}}[*](((8q8IpUjg6)))",
+        "create-time": 1615184870842,
+        ":block/refs": [
+          {
+            ":block/uid": "8q8IpUjg6"
+          },
+          {
+            ":block/uid": "OXzsKqS2k"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8q8IpUjg6"
+          },
+          {
+            "uid": "OXzsKqS2k"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "Ws62tbBwprfVVnGXI82PTwoSbt83"
+        },
+        "uid": "R1mnG9OTs",
+        "edit-time": 1615184870842,
+        ":edit/user": {
+          ":user/uid": "Ws62tbBwprfVVnGXI82PTwoSbt83"
+        }
+      }
+    ],
+    "uid": "03-08-2021",
+    "edit-time": 1615132804504,
+    ":edit/user": {
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
+    }
+  },
+  {
+    "create-time": 1615137042054,
+    "title": "∆",
+    "uid": "eMyDOu5Ns",
+    "edit-time": 1615137042055,
+    ":create/user": {
+      ":user/uid": "pNexCmJmZict3x7DjxyQWV78UgE2"
+    },
+    ":edit/user": {
+      ":user/uid": "pNexCmJmZict3x7DjxyQWV78UgE2"
+    }
+  },
+  {
+    "create-time": 1615184870833,
+    "title": "March 9th, 2021",
+    ":create/user": {
+      ":user/uid": "Ws62tbBwprfVVnGXI82PTwoSbt83"
+    },
+    "children": [
+      {
+        "string": "Help me memorize this fact with DELTA      {{[[r/moved]]}}[*](((8q8IpUjg6)))",
+        "create-time": 1615184919181,
+        ":block/refs": [
+          {
+            ":block/uid": "8q8IpUjg6"
+          },
+          {
+            ":block/uid": "OXzsKqS2k"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8q8IpUjg6"
+          },
+          {
+            "uid": "OXzsKqS2k"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "Ws62tbBwprfVVnGXI82PTwoSbt83"
+        },
+        "uid": "RVRWCCxSQ",
+        "edit-time": 1615184919181,
+        ":edit/user": {
+          ":user/uid": "Ws62tbBwprfVVnGXI82PTwoSbt83"
+        }
+      },
       {
         "string": "Help me memorize this fact with DELTA      {{[[∆]]:1+0}}",
         "create-time": 1606425998775,
@@ -45009,22 +45091,10 @@
         }
       }
     ],
-    "uid": "03-08-2021",
-    "edit-time": 1615134541015,
+    "uid": "03-09-2021",
+    "edit-time": 1615184870833,
     ":edit/user": {
-      ":user/uid": "MLUUjjYQJnaHUQQ8iFEwtsa2mg62"
-    }
-  },
-  {
-    "create-time": 1615137042054,
-    "title": "∆",
-    "uid": "eMyDOu5Ns",
-    "edit-time": 1615137042055,
-    ":create/user": {
-      ":user/uid": "pNexCmJmZict3x7DjxyQWV78UgE2"
-    },
-    ":edit/user": {
-      ":user/uid": "pNexCmJmZict3x7DjxyQWV78UgE2"
+      ":user/uid": "Ws62tbBwprfVVnGXI82PTwoSbt83"
     }
   }
 ]
