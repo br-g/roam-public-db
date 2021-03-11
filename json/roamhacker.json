@@ -8054,12 +8054,7 @@
         }
       },
       {
-        "string": "PENDING (Currently in Testers build)",
-        "create-time": 1615149893001,
-        "heading": 1,
-        ":create/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        },
+        "edit-time": 1615412079324,
         "children": [
           {
             "string": "**SmartBlocks - New commands**",
@@ -8156,11 +8151,26 @@
             }
           }
         ],
+        "refs": [
+          {
+            "uid": "03-10-2021"
+          }
+        ],
         "uid": "z9rHvVneL",
-        "edit-time": 1615149906281,
+        ":block/refs": [
+          {
+            ":block/uid": "03-10-2021"
+          }
+        ],
+        "string": "[[March 10th, 2021]]",
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "create-time": 1615149893001,
         ":edit/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        }
+        },
+        "heading": 1
       },
       {
         "edit-time": 1615149889539,
@@ -22816,6 +22826,18 @@
                   },
                   {
                     "string": "**<%DATE:**Friday**%>**",
+                    "create-time": 1615398654858,
+                    "uid": "E8aqeFQ9H",
+                    "edit-time": 1615398654858,
+                    ":create/user": {
+                      ":user/uid": "QhSebM53lUNpD0TJAVC6q9rEzHl2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "QhSebM53lUNpD0TJAVC6q9rEzHl2"
+                    }
+                  },
+                  {
+                    "string": "**<%DATE:**Friday**%>**",
                     "create-time": 1605257075105,
                     "uid": "oAEQZKtTR",
                     "edit-time": 1606299107935,
@@ -25229,7 +25251,7 @@
         }
       },
       {
-        "string": "Workspace commands (Pending)",
+        "string": "Workspace commands ",
         "create-time": 1615150373533,
         "heading": 2,
         ":create/user": {
@@ -25975,7 +25997,7 @@
           }
         ],
         "uid": "Rg-XwsWlC",
-        "edit-time": 1615150405372,
+        "edit-time": 1615412073997,
         ":edit/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         }
@@ -45107,6 +45129,18 @@
     },
     ":edit/user": {
       ":user/uid": "F6N9GclEnCNAKSdhhJfMHpHfbSq1"
+    }
+  },
+  {
+    "create-time": 1615427582637,
+    "title": "March 11th, 2021",
+    "uid": "03-11-2021",
+    "edit-time": 1615427582637,
+    ":create/user": {
+      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
+    },
+    ":edit/user": {
+      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
   }
 ]
