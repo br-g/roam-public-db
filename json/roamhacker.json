@@ -4893,8 +4893,8 @@
                 },
                 "https://roam-quickref.glitch.me/roam42-test-install.html": {
                   "size": {
-                    "width": 104,
-                    "height": 53
+                    "width": 105,
+                    "height": 61
                   }
                 }
               }
@@ -4910,8 +4910,8 @@
                 },
                 "https://roam-quickref.glitch.me/roam42-test-install.html": {
                   ":size": {
-                    ":width": 104,
-                    ":height": 53
+                    ":width": 105,
+                    ":height": 61
                   }
                 }
               }
@@ -4956,10 +4956,10 @@
             "edit-time": 1608312563769,
             "children": [
               {
-                "string": "```javascript\n\nvar s = document.createElement('script');\n\ts.type = \"text/javascript\";\n  \ts.src =  \"https://roam42-test.glitch.me/main.js\";\n  \ts.async = true;\ndocument.body.appendChild(s);\n```",
+                "string": "```javascript\n{\n  var s = document.createElement('script');\n\ts.type = \"text/javascript\";\n  \ts.src =  \"https://roam42-test.glitch.me/main.js\";\n  \ts.async = true;\n\tdocument.body.appendChild(s);\n}```",
                 "create-time": 1608111777045,
                 "uid": "ZKeVhv6Ij",
-                "edit-time": 1609156823192,
+                "edit-time": 1615730753414,
                 ":create/user": {
                   ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                 },
@@ -5340,15 +5340,15 @@
             "edit-time": 1609156796820,
             "children": [
               {
-                "string": "```javascript\n\nvar s = document.createElement('script');\n\ts.type = \"text/javascript\";\n  \ts.src =  \"https://roam42.glitch.me/main.js\";\n  \ts.async = true;\ndocument.body.appendChild(s);\n```",
+                "string": "```javascript\n{\nvar s = document.createElement('script');\n\ts.type = \"text/javascript\";\n  \ts.src =  \"https://roam42.glitch.me/main.js\";\n  \ts.async = true;\ndocument.body.appendChild(s);\n}```",
                 "create-time": 1608480539406,
                 "uid": "nBoIvWqdh",
-                "edit-time": 1612491977000,
+                "edit-time": 1615730993467,
                 ":create/user": {
                   ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                 },
                 ":edit/user": {
-                  ":user/uid": "deSQ7ZQCHZbkHrbOiiojwK2fnrR2"
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                 }
               }
             ],
@@ -45321,6 +45321,48 @@
     },
     "children": [
       {
+        "string": "Help me memorize this fact with DELTA      {{[[r/moved]]}}[*](((8q8IpUjg6)))",
+        "create-time": 1615729144615,
+        ":block/refs": [
+          {
+            ":block/uid": "8q8IpUjg6"
+          },
+          {
+            ":block/uid": "OXzsKqS2k"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8q8IpUjg6"
+          },
+          {
+            "uid": "OXzsKqS2k"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "Jbro1tFwrsRWpu7v2rX10Z359BI3"
+        },
+        "uid": "1lDRZHsUz",
+        "edit-time": 1615729144615,
+        ":edit/user": {
+          ":user/uid": "Jbro1tFwrsRWpu7v2rX10Z359BI3"
+        }
+      }
+    ],
+    "uid": "03-14-2021",
+    "edit-time": 1615642824467,
+    ":edit/user": {
+      ":user/uid": "F6N9GclEnCNAKSdhhJfMHpHfbSq1"
+    }
+  },
+  {
+    "create-time": 1615729144601,
+    "title": "March 15th, 2021",
+    ":create/user": {
+      ":user/uid": "Jbro1tFwrsRWpu7v2rX10Z359BI3"
+    },
+    "children": [
+      {
         "string": "Help me memorize this fact with DELTA      {{[[∆]]:1+0}}",
         "create-time": 1606425998775,
         ":block/refs": [
@@ -45343,10 +45385,10 @@
         }
       }
     ],
-    "uid": "03-14-2021",
-    "edit-time": 1615642824467,
+    "uid": "03-15-2021",
+    "edit-time": 1615729144601,
     ":edit/user": {
-      ":user/uid": "F6N9GclEnCNAKSdhhJfMHpHfbSq1"
+      ":user/uid": "Jbro1tFwrsRWpu7v2rX10Z359BI3"
     }
   }
 ]
