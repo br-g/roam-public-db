@@ -5282,8 +5282,8 @@
               "iframe": {
                 "https://roam-quickref.glitch.me/roam42-install.html": {
                   "size": {
-                    "width": 211,
-                    "height": 55
+                    "width": 229,
+                    "height": 63
                   }
                 }
               }
@@ -5293,8 +5293,8 @@
               ":iframe": {
                 "https://roam-quickref.glitch.me/roam42-install.html": {
                   ":size": {
-                    ":width": 211,
-                    ":height": 55
+                    ":width": 229,
+                    ":height": 63
                   }
                 }
               }
@@ -25461,6 +25461,18 @@
                     ":edit/user": {
                       ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                     }
+                  },
+                  {
+                    "string": "PENDING: <%REFERENCETO%> for it to open in \"Reference to\" mode in sideba",
+                    "create-time": 1615821962605,
+                    "uid": "gnw0tjqlg",
+                    "edit-time": 1615821987521,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
                   }
                 ],
                 "uid": "kam81huSH",
@@ -45363,6 +45375,39 @@
     },
     "children": [
       {
+        "string": "Help me memorize this fact with DELTA      {{[[r/moved]]}}[*](((8q8IpUjg6)))",
+        "create-time": 1615800764157,
+        "refs": [
+          {
+            "uid": "8q8IpUjg6"
+          },
+          {
+            "uid": "OXzsKqS2k"
+          }
+        ],
+        "uid": "mMrQUHlLI",
+        "edit-time": 1615800764157,
+        ":block/refs": [
+          {
+            ":block/uid": "8q8IpUjg6"
+          },
+          {
+            ":block/uid": "OXzsKqS2k"
+          }
+        ]
+      }
+    ],
+    "uid": "03-15-2021",
+    "edit-time": 1615729144601,
+    ":edit/user": {
+      ":user/uid": "Jbro1tFwrsRWpu7v2rX10Z359BI3"
+    }
+  },
+  {
+    "create-time": 1615800764146,
+    "title": "March 16th, 2021",
+    "children": [
+      {
         "string": "Help me memorize this fact with DELTA      {{[[∆]]:1+0}}",
         "create-time": 1606425998775,
         ":block/refs": [
@@ -45385,10 +45430,7 @@
         }
       }
     ],
-    "uid": "03-15-2021",
-    "edit-time": 1615729144601,
-    ":edit/user": {
-      ":user/uid": "Jbro1tFwrsRWpu7v2rX10Z359BI3"
-    }
+    "uid": "03-16-2021",
+    "edit-time": 1615800764146
   }
 ]
