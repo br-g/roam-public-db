@@ -45404,8 +45404,53 @@
     }
   },
   {
-    "create-time": 1615800764146,
+    "create-time": 1615904354341,
     "title": "March 16th, 2021",
+    ":create/user": {
+      ":user/uid": "q6UurLjtPtcd0bIcXSquqxGXH0D3"
+    },
+    "children": [
+      {
+        "string": "Help me memorize this fact with DELTA      {{[[r/moved]]}}[*](((8q8IpUjg6)))",
+        "create-time": 1615887095319,
+        ":block/refs": [
+          {
+            ":block/uid": "8q8IpUjg6"
+          },
+          {
+            ":block/uid": "OXzsKqS2k"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8q8IpUjg6"
+          },
+          {
+            "uid": "OXzsKqS2k"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "PLe8awH4D6RwOXhXlDUwlQBxMzy1"
+        },
+        "uid": "NIuJo5Osr",
+        "edit-time": 1615887095319,
+        ":edit/user": {
+          ":user/uid": "PLe8awH4D6RwOXhXlDUwlQBxMzy1"
+        }
+      }
+    ],
+    "uid": "03-16-2021",
+    "edit-time": 1615904354341,
+    ":edit/user": {
+      ":user/uid": "q6UurLjtPtcd0bIcXSquqxGXH0D3"
+    }
+  },
+  {
+    "create-time": 1615887095308,
+    "title": "March 17th, 2021",
+    ":create/user": {
+      ":user/uid": "PLe8awH4D6RwOXhXlDUwlQBxMzy1"
+    },
     "children": [
       {
         "string": "Help me memorize this fact with DELTA      {{[[∆]]:1+0}}",
@@ -45430,7 +45475,10 @@
         }
       }
     ],
-    "uid": "03-16-2021",
-    "edit-time": 1615800764146
+    "uid": "03-17-2021",
+    "edit-time": 1615887095308,
+    ":edit/user": {
+      ":user/uid": "PLe8awH4D6RwOXhXlDUwlQBxMzy1"
+    }
   }
 ]
