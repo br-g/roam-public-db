@@ -45453,6 +45453,48 @@
     },
     "children": [
       {
+        "string": "Help me memorize this fact with DELTA      {{[[r/moved]]}}[*](((8q8IpUjg6)))",
+        "create-time": 1615951541077,
+        ":block/refs": [
+          {
+            ":block/uid": "8q8IpUjg6"
+          },
+          {
+            ":block/uid": "OXzsKqS2k"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8q8IpUjg6"
+          },
+          {
+            "uid": "OXzsKqS2k"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "XYv3xY9s22T7hDP805M2I0O0Vnc2"
+        },
+        "uid": "pH-L1Axv9",
+        "edit-time": 1615951541077,
+        ":edit/user": {
+          ":user/uid": "XYv3xY9s22T7hDP805M2I0O0Vnc2"
+        }
+      }
+    ],
+    "uid": "03-17-2021",
+    "edit-time": 1615887095308,
+    ":edit/user": {
+      ":user/uid": "PLe8awH4D6RwOXhXlDUwlQBxMzy1"
+    }
+  },
+  {
+    "create-time": 1615951541066,
+    "title": "March 18th, 2021",
+    ":create/user": {
+      ":user/uid": "XYv3xY9s22T7hDP805M2I0O0Vnc2"
+    },
+    "children": [
+      {
         "string": "Help me memorize this fact with DELTA      {{[[∆]]:1+0}}",
         "create-time": 1606425998775,
         ":block/refs": [
@@ -45475,10 +45517,1282 @@
         }
       }
     ],
-    "uid": "03-17-2021",
-    "edit-time": 1615887095308,
+    "uid": "03-18-2021",
+    "edit-time": 1615951541066,
     ":edit/user": {
-      ":user/uid": "PLe8awH4D6RwOXhXlDUwlQBxMzy1"
+      ":user/uid": "XYv3xY9s22T7hDP805M2I0O0Vnc2"
+    }
+  },
+  {
+    "create-time": 1615972966246,
+    "title": "Demo: SmartBlocks JavaScript",
+    ":create/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    },
+    "children": [
+      {
+        "string": "You may find this page useful: [[Roam42 API Wrapper functions]]",
+        "create-time": 1615979634119,
+        ":block/refs": [
+          {
+            ":block/uid": "kCjofvj8K"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "kCjofvj8K"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "wpF52rDlO",
+        "edit-time": 1615979645329,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1615979645452,
+        "uid": "ToyE3vaiS",
+        "edit-time": 1615979645452,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Move block to DNP",
+        "create-time": 1615973006138,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "This SmartBlock will move the current block to a the top or bottom of another DNP.",
+            "create-time": 1615973015439,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "{{[[video]]: https://www.loom.com/share/8d1f8d4c2db14801bf1b626d629cb3e9}}",
+                "create-time": 1615973960678,
+                ":block/refs": [
+                  {
+                    ":block/uid": "frzAWtPky"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "frzAWtPky"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "uid": "Fj0Xbyndk",
+                "edit-time": 1615974010020,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "KvPQFViej",
+            "edit-time": 1615973030139,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "Notes",
+            "create-time": 1615973981913,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "First block in the SB is left blank so that the jj is removed",
+                "create-time": 1615973030648,
+                "uid": "F9YfKt-nL",
+                "edit-time": 1615973993801,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Demonstrated here are:",
+                "create-time": 1615973054760,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "roam42.common.getPageUidByTitle - gets the UID for a page given a title",
+                    "create-time": 1615973091111,
+                    "uid": "Qjx8vw0lu",
+                    "edit-time": 1615973098488,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "roam42.common.createPage - creates a new page",
+                    "create-time": 1615973061653,
+                    "uid": "enHTrpYYc",
+                    "edit-time": 1615973078908,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "roam42.common.createSiblingBlock - creates a block above or below current block",
+                    "create-time": 1615973078868,
+                    "uid": "kf3p_eF-Z",
+                    "edit-time": 1615973116472,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "roam42.common.moveBlock - moves a block from one location to another",
+                    "create-time": 1615973121364,
+                    "uid": "fE4OdmNnw",
+                    "edit-time": 1615973135574,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "3omVIxOoC",
+                "edit-time": 1615973061676,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "fwKbcGcoz",
+            "edit-time": 1615973984228,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "SmartBlock:",
+            "create-time": 1615973971235,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "edit-time": 1615973000295,
+                "children": [
+                  {
+                    "string": "",
+                    "create-time": 1615969907748,
+                    "uid": "kkI_ELAuU",
+                    "edit-time": 1615973000295,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "<%SET:moveBlockDate,<%INPUT:Move this block to the top of what date?|\n(b to move to bottom of page)%%Tomorrow%>%><%NOBLOCKOUTPUT%>",
+                    "create-time": 1615966450012,
+                    "uid": "UhndITYS0",
+                    "edit-time": 1615973000295,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "<%JA:```javascript\nlet dt = roam42.sb.vars['moveBlockDate'];\nlet moveToBlockOrder = 0;\n//if first letter of input is b, then set the block order to the end\nif(dt.substring(0,2)=='b ') {\n  moveToBlockOrder = 100000; \n  dt = dt.substring(2);\n}\n//test if a valid date was passed in\nlet parsedDate = roam42.dateProcessing.parseTextForDates(dt)\nif(parsedDate==dt) { \n  roam42.help.displayMessage('Invalid date: ' + dt ,5000);\n  return;\n} else\n  parsedDate = parsedDate.substring(2,parsedDate.length-3);\n//move the block, and leave behind a block ref\nlet startingBlockUID = roam42.sb.startingBlockTextArea.slice(-9);\nif(confirm(\"Move current block to \" + parsedDate)) {\n  let destinationPage = await roam42.common.getPageUidByTitle(parsedDate);\n  if(destinationPage=='') {\n    //DNP does not exist, create it before going further\n    await roam42.common.createPage(parsedDate);\n    await roam42.common.sleep(50);\n    destinationPage = await roam42.common.getPageUidByTitle(parsedDate);\n  }\n  //create a new block above the current block, with a block ref to current block\n  await roam42.common.createSiblingBlock(startingBlockUID,'((' + startingBlockUID + '))',false);\n  //move the block\n  await roam42.common.moveBlock(destinationPage, moveToBlockOrder, startingBlockUID);  \n};```%> <%NOBLOCKOUTPUT%>",
+                    "create-time": 1615964750882,
+                    "uid": "FOVfodwW0",
+                    "edit-time": 1615973000295,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "4Srab4yOS"
+                  }
+                ],
+                "uid": "sn4t_emPv",
+                ":block/refs": [
+                  {
+                    ":block/uid": "4Srab4yOS"
+                  }
+                ],
+                "string": "#42SmartBlock Move Block to a DNP (MBD)",
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "create-time": 1615965360073,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "9llUlnCyu",
+            "edit-time": 1615974002045,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "JQRRsZMUo",
+        "edit-time": 1615978419747,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Block Ref current block to a DNP",
+        "create-time": 1615978101451,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "Creates a block ref of the current block on a Daily notes page specified by user",
+            "create-time": 1615978127731,
+            "uid": "qjNWX9eaR",
+            "edit-time": 1615982967629,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "Notes",
+            "create-time": 1615978150651,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Similar to the ((JQRRsZMUo)) SmartBlock, but uses roam42.common.createBlock to create a block)",
+                "create-time": 1615978166850,
+                ":block/refs": [
+                  {
+                    ":block/uid": "JQRRsZMUo"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "JQRRsZMUo"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "uid": "s8I_bpLzu",
+                "edit-time": 1615978253011,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "qnUzVqkMF",
+            "edit-time": 1615978152792,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "SmartBlock",
+            "create-time": 1615978152761,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "edit-time": 1615978102015,
+                "children": [
+                  {
+                    "string": "",
+                    "create-time": 1615977247980,
+                    "uid": "CDG27HrHV",
+                    "edit-time": 1615978102015,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "<%SET:blockRefBlockDate,<%INPUT:Make a block reference this block to the top of what date?\n(b to move to bottom of page)%%Tomorrow%>%><%NOBLOCKOUTPUT%>",
+                    "create-time": 1615977247980,
+                    "uid": "aFgOgGy1c",
+                    "edit-time": 1615978102015,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "<%JA:```javascript\nlet dt = roam42.sb.vars['blockRefBlockDate'];\nlet moveToBlockOrder = 0;\n//if first letter of input is b, then set the block order to the end\nif(dt.substring(0,2)=='b ') {\n  moveToBlockOrder = 100000; \n  dt = dt.substring(2);\n}\n//test if a valid date was passed in\nlet parsedDate = roam42.dateProcessing.parseTextForDates(dt);\nif(parsedDate==dt) { \n  roam42.help.displayMessage('Invalid date: ' + dt ,5000);\n  return;\n} else\n  parsedDate = parsedDate.substring(2,parsedDate.length-3);\n//move the block, and leave behind a block ref\nlet startingBlockUID = roam42.sb.startingBlockTextArea.slice(-9);\nlet destinationPage = await roam42.common.getPageUidByTitle(parsedDate);\nif(destinationPage=='') {\n  //DNP does not exist, create it before going further\n  await roam42.common.createPage(parsedDate);\n  await roam42.common.sleep(50);\n  destinationPage = await roam42.common.getPageUidByTitle(parsedDate);\n}\n//Create a block ref of current block on a DNP\nawait roam42.common.createBlock(destinationPage, moveToBlockOrder, \n                                '((' + startingBlockUID + '))');\n```%> <%NOBLOCKOUTPUT%>",
+                    "create-time": 1615977247980,
+                    "uid": "y6ZAnj0uS",
+                    "edit-time": 1615978102015,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "4Srab4yOS"
+                  }
+                ],
+                "uid": "dnm18uq5c",
+                ":block/refs": [
+                  {
+                    ":block/uid": "4Srab4yOS"
+                  }
+                ],
+                "string": "#42SmartBlock Block Ref current block to a DNP (BRD)",
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "create-time": 1615977247980,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "6ZWS4Voe_",
+            "edit-time": 1615978156181,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "mnEfn1kvm",
+        "edit-time": 1615978417110,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1615972856677,
+        "uid": "W2uTIv-fp",
+        "edit-time": 1615973000295,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      }
+    ],
+    "uid": "WQwGdAzBH",
+    "edit-time": 1615972993716,
+    ":edit/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    }
+  },
+  {
+    "create-time": 1615978617353,
+    "title": "Roam42 API Wrapper functions",
+    ":create/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    },
+    "children": [
+      {
+        "string": "Roam42 has a number of useful functions that can be reused by other SmartBlock builders who know JavaScript",
+        "create-time": 1615978620214,
+        "uid": "C2_CMjG7V",
+        "edit-time": 1615982801653,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1615978640083,
+        "uid": "1WzFJdapI",
+        "edit-time": 1615978640083,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Block functions",
+        "create-time": 1615978366184,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "** roam42.common.isBlockRef**(uid)",
+            "create-time": 1615979370821,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "test if the text is a valid block UID in the dbatabase",
+                "create-time": 1615979394387,
+                "uid": "OZMp6HdzA",
+                "edit-time": 1615979412175,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "YE3G2ThxI",
+            "edit-time": 1615979392503,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.createBlock**(parent_uid, block_order, block_string)",
+            "create-time": 1615978336203,
+            "uid": "1YZKfPKaM",
+            "edit-time": 1615978640702,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.createUid**()",
+            "create-time": 1615978368390,
+            "uid": "yQLSfPe8w",
+            "edit-time": 1615978640702,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.createSiblingBlock**(fromUID, newBlockText, bBelow )",
+            "create-time": 1615978382148,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "fromUID - the block which is the reference point",
+                "create-time": 1615978539633,
+                "uid": "kXgWPFJua",
+                "edit-time": 1615978640702,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "bBelow  - if true, sibling block is created below fromUID, if false, created above",
+                "create-time": 1615978553871,
+                "uid": "7L9lJVmzS",
+                "edit-time": 1615978640702,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "eiB1VWop3",
+            "edit-time": 1615978640702,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.batchCreateBlocks**(parent_uid, starting_block_order, string_array_to_insert)",
+            "create-time": 1615978661800,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "string_array_to_insert - simple array of strings that will be written out as one batch write",
+                "create-time": 1615978680627,
+                "uid": "fQSTRuzqS",
+                "edit-time": 1615978704659,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "eRviPRouZ",
+            "edit-time": 1615978678455,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.moveBlock**(parent_uid, block_order, block_to_move_uid)",
+            "create-time": 1615978704621,
+            "uid": "he9MjlcoW",
+            "edit-time": 1615978734227,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.updateBlock**(block_uid, block_string, block_expanded)",
+            "create-time": 1615978714623,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "block_expanded - should the block be expanded",
+                "create-time": 1615978769334,
+                "uid": "88K2FWnaO",
+                "edit-time": 1615978792079,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "TNo8CTK8K",
+            "edit-time": 1615978768096,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.deleteBlock**(block_uid)",
+            "create-time": 1615978904644,
+            "uid": "m4hE6ZyJw",
+            "edit-time": 1615978931769,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.getDirectBlockParentUid**(uid)",
+            "create-time": 1615979101446,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "many API calls require knowing the parent block, this makes it easy",
+                "create-time": 1615979122649,
+                "uid": "klKxtMxO3",
+                "edit-time": 1615979147657,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "H1h6T7-as",
+            "edit-time": 1615979120672,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "** roam42.common.getBlockParentUids**(uid)",
+            "create-time": 1615979172680,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "returns all UID's for the path from current UID to its ultimate grandparent",
+                "create-time": 1615979188380,
+                "uid": "oJaWtTKyc",
+                "edit-time": 1615979188380,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "llx-RN6pg",
+            "edit-time": 1615979172680,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.getBlockByPhrase**(search_phrase)",
+            "create-time": 1615978935525,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Search all blocks for given phrae",
+                "create-time": 1615979238763,
+                "uid": "qQ_FO6UD_",
+                "edit-time": 1615979250820,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "FEbOtAUeg",
+            "edit-time": 1615979258540,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.getBlockInfoByUID**(uid, withChildren=false, withParents=false) ",
+            "create-time": 1615979250776,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "give a UID, returns the info about a block, and if withChildren or withParents set gets info from surrounding context",
+                "create-time": 1615979318430,
+                "uid": "wm1ZfI5Cq",
+                "edit-time": 1615979341940,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "R6dnUvgAk",
+            "edit-time": 1615979310136,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.getBlocksReferringToThisBlockRef**(uid)",
+            "create-time": 1615979284572,
+            "uid": "kDBeaGYmc",
+            "edit-time": 1615979478701,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "",
+            "create-time": 1615978581319,
+            "uid": "1SVt6ixSD",
+            "edit-time": 1615978640702,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "76d0sCcEE",
+        "edit-time": 1615978928418,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Page Functions",
+        "create-time": 1615978931744,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "**roam42.common.navigateUiTo**(destinationPage, openInSideBar, sSidebarType = 'outline')",
+            "create-time": 1615982230935,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Opens a page or block ref in the main body or sidebar",
+                "create-time": 1615982256915,
+                "uid": "Oea8xqklN",
+                "edit-time": 1615982271953,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "sSidebarType - outline, block, graph, mentions (note mentions is currently buggy)",
+                "create-time": 1615982271849,
+                "uid": "x7EZ29aXj",
+                "edit-time": 1615982288550,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "1eLKaPZiK",
+            "edit-time": 1615982256751,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.createPage**(page_title)",
+            "create-time": 1615978904644,
+            "uid": "ubWbWL7nd",
+            "edit-time": 1615978975230,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.updatePage**(page_uid, page_new_title)",
+            "create-time": 1615978904644,
+            "uid": "4jFKCyGuc",
+            "edit-time": 1615978998598,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.deletePage**(page_uid)",
+            "create-time": 1615978904644,
+            "uid": "cwEGHqmzI",
+            "edit-time": 1615979013798,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.getPageUidByTitle**(title) ",
+            "create-time": 1615979147632,
+            "uid": "kDqHKPNoY",
+            "edit-time": 1615979206576,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.isPage**(title)",
+            "create-time": 1615979341921,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "tests if page exits",
+                "create-time": 1615979366558,
+                "uid": "vveu1sL8q",
+                "edit-time": 1615979370868,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "yehKHpTQp",
+            "edit-time": 1615979364288,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.getBlocksReferringToThisPage**(title)",
+            "create-time": 1615979408046,
+            "uid": "xGQhTW7Mu",
+            "edit-time": 1615979455720,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "Ana3urKB8",
+        "edit-time": 1615978935549,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Sidebars",
+        "create-time": 1615982316371,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "**roam42.common.rightSidebarClose**(iWindow , bRestoreLocation)",
+            "create-time": 1615982325568,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "iWindow - number of window pane to close in sidebar. if 0 will close all window panes",
+                "create-time": 1615982346248,
+                "uid": "LdHlzKVzr",
+                "edit-time": 1615982373158,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "bRestoreLocation will attempt to restore your cursor to its current location since closing sidebar windows will defocus the current block",
+                "create-time": 1615982373103,
+                "uid": "XTsDBoc-y",
+                "edit-time": 1615982403673,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "ObEF-u50p",
+            "edit-time": 1615982346091,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "SBlyt_YhV",
+        "edit-time": 1615982324508,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Date/Time",
+        "create-time": 1615982596426,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "**roam42.dateProcessing.getTime24Format**()",
+            "create-time": 1615982600066,
+            "uid": "pWTm3EXYo",
+            "edit-time": 1615982605448,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "** roam42.dateProcessing.getTimeAPPMFormat**()",
+            "create-time": 1615982602209,
+            "uid": "auzsTyp43",
+            "edit-time": 1615982625495,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "** roam42.dateProcessing.parseTextForDates**(str)",
+            "create-time": 1615982625471,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Takes a string and tries to convert it to a Roam Date with brackets around it",
+                "create-time": 1615982709555,
+                "uid": "OaGQjAvLP",
+                "edit-time": 1615982737069,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "-AKH0pW0t",
+            "edit-time": 1615982707567,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "yrZ1GGmZk",
+        "edit-time": 1615982600087,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Get Information about your graph",
+        "create-time": 1615979014874,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "**roam42.common.baseUrl**()",
+            "create-time": 1615982037877,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Collection info about the URL, db name for your grah",
+                "create-time": 1615982044455,
+                "uid": "ybv7OzTN1",
+                "edit-time": 1615982057313,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "gb7-UpxQw",
+            "edit-time": 1615982044374,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "** roam42.common.currentPageUID**()",
+            "create-time": 1615979283815,
+            "uid": "l2Epm8jc9",
+            "edit-time": 1615979283815,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "idxscWCc0",
+        "edit-time": 1615979099742,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Random block commands",
+        "create-time": 1615979517144,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "**roam42.common.getRandomPage**()",
+            "create-time": 1615979284735,
+            "uid": "kvy3mQyMk",
+            "edit-time": 1615979511536,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.getRandomBlock**()",
+            "create-time": 1615979513721,
+            "uid": "aoVt74NGz",
+            "edit-time": 1615979536325,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.getRandomBlockMentioningPage**(page_title)",
+            "create-time": 1615979536988,
+            "uid": "sCmFO3RNp",
+            "edit-time": 1615979552355,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.getRandomBlockMentioningBlockRef**(block_ref)",
+            "create-time": 1615979284279,
+            "uid": "3AaHO1p-F",
+            "edit-time": 1615979566401,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.getRandomBlockFromPage**(page_title)",
+            "create-time": 1615979568112,
+            "uid": "VvEZH8bh3",
+            "edit-time": 1615979584197,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**roam42.common.getRandomBlockFromBlock**(uid)",
+            "create-time": 1615979587124,
+            "uid": "gdZWj6srw",
+            "edit-time": 1615979619711,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "",
+            "create-time": 1615979620247,
+            "uid": "fdurr1p86",
+            "edit-time": 1615979620247,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "xugy0dGut",
+        "edit-time": 1615979520800,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Notifications",
+        "create-time": 1615982485998,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "**roam42.help.displayMessage**(sMessage, delayTime)",
+            "create-time": 1615982491923,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "sMessage is string (can be html) to display in a toaster notification",
+                "create-time": 1615982497504,
+                "uid": "b7jwXPuF5",
+                "edit-time": 1615982510278,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "delayTime in milliseconds (1 second = 1000) for the display",
+                "create-time": 1615982510239,
+                "uid": "pZvXZTm34",
+                "edit-time": 1615982526176,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "1lzVy0NBZ",
+            "edit-time": 1615982529709,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "NjsIBHIpM",
+        "edit-time": 1615982490035,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Settings",
+        "create-time": 1615982818007,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "**roam42.settings.get**(settingName)",
+            "create-time": 1615982821463,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "returns a setting value by name that has been tagged with #42Setting",
+                "create-time": 1615982835365,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Ek0JNfwfG"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Ek0JNfwfG"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "uid": "kAQ4kkAh1",
+                "edit-time": 1615982849880,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "YnMSDoe9I",
+            "edit-time": 1615982832476,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "bjsKO81sy",
+        "edit-time": 1615982820530,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      }
+    ],
+    "uid": "kCjofvj8K",
+    "edit-time": 1615978617353,
+    ":edit/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
     }
   }
 ]
