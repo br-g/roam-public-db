@@ -5282,8 +5282,8 @@
               "iframe": {
                 "https://roam-quickref.glitch.me/roam42-install.html": {
                   "size": {
-                    "width": 229,
-                    "height": 63
+                    "width": 417,
+                    "height": 129
                   }
                 }
               }
@@ -5293,8 +5293,8 @@
               ":iframe": {
                 "https://roam-quickref.glitch.me/roam42-install.html": {
                   ":size": {
-                    ":width": 229,
-                    ":height": 63
+                    ":width": 417,
+                    ":height": 129
                   }
                 }
               }
@@ -45620,7 +45620,7 @@
             },
             "children": [
               {
-                "string": "{{[[video]]: https://www.loom.com/share/8d1f8d4c2db14801bf1b626d629cb3e9}}",
+                "string": "{{[[video]]: https://youtu.be/VDl4NOzLs0I}}",
                 "create-time": 1615973960678,
                 ":block/refs": [
                   {
@@ -45636,7 +45636,7 @@
                   ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                 },
                 "uid": "Fj0Xbyndk",
-                "edit-time": 1615974010020,
+                "edit-time": 1616137185276,
                 ":edit/user": {
                   ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                 }
@@ -45649,9 +45649,84 @@
             }
           },
           {
-            "string": "Notes",
-            "create-time": 1615973981913,
+            "string": "SmartBlock:",
+            "create-time": 1615973971235,
             "heading": 2,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "edit-time": 1615973000295,
+                "children": [
+                  {
+                    "string": "",
+                    "create-time": 1615969907748,
+                    "uid": "kkI_ELAuU",
+                    "edit-time": 1615973000295,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "<%SET:moveBlockDate,<%INPUT:Move this block to the top of what date?|\n(b to move to bottom of page)%%Tomorrow%>%><%NOBLOCKOUTPUT%>",
+                    "create-time": 1615966450012,
+                    "uid": "UhndITYS0",
+                    "edit-time": 1615973000295,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "<%JA:```javascript\nlet dt = roam42.sb.vars['moveBlockDate'];\nlet moveToBlockOrder = 0;\n//if first letter of input is b, then set the block order to the end\nif(dt.substring(0,2)=='b ') {\n  moveToBlockOrder = 100000; \n  dt = dt.substring(2);\n}\n//test if a valid date was passed in\nlet parsedDate = roam42.dateProcessing.parseTextForDates(dt)\nif(parsedDate==dt) { \n  roam42.help.displayMessage('Invalid date: ' + dt ,5000);\n  return;\n} else\n  parsedDate = parsedDate.substring(2,parsedDate.length-3);\n//move the block, and leave behind a block ref\nlet startingBlockUID = roam42.sb.startingBlockTextArea.slice(-9);\nif(confirm(\"Move current block to \" + parsedDate)) {\n  let destinationPage = await roam42.common.getPageUidByTitle(parsedDate);\n  if(destinationPage=='') {\n    //DNP does not exist, create it before going further\n    await roam42.common.createPage(parsedDate);\n    await roam42.common.sleep(50);\n    destinationPage = await roam42.common.getPageUidByTitle(parsedDate);\n  }\n  //create a new block above the current block, with a block ref to current block\n  await roam42.common.createSiblingBlock(startingBlockUID,'((' + startingBlockUID + '))',false);\n  //move the block\n  await roam42.common.moveBlock(destinationPage, moveToBlockOrder, startingBlockUID);  \n};```%> <%NOBLOCKOUTPUT%>",
+                    "create-time": 1615964750882,
+                    "uid": "FOVfodwW0",
+                    "edit-time": 1615973000295,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "4Srab4yOS"
+                  }
+                ],
+                "uid": "sn4t_emPv",
+                ":block/refs": [
+                  {
+                    ":block/uid": "4Srab4yOS"
+                  }
+                ],
+                "string": "#42SmartBlock Move Block to a DNP (MBD)",
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "create-time": 1615965360073,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "9llUlnCyu",
+            "edit-time": 1615974002045,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "Notes for JavaScript Developers",
+            "create-time": 1615973981913,
+            "heading": 3,
             ":create/user": {
               ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
             },
@@ -45732,82 +45807,7 @@
               }
             ],
             "uid": "fwKbcGcoz",
-            "edit-time": 1615973984228,
-            ":edit/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            }
-          },
-          {
-            "string": "SmartBlock:",
-            "create-time": 1615973971235,
-            "heading": 2,
-            ":create/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            },
-            "children": [
-              {
-                "edit-time": 1615973000295,
-                "children": [
-                  {
-                    "string": "",
-                    "create-time": 1615969907748,
-                    "uid": "kkI_ELAuU",
-                    "edit-time": 1615973000295,
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  },
-                  {
-                    "string": "<%SET:moveBlockDate,<%INPUT:Move this block to the top of what date?|\n(b to move to bottom of page)%%Tomorrow%>%><%NOBLOCKOUTPUT%>",
-                    "create-time": 1615966450012,
-                    "uid": "UhndITYS0",
-                    "edit-time": 1615973000295,
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  },
-                  {
-                    "string": "<%JA:```javascript\nlet dt = roam42.sb.vars['moveBlockDate'];\nlet moveToBlockOrder = 0;\n//if first letter of input is b, then set the block order to the end\nif(dt.substring(0,2)=='b ') {\n  moveToBlockOrder = 100000; \n  dt = dt.substring(2);\n}\n//test if a valid date was passed in\nlet parsedDate = roam42.dateProcessing.parseTextForDates(dt)\nif(parsedDate==dt) { \n  roam42.help.displayMessage('Invalid date: ' + dt ,5000);\n  return;\n} else\n  parsedDate = parsedDate.substring(2,parsedDate.length-3);\n//move the block, and leave behind a block ref\nlet startingBlockUID = roam42.sb.startingBlockTextArea.slice(-9);\nif(confirm(\"Move current block to \" + parsedDate)) {\n  let destinationPage = await roam42.common.getPageUidByTitle(parsedDate);\n  if(destinationPage=='') {\n    //DNP does not exist, create it before going further\n    await roam42.common.createPage(parsedDate);\n    await roam42.common.sleep(50);\n    destinationPage = await roam42.common.getPageUidByTitle(parsedDate);\n  }\n  //create a new block above the current block, with a block ref to current block\n  await roam42.common.createSiblingBlock(startingBlockUID,'((' + startingBlockUID + '))',false);\n  //move the block\n  await roam42.common.moveBlock(destinationPage, moveToBlockOrder, startingBlockUID);  \n};```%> <%NOBLOCKOUTPUT%>",
-                    "create-time": 1615964750882,
-                    "uid": "FOVfodwW0",
-                    "edit-time": 1615973000295,
-                    ":create/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                    }
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "4Srab4yOS"
-                  }
-                ],
-                "uid": "sn4t_emPv",
-                ":block/refs": [
-                  {
-                    ":block/uid": "4Srab4yOS"
-                  }
-                ],
-                "string": "#42SmartBlock Move Block to a DNP (MBD)",
-                ":create/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                },
-                "create-time": 1615965360073,
-                ":edit/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                }
-              }
-            ],
-            "uid": "9llUlnCyu",
-            "edit-time": 1615974002045,
+            "edit-time": 1616137216572,
             ":edit/user": {
               ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
             }
@@ -45835,43 +45835,6 @@
             ":create/user": {
               ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
             },
-            ":edit/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            }
-          },
-          {
-            "string": "Notes",
-            "create-time": 1615978150651,
-            "heading": 2,
-            ":create/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            },
-            "children": [
-              {
-                "string": "Similar to the ((JQRRsZMUo)) SmartBlock, but uses roam42.common.createBlock to create a block)",
-                "create-time": 1615978166850,
-                ":block/refs": [
-                  {
-                    ":block/uid": "JQRRsZMUo"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "JQRRsZMUo"
-                  }
-                ],
-                ":create/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                },
-                "uid": "s8I_bpLzu",
-                "edit-time": 1615978253011,
-                ":edit/user": {
-                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-                }
-              }
-            ],
-            "uid": "qnUzVqkMF",
-            "edit-time": 1615978152792,
             ":edit/user": {
               ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
             }
@@ -45947,6 +45910,42 @@
             ],
             "uid": "6ZWS4Voe_",
             "edit-time": 1615978156181,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "Notes for JavaScript Developers",
+            "create-time": 1615978150651,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Similar to the ((JQRRsZMUo)) SmartBlock, but uses roam42.common.createBlock to create a block)",
+                "create-time": 1615978166850,
+                ":block/refs": [
+                  {
+                    ":block/uid": "JQRRsZMUo"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "JQRRsZMUo"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "uid": "s8I_bpLzu",
+                "edit-time": 1615978253011,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "qnUzVqkMF",
+            "edit-time": 1616137240417,
             ":edit/user": {
               ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
             }
@@ -46845,6 +46844,18 @@
     },
     ":edit/user": {
       ":user/uid": "XEpznloYX9bDsOSQxZ2Whtq3bMk2"
+    }
+  },
+  {
+    "create-time": 1616172768805,
+    "title": "March 20th, 2021",
+    "uid": "03-20-2021",
+    "edit-time": 1616172768805,
+    ":create/user": {
+      ":user/uid": "FrF1hkZwolSLK1MaPpb5ALPqapw2"
+    },
+    ":edit/user": {
+      ":user/uid": "FrF1hkZwolSLK1MaPpb5ALPqapw2"
     }
   }
 ]
