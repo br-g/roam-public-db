@@ -352,7 +352,43 @@
             },
             "children": [
               {
-                "edit-time": 1609573485156,
+                "edit-time": 1617208767341,
+                "children": [
+                  {
+                    "string": "workBench (__wB for short__) is a work bench for the Roam \"handyman\" or \"hacker\". Intended for serious users looking to push Roam to new places by quickly navigating, manipulating and hacking the Roam environment. Roam is the blocks, workBench is your chisel.",
+                    "create-time": 1617208767392,
+                    "uid": "8_o7enoqt",
+                    "edit-time": 1617208784558,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "bBvLjvSGT"
+                  }
+                ],
+                "uid": "qDnF9TYod",
+                ":block/refs": [
+                  {
+                    ":block/uid": "bBvLjvSGT"
+                  }
+                ],
+                "string": "[workBench]([[workBench User's Guide (BETA)]])",
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "create-time": 1617208754790,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "edit-time": 1616758457866,
                 "children": [
                   {
                     "string": "SmartBlocks makes it easy to reuse text in a dynamic way in Roam. It can be compared to other snippet/template insertion tools like TextExpander and Alfred.  However, SmartBlocks just doesn't insert templates, rather it lets add commands that make the text dynamic. ",
@@ -378,7 +414,7 @@
                     ":block/uid": "GH0401tnt"
                   }
                 ],
-                "string": "[SmartBlocks]([[SmartBlocks Builders Guide]])",
+                "string": "[SmartBlocks]([[SmartBlocks Builder's Guide]])",
                 ":create/user": {
                   ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                 },
@@ -4893,8 +4929,8 @@
                 },
                 "https://roam-quickref.glitch.me/roam42-test-install.html": {
                   "size": {
-                    "width": 105,
-                    "height": 61
+                    "width": 413,
+                    "height": 113
                   }
                 }
               }
@@ -4910,8 +4946,8 @@
                 },
                 "https://roam-quickref.glitch.me/roam42-test-install.html": {
                   ":size": {
-                    ":width": 105,
-                    ":height": 61
+                    ":width": 413,
+                    ":height": 113
                   }
                 }
               }
@@ -5282,8 +5318,8 @@
               "iframe": {
                 "https://roam-quickref.glitch.me/roam42-install.html": {
                   "size": {
-                    "width": 417,
-                    "height": 129
+                    "width": 720,
+                    "height": 426
                   }
                 }
               }
@@ -5293,8 +5329,8 @@
               ":iframe": {
                 "https://roam-quickref.glitch.me/roam42-install.html": {
                   ":size": {
-                    ":width": 417,
-                    ":height": 129
+                    ":width": 720,
+                    ":height": 426
                   }
                 }
               }
@@ -6160,11 +6196,17 @@
         ":block/refs": [
           {
             ":block/uid": "bUuuemjCh"
+          },
+          {
+            ":block/uid": "rZMWV97i2"
           }
         ],
         "refs": [
           {
             "uid": "bUuuemjCh"
+          },
+          {
+            "uid": "rZMWV97i2"
           }
         ],
         ":create/user": {
@@ -6196,7 +6238,7 @@
     }
   },
   {
-    "title": "Fall Big Vacation - Sample Project ",
+    "title": "Fall Big Vacation - Sample Project",
     "children": [
       {
         "string": "{{[[TODO]]}} #na Find vacation Spot",
@@ -6269,18 +6311,28 @@
       {
         "string": "{{[[TODO]]}} Book flight",
         "create-time": 1598111624298,
-        "uid": "E25JO69Bb",
-        "edit-time": 1598111683344,
+        ":block/refs": [
+          {
+            ":block/uid": "rZMWV97i2"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "rZMWV97i2"
+          }
+        ],
         ":create/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         },
+        "uid": "E25JO69Bb",
+        "edit-time": 1598111683344,
         ":edit/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         }
       }
     ],
     "uid": "ZUpxmPdHc",
-    "edit-time": 1598161826799,
+    "edit-time": 1617202089087,
     ":edit/user": {
       ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
     }
@@ -6301,7 +6353,7 @@
     "title": "Daily Notes Shared Blocks",
     "children": [
       {
-        "string": "**Thougthts for the day**\n- Craftsmen mindset (Cal Newport)\n    - Success is in quality (What value can I bring?)\n    - deliberate practice on areas that will improve\n __Projects (W):__ [[ABC Project 1 - Sample]] [[Program the brain]]\n__Projects (P):__  [[Fall Big Vacation - Sample Project ]] ",
+        "string": "**Thougthts for the day**\n- Craftsmen mindset (Cal Newport)\n    - Success is in quality (What value can I bring?)\n    - deliberate practice on areas that will improve\n __Projects (W):__ [[ABC Project 1 - Sample]] [[Program the brain]]\n__Projects (P):__  [[Fall Big Vacation - Sample Project]] ",
         "create-time": 1598111826719,
         ":block/refs": [
           {
@@ -6329,7 +6381,7 @@
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         },
         "uid": "dSQGIJjMT",
-        "edit-time": 1598161826799,
+        "edit-time": 1617202089087,
         ":edit/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         }
@@ -8054,6 +8106,264 @@
         }
       },
       {
+        "edit-time": 1617371285226,
+        "children": [
+          {
+            "edit-time": 1617371327761,
+            "children": [
+              {
+                "string": "Send block refs - creates a block ref of the current selection else where in your graph",
+                "create-time": 1617357712131,
+                "uid": "Y6fnnCB0d",
+                "edit-time": 1617371339554,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Pull sub node blocks to current cursor location",
+                "create-time": 1617370511939,
+                "uid": "h3zQqBtre",
+                "edit-time": 1617376251212,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Remove blank blocks at the current level of selected blocks (does not delete recursively)",
+                "create-time": 1617357692367,
+                "uid": "Q2Kn1Rz3g",
+                "edit-time": 1617371339554,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "FUN: Vanity page UID's and block UID's. Do you want to have a unique URL or block uid? use the vanity page or block creator",
+                "create-time": 1617370528579,
+                "uid": "VJ9tBfLIh",
+                "edit-time": 1617371339554,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "bBvLjvSGT"
+              }
+            ],
+            "uid": "FrdgrQxMS",
+            ":block/refs": [
+              {
+                ":block/uid": "bBvLjvSGT"
+              }
+            ],
+            "string": "New commands for  [workBench]([[workBench User's Guide (BETA)]])",
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "create-time": 1617371288910,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "04-02-2021"
+          }
+        ],
+        "uid": "BoAHkP47H",
+        ":block/refs": [
+          {
+            ":block/uid": "04-02-2021"
+          }
+        ],
+        "string": "[[April 2nd, 2021]]",
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "create-time": 1617371280840,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "heading": 1
+      },
+      {
+        "edit-time": 1617208840780,
+        "children": [
+          {
+            "string": "^^NEW & HOT^^",
+            "create-time": 1617208831006,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "[workBench Beta]([[workBench User's Guide (BETA)]]) released to the general Roam42 community..",
+                "create-time": 1617208801431,
+                ":block/refs": [
+                  {
+                    ":block/uid": "bBvLjvSGT"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "bBvLjvSGT"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "uid": "3ZOYLwrjZ",
+                "edit-time": 1617208826827,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "JyH3fTPJ_",
+            "edit-time": 1617208834038,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "Fixes",
+            "create-time": 1617172780783,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "__Jump-to-date__ will now use the date of the current DNP as the starting date, rather than today's date",
+                "create-time": 1617172788884,
+                "uid": "H9SnP4-Yn",
+                "edit-time": 1617172871234,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "__SmartBlocks__ Time commands now add a space after inserting time, similiar to the `/Current Time`",
+                "create-time": 1617172812573,
+                "uid": "0peq3wRYY",
+                "edit-time": 1617172866917,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "LKuTU2Gvf",
+            "edit-time": 1617172785629,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "03-31-2021"
+          }
+        ],
+        "uid": "emifnPcBx",
+        ":block/refs": [
+          {
+            ":block/uid": "03-31-2021"
+          }
+        ],
+        "string": "[[March 31st, 2021]]",
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "create-time": 1617172776228,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "heading": 1
+      },
+      {
+        "edit-time": 1616761083464,
+        "children": [
+          {
+            "string": "Releasing on testers build the workBench features. More info here:",
+            "create-time": 1616761083449,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "[[workBench User's Guide (BETA)]]",
+                "create-time": 1616761099489,
+                ":block/refs": [
+                  {
+                    ":block/uid": "bBvLjvSGT"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "bBvLjvSGT"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "uid": "7ITGMxV-Q",
+                "edit-time": 1617208751460,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "89qwsBMZ5",
+            "edit-time": 1616761099498,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "03-26-2021"
+          }
+        ],
+        "uid": "UV4GL4IWA",
+        ":block/refs": [
+          {
+            ":block/uid": "03-26-2021"
+          }
+        ],
+        "string": "[[March 26th, 2021]]",
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "create-time": 1616761075106,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "heading": 1
+      },
+      {
         "edit-time": 1615412079324,
         "children": [
           {
@@ -8347,7 +8657,7 @@
             },
             "children": [
               {
-                "string": "Old template engine has been removed from Roam42, which is now replaced with the native Roam Templates feature along Roam42 [SmartBlocks]([[SmartBlocks Builders Guide]]).",
+                "string": "Old template engine has been removed from Roam42, which is now replaced with the native Roam Templates feature along Roam42 [SmartBlocks]([[SmartBlocks Builder's Guide]]).",
                 "create-time": 1612614671632,
                 ":block/refs": [
                   {
@@ -8363,7 +8673,7 @@
                   ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                 },
                 "uid": "w7jU0RQQW",
-                "edit-time": 1612614907848,
+                "edit-time": 1616758457866,
                 ":edit/user": {
                   ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                 }
@@ -8581,7 +8891,7 @@
             },
             "children": [
               {
-                "string": "A new feature that allows you to create dynamic workflows in Roam. It builds on the concept of inserting text templates, but adds commands that allow you interact with your graph, querying your TODOS, pulling random data, date manipulation and much more. Read about it here: [[SmartBlocks Builders Guide]]",
+                "string": "A new feature that allows you to create dynamic workflows in Roam. It builds on the concept of inserting text templates, but adds commands that allow you interact with your graph, querying your TODOS, pulling random data, date manipulation and much more. Read about it here: [[SmartBlocks Builder's Guide]]",
                 "create-time": 1609573745301,
                 ":block/refs": [
                   {
@@ -8597,7 +8907,7 @@
                   ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                 },
                 "uid": "uwcDxPuyY",
-                "edit-time": 1609573817492,
+                "edit-time": 1616758457866,
                 ":edit/user": {
                   ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                 }
@@ -19189,7 +19499,7 @@
   },
   {
     "create-time": 1606290618096,
-    "title": "SmartBlocks Builders Guide",
+    "title": "SmartBlocks Builder's Guide",
     ":create/user": {
       ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
     },
@@ -19215,7 +19525,7 @@
         },
         "children": [
           {
-            "string": "[Overview of SmartBlocks]([[SmartBlocks Builders Guide]])",
+            "string": "[Overview of SmartBlocks]([[SmartBlocks Builder's Guide]])",
             "create-time": 1606299833941,
             ":block/refs": [
               {
@@ -19231,7 +19541,7 @@
               ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
             },
             "uid": "umeZzFyEf",
-            "edit-time": 1608221060277,
+            "edit-time": 1616758457866,
             ":edit/user": {
               ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
             }
@@ -19943,7 +20253,7 @@
       }
     ],
     "uid": "GH0401tnt",
-    "edit-time": 1608221060277,
+    "edit-time": 1616758457866,
     ":edit/user": {
       ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
     }
@@ -23132,15 +23442,25 @@
                 },
                 "children": [
                   {
-                    "string": "Video explanation of DATEBASIS: https://youtu.be/czgw0YVH410",
+                    "string": "Video explanation of DATEBASIS: {{[[video]]: https://youtu.be/czgw0YVH410}}",
                     "create-time": 1609156145942,
-                    "uid": "EgQ7c6hTU",
-                    "edit-time": 1609156163542,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "frzAWtPky"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "frzAWtPky"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
                     },
+                    "uid": "EgQ7c6hTU",
+                    "edit-time": 1617588646447,
                     ":edit/user": {
-                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                      ":user/uid": "xq5PKXIK9qffLTkzNKl0MYpcNE82"
                     }
                   },
                   {
@@ -28882,16 +29202,10 @@
         "create-time": 1615137042009,
         ":block/refs": [
           {
-            ":block/uid": "8q8IpUjg6"
-          },
-          {
             ":block/uid": "OXzsKqS2k"
           }
         ],
         "refs": [
-          {
-            "uid": "8q8IpUjg6"
-          },
           {
             "uid": "OXzsKqS2k"
           }
@@ -41159,6 +41473,34 @@
         }
       },
       {
+        "string": "{{[[embed]]: ((8F89M730K))}}",
+        "create-time": 1617365635483,
+        ":block/refs": [
+          {
+            ":block/uid": "JLL7ciatH"
+          },
+          {
+            ":block/uid": "8F89M730K"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "JLL7ciatH"
+          },
+          {
+            "uid": "8F89M730K"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "QcAwh6Yw6",
+        "edit-time": 1617365641996,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
         "string": "CopyRefAsAliasFormat",
         "create-time": 1607871660973,
         "heading": 3,
@@ -44428,10 +44770,10 @@
     "uid": "01-23-2021",
     "edit-time": 1611420007580,
     ":create/user": {
-      ":user/uid": "Tz4C6CrZQabeb1fwJS5zsvbbf5u2"
+      ":user/uid": "DUE1Ei09wRRRH1vKcw8P12o6uXj1"
     },
     ":edit/user": {
-      ":user/uid": "Tz4C6CrZQabeb1fwJS5zsvbbf5u2"
+      ":user/uid": "DUE1Ei09wRRRH1vKcw8P12o6uXj1"
     }
   },
   {
@@ -44771,15 +45113,15 @@
     }
   },
   {
-    "create-time": 1613992315190,
+    "create-time": 1613989793677,
     "title": "February 22nd, 2021",
     "uid": "02-22-2021",
-    "edit-time": 1613992315190,
+    "edit-time": 1613989793677,
     ":create/user": {
-      ":user/uid": "Tz4C6CrZQabeb1fwJS5zsvbbf5u2"
+      ":user/uid": "hCf6aI5BgwMWClZJMTdmC6xlRpO2"
     },
     ":edit/user": {
-      ":user/uid": "Tz4C6CrZQabeb1fwJS5zsvbbf5u2"
+      ":user/uid": "hCf6aI5BgwMWClZJMTdmC6xlRpO2"
     }
   },
   {
@@ -45175,16 +45517,10 @@
         "create-time": 1615184870842,
         ":block/refs": [
           {
-            ":block/uid": "8q8IpUjg6"
-          },
-          {
             ":block/uid": "OXzsKqS2k"
           }
         ],
         "refs": [
-          {
-            "uid": "8q8IpUjg6"
-          },
           {
             "uid": "OXzsKqS2k"
           }
@@ -45203,88 +45539,6 @@
     "edit-time": 1615132804504,
     ":edit/user": {
       ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
-    }
-  },
-  {
-    "create-time": 1615137042054,
-    "title": "∆",
-    "uid": "eMyDOu5Ns",
-    "edit-time": 1615137042055,
-    ":create/user": {
-      ":user/uid": "pNexCmJmZict3x7DjxyQWV78UgE2"
-    },
-    ":edit/user": {
-      ":user/uid": "pNexCmJmZict3x7DjxyQWV78UgE2"
-    }
-  },
-  {
-    "create-time": 1615184870833,
-    "title": "March 9th, 2021",
-    ":create/user": {
-      ":user/uid": "Ws62tbBwprfVVnGXI82PTwoSbt83"
-    },
-    "children": [
-      {
-        "string": "Help me memorize this fact with DELTA      {{[[r/moved]]}}[*](((8q8IpUjg6)))",
-        "create-time": 1615184919181,
-        ":block/refs": [
-          {
-            ":block/uid": "8q8IpUjg6"
-          },
-          {
-            ":block/uid": "OXzsKqS2k"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "8q8IpUjg6"
-          },
-          {
-            "uid": "OXzsKqS2k"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "Ws62tbBwprfVVnGXI82PTwoSbt83"
-        },
-        "uid": "RVRWCCxSQ",
-        "edit-time": 1615184919181,
-        ":edit/user": {
-          ":user/uid": "Ws62tbBwprfVVnGXI82PTwoSbt83"
-        }
-      },
-      {
-        "string": "Help me memorize this fact with DELTA      {{[[r/moved]]}}[*](((8q8IpUjg6)))",
-        "create-time": 1615542269542,
-        ":block/refs": [
-          {
-            ":block/uid": "8q8IpUjg6"
-          },
-          {
-            ":block/uid": "OXzsKqS2k"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "8q8IpUjg6"
-          },
-          {
-            "uid": "OXzsKqS2k"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "F6N9GclEnCNAKSdhhJfMHpHfbSq1"
-        },
-        "uid": "Zyj-t_BId",
-        "edit-time": 1615542269542,
-        ":edit/user": {
-          ":user/uid": "F6N9GclEnCNAKSdhhJfMHpHfbSq1"
-        }
-      }
-    ],
-    "uid": "03-09-2021",
-    "edit-time": 1615184870833,
-    ":edit/user": {
-      ":user/uid": "Ws62tbBwprfVVnGXI82PTwoSbt83"
     }
   },
   {
@@ -45321,246 +45575,6 @@
     },
     ":edit/user": {
       ":user/uid": "CFcTR9akrLh7ypO5jZCdE8eZ7aG2"
-    }
-  },
-  {
-    "create-time": 1615575615918,
-    "title": "March 13th, 2021",
-    ":create/user": {
-      ":user/uid": "CFcTR9akrLh7ypO5jZCdE8eZ7aG2"
-    },
-    "children": [
-      {
-        "string": "Help me memorize this fact with DELTA      {{[[r/moved]]}}[*](((8q8IpUjg6)))",
-        "create-time": 1615642824487,
-        ":block/refs": [
-          {
-            ":block/uid": "8q8IpUjg6"
-          },
-          {
-            ":block/uid": "OXzsKqS2k"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "8q8IpUjg6"
-          },
-          {
-            "uid": "OXzsKqS2k"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "F6N9GclEnCNAKSdhhJfMHpHfbSq1"
-        },
-        "uid": "OqPq2l7iK",
-        "edit-time": 1615642824487,
-        ":edit/user": {
-          ":user/uid": "F6N9GclEnCNAKSdhhJfMHpHfbSq1"
-        }
-      }
-    ],
-    "uid": "03-13-2021",
-    "edit-time": 1615575615922,
-    ":edit/user": {
-      ":user/uid": "CFcTR9akrLh7ypO5jZCdE8eZ7aG2"
-    }
-  },
-  {
-    "create-time": 1615642824467,
-    "title": "March 14th, 2021",
-    ":create/user": {
-      ":user/uid": "F6N9GclEnCNAKSdhhJfMHpHfbSq1"
-    },
-    "children": [
-      {
-        "string": "Help me memorize this fact with DELTA      {{[[r/moved]]}}[*](((8q8IpUjg6)))",
-        "create-time": 1615729144615,
-        ":block/refs": [
-          {
-            ":block/uid": "8q8IpUjg6"
-          },
-          {
-            ":block/uid": "OXzsKqS2k"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "8q8IpUjg6"
-          },
-          {
-            "uid": "OXzsKqS2k"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "Jbro1tFwrsRWpu7v2rX10Z359BI3"
-        },
-        "uid": "1lDRZHsUz",
-        "edit-time": 1615729144615,
-        ":edit/user": {
-          ":user/uid": "Jbro1tFwrsRWpu7v2rX10Z359BI3"
-        }
-      }
-    ],
-    "uid": "03-14-2021",
-    "edit-time": 1615642824467,
-    ":edit/user": {
-      ":user/uid": "F6N9GclEnCNAKSdhhJfMHpHfbSq1"
-    }
-  },
-  {
-    "create-time": 1615729144601,
-    "title": "March 15th, 2021",
-    ":create/user": {
-      ":user/uid": "Jbro1tFwrsRWpu7v2rX10Z359BI3"
-    },
-    "children": [
-      {
-        "string": "Help me memorize this fact with DELTA      {{[[r/moved]]}}[*](((8q8IpUjg6)))",
-        "create-time": 1615800764157,
-        "refs": [
-          {
-            "uid": "8q8IpUjg6"
-          },
-          {
-            "uid": "OXzsKqS2k"
-          }
-        ],
-        "uid": "mMrQUHlLI",
-        "edit-time": 1615800764157,
-        ":block/refs": [
-          {
-            ":block/uid": "8q8IpUjg6"
-          },
-          {
-            ":block/uid": "OXzsKqS2k"
-          }
-        ]
-      }
-    ],
-    "uid": "03-15-2021",
-    "edit-time": 1615729144601,
-    ":edit/user": {
-      ":user/uid": "Jbro1tFwrsRWpu7v2rX10Z359BI3"
-    }
-  },
-  {
-    "create-time": 1615904354341,
-    "title": "March 16th, 2021",
-    ":create/user": {
-      ":user/uid": "q6UurLjtPtcd0bIcXSquqxGXH0D3"
-    },
-    "children": [
-      {
-        "string": "Help me memorize this fact with DELTA      {{[[r/moved]]}}[*](((8q8IpUjg6)))",
-        "create-time": 1615887095319,
-        ":block/refs": [
-          {
-            ":block/uid": "8q8IpUjg6"
-          },
-          {
-            ":block/uid": "OXzsKqS2k"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "8q8IpUjg6"
-          },
-          {
-            "uid": "OXzsKqS2k"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "PLe8awH4D6RwOXhXlDUwlQBxMzy1"
-        },
-        "uid": "NIuJo5Osr",
-        "edit-time": 1615887095319,
-        ":edit/user": {
-          ":user/uid": "PLe8awH4D6RwOXhXlDUwlQBxMzy1"
-        }
-      }
-    ],
-    "uid": "03-16-2021",
-    "edit-time": 1615904354341,
-    ":edit/user": {
-      ":user/uid": "q6UurLjtPtcd0bIcXSquqxGXH0D3"
-    }
-  },
-  {
-    "create-time": 1615887095308,
-    "title": "March 17th, 2021",
-    ":create/user": {
-      ":user/uid": "PLe8awH4D6RwOXhXlDUwlQBxMzy1"
-    },
-    "children": [
-      {
-        "string": "Help me memorize this fact with DELTA      {{[[r/moved]]}}[*](((8q8IpUjg6)))",
-        "create-time": 1615951541077,
-        ":block/refs": [
-          {
-            ":block/uid": "8q8IpUjg6"
-          },
-          {
-            ":block/uid": "OXzsKqS2k"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "8q8IpUjg6"
-          },
-          {
-            "uid": "OXzsKqS2k"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "XYv3xY9s22T7hDP805M2I0O0Vnc2"
-        },
-        "uid": "pH-L1Axv9",
-        "edit-time": 1615951541077,
-        ":edit/user": {
-          ":user/uid": "XYv3xY9s22T7hDP805M2I0O0Vnc2"
-        }
-      }
-    ],
-    "uid": "03-17-2021",
-    "edit-time": 1615887095308,
-    ":edit/user": {
-      ":user/uid": "PLe8awH4D6RwOXhXlDUwlQBxMzy1"
-    }
-  },
-  {
-    "create-time": 1615951541066,
-    "title": "March 18th, 2021",
-    ":create/user": {
-      ":user/uid": "XYv3xY9s22T7hDP805M2I0O0Vnc2"
-    },
-    "children": [
-      {
-        "string": "Help me memorize this fact with DELTA      {{[[∆]]:1+0}}",
-        "create-time": 1606425998775,
-        ":block/refs": [
-          {
-            ":block/uid": "eMyDOu5Ns"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "eMyDOu5Ns"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        },
-        "uid": "8q8IpUjg6",
-        "edit-time": 1606426014106,
-        ":edit/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        }
-      }
-    ],
-    "uid": "03-18-2021",
-    "edit-time": 1615951541066,
-    ":edit/user": {
-      ":user/uid": "XYv3xY9s22T7hDP805M2I0O0Vnc2"
     }
   },
   {
@@ -46837,46 +46851,10 @@
     }
   },
   {
-    "create-time": 1616113911089,
-    "title": "March 19th, 2021",
-    "uid": "03-19-2021",
-    "edit-time": 1616113911091,
-    ":create/user": {
-      ":user/uid": "XEpznloYX9bDsOSQxZ2Whtq3bMk2"
-    },
-    ":edit/user": {
-      ":user/uid": "XEpznloYX9bDsOSQxZ2Whtq3bMk2"
-    }
-  },
-  {
-    "create-time": 1616172768805,
-    "title": "March 20th, 2021",
-    "uid": "03-20-2021",
-    "edit-time": 1616172768805,
-    ":create/user": {
-      ":user/uid": "FrF1hkZwolSLK1MaPpb5ALPqapw2"
-    },
-    ":edit/user": {
-      ":user/uid": "FrF1hkZwolSLK1MaPpb5ALPqapw2"
-    }
-  },
-  {
-    "create-time": 1616311711741,
-    "title": "March 21st, 2021",
-    "uid": "03-21-2021",
-    "edit-time": 1616311711741,
-    ":create/user": {
-      ":user/uid": "kJ0pB0tH8JOjY7Wq1wUYE0uUIV02"
-    },
-    ":edit/user": {
-      ":user/uid": "kJ0pB0tH8JOjY7Wq1wUYE0uUIV02"
-    }
-  },
-  {
-    "create-time": 1616378633648,
-    "title": "March 22nd, 2021",
-    "uid": "03-22-2021",
-    "edit-time": 1616378633648,
+    "create-time": 1616721699730,
+    "title": "March 26th, 2021",
+    "uid": "03-26-2021",
+    "edit-time": 1616721699730,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -46885,27 +46863,3037 @@
     }
   },
   {
-    "create-time": 1616460872195,
-    "title": "March 23rd, 2021",
-    "uid": "03-23-2021",
-    "edit-time": 1616460872195,
+    "create-time": 1616757608120,
+    "title": "workBench User's Guide (BETA)",
     ":create/user": {
-      ":user/uid": "JG1BI3UgEKPgvjC7hY8NC9Aloel1"
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
     },
+    "children": [
+      {
+        "string": "^^UNDER DEVELOPMENT - BETA FEATURE IN TESTERS BUILD^^",
+        "create-time": 1616757683026,
+        "uid": "AWVAL0L05",
+        "edit-time": 1616757703068,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "**Table of Contents**",
+        "create-time": 1616757704003,
+        "uid": "SV5A8OKj-",
+        "edit-time": 1616757975710,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "((Mi8gHBQUA))",
+        "create-time": 1616757976057,
+        ":block/refs": [
+          {
+            ":block/uid": "Mi8gHBQUA"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Mi8gHBQUA"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "8XkxZzd1x",
+        "edit-time": 1616757985905,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "((Jf6T5A0K_))",
+        "create-time": 1616757986233,
+        ":block/refs": [
+          {
+            ":block/uid": "Jf6T5A0K_"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Jf6T5A0K_"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "6oA4Wt9gB",
+        "edit-time": 1616757995787,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "((-JXLT4OvH))",
+        "create-time": 1616929642371,
+        ":block/refs": [
+          {
+            ":block/uid": "-JXLT4OvH"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "-JXLT4OvH"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "kWSbcF3iJ",
+        "edit-time": 1616929643379,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "((W4MsrY6fA))",
+        "create-time": 1617117905565,
+        ":block/refs": [
+          {
+            ":block/uid": "W4MsrY6fA"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "W4MsrY6fA"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "hyiBGsOKa",
+        "edit-time": 1617117906545,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "((8F89M730K))",
+        "create-time": 1616758002118,
+        ":block/refs": [
+          {
+            ":block/uid": "8F89M730K"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "8F89M730K"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "HOe0-zNGH",
+        "edit-time": 1616758003112,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "((CEExrdFLY))",
+        "refs": [
+          {
+            "uid": "CEExrdFLY"
+          }
+        ],
+        "uid": "WJXLxYvRp",
+        "edit-time": 1617186125049,
+        ":block/refs": [
+          {
+            ":block/uid": "CEExrdFLY"
+          }
+        ],
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1617186125038,
+        "uid": "x3bAHYdoK",
+        "edit-time": 1617186125038,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Overview of workBench (wB)",
+        "create-time": 1614686806481,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "workBench (__wB for short__) is a work bench for the Roam \"handyman\" or \"hacker\". Intended for serious users looking to push Roam to new places by quickly navigating, manipulating and hacking the Roam environment. Roam is the blocks, workBench is your chisel.",
+            "create-time": 1615232359861,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Please note: this tool is designed for experienced Roam users who are comfortable working with keyboard application navigation.",
+                "create-time": 1616573421345,
+                "uid": "EXSVye6i1",
+                "edit-time": 1616757613685,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "The workBench value proposition: ",
+                "create-time": 1616573614279,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "Context shifting leads to mental drift. wB keeps you working on your priority tasks without losing focus. It does this by allowing you to manipulate your current document or work environment without a lot of effort.",
+                    "create-time": 1616573913566,
+                    "uid": "OjSwqMgqC",
+                    "edit-time": 1616757613685,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "MCdntNPMm",
+                "edit-time": 1616757613685,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "l06nU_5RR",
+            "edit-time": 1616758031710,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "Video Demonstration",
+            "create-time": 1616830966851,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "{{[[video]]: https://youtu.be/KuU2TRFkG4k}}",
+                "create-time": 1616830978653,
+                ":block/refs": [
+                  {
+                    ":block/uid": "frzAWtPky"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "frzAWtPky"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "uid": "Q5tqLnYbK",
+                "edit-time": 1616830982544,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "ILPMxLdpO",
+            "edit-time": 1616830978464,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "How to use workBench",
+            "create-time": 1614686990503,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "workBench (wB) is activated with the keyboard shortcut `ctrl+;`. This will open wB and you can type in your request. The wB prompt will list a few features that you can select to run. Otherwise, start typing the name of the command you want to use and once its selected in the list of wB commands, press enter for Roam42 to perform that command.",
+                "create-time": 1614687016915,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "workBench includes a number of included ((Jf6T5A0K_)), in addition to access to all SmartBlocks. ",
+                    "create-time": 1616574089418,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Jf6T5A0K_"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "Jf6T5A0K_"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "uid": "7QTgUURT-",
+                    "edit-time": 1616758095688,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "Rrq25mmw3",
+                "edit-time": 1616757613685,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "When a list of commands is presented in workBench, you can use the up and down arrow keys to select the command that interest you, then press enter to activate it.",
+                "create-time": 1614687146816,
+                "uid": "yLX7Xlcf1",
+                "edit-time": 1616757613685,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "workBench is context aware, it is aware of the context of how it was started, whether a single block was selected, or multiple blocks, or no blocks selected. The list of available commands are based on the context of when it is opened.",
+                "create-time": 1616575210760,
+                "uid": "V-jhcU7Vf",
+                "edit-time": 1616757613685,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "811xlgEsT",
+            "edit-time": 1616757613685,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "Mi8gHBQUA",
+        "edit-time": 1616757613685,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Commands",
+        "create-time": 1616620188059,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "Working with Blocks",
+            "create-time": 1616760188370,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Move Blocks",
+                "create-time": 1616620195056,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "Moves the currently selected block or blocks to another location in your graph",
+                    "create-time": 1616758221979,
+                    "uid": "QSh1QmlhV",
+                    "edit-time": 1616758240897,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "Many combinations of moves exists: ",
+                    "create-time": 1616758283746,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "children": [
+                      {
+                        "string": "Move to top or bottom of page. ",
+                        "create-time": 1616758288803,
+                        "uid": "Z9p1YVKrU",
+                        "edit-time": 1616758288803,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "Move to page, but then open it in sidebar or main window. ",
+                        "create-time": 1616758292706,
+                        "uid": "FqjrYZQ3C",
+                        "edit-time": 1616758292706,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "Move it and leave behind a block reference",
+                        "create-time": 1616758240890,
+                        "uid": "dYYdS4HWz",
+                        "edit-time": 1616758292713,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "uid": "jMJVTMXxt",
+                    "edit-time": 1616758283746,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "evfLj6zgC",
+                "edit-time": 1616757613685,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Pull Blocks",
+                "create-time": 1616620197687,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "Pull a block from another location in your graph into the current location",
+                    "create-time": 1616758295401,
+                    "uid": "7SLBXWzPi",
+                    "edit-time": 1616758311214,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "JQMnCl27Y",
+                "edit-time": 1616757613685,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Jump to block",
+                "create-time": 1616620200249,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "Jumps to another block in your graph. This opens the whole page but scrolls the block in view. ",
+                    "create-time": 1616758314152,
+                    "uid": "xsTvvyo6d",
+                    "edit-time": 1616758345117,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "n04BpqdNV",
+                "edit-time": 1616757613685,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Daily Notes Page",
+                "create-time": 1616847814234,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "Move a block to a Daily Notes Page using Natural Language Processing for dates",
+                    "create-time": 1616847817977,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "children": [
+                      {
+                        "string": "{{[[video]]: https://youtu.be/pVnaLZVZxbc}}",
+                        "create-time": 1616847839059,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "frzAWtPky"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "frzAWtPky"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        "uid": "2UDkhF801",
+                        "edit-time": 1616847842446,
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "uid": "392CybFo8",
+                    "edit-time": 1616847839069,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "jURBsuWXa",
+                "edit-time": 1616847817985,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "8mjZ_RGHL",
+            "edit-time": 1616760212187,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "Working with the Right Sidebar",
+            "create-time": 1616760213517,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Swap main document with sidebar",
+                "create-time": 1616671803672,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "Swaps the document from the main window to the sidebar, and the sidebar window moved to main window",
+                    "create-time": 1616758365992,
+                    "uid": "KloyhOGX2",
+                    "edit-time": 1616758422054,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "rrNcfyzYQ",
+                "edit-time": 1616757613685,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Right Sidebar - close windows",
+                "create-time": 1616760227006,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "Closes all windows panes in the right sidebar",
+                    "create-time": 1616760251326,
+                    "uid": "qxNnnsinf",
+                    "edit-time": 1616760265915,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "GP_50UBlD",
+                "edit-time": 1616760251332,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "58Iku9ykN",
+            "edit-time": 1616760224499,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "Working with Pages",
+            "create-time": 1616760202471,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Open Page",
+                "create-time": 1616758346105,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "Opens a block zoomed in the main window or in the sidebar",
+                    "create-time": 1616758349848,
+                    "uid": "sIP5xbTJ8",
+                    "edit-time": 1616758363733,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "_UsSl4nHE",
+                "edit-time": 1616758349856,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Delete Page",
+                "create-time": 1617103000142,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "Delete the current page or page specified in the path navigator",
+                    "create-time": 1617103005351,
+                    "uid": "fASAwRqAc",
+                    "edit-time": 1617103025187,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "rOc-zvmoo",
+                "edit-time": 1617103005359,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "E9ZEFNt0G",
+            "edit-time": 1616760207026,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "SmartBlocks",
+            "create-time": 1616760339028,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Your SmartBlocks can be invoked as well from the workBench",
+                "create-time": 1616760346100,
+                "uid": "aZ1A1q9yJ",
+                "edit-time": 1616760359954,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "1C_Y0nqWn",
+            "edit-time": 1616760344409,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "Jf6T5A0K_",
+        "edit-time": 1616757613685,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "workBench Custom Actions",
+        "create-time": 1616824342195,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "Inbox",
+            "create-time": 1616824357148,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Define commonly used destination points for moving items to other locations in the graph. The idea is similar to an inbox. You can have multiple named inboxes as destinations in your graph. These inboxes show up as first options when opening of the workBench for quick moves of blocks to other locations in graph. However, they also serve as reference points for other commands available in workBench.",
+                "create-time": 1616830653558,
+                "uid": "LpLfrmhiy",
+                "edit-time": 1616863120260,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "{{[[video]]: https://youtu.be/cQOg-Bja_lE}}",
+                "create-time": 1616932928057,
+                ":block/refs": [
+                  {
+                    ":block/uid": "frzAWtPky"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "frzAWtPky"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "uid": "CDHwmQAmL",
+                "edit-time": 1616932931699,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "EIP-VQVAe",
+            "edit-time": 1616824378621,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "Structure of Inbox action",
+            "create-time": 1616824829776,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "edit-time": 1616837994906,
+                "children": [
+                  {
+                    "string": "Name: ",
+                    "create-time": 1616655146698,
+                    "uid": "blhPSGYms",
+                    "edit-time": 1616824811178,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "Page: ",
+                    "create-time": 1616655146698,
+                    "uid": "SRxGCSKmj",
+                    "edit-time": 1616825067830,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "Text:",
+                    "create-time": 1616655146698,
+                    "uid": "3tRt-gU27",
+                    "edit-time": 1616830430437,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "Location: ",
+                    "create-time": 1616655146698,
+                    "uid": "797B7qLU_",
+                    "edit-time": 1616824941186,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "Blockref:",
+                    "create-time": 1616858622780,
+                    "uid": "c-o-vhSc_",
+                    "edit-time": 1616858626068,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "Users:",
+                    "create-time": 1616858610601,
+                    "uid": "HVRyUrgts",
+                    "edit-time": 1616858615497,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "dmlwJBKkN"
+                  }
+                ],
+                "uid": "1bfu1DUJY",
+                ":block/refs": [
+                  {
+                    ":block/uid": "dmlwJBKkN"
+                  }
+                ],
+                "string": "#42workBench Inbox",
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "create-time": 1616604560493,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "edit-time": 1616863237353,
+                "children": [
+                  {
+                    "string": "this is is how workBench knows its an inbox command",
+                    "create-time": 1616863239347,
+                    "uid": "07_c5pUZm",
+                    "edit-time": 1616863247680,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "dmlwJBKkN"
+                  }
+                ],
+                "uid": "WdIvVqTHV",
+                ":block/refs": [
+                  {
+                    ":block/uid": "dmlwJBKkN"
+                  }
+                ],
+                "string": "The parent block starts with #42workBench inbox",
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "create-time": 1616863220671,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "The child blocks are parameters, each starting with the name of a parameter followed by its value",
+                "create-time": 1616863247619,
+                "uid": "LtVirrgRR",
+                "edit-time": 1616863272797,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Blocks that don't contain these parameters are ignored (So feel free to add extra blocks with info as way to document your inbox, since they are ignored by wB)",
+                "create-time": 1616863272744,
+                "uid": "6cqbQKljV",
+                "edit-time": 1616863316741,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "dMeisUf0N",
+            "edit-time": 1616824846345,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "Child block parameters",
+            "create-time": 1616824848570,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Name: ",
+                "create-time": 1616824978835,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "inbox name that will appear in wB",
+                    "create-time": 1616824867785,
+                    "uid": "9mNtgGsdL",
+                    "edit-time": 1616824978914,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "cnlTQP21N",
+                "edit-time": 1616824978835,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Page:  ",
+                "create-time": 1616824982060,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "(OPTIONAL) Page name for this inbox. Default is today's DNP",
+                    "create-time": 1616824891495,
+                    "uid": "XawGqlZcI",
+                    "edit-time": 1616827722908,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "TBw2AUtdN",
+                "edit-time": 1616827733927,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Text:",
+                "create-time": 1616825039290,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "(OPTIONAL) finds block with Text on the page, and blocks are set to the children of this block. The first block to match the text will be used for this",
+                    "create-time": 1616825049539,
+                    "uid": "73fXl1qUP",
+                    "edit-time": 1616827802936,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "RjHJYb_WN",
+                "edit-time": 1616827738919,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Location: ",
+                "create-time": 1616825016150,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "(OPTIONAL) Defines if new blocks should be put at the top or bottom. Top is the default.",
+                    "create-time": 1616825018548,
+                    "uid": "p5De65r-W",
+                    "edit-time": 1616931080327,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "Valid parameters: ",
+                    "create-time": 1616828616177,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "children": [
+                      {
+                        "string": "top",
+                        "create-time": 1616828608106,
+                        "uid": "ho4riMV8n",
+                        "edit-time": 1616828616204,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "bottom",
+                        "create-time": 1616828620776,
+                        "uid": "XeDWRP0b1",
+                        "edit-time": 1616828623119,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "uid": "1ttbZ5ti-",
+                    "edit-time": 1616828616177,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "bjNWW73V9",
+                "edit-time": 1616825016150,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Blockref: ",
+                "create-time": 1616828566044,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "(OPTIONAL) leave a block ref when moving the selected blocks to the Inbox. Default is false.",
+                    "create-time": 1616828625902,
+                    "uid": "UkBaAxaOR",
+                    "edit-time": 1616828625902,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "Valid parameters: ",
+                    "create-time": 1616828631867,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "children": [
+                      {
+                        "string": "false",
+                        "create-time": 1616828635987,
+                        "uid": "OcdW1fWAM",
+                        "edit-time": 1616828635987,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "true",
+                        "create-time": 1616828637329,
+                        "uid": "6BwUKCkT2",
+                        "edit-time": 1616828639650,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "uid": "FyptmoJOB",
+                    "edit-time": 1616828631867,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "VZJ8NDbWg",
+                "edit-time": 1616828570706,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Users:",
+                "create-time": 1616858628358,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "(OPTIONAL) comma separated list of email address. This is the email address of the user for roam. If their email is in this list, they will see this Inbox action, otherwise note.",
+                    "create-time": 1616858631587,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "children": [
+                      {
+                        "string": "If the not used, then this inbox action is visible to all users",
+                        "create-time": 1616858678065,
+                        "uid": "mufW6GOms",
+                        "edit-time": 1616858729024,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "uid": "4oOc3vkJB",
+                    "edit-time": 1616858678118,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "Mi5YbOqMS",
+                "edit-time": 1616858631610,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "P4--qOeM3",
+            "edit-time": 1616863324942,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "Examples:",
+            "create-time": 1616830027839,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Example 1: moves selected blocks to a page called \"Project X\" and moves blocks as children to the block that contains the text  \"Task List:\" in the block on that page.",
+                "create-time": 1616830362377,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "edit-time": 1616838000880,
+                    "children": [
+                      {
+                        "string": "Name:  Project X",
+                        "create-time": 1616830038283,
+                        "uid": "mEnliyQYL",
+                        "edit-time": 1616830068810,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "Page:  Project X",
+                        "create-time": 1616830038283,
+                        "uid": "pQPYUuKEr",
+                        "edit-time": 1616830075879,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "Text: Task List:",
+                        "create-time": 1616830038283,
+                        "uid": "KIF5RBOXu",
+                        "edit-time": 1616830422977,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "Location: ",
+                        "create-time": 1616830038283,
+                        "uid": "VbB9-Lawu",
+                        "edit-time": 1616830053083,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "dmlwJBKkN"
+                      }
+                    ],
+                    "uid": "L-yOQT-9r",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "dmlwJBKkN"
+                      }
+                    ],
+                    "string": "#42workBench Inbox",
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "create-time": 1616830038283,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "xzG2oZY8S",
+                "edit-time": 1616863356378,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Example 2: No page name defined, so will move these blocks to top of DNP.",
+                "create-time": 1616830445408,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "edit-time": 1616838002326,
+                    "children": [
+                      {
+                        "string": "Name:  Today's DNP",
+                        "create-time": 1616830445408,
+                        "uid": "Z_j30xenK",
+                        "edit-time": 1616830497314,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "dmlwJBKkN"
+                      }
+                    ],
+                    "uid": "mvfr93IDb",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "dmlwJBKkN"
+                      }
+                    ],
+                    "string": "#42workBench Inbox",
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "create-time": 1616830445408,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "C83_hmPfs",
+                "edit-time": 1616863365131,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Example 3: No page name defined, so will move these blocks to DNP for today, as children of the block called \"Inbox\" and will place them at the bottom of the inbox",
+                "create-time": 1616830473612,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "edit-time": 1616838004109,
+                    "children": [
+                      {
+                        "string": "Name:  Today's DNP",
+                        "create-time": 1616830473612,
+                        "uid": "H3hVStke-",
+                        "edit-time": 1616830507209,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "Text: Inbox",
+                        "create-time": 1616830473612,
+                        "uid": "aq5DVd_Sv",
+                        "edit-time": 1616830518558,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "Location:  bottom",
+                        "create-time": 1616830473612,
+                        "uid": "EukK6Nxkl",
+                        "edit-time": 1616830521526,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "dmlwJBKkN"
+                      }
+                    ],
+                    "uid": "ZYSr-Seu2",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "dmlwJBKkN"
+                      }
+                    ],
+                    "string": "#42workBench Inbox",
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "create-time": 1616830473612,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "anGMcHpZ5",
+                "edit-time": 1616830569810,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Example 4: The same as example 3, but in a multiplayer graph will only work for users defined in the space delimited list of \"users\"",
+                "create-time": 1616830572335,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "edit-time": 1616838005334,
+                    "children": [
+                      {
+                        "string": "Name:  Today's DNP",
+                        "create-time": 1616830572335,
+                        "uid": "oZcs9XQ1P",
+                        "edit-time": 1616830572335,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "Text: Inbox",
+                        "create-time": 1616830572335,
+                        "uid": "W4ob2MYc-",
+                        "edit-time": 1616830572335,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "Location:  bottom",
+                        "create-time": 1616830572335,
+                        "uid": "hP6gXeByF",
+                        "edit-time": 1616830572335,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "users: fred@example.com sally@example.com",
+                        "create-time": 1616830612531,
+                        "uid": "3JNsooqJl",
+                        "edit-time": 1616830625925,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "dmlwJBKkN"
+                      }
+                    ],
+                    "uid": "ZD_mvfpVH",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "dmlwJBKkN"
+                      }
+                    ],
+                    "string": "#42workBench Inbox",
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "create-time": 1616830572335,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "Y7xMmnA6Y",
+                "edit-time": 1616830610927,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "bbvG05tX0",
+            "edit-time": 1616830053083,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "-JXLT4OvH",
+        "edit-time": 1617116759401,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "workBench and SmartBlocks",
+        "create-time": 1617116775157,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "edit-time": 1617116875096,
+            "children": [
+              {
+                "string": "Example use of <%GLOBAL%>",
+                "create-time": 1617116881665,
+                "heading": 3,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "This SmartBlock opens the page \"Project X Documentation\" into the main document area.  It closes all sidebar windows, and opens  in the sidebar two pages. Finally, it closes the left sidebar in the case it is open.",
+                    "create-time": 1617116898417,
+                    "uid": "38mbBTaG6",
+                    "edit-time": 1617116939920,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "edit-time": 1617116753060,
+                    "children": [
+                      {
+                        "string": "<%OPENPAGE:Project X Documentation%>",
+                        "create-time": 1617114793848,
+                        "uid": "WvkYiShit",
+                        "edit-time": 1617116753060,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "<%SIDEBARWINDOWCLOSE:0%>",
+                        "create-time": 1617114803388,
+                        "uid": "EKJzvp1tq",
+                        "edit-time": 1617116753060,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "<%SIDEBARWINDOWOPEN:Project X Task List%>",
+                        "create-time": 1617114817974,
+                        "uid": "SPGgaVScn",
+                        "edit-time": 1617116753060,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "<%SIDEBARWINDOWOPEN:Project X Project Timelines%>",
+                        "create-time": 1617115023767,
+                        "uid": "5g-7eQRxn",
+                        "edit-time": 1617116753060,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "<%SIDEBARSTATE:2%>",
+                        "create-time": 1617116044955,
+                        "uid": "h2rbf188L",
+                        "edit-time": 1617116753060,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "4Srab4yOS"
+                      }
+                    ],
+                    "uid": "BtrM3b8Bh",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "4Srab4yOS"
+                      }
+                    ],
+                    "string": "#42SmartBlock Project X workspace <%GLOBAL%>",
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "create-time": 1617114758460,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "Cc7zlUGB9",
+                "edit-time": 1617116890943,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "It is possible for the SmartBlock to write into the page using <%GOTOBLOCK%>. However, <%GOTOBLOCK%> may require an extra block or two after it, in order for it to insert properly into the page. So the following is similar to the previous example but will insert text at the bottom of the opened page:",
+                "create-time": 1617116896067,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "edit-time": 1617117761062,
+                    "children": [
+                      {
+                        "string": "<%SIDEBARWINDOWCLOSE:0%>",
+                        "create-time": 1617117761062,
+                        "uid": "xOz-0I7nX",
+                        "edit-time": 1617117761062,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "<%SIDEBARWINDOWOPEN:Project X Task List%>",
+                        "create-time": 1617117761062,
+                        "uid": "KYTTvNMVD",
+                        "edit-time": 1617117761062,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "<%SIDEBARWINDOWOPEN:Project X Project Timelines%>",
+                        "create-time": 1617117761062,
+                        "uid": "ZkQvo_SKF",
+                        "edit-time": 1617117761062,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "<%SIDEBARSTATE:2%>",
+                        "create-time": 1617117761062,
+                        "uid": "t3klnQNWH",
+                        "edit-time": 1617117761062,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "<%OPENPAGE:Project X Documentation%><%GOTOBLOCK:-1%>",
+                        "create-time": 1617117761062,
+                        "uid": "00FXkjsm3",
+                        "edit-time": 1617117761062,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "-- leave this block blank -- ",
+                        "create-time": 1617117761062,
+                        "uid": "ClY6ilBAS",
+                        "edit-time": 1617117773659,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "Insert this block at the bottom of the page",
+                        "create-time": 1617117761062,
+                        "uid": "MYkFLfRSj",
+                        "edit-time": 1617117761062,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "the next block after that",
+                        "create-time": 1617117761062,
+                        "uid": "QFq4xqkKA",
+                        "edit-time": 1617117761062,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "4Srab4yOS"
+                      }
+                    ],
+                    "uid": "qji3PGbX0",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "4Srab4yOS"
+                      }
+                    ],
+                    "string": "#42SmartBlock Project X workspace <%GLOBAL%>",
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "create-time": 1617117761062,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "nEjrLrFCl",
+                "edit-time": 1617117706181,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "4Srab4yOS"
+              }
+            ],
+            "uid": "QblahKhKI",
+            ":block/refs": [
+              {
+                ":block/uid": "4Srab4yOS"
+              }
+            ],
+            "string": "SmartBlocks also appear in the workBench menu as an alternative way to run SmartBlocks.  Additionally, if you add <%GLOBAL%>  to a #42SmartBlock definition, it will appear in the workBench even if a block is not being edited. This is useful for running SmartBlocks that configure the work environment, but don't actually insert anything into the document.",
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "create-time": 1617116798996,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "W4MsrY6fA",
+        "edit-time": 1617116781046,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Search precedence",
+        "create-time": 1617116877146,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "workBench is basically a search tool for accessing tools that are useful in Roam. As a user, you can create workBench commands and SmartBlocks, which will also appear in the workBench search. Your customizations are given priority in the search order. So results that match your search are returned in this order, using this precedence:",
+            "create-time": 1617117919836,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "workBench Custom Commands",
+                "create-time": 1617117990502,
+                "uid": "O4zF43Qv8",
+                "edit-time": 1617118010874,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "SmartBlocks - defined by you the user",
+                "create-time": 1617118010865,
+                "uid": "yOEqJOLu1",
+                "edit-time": 1617118021663,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "workBench - built-in commands",
+                "create-time": 1617118021657,
+                "uid": "ij4JFSk2c",
+                "edit-time": 1617118030912,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "SmartBlock - bulit-inCommands",
+                "create-time": 1617118030905,
+                "uid": "SHhVkm9_Y",
+                "edit-time": 1617118050104,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "TsIMxGkut",
+            "edit-time": 1617117990510,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "PcAxrM5ps",
+        "edit-time": 1617117918377,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Configuring the workBench",
+        "create-time": 1614686411697,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "These settings should be saved in your graph database in a block. (Remove the ` back tick from front and end of setting). Also a browser refresh is required for them to take effect",
+            "create-time": 1614686766281,
+            "uid": "tNDz78WzI",
+            "edit-time": 1616757613685,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "edit-time": 1616758209266,
+            "children": [
+              {
+                "string": "Enables workBench feature in Roam42",
+                "create-time": 1614686291544,
+                "uid": "Snd4tTmow",
+                "edit-time": 1616757613685,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Values:",
+                "create-time": 1614686324872,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "**on**:  workBench is enabled (Default). Even if enabled, it needs to be turned on to be activated from the Roam42 Menu. ",
+                    "create-time": 1614686328904,
+                    "uid": "IhJGe71AD",
+                    "edit-time": 1616757613685,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "**off**:  workBench is disabled",
+                    "create-time": 1614686369056,
+                    "uid": "ePd5JzrmX",
+                    "edit-time": 1616757613685,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "4Bk4FsJZz",
+                "edit-time": 1616757613685,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Ek0JNfwfG"
+              }
+            ],
+            "uid": "rDJniIsFc",
+            ":block/refs": [
+              {
+                ":block/uid": "Ek0JNfwfG"
+              }
+            ],
+            "string": "#42Setting workBenchEnabled off",
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "create-time": 1614686240507,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "edit-time": 1616758205808,
+            "children": [
+              {
+                "string": "The shortcut that triggers workBench can be set to a custom keyboard shortcut. See keyboard combinations at: [Mousetrap - Keyboard shortcuts in Javascript (craig.is)](https://craig.is/killing/mice). You will need to experiment with a combination that works and doesn't conflict with other Roam or web browser features.",
+                "create-time": 1614435122738,
+                "uid": "oGYfloYCS",
+                "edit-time": 1616758173361,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Examples keyboard shortcuts:",
+                "create-time": 1614435141797,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "ctrl ctrl",
+                    "create-time": 1614435144870,
+                    "uid": "7xD4uFGKi",
+                    "edit-time": 1616757613685,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "ctrl+shift+p",
+                    "create-time": 1614435147982,
+                    "uid": "50N2EVOcw",
+                    "edit-time": 1616757613685,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "dAGaTHNRY",
+                "edit-time": 1616757613685,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "Ek0JNfwfG"
+              }
+            ],
+            "uid": "il5ZRgneT",
+            ":block/refs": [
+              {
+                ":block/uid": "Ek0JNfwfG"
+              }
+            ],
+            "string": "#42Setting workBenchShortcut ctrl ctrl",
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "create-time": 1614433817187,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "8F89M730K",
+        "edit-time": 1616757613685,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "CSS modification",
+        "create-time": 1617186049088,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "The following CSS can be added to your roam/css page to override the theme used by workBench",
+            "create-time": 1617186057005,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Use this CSS to force LIGHT mode:",
+                "create-time": 1617185972790,
+                "heading": 3,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "```css\n  :root {\n\t\t--wb-container-background: white; \n\t\t--wb-container-tt-menu-background-color: white;\n\t\t--wb-container-tt-highlight-background-color: WhiteSmoke;\n\t\t--wb-container-tt-cursor-background-color: Gainsboro;\n\t}\n\t#roam42-wB-container .tt-input:focus, \n\t#roam42-wB-path-container .tt-input:focus {\n\t\tborder-color: white !important;\n\t\tbackground-color: white !important;\n\t}```",
+                    "create-time": 1617185972790,
+                    "uid": "4HAvTpb7L",
+                    "edit-time": 1617186088225,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "iOCaPtqWo",
+                "edit-time": 1617186114108,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Use this CSS to force DARK mode:",
+                "create-time": 1617185972790,
+                "heading": 3,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "```css\n  :root {\n\t\t--wb-container-background: #8899A6; \n\t\t--wb-container-tt-menu-background-color:  #8899A6;\n\t\t--wb-container-tt-highlight-background-color: #B3B3B3;\n\t\t--wb-container-tt-cursor-background-color: #E4E6EB;\n\t}\n\t.roam42-wb-path-image {\n\t\tfilter: invert(100%);\n\t}\n\t#roam42-wB-container .tt-input:focus, \n\t#roam42-wB-path-container .tt-input:focus {\n\t\tborder-color: #E4E6EB !important;\n\t\tbackground-color: #E4E6EB !important;\n\t\tcolor: black !important;\n\t}```",
+                    "create-time": 1617185972790,
+                    "uid": "v4RMfTMsi",
+                    "edit-time": 1617186088225,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "W4ZOoLiTo",
+                "edit-time": 1617186109475,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "H4QVf7NBj",
+            "edit-time": 1617186078693,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "CEExrdFLY",
+        "edit-time": 1617186117932,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1617116752609,
+        "uid": "3nRuCMJSw",
+        "edit-time": 1617116752609,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      }
+    ],
+    "uid": "bBvLjvSGT",
+    "edit-time": 1617208751460,
     ":edit/user": {
-      ":user/uid": "JG1BI3UgEKPgvjC7hY8NC9Aloel1"
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
     }
   },
   {
-    "create-time": 1616551167933,
-    "title": "March 24th, 2021",
-    "uid": "03-24-2021",
-    "edit-time": 1616551167933,
+    "create-time": 1616757650145,
+    "title": "workBench Developer's Guide (BETA)",
+    ":create/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    },
+    "children": [
+      {
+        "string": "If you are a developer and interested in using the workBench feature with your own JavaScript code, this section provides you with an explanation of how the Command Palette works and how to integrate with it.",
+        "create-time": 1616757725641,
+        "uid": "B-7MwFD-J",
+        "edit-time": 1617208731454,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Explanation of the workBench Engine",
+        "create-time": 1614686868721,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "wB maintains a list of valid commands that it can run. When the user opens wB and types into the wB, it searches through that list of commands. When the user selects it, wB runs the command.",
+            "create-time": 1616576441658,
+            "uid": "7rD7x8Xu2",
+            "edit-time": 1616757669024,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "Commands are registered with wB through the API documented below.",
+            "create-time": 1616576664764,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "The registration includes the display text and a callback function..",
+                "create-time": 1616576708513,
+                "uid": "3xtRlKHDX",
+                "edit-time": 1616757669024,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "The **display text **is what the user sees, and what wB searches through while the user types. Developers should test their display text to optimize it for search. In some cases, it might be practical to create a key combination and put the in brackets like this: `Close all sidebars (cas)` - the user can type just \"cas\" and the command is quickly found.",
+                "create-time": 1616576732331,
+                "uid": "CEMgIt3Rl",
+                "edit-time": 1616757669024,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "The callback is a standard Javascript function. When wB invokes the callback, complete control is given to the callback, and wB does not do anything further. ",
+                "create-time": 1616576781491,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "The callback receives one optional parameter, and it is a JSON object with information about the command that was invoked.",
+                    "create-time": 1616578170760,
+                    "uid": "7fLuhugUm",
+                    "edit-time": 1616757669024,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "U_PE7pQ3S",
+                "edit-time": 1616757669024,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "{{[[video]]: https://youtu.be/ptI22Uap5Gk}}",
+                "create-time": 1616936509985,
+                ":block/refs": [
+                  {
+                    ":block/uid": "frzAWtPky"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "frzAWtPky"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "uid": "RkDNgKI2J",
+                "edit-time": 1616936513933,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "Uz7ooJXR2",
+            "edit-time": 1616757669024,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "WWGf5-YjG",
+        "edit-time": 1616757669024,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "wB Commands API",
+        "create-time": 1614686878799,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "roam42.wB.**commandAddRunFromAnywhere**( textToDisplay, callbackFunction)",
+            "create-time": 1614768569541,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Adds a command to wB that can be run in any context.",
+                "create-time": 1614768641068,
+                "uid": "Kk4WCv_rs",
+                "edit-time": 1616757669024,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Parameters",
+                "create-time": 1616574396384,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "textToDisplay - Caption to appear in wB",
+                    "create-time": 1616574458315,
+                    "uid": "nnIYKc5eK",
+                    "edit-time": 1616757669024,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "callbackFunction - javascript callback function that will be called when the user selects the registered command.",
+                    "create-time": 1616574450282,
+                    "uid": "cpYRQ-qjH",
+                    "edit-time": 1616757669024,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "jaERwbqbW",
+                "edit-time": 1616757669024,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Example:",
+                "create-time": 1616574347393,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "```javascript\n\nroam42.wB.commandAddRunFromAnywhere(\"All Pages\",\n   ()=>{document.location.href=roam42.common.baseUrl().href.replace('page','') + '/search'});\n```",
+                    "create-time": 1616574349896,
+                    "uid": "FsLmX0ueJ",
+                    "edit-time": 1616757669024,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "s8WieWjPu",
+                "edit-time": 1616757669024,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "g3lkeZqHf",
+            "edit-time": 1616757669024,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "roam42.wB.**commandAddRunFromBlock**(textToDisplay, callbackFunction)",
+            "create-time": 1614768582208,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Adds a command intended to be run only when a block is being edited (HTML Textarea)",
+                "create-time": 1614768661803,
+                "uid": "iqTEBScxq",
+                "edit-time": 1616757669024,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "{{[[embed]]: ((jaERwbqbW))}}",
+                "create-time": 1616574570549,
+                ":block/refs": [
+                  {
+                    ":block/uid": "JLL7ciatH"
+                  },
+                  {
+                    ":block/uid": "jaERwbqbW"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "JLL7ciatH"
+                  },
+                  {
+                    "uid": "jaERwbqbW"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "uid": "aB19E88pF",
+                "edit-time": 1616757669024,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Example:",
+                "create-time": 1616574595151,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "```javascript\n\nroam42.wB.commandAddRunFromBlock('Heading 1 (Alt+Shift+1)', \n\t()=>{ roam42.jumpnav.jumpCommandByActiveElement('ctrl+j 5')} );\n```",
+                    "create-time": 1616574599438,
+                    "uid": "tBjqfVoP8",
+                    "edit-time": 1616757669024,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "uk_C2Vqhu",
+                "edit-time": 1616757669024,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "FU20ubpTj",
+            "edit-time": 1616933753947,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "roam42.wB.**commandAddRunFromMultiBlockSelection**(textToDisplay, callbackFunction)",
+            "create-time": 1614768704876,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "{{[[embed]]: ((jaERwbqbW))}}",
+                "create-time": 1616574584648,
+                ":block/refs": [
+                  {
+                    ":block/uid": "JLL7ciatH"
+                  },
+                  {
+                    ":block/uid": "jaERwbqbW"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "JLL7ciatH"
+                  },
+                  {
+                    "uid": "jaERwbqbW"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "uid": "QG6dCbVi9",
+                "edit-time": 1616757669024,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Example:",
+                "create-time": 1616574672653,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "For good examples, review the roam42 [workBench.js file](https://github.com/roamhacker/roam42/blob/master/ext/workBench.js)",
+                    "create-time": 1616574834978,
+                    "uid": "2IckB75Qk",
+                    "edit-time": 1616757669024,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "2O49rHOge",
+                "edit-time": 1616757669024,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "WI5QiiReZ",
+            "edit-time": 1616933765722,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "X3bS0bS3r",
+        "edit-time": 1616757669024,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "Runtime State",
+        "create-time": 1614705293508,
+        "heading": 2,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "children": [
+          {
+            "string": "The Roam42 wB engine maintains a number of state variables that can be used when commands are being run to understand the context from which the wB was initiated. You can use this state information in your code to interact with the services of workBnech engine.",
+            "create-time": 1614705325070,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "Variables",
+                "create-time": 1616574934710,
+                "heading": 2,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "roam42.wB.triggeredState.activeElementId ",
+                    "children": [
+                      {
+                        "string": "If wB was initiated from a single block, activeElementId will have a value.  Otherwise it is null",
+                        "create-time": 1616575011073,
+                        "uid": "a4puc7HGv",
+                        "edit-time": 1616757669024,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "uid": "gJgsqUgxU",
+                    "edit-time": 1616757669024,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "roam42.wB.triggeredState.selectedNodes  ",
+                    "children": [
+                      {
+                        "string": "If wB was initiated with multiple blocks selected, selectedNodes will have a value.  Otherwise it is null.",
+                        "create-time": 1616575067976,
+                        "uid": "d8Cm3J-fb",
+                        "edit-time": 1616757669024,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "uid": "KpRPiRt4i",
+                    "edit-time": 1616757669024,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "If __.activeElementId__ and __.selectedNodes__ are null, then nothing was selected in the UI when wB was launched.",
+                    "create-time": 1616575122647,
+                    "uid": "ONUzPJrGP",
+                    "edit-time": 1616757669024,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "6GuUTbD3d",
+                "edit-time": 1616757669024,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "XoJYOJOzQ",
+            "edit-time": 1616757669024,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "**Path navigation with workBench.path**",
+            "create-time": 1616575190753,
+            "heading": 3,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            "children": [
+              {
+                "string": "wB includes a helper component to allow user to navigate their graph and select the location. A developer can call this command from their workBench command. In effect, a developer registers their callback function with workBench. The developer from that callBack can call roam42.wB.path.launch, which in turn takes a callback. In effect a developer creates a chain of commands:",
+                "create-time": 1616579778306,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "Developer registers their custom workBench command with the workBench engine by providing display text for the workBench and a callback function.",
+                    "create-time": 1616580036357,
+                    "uid": "1VpwTpx7c",
+                    "edit-time": 1616757669024,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "User selects the custom command, and the developers callBack function is called. In that callback function, the developer uses roam42.wB.path.launch to open the path navigation tool and passes to roam42.wB.path.launch a second callback function.",
+                    "create-time": 1616580126198,
+                    "uid": "X58-v9qlB",
+                    "edit-time": 1616757669024,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "The user is now presented with the path navigator. The user selects the point in their graph. The workBench engine will then call the developer's callback from the previous step. This callback receive a number of parameters which include the point in the graph the user selected. The developers code then proceeds to process the command with that information.",
+                    "create-time": 1616580369879,
+                    "uid": "Kf5tBoDV5",
+                    "edit-time": 1616757669024,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "BQgUGDmbp",
+                "edit-time": 1616757669024,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "**roam42.wB.path.launch**(callBackFunction, excludeUIDs = [], startUID=null, startString=null, canPageBeSelected)",
+                "create-time": 1616580532011,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "Opens the workBench path navigation tool. ",
+                    "create-time": 1616579806413,
+                    "uid": "S5pBjOtei",
+                    "edit-time": 1616757669024,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "Parameters:",
+                    "create-time": 1616580595807,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "children": [
+                      {
+                        "string": "**callBackFunction **(required) - callback function to call after user has selected something in the path navigator. If the user cancels out of the navigator, the callback function is not called. See information below about parameters for the callback function.",
+                        "create-time": 1616580602376,
+                        "uid": "aPHOxpxzR",
+                        "edit-time": 1616935046047,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "**excludeUIDs **(optional) - an array of UID's that should not be shown in the navigator",
+                        "create-time": 1616580606056,
+                        "uid": "UxW-HGL3I",
+                        "edit-time": 1616935048927,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "**startUID **(optional) - If navigator should start from a specific point in the graph, provide the UID of the block.",
+                        "create-time": 1616580609309,
+                        "uid": "jT9WW5kb6",
+                        "edit-time": 1616935059743,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "**startString **(optional) - If startUID is used, provide a display text for the navigator to be displayed upon where it opens.",
+                        "create-time": 1616580598450,
+                        "uid": "2LjEyQYmE",
+                        "edit-time": 1616935061797,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "canPageBeSelected (optional)- when navigating to a page, can the page itself be a destination or just its  blocks. Default is false.",
+                        "create-time": 1616600569823,
+                        "uid": "ghh-DM6DU",
+                        "edit-time": 1616757669024,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "uid": "eHkKxu6Ha",
+                    "edit-time": 1616757669024,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  },
+                  {
+                    "string": "callback",
+                    "create-time": 1616580929201,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    "children": [
+                      {
+                        "string": "The callback will receive 4 parameters providing information about what the user selected in the navigator",
+                        "create-time": 1616580937377,
+                        "uid": "jxwYk_hFJ",
+                        "edit-time": 1616757669024,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      },
+                      {
+                        "string": "Parameters:",
+                        "create-time": 1616580978337,
+                        ":create/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        },
+                        "children": [
+                          {
+                            "string": "outputUID - The UID of the block selected by the user",
+                            "create-time": 1616580986916,
+                            "uid": "6ei5-EqLT",
+                            "edit-time": 1616757669024,
+                            ":create/user": {
+                              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                            }
+                          },
+                          {
+                            "string": "outputText - The text of the block selected by the user",
+                            "create-time": 1616580991318,
+                            "uid": "OtFyAN-ge",
+                            "edit-time": 1616757669024,
+                            ":create/user": {
+                              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                            }
+                          }
+                        ],
+                        "uid": "grgyLwln7",
+                        "edit-time": 1616757669024,
+                        ":edit/user": {
+                          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                        }
+                      }
+                    ],
+                    "uid": "vUIugt4zM",
+                    "edit-time": 1616757669024,
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "pCPROezUT",
+                "edit-time": 1616757669024,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              },
+              {
+                "string": "Example:",
+                "create-time": 1616581162634,
+                ":create/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                },
+                "children": [
+                  {
+                    "string": "```javascript\n\n{\n  const displayOutput = async (outputUID, outputText)=>{ \n    console.log( outputUID, outputText );\n  };\n      \n  const showNavigator = async ()=>{ \n    //first open navigator, then call displayOutput \n    roam42.wB.path.launch( displayOutput );\n  };\n    \n  //Register the command\n  roam42.wB.commandAddRunFromBlock('Display navigator info ', showNavigator);\n}``` ",
+                    "create-time": 1616581172270,
+                    "uid": "H1x31yMvl",
+                    "edit-time": 1616757669024,
+                    ":create/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                    }
+                  }
+                ],
+                "uid": "b-puU1AeF",
+                "edit-time": 1616757669024,
+                ":edit/user": {
+                  ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+                }
+              }
+            ],
+            "uid": "LE-OTos6N",
+            "edit-time": 1616757669024,
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          },
+          {
+            "string": "",
+            "create-time": 1616573147598,
+            "uid": "It0TC82b0",
+            "edit-time": 1616757669024,
+            ":create/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            },
+            ":edit/user": {
+              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+            }
+          }
+        ],
+        "uid": "H7VWujc-v",
+        "edit-time": 1616757669024,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      }
+    ],
+    "uid": "mNJeyl9U0",
+    "edit-time": 1617208739725,
+    ":edit/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    }
+  },
+  {
+    "create-time": 1616830347933,
+    "title": "42workBench",
+    "uid": "dmlwJBKkN",
+    "edit-time": 1616830347935,
+    ":create/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    },
+    ":edit/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    }
+  },
+  {
+    "create-time": 1617104097600,
+    "title": "March 30th, 2021",
+    "uid": "03-30-2021",
+    "edit-time": 1617104097600,
+    ":create/user": {
+      ":user/uid": "4YyQLevgg2fbcotH9qaRgYfQkxn2"
+    },
+    ":edit/user": {
+      ":user/uid": "4YyQLevgg2fbcotH9qaRgYfQkxn2"
+    }
+  },
+  {
+    "create-time": 1617153298590,
+    "title": "March 31st, 2021",
+    "uid": "03-31-2021",
+    "edit-time": 1617153298591,
+    ":create/user": {
+      ":user/uid": "GtzC2zGgiRg2YK3yvpozqX01q973"
+    },
+    ":edit/user": {
+      ":user/uid": "GtzC2zGgiRg2YK3yvpozqX01q973"
+    }
+  },
+  {
+    "create-time": 1617240641411,
+    "title": "April 1st, 2021",
+    "uid": "04-01-2021",
+    "edit-time": 1617240641413,
+    ":create/user": {
+      ":user/uid": "GtzC2zGgiRg2YK3yvpozqX01q973"
+    },
+    ":edit/user": {
+      ":user/uid": "GtzC2zGgiRg2YK3yvpozqX01q973"
+    }
+  },
+  {
+    "create-time": 1617374819394,
+    "title": "April 2nd, 2021",
+    "uid": "04-02-2021",
+    "edit-time": 1617374819394,
+    ":create/user": {
+      ":user/uid": "UNfQNdnd07ckyr2FGcX4S3nS8yk2"
+    },
+    ":edit/user": {
+      ":user/uid": "UNfQNdnd07ckyr2FGcX4S3nS8yk2"
+    }
+  },
+  {
+    "create-time": 1617379201890,
+    "title": "April 3rd, 2021",
+    "uid": "04-03-2021",
+    "edit-time": 1617379201890,
+    ":create/user": {
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
+    },
+    ":edit/user": {
+      ":user/uid": "LeklBoIa7ehrwYcg63oZ9BGZrDJ3"
+    }
+  },
+  {
+    "create-time": 1617465610778,
+    "title": "April 4th, 2021",
+    "uid": "04-04-2021",
+    "edit-time": 1617465610779,
+    ":create/user": {
+      ":user/uid": "kRZtgpv8rrRpVvt2aUAzSKVwm832"
+    },
+    ":edit/user": {
+      ":user/uid": "kRZtgpv8rrRpVvt2aUAzSKVwm832"
+    }
+  },
+  {
+    "create-time": 1617586225020,
+    "title": "April 5th, 2021",
+    "uid": "04-05-2021",
+    "edit-time": 1617586225020,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
+    }
+  },
+  {
+    "create-time": 1617638406658,
+    "title": "April 6th, 2021",
+    "uid": "04-06-2021",
+    "edit-time": 1617638406658,
+    ":create/user": {
+      ":user/uid": "MLUUjjYQJnaHUQQ8iFEwtsa2mg62"
+    },
+    ":edit/user": {
+      ":user/uid": "MLUUjjYQJnaHUQQ8iFEwtsa2mg62"
     }
   }
 ]
