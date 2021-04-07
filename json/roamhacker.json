@@ -6238,106 +6238,6 @@
     }
   },
   {
-    "title": "Fall Big Vacation - Sample Project",
-    "children": [
-      {
-        "string": "{{[[TODO]]}} #na Find vacation Spot",
-        "create-time": 1598111599967,
-        ":block/refs": [
-          {
-            ":block/uid": "bUuuemjCh"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "bUuuemjCh"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        },
-        "uid": "w3xkibvN_",
-        "edit-time": 1598111611922,
-        ":edit/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        }
-      },
-      {
-        "string": "{{[[TODO]]}} #na  Identify possible vacation dates",
-        "create-time": 1598111659458,
-        ":block/refs": [
-          {
-            ":block/uid": "bUuuemjCh"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "bUuuemjCh"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        },
-        "uid": "DmIPL85E5",
-        "edit-time": 1598111676825,
-        ":edit/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        }
-      },
-      {
-        "string": "{{[[TODO]]}} Arrange for time away from work",
-        "create-time": 1598111636409,
-        "uid": "xB60x3OtS",
-        "edit-time": 1598111674978,
-        ":create/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        },
-        ":edit/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        }
-      },
-      {
-        "string": "{{[[TODO]]}} Book accommodations ",
-        "create-time": 1598111612755,
-        "uid": "4yPzHr3EZ",
-        "edit-time": 1598111672208,
-        ":create/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        },
-        ":edit/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        }
-      },
-      {
-        "string": "{{[[TODO]]}} Book flight",
-        "create-time": 1598111624298,
-        ":block/refs": [
-          {
-            ":block/uid": "rZMWV97i2"
-          }
-        ],
-        "refs": [
-          {
-            "uid": "rZMWV97i2"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        },
-        "uid": "E25JO69Bb",
-        "edit-time": 1598111683344,
-        ":edit/user": {
-          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-        }
-      }
-    ],
-    "uid": "ZUpxmPdHc",
-    "edit-time": 1617202089087,
-    ":edit/user": {
-      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-    }
-  },
-  {
     "create-time": 1598111798432,
     "title": "embed",
     "uid": "JLL7ciatH",
@@ -6361,9 +6261,6 @@
           },
           {
             ":block/uid": "WypcQhnfP"
-          },
-          {
-            ":block/uid": "ZUpxmPdHc"
           }
         ],
         "refs": [
@@ -6372,9 +6269,6 @@
           },
           {
             "uid": "WypcQhnfP"
-          },
-          {
-            "uid": "ZUpxmPdHc"
           }
         ],
         ":create/user": {
@@ -49894,6 +49788,18 @@
     },
     ":edit/user": {
       ":user/uid": "MLUUjjYQJnaHUQQ8iFEwtsa2mg62"
+    }
+  },
+  {
+    "create-time": 1617736434986,
+    "title": "April 7th, 2021",
+    "uid": "04-07-2021",
+    "edit-time": 1617736434987,
+    ":create/user": {
+      ":user/uid": "qBsBqW73IOZDtdjltoAhnIheNHc2"
+    },
+    ":edit/user": {
+      ":user/uid": "qBsBqW73IOZDtdjltoAhnIheNHc2"
     }
   }
 ]
