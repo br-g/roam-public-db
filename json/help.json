@@ -11302,7 +11302,19 @@
                 },
                 "children": [
                   {
-                    "string": "Finds all blocks on daily pages and blocks mentioning a date between two days. You can use the following as a shorthand: [[today]], [[tomorrow]], [[yesterday]], [[last week]], [[next week]], [[last month]], and [[next month]]. ^^Only works on Daily Notes page^^.",
+                    "string": "Finds all blocks on daily pages and blocks mentioning a date between two days. ^^**This only works on Daily Notes page**^^.",
+                    "create-time": 1619167429569,
+                    "uid": "kZCwOh0Z4",
+                    "edit-time": 1619167429569,
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  },
+                  {
+                    "string": "You can use the following as a shorthand: [[today]], [[tomorrow]], [[yesterday]], [[last week]], [[next week]], [[last month]], and [[next month]]. ",
                     "create-time": 1614855088197,
                     ":block/refs": [
                       {
@@ -11354,9 +11366,9 @@
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     "uid": "E9gkHEO8V",
-                    "edit-time": 1616495802692,
+                    "edit-time": 1619167429589,
                     ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     }
                   },
                   {
@@ -17985,10 +17997,10 @@
             },
             "children": [
               {
-                "string": "When you upload an image, audio, or PDF file, it is stored on Google Firebase servers. While the link is public, it has a random unique identifier that is impossible for someone to just guess. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers.",
+                "string": "When you upload an image, audio, or PDF file, it is stored on Google Firebase servers. While the link is public, it has a random unique identifier. So any images you upload are private so long as you keep the links private. If someone obtains access to your file's link then they can access it. No one can delete any files you have uploaded. We are releasing a file manager soon so you can view all your uploaded files and delete any files you do not want stored on Google's servers.",
                 "create-time": 1618871702058,
                 "uid": "FYEaECD1h",
-                "edit-time": 1619109602343,
+                "edit-time": 1619181010168,
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
@@ -42579,6 +42591,267 @@
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
             "children": [
+              {
+                "edit-time": 1619165090386,
+                "children": [
+                  {
+                    "edit-time": 1619165094901,
+                    "children": [
+                      {
+                        "edit-time": 1619165143430,
+                        "children": [
+                          {
+                            "string": "((RRz1CDLBy))",
+                            "create-time": 1619165266745,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "RRz1CDLBy"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "RRz1CDLBy"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "NYAHfAlKJ",
+                            "edit-time": 1619165268264,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "GROwBce2r"
+                          }
+                        ],
+                        "uid": "AmV4mtZzm",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "GROwBce2r"
+                          }
+                        ],
+                        "string": "Contents of [[Kanban]] will now load normally when its children are collapsed",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1619165094891,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Pressing Enter will split the Kanban card instead of inserting an empty card",
+                        "create-time": 1619165143414,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "string": "((RRz1CDLBy))",
+                            "create-time": 1619165263642,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "RRz1CDLBy"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "RRz1CDLBy"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "8JEOdrHYP",
+                            "edit-time": 1619165265183,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "B4STvvwBK",
+                        "edit-time": 1619165179485,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Cards can be deleted or joined like in normal blocks",
+                        "create-time": 1619165179472,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "string": "((RRz1CDLBy))",
+                            "create-time": 1619165260714,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "RRz1CDLBy"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "RRz1CDLBy"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "krB-GOHTg",
+                            "edit-time": 1619165262867,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "FYMIMwI2c",
+                        "edit-time": 1619165201318,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Some components like images will no longer overflow the kanban",
+                        "create-time": 1619165201303,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Adam Sherwood]]",
+                            "create-time": 1619165249917,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "EJIFQrIL3"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "EJIFQrIL3"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "RRz1CDLBy",
+                            "edit-time": 1619165257056,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "ktFhSuOpy",
+                        "edit-time": 1619165248596,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "edit-time": 1619165314623,
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Kifah Meeran]]",
+                            "create-time": 1619165318856,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "UrBTpx3Hq",
+                            "edit-time": 1619165325505,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "oxkJJUv2z"
+                          }
+                        ],
+                        "uid": "IWTV644BO",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "oxkJJUv2z"
+                          }
+                        ],
+                        "string": "Disabled vertical scrolling on the [[Mobile Menu Bar]]",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1619165274241,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "uid": "uK6pND05j",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]] 🛠",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1619165090366,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "04-23-2021"
+                  }
+                ],
+                "uid": "EszchYrAX",
+                ":block/refs": [
+                  {
+                    ":block/uid": "04-23-2021"
+                  }
+                ],
+                "string": "[[April 23rd, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1619165081426,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
               {
                 "edit-time": 1619067390071,
                 "children": [
@@ -67784,6 +68057,56 @@
     },
     ":edit/user": {
       ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1619165314625,
+    "title": "Mobile Menu Bar",
+    "uid": "oxkJJUv2z",
+    "edit-time": 1619165314626,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1619170748327,
+    "title": "Customizable Hotkeys",
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    "children": [
+      {
+        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FOJFPJqjqmA.gif?alt=media&token=647cbbae-59d5-4a41-811f-f3f8a275068d)",
+        "create-time": 1619170864502,
+        "uid": "3HccsaMof",
+        "edit-time": 1619170883473,
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        }
+      }
+    ],
+    "uid": "ZQ8sXpP49",
+    "edit-time": 1619170748327,
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1619227845906,
+    "title": "April 24th, 2021",
+    "uid": "04-24-2021",
+    "edit-time": 1619227845906,
+    ":create/user": {
+      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
+    },
+    ":edit/user": {
+      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
   }
 ]
