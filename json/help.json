@@ -42583,6 +42583,150 @@
                 "edit-time": 1619763161189,
                 "children": [
                   {
+                    "edit-time": 1620062266394,
+                    "children": [
+                      {
+                        "edit-time": 1620062294653,
+                        "children": [
+                          {
+                            "string": "[[Kifah Meeran]]",
+                            "create-time": 1620062367928,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "CBRjs8842",
+                            "edit-time": 1620062371114,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "edvBHH7JX"
+                          },
+                          {
+                            "uid": "L1EttkagY"
+                          }
+                        ],
+                        "uid": "AJ1Nu1xbY",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "edvBHH7JX"
+                          },
+                          {
+                            ":block/uid": "L1EttkagY"
+                          }
+                        ],
+                        "string": "Added syntax highlighting for [[SPARQL]] and [[Turtle]]",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1620062266385,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "edit-time": 1619765059640,
+                        "children": [
+                          {
+                            "string": "As part of our ongoing effort to keep Roam secure, we're improving how extension settings are stored. **Please review your roam/js, roam/css and Custom Components settings and re-enable the ones you want to use again. **",
+                            "create-time": 1619765051658,
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                "string": "Brought to you by::[[Filipe Silva]]",
+                                "create-time": 1619765067901,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "IFYmBp-zm"
+                                  },
+                                  {
+                                    ":block/uid": "5K19Sylm0"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "IFYmBp-zm"
+                                  },
+                                  {
+                                    "uid": "5K19Sylm0"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "uid": "COznN-0m6",
+                                "edit-time": 1619765075186,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "uid": "jn6DHb-J7",
+                            "edit-time": 1619765053939,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "RtfLGrv81"
+                          }
+                        ],
+                        "uid": "6ncnfWr_w",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "RtfLGrv81"
+                          }
+                        ],
+                        "string": "[[Developer Notes]] 🧑‍💻",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1619765058283,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "heading": 3
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "uid": "fWjRbInlN",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] ✨",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1620062252852,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  },
+                  {
                     "edit-time": 1619763177261,
                     "children": [
                       {
@@ -42688,11 +42832,41 @@
                       {
                         "string": "Fixed a bug with graph settings not appearing on local graphs",
                         "create-time": 1619782151997,
-                        "uid": "jmLlejqqm",
-                        "edit-time": 1619782169356,
                         ":create/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         },
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Kifah Meeran]]",
+                            "create-time": 1620062357939,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "woBgm0vmK",
+                            "edit-time": 1620062365192,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "uid": "jmLlejqqm",
+                        "edit-time": 1619782169356,
                         ":edit/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         }
@@ -42714,73 +42888,6 @@
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
                     "create-time": 1619763161171,
-                    ":edit/user": {
-                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    },
-                    "heading": 3
-                  },
-                  {
-                    "edit-time": 1619765059640,
-                    "children": [
-                      {
-                        "string": "As part of our ongoing effort to keep Roam secure, we're improving how extension settings are stored. **Please review your roam/js, roam/css and Custom Components settings and re-enable the ones you want to use again. **",
-                        "create-time": 1619765051658,
-                        ":create/user": {
-                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                        },
-                        "children": [
-                          {
-                            "string": "Brought to you by::[[Filipe Silva]]",
-                            "create-time": 1619765067901,
-                            ":block/refs": [
-                              {
-                                ":block/uid": "IFYmBp-zm"
-                              },
-                              {
-                                ":block/uid": "5K19Sylm0"
-                              }
-                            ],
-                            "refs": [
-                              {
-                                "uid": "IFYmBp-zm"
-                              },
-                              {
-                                "uid": "5K19Sylm0"
-                              }
-                            ],
-                            ":create/user": {
-                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                            },
-                            "uid": "COznN-0m6",
-                            "edit-time": 1619765075186,
-                            ":edit/user": {
-                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                            }
-                          }
-                        ],
-                        "uid": "jn6DHb-J7",
-                        "edit-time": 1619765053939,
-                        ":edit/user": {
-                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                        }
-                      }
-                    ],
-                    "refs": [
-                      {
-                        "uid": "RtfLGrv81"
-                      }
-                    ],
-                    "uid": "6ncnfWr_w",
-                    ":block/refs": [
-                      {
-                        ":block/uid": "RtfLGrv81"
-                      }
-                    ],
-                    "string": "[[Developer Notes]] 🧑‍💻",
-                    ":create/user": {
-                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    },
-                    "create-time": 1619765058283,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                     },
@@ -68908,10 +69015,46 @@
     }
   },
   {
-    "create-time": 1620005429056,
+    "create-time": 1620062174962,
     "title": "May 3rd, 2021",
     "uid": "05-03-2021",
-    "edit-time": 1620005429056,
+    "edit-time": 1620062174962,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1620062294656,
+    "title": "SPARQL",
+    "uid": "edvBHH7JX",
+    "edit-time": 1620062294658,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1620062294656,
+    "title": "Turtle",
+    "uid": "L1EttkagY",
+    "edit-time": 1620062294658,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1620091714193,
+    "title": "May 4th, 2021",
+    "uid": "05-04-2021",
+    "edit-time": 1620091714193,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
