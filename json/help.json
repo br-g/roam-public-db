@@ -42580,6 +42580,77 @@
             },
             "children": [
               {
+                "edit-time": 1620092468205,
+                "children": [
+                  {
+                    "edit-time": 1620127376534,
+                    "children": [
+                      {
+                        "string": "Hidden feature for [[Roam Team]]'s internal use, will be notifying believers if no bugs in next few days, and rest of the community shortly after that.",
+                        "create-time": 1620092512453,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "rJvvlfY_y"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "rJvvlfY_y"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "uid": "biegTI-F4",
+                        "edit-time": 1620092621775,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "uid": "hAds7Btey",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]] 🚀",
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1620092468191,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "05-03-2021"
+                  }
+                ],
+                "uid": "GyVo3Hkhw",
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-03-2021"
+                  }
+                ],
+                "string": "[[May 3rd, 2021]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1620092464704,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
                 "edit-time": 1619763161189,
                 "children": [
                   {
@@ -69051,10 +69122,72 @@
     }
   },
   {
-    "create-time": 1620091714193,
+    "create-time": 1620092563527,
+    "title": "Roam Team",
+    "uid": "rJvvlfY_y",
+    "edit-time": 1620092563528,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1620092700519,
+    "title": "drawing",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1620092702386,
+        "uid": "4vBxzl3mW",
+        "edit-time": 1620092709196,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1620092706282,
+        "uid": "6ro-Rpy1p",
+        "edit-time": 1620092706282,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      }
+    ],
+    "uid": "rNVZQWn2i",
+    "edit-time": 1620092700519,
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1620125891786,
     "title": "May 4th, 2021",
     "uid": "05-04-2021",
-    "edit-time": 1620091714193,
+    "edit-time": 1620125891786,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    }
+  },
+  {
+    "create-time": 1620180533994,
+    "title": "May 5th, 2021",
+    "uid": "05-05-2021",
+    "edit-time": 1620180533994,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
