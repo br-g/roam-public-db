@@ -42580,6 +42580,321 @@
             },
             "children": [
               {
+                "edit-time": 1620192793907,
+                "children": [
+                  {
+                    "edit-time": 1620192808238,
+                    "children": [
+                      {
+                        "edit-time": 1620192861306,
+                        "children": [
+                          {
+                            "string": "Brought to you by:: [[Stian Håklev]]",
+                            "create-time": 1620193108859,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "dkdjGsM4C"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "dkdjGsM4C"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "weIHAZIU9",
+                            "edit-time": 1620193118017,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "JG_fewIU6"
+                          }
+                        ],
+                        "uid": "Lj2yxiYiT",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "JG_fewIU6"
+                          }
+                        ],
+                        "string": "You can now shift-click breadcrumbs/path of zoomed-in block to open in [[Right Sidebar]]",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1620192808225,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "edit-time": 1620193130095,
+                        "children": [
+                          {
+                            "edit-time": 1620193155865,
+                            "children": [
+                              {
+                                "string": "Brought to you by:: [[Joshua Brown]]",
+                                "create-time": 1620193155836,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "IdWJv42cv"
+                                  },
+                                  {
+                                    ":block/uid": "5K19Sylm0"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "IdWJv42cv"
+                                  },
+                                  {
+                                    "uid": "5K19Sylm0"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "uid": "gD8iisbWU",
+                                "edit-time": 1620193163679,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "Gx35Ef0-S"
+                              },
+                              {
+                                "uid": "D8ld3cXC3"
+                              }
+                            ],
+                            "uid": "kzEpLBSEj",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "Gx35Ef0-S"
+                              },
+                              {
+                                ":block/uid": "D8ld3cXC3"
+                              }
+                            ],
+                            "string": "Made [[Query]] and [[Linked References]] slightly faster",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1620193130083,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "string": "Pasting blocks containing images will no longer destroy block structure",
+                            "create-time": 1620192961675,
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "children": [
+                              {
+                                "string": "Brought to you by:: [[Joshua Brown]]",
+                                "create-time": 1620193082869,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "IdWJv42cv"
+                                  },
+                                  {
+                                    ":block/uid": "5K19Sylm0"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "IdWJv42cv"
+                                  },
+                                  {
+                                    "uid": "5K19Sylm0"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "uid": "9AwSd_r2I",
+                                "edit-time": 1620193096823,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "uid": "1ozZGAt0u",
+                            "edit-time": 1620193001725,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "edit-time": 1620193046977,
+                            "children": [
+                              {
+                                "string": "Brought to you by:: [[Bardia Pourvakil]]",
+                                "create-time": 1620193097876,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "evJ14QpsV"
+                                  },
+                                  {
+                                    ":block/uid": "5K19Sylm0"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "evJ14QpsV"
+                                  },
+                                  {
+                                    "uid": "5K19Sylm0"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                "uid": "kndL3pV1u",
+                                "edit-time": 1620193107008,
+                                ":edit/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "l8uKkdhbc"
+                              }
+                            ],
+                            "uid": "Lc1eOyibT",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "l8uKkdhbc"
+                              }
+                            ],
+                            "string": "Made text highlights legible in [[Block References]] previews",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1620193001714,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "edit-time": 1620211198765,
+                            "children": [
+                              {
+                                "string": "Iframe Components are a new possibility for extending Roam. Write components using any JS framework, host it on your own server, but interact with Roam graph data. Documentation https://roamresearch.com/#/app/developer-documentation/page/YNgZSgVSS.",
+                                "create-time": 1620193046963,
+                                "uid": "kiQayH2o4",
+                                "edit-time": 1620260762647,
+                                ":create/user": {
+                                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "RtfLGrv81"
+                              }
+                            ],
+                            "uid": "S5UjGbjnq",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "RtfLGrv81"
+                              }
+                            ],
+                            "string": "[[Developer Notes]] 🧑‍💻",
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "create-time": 1620211197682,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "heading": 3
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "xxFKZqzYN"
+                          }
+                        ],
+                        "uid": "Zn_FsP4TZ",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "xxFKZqzYN"
+                          }
+                        ],
+                        "string": "[[Bug Fixes]] 🛠 ",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1620192861880,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "heading": 3
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "uid": "L10lbo39S",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] ✨",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1620192793886,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "05-04-2021"
+                  }
+                ],
+                "uid": "GVE3CYvH5",
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-04-2021"
+                  }
+                ],
+                "string": "[[May 4th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1620192788759,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
                 "edit-time": 1620092468205,
                 "children": [
                   {
@@ -68892,11 +69207,322 @@
   {
     "create-time": 1619046047883,
     "title": "Security",
-    "uid": "Dz5EfmkDa",
-    "edit-time": 1619046047884,
     ":create/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
+    "children": [
+      {
+        "string": "[Security Policy](https://github.com/Roam-Research/issues/security/policy)",
+        "heading": 1,
+        "children": [
+          {
+            "string": "Security is core to our values, and we value the input of security researchers acting in good-faith to help us maintain a high standard for the security and privacy for our users. This includes encouraging responsible vulnerability research and disclosure. This policy sets out our definition of good-faith in the context of finding and reporting vulnerabilities, as well as what you can expect from us in return.",
+            "uid": "7FteVz6CF",
+            "edit-time": 1620316867838,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          },
+          {
+            "string": "[🔗](https://github.com/Roam-Research/issues/security/policy#expectations)Expectations",
+            "heading": 1,
+            "children": [
+              {
+                "string": "When working with us according to this policy, you can expect us to:",
+                "children": [
+                  {
+                    "string": "Work with you to understand and validate your report, including a timely initial response to the submission;",
+                    "uid": "-FakN4o8s",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Work to remediate discovered vulnerabilities in a timely manner; and",
+                    "uid": "Y0U_rfiDV",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.",
+                    "uid": "XvvRF9EgK",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "uid": "IJ3J22vNE",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "MpDTPrWG5",
+            "edit-time": 1620316867838,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          },
+          {
+            "string": "[🔗](https://github.com/Roam-Research/issues/security/policy#official-communication-channels)Official Communication Channels",
+            "heading": 1,
+            "children": [
+              {
+                "string": "The primary communication channel in via email to [security@roamresearch.com](mailto:security@roamresearch.com). Afterwards communication proceeds to a [Security Advisory](https://help.github.com/en/github/managing-security-vulnerabilities/about-github-security-advisories) on GitHub.",
+                "uid": "8m66F9xdw",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Security Advisories are separate from public issues in that only you and the Roam team can see them, which allows us to work on fixing the problem without publicizing it further for exploitation.",
+                "uid": "buGYTPieM",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "PkR9D1Pyz",
+            "edit-time": 1620316867838,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          },
+          {
+            "string": "[🔗](https://github.com/Roam-Research/issues/security/policy#disclosure-policy)Disclosure Policy",
+            "heading": 1,
+            "children": [
+              {
+                "string": "We follow a [Coordinated Disclosure](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html#responsible-or-coordinated-disclosure) model, also known as Responsible Disclosure.",
+                "uid": "n53Ipz24c",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Coordinated disclosure attempts to find a reasonable middle ground between Private and Full disclosure models. With coordinated disclosure, the initial report is made privately, but with the full details being published once a patch has been made available.",
+                "uid": "zft2qQPhL",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Addressing vulnerabilities requires time and resources. While discussing the initial report we'll agree with you on a deadline for addressing it. If this deadline is not met, then you may adopt the full disclosure approach, and publish the full details. In our case the default deadline is 90 days.",
+                "uid": "dAn9qM1kh",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "Google's Project Zero adopts a similar approach, where the full details of the vulnerability are published after 90 days regardless of whether or not the organisation has published a patch.",
+                "uid": "jl056ykei",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "Nk2ARqnoL",
+            "edit-time": 1620316867838,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          },
+          {
+            "string": "[🔗](https://github.com/Roam-Research/issues/security/policy#ground-rules)Ground Rules",
+            "heading": 1,
+            "children": [
+              {
+                "string": "To encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:",
+                "children": [
+                  {
+                    "string": "Play by the rules. This includes following this policy and any other relevant agreements;",
+                    "uid": "ojy-XZG79",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Report any vulnerability you’ve discovered promptly;",
+                    "uid": "sZLr1EXtv",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Avoid violating the privacy of others, disrupting our systems, destroying data, and/or harming user experience;",
+                    "uid": "d3ZC0jWqk",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Use only the Official Communication Channels to discuss vulnerability information with us;",
+                    "uid": "BSgkWohDv",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Handle the confidentiality of details of any discovered vulnerabilities according to our Disclosure Policy;",
+                    "uid": "cKlQ9TagN",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;",
+                    "uid": "C8IIsKUpM",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "If a vulnerability provides unintended access to data: Limit the amount of data you access to the minimum required for effectively demonstrating a Proof of Concept; and cease testing and submit a report immediately if you encounter any user data during testing, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information;",
+                    "uid": "tq0qJReP5",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "You should only interact with test accounts you own or with explicit permission from the account holder; and",
+                    "uid": "NmSsLhCS_",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Do not engage in extortion.",
+                    "uid": "GG_evbAFM",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "uid": "G2XvgQd_7",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "S1mjdNXJA",
+            "edit-time": 1620316867838,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          },
+          {
+            "string": "[🔗](https://github.com/Roam-Research/issues/security/policy#safe-harbor)Safe Harbor",
+            "heading": 1,
+            "children": [
+              {
+                "string": "When conducting vulnerability research according to this policy, we consider this research conducted under this policy to be:",
+                "children": [
+                  {
+                    "string": "Authorized in view of any applicable anti-hacking laws, and we will not initiate or support legal action against you for accidental, good faith violations of this policy;",
+                    "uid": "9rl7TyFgf",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Authorized in view of relevant anti-circumvention laws, and we will not bring a claim against you for circumvention of technology controls;",
+                    "uid": "QQY6w7wKD",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Exempt from restrictions in our Acceptable Usage Policy that would interfere with conducting security research, and we waive those restrictions on a limited basis; and",
+                    "uid": "YtXRwByTF",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  },
+                  {
+                    "string": "Lawful, helpful to the overall security of the Internet, and conducted in good faith.",
+                    "uid": "S7suMk6US",
+                    "edit-time": 1620316867838,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "uid": "i7300r8U2",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "You are expected, as always, to comply with all applicable laws. If legal action is initiated by a third party against you and you have complied with this policy, we will take steps to make it known that your actions were conducted in compliance with this policy.",
+                "uid": "BZpd0Zon4",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "If at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report through one of our Official Channels before going any further.",
+                "uid": "wfyG05fz6",
+                "edit-time": 1620316867838,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              }
+            ],
+            "uid": "Z9_JodpvW",
+            "edit-time": 1620316867838,
+            ":edit/user": {
+              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+            }
+          }
+        ],
+        "uid": "w9itNRdZ8",
+        "edit-time": 1620316916871,
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
+      },
+      {
+        "string": "[Security Advisories](https://github.com/Roam-Research/issues/security/advisories)",
+        "create-time": 1620316831067,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        },
+        "uid": "H5L1gcS87",
+        "edit-time": 1620316848581,
+        ":edit/user": {
+          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+        }
+      }
+    ],
+    "uid": "Dz5EfmkDa",
+    "edit-time": 1619046047884,
     ":edit/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
@@ -69184,10 +69810,34 @@
     }
   },
   {
-    "create-time": 1620180533994,
+    "create-time": 1620223420360,
     "title": "May 5th, 2021",
     "uid": "05-05-2021",
-    "edit-time": 1620180533994,
+    "edit-time": 1620223420360,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    }
+  },
+  {
+    "create-time": 1620269934561,
+    "title": "May 6th, 2021",
+    "uid": "05-06-2021",
+    "edit-time": 1620269934561,
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "create-time": 1620353604736,
+    "title": "May 7th, 2021",
+    "uid": "05-07-2021",
+    "edit-time": 1620353604736,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
