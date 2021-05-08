@@ -42580,6 +42580,67 @@
             },
             "children": [
               {
+                "edit-time": 1620367923735,
+                "children": [
+                  {
+                    "edit-time": 1620367929376,
+                    "children": [
+                      {
+                        "string": "Block embeds will now be expanded by default",
+                        "create-time": 1620367929368,
+                        "uid": "GIS4PCuUD",
+                        "edit-time": 1620367958095,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "uid": "8TT_rhYkG",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] ✨",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1620367928070,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "05-07-2021"
+                  }
+                ],
+                "uid": "P8T_Qf2UF",
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-07-2021"
+                  }
+                ],
+                "string": "[[May 7th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1620367920920,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
                 "edit-time": 1620192793907,
                 "children": [
                   {
@@ -43472,7 +43533,7 @@
                             ":create/user": {
                               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                             },
-                            "uid": "krKdwXeKQ",
+                            "uid": "0KQIIJquu",
                             "edit-time": 1619674728494,
                             ":edit/user": {
                               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
@@ -69834,10 +69895,22 @@
     }
   },
   {
-    "create-time": 1620353604736,
+    "create-time": 1620367923045,
     "title": "May 7th, 2021",
     "uid": "05-07-2021",
-    "edit-time": 1620353604736,
+    "edit-time": 1620367923045,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1620439882822,
+    "title": "May 8th, 2021",
+    "uid": "05-08-2021",
+    "edit-time": 1620439882822,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
