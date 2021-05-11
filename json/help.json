@@ -27008,6 +27008,53 @@
                     ":edit/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     }
+                  },
+                  {
+                    "edit-time": 1620662805734,
+                    "refs": [
+                      {
+                        "uid": "sB0yQf6IR"
+                      }
+                    ],
+                    "uid": "RrTlhKeJk",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "sB0yQf6IR"
+                      }
+                    ],
+                    "string": "[Roam Essentials](https://nesslabs.com/roam-essentials) by [[Anne-Laure Le Cunff]] $49",
+                    ":create/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    "create-time": 1620662690870,
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    "heading": 2
+                  },
+                  {
+                    "string": "Learn how to make the most out of Roam with real-life examples and powerful mental models. Nesslabs's Anne-Laure Le Cunff will guide you through the essentials with short videos and templates for a variety of workflows, helping you kickstart your Roam journey.",
+                    "create-time": 1620662777744,
+                    "uid": "jsCfIX3gh",
+                    "edit-time": 1620662794061,
+                    ":create/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    }
+                  },
+                  {
+                    "string": "",
+                    "create-time": 1620662754872,
+                    "uid": "k9XusirW5",
+                    "edit-time": 1620662754872,
+                    ":create/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                    }
                   }
                 ],
                 "refs": [
@@ -69919,10 +69966,36 @@
     }
   },
   {
-    "create-time": 1620613073354,
+    "create-time": 1620642707289,
     "title": "May 10th, 2021",
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    "children": [
+      {
+        "string": "",
+        "create-time": 1620651027652,
+        "uid": "lfMng6Y0_",
+        "edit-time": 1620651027652,
+        ":create/user": {
+          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+        },
+        ":edit/user": {
+          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+        }
+      }
+    ],
     "uid": "05-10-2021",
-    "edit-time": 1620613073354,
+    "edit-time": 1620642707289,
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    }
+  },
+  {
+    "create-time": 1620699332717,
+    "title": "May 11th, 2021",
+    "uid": "05-11-2021",
+    "edit-time": 1620699332717,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
