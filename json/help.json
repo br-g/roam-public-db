@@ -43059,6 +43059,221 @@
             },
             "children": [
               {
+                "edit-time": 1621316221920,
+                "children": [
+                  {
+                    "edit-time": 1621318368070,
+                    "children": [
+                      {
+                        "edit-time": 1621318437910,
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fy0yYV8dNw_.png?alt=media&token=df5b78f9-3a25-4a8c-8b7c-3eed0dba191e)",
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fy0yYV8dNw_.png?alt=media&token=df5b78f9-3a25-4a8c-8b7c-3eed0dba191e": {
+                                  "width": 347,
+                                  "height": null
+                                }
+                              }
+                            },
+                            "create-time": 1621318678785,
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fy0yYV8dNw_.png?alt=media&token=df5b78f9-3a25-4a8c-8b7c-3eed0dba191e": {
+                                  ":width": 347,
+                                  ":height": null
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "E6BWxJ06S",
+                            "edit-time": 1621318688731,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "string": "Brought to you by:: [[Kifah Meeran]] [[Joshua Brown]]",
+                            "create-time": 1621318448447,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "w3-eryhFP"
+                              },
+                              {
+                                ":block/uid": "IdWJv42cv"
+                              },
+                              {
+                                ":block/uid": "5K19Sylm0"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "w3-eryhFP"
+                              },
+                              {
+                                "uid": "IdWJv42cv"
+                              },
+                              {
+                                "uid": "5K19Sylm0"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "xErJjWxk-",
+                            "edit-time": 1621318457298,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          },
+                          {
+                            "string": "Special mention to:: [[Roam42]] [[Clara Pastore]]",
+                            "create-time": 1621318493793,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "pxtI56Wn5"
+                              },
+                              {
+                                ":block/uid": "bi6DFS7g3"
+                              },
+                              {
+                                ":block/uid": "ExJzrkebg"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "pxtI56Wn5"
+                              },
+                              {
+                                "uid": "bi6DFS7g3"
+                              },
+                              {
+                                "uid": "ExJzrkebg"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            },
+                            "uid": "bLg8JaFzZ",
+                            "edit-time": 1621318513170,
+                            ":edit/user": {
+                              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "eOaNXBvXZ"
+                          }
+                        ],
+                        "uid": "OKMUuH_TZ",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "eOaNXBvXZ"
+                          }
+                        ],
+                        "string": "You can now quickly jump to/between [[Daily Notes]] pages using the date picker!",
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        "create-time": 1621318369275,
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "uid": "3DQQuG_61",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]] 🚀",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1621318341157,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  },
+                  {
+                    "string": "Open graph-view for page has been moved into the dropdown menu",
+                    "create-time": 1621322222903,
+                    "uid": "SzzE3Whn1",
+                    "edit-time": 1621322239656,
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  },
+                  {
+                    "string": "[[Secret Feature]] - to be announced after round on testing",
+                    "create-time": 1621316221901,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "EpL5GUHaa"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "EpL5GUHaa"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "uid": "V1RLPs0ai",
+                    "edit-time": 1621316259228,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "",
+                    "create-time": 1621322221023,
+                    "uid": "xuC9LNCUf",
+                    "edit-time": 1621322221023,
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "05-17-2021"
+                  }
+                ],
+                "uid": "DfQWNRv0u",
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-17-2021"
+                  }
+                ],
+                "string": "[[May 17th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1621316209749,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
                 "edit-time": 1621138716953,
                 "children": [
                   {
@@ -43362,7 +43577,8 @@
                     "create-time": 1621138772654,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -71130,10 +71346,70 @@
     }
   },
   {
-    "create-time": 1621301508935,
+    "create-time": 1621316233981,
+    "title": "Secret Feature",
+    "uid": "EpL5GUHaa",
+    "edit-time": 1621316233994,
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1621318498886,
+    "title": "Special mention to",
+    "uid": "pxtI56Wn5",
+    "edit-time": 1621318498887,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1621318513172,
+    "title": "Roam42",
+    "uid": "bi6DFS7g3",
+    "edit-time": 1621318513173,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1621318513172,
+    "title": "Clara Pastore",
+    "uid": "ExJzrkebg",
+    "edit-time": 1621318513173,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1621351765680,
     "title": "May 18th, 2021",
     "uid": "05-18-2021",
-    "edit-time": 1621301508936,
+    "edit-time": 1621351765680,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    }
+  },
+  {
+    "create-time": 1621387823773,
+    "title": "May 19th, 2021",
+    "uid": "05-19-2021",
+    "edit-time": 1621387823773,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
