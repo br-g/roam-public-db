@@ -898,8 +898,34 @@
     },
     "children": [
       {
+        "string": "Turn key commands instruction on with custom components like this",
+        "create-time": 1621450034015,
+        ":create/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        },
+        "children": [
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FCGJbyfjuGM.gif?alt=media&token=8bcd4699-2548-43b1-844c-dc91d675ae9f)",
+            "create-time": 1621450206354,
+            "uid": "o6uyFqegt",
+            "edit-time": 1621450214365,
+            ":create/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            },
+            ":edit/user": {
+              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+            }
+          }
+        ],
+        "uid": "ZsaHDoMqW",
+        "edit-time": 1621450257614,
+        ":edit/user": {
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+        }
+      },
+      {
         "string": "{{roam/render: ((IzVR1PHWM))}}",
-        "create-time": 1616395500016,
+        "create-time": 1621432822672,
         ":block/refs": [
           {
             ":block/uid": "IzVR1PHWM"
@@ -911,12 +937,12 @@
           }
         ],
         ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
         },
-        "uid": "A2p4UbLhY",
-        "edit-time": 1616395635030,
+        "uid": "5RqhDjKBt",
+        "edit-time": 1621432827122,
         ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
         }
       },
       {
@@ -71348,11 +71374,49 @@
   {
     "create-time": 1621316233981,
     "title": "Secret Feature",
-    "uid": "EpL5GUHaa",
-    "edit-time": 1621316233994,
     ":create/user": {
       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
     },
+    "children": [
+      {
+        "edit-time": 1621468113192,
+        "children": [
+          {
+            "string": "https://twitter.com/Conaw/status/1395106529427214337?s=20",
+            "create-time": 1621468115015,
+            "uid": "WDKNe8Jre",
+            "edit-time": 1621468116526,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "V1RLPs0ai"
+          }
+        ],
+        "uid": "lLqEokLHU",
+        ":block/refs": [
+          {
+            ":block/uid": "V1RLPs0ai"
+          }
+        ],
+        "string": "((V1RLPs0ai))",
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1621468113192,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      }
+    ],
+    "uid": "EpL5GUHaa",
+    "edit-time": 1621316233994,
     ":edit/user": {
       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
     }
@@ -71406,10 +71470,22 @@
     }
   },
   {
-    "create-time": 1621387823773,
+    "create-time": 1621412497599,
     "title": "May 19th, 2021",
     "uid": "05-19-2021",
-    "edit-time": 1621387823773,
+    "edit-time": 1621412497599,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1621474225183,
+    "title": "May 20th, 2021",
+    "uid": "05-20-2021",
+    "edit-time": 1621474225184,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
