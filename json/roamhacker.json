@@ -29,39 +29,74 @@
     "title": "Roam42",
     "children": [
       {
-        "string": "Contact me on Twitter at [@RoamHacker](https://twitter.com/roamhacker)",
-        "create-time": 1596569633918,
+        "string": "",
+        "create-time": 1622014069536,
+        "uid": "UaSD9wbpO",
+        "edit-time": 1622014069536,
         ":create/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         },
-        "children": [
-          {
-            "string": "[YouTube channel](https://www.youtube.com/channel/UClmpveyXiwZP3PlKpDKdGEA)",
-            "create-time": 1598096089021,
-            "uid": "ZKK6QCLs6",
-            "edit-time": 1603635892409,
-            ":create/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            },
-            ":edit/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            }
-          },
-          {
-            "string": "",
-            "create-time": 1607524940346,
-            "uid": "f3oTqhBz0",
-            "edit-time": 1607524961827,
-            ":create/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            },
-            ":edit/user": {
-              ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-            }
-          }
-        ],
-        "uid": "-SJ31tGR0",
-        "edit-time": 1603635221878,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "^^Roam42 has a new site for support, please visit: https://roamjs.com/extensions/roam42^^",
+        "create-time": 1622014049418,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "_yh1AZnwa",
+        "edit-time": 1622014110309,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014067779,
+        "uid": "LOMd5g8ZC",
+        "edit-time": 1622014067779,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014067942,
+        "uid": "pF2JkkV0W",
+        "edit-time": 1622014067942,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014068097,
+        "uid": "Q5zNTYm70",
+        "edit-time": 1622014068097,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014067284,
+        "uid": "eXABttEW3",
+        "edit-time": 1622014067284,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
         ":edit/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         }
@@ -69,7 +104,6 @@
       {
         "string": "Roam42 extension to Roam",
         "create-time": 1593973118389,
-        "heading": 1,
         ":create/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         },
@@ -4585,22 +4619,23 @@
     "title": "Roam42 Installation",
     "children": [
       {
-        "string": "Installation instructions now loacted here:\n",
-        "create-time": 1621167002636,
-        "uid": "3CnkDC49x",
-        "edit-time": 1621167013647,
+        "string": "^^Roam42 has a new site for support, please visit: https://roamjs.com/extensions/roam42^^",
+        "create-time": 1622014125764,
+        "heading": 1,
         ":create/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         },
+        "uid": "WqsehZwMq",
+        "edit-time": 1622014126973,
         ":edit/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         }
       },
       {
-        "string": "[Roam42 (roamjs.com)](https://roamjs.com/extensions/roam42)",
-        "create-time": 1621167013641,
-        "uid": "Q427jHf2o",
-        "edit-time": 1621167014515,
+        "string": "",
+        "create-time": 1622014127225,
+        "uid": "ld0u8F3UR",
+        "edit-time": 1622014127225,
         ":create/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         },
@@ -6983,27 +7018,42 @@
     },
     "children": [
       {
-        "edit-time": 1603634984108,
-        "refs": [
-          {
-            "uid": "UeoxCm8rm"
-          }
-        ],
-        "uid": "oRA1amXN2",
-        ":block/refs": [
-          {
-            ":block/uid": "UeoxCm8rm"
-          }
-        ],
-        "string": "[Installation instructions for Roam 42]([[Roam42 Installation]])",
+        "string": "",
+        "create-time": 1598970050734,
+        "heading": 3,
         ":create/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         },
-        "create-time": 1598970050734,
+        "uid": "oRA1amXN2",
+        "edit-time": 1622014146513,
         ":edit/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "^^Roam42 has a new site for support, please visit: https://roamjs.com/extensions/roam42^^",
+        "create-time": 1622014139951,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         },
-        "heading": 3
+        "uid": "ou3m9Pn-b",
+        "edit-time": 1622014139951,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014139951,
+        "uid": "yLkE5YrmQ",
+        "edit-time": 1622014139951,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
       },
       {
         "string": "",
@@ -18416,6 +18466,80 @@
       ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
     },
     "children": [
+      {
+        "string": "",
+        "create-time": 1622014179708,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "zm5qHFNJ-",
+        "edit-time": 1622014179708,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "^^Roam42 has a new site for support, please visit: https://roamjs.com/extensions/roam42^^",
+        "create-time": 1622014179708,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "a_hwkYqKM",
+        "edit-time": 1622014179708,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014179708,
+        "uid": "Hv5dgMz5A",
+        "edit-time": 1622014179708,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014178577,
+        "uid": "nSK5Ki_Dm",
+        "edit-time": 1622014178577,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014177166,
+        "uid": "WOeeyAjPi",
+        "edit-time": 1622014177166,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014176945,
+        "uid": "kM2rzuFsJ",
+        "edit-time": 1622014176945,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
       {
         "string": "> **SmartBlocks** __adding a new dimension to Roam, making it a\nprogrammable note-taking tool for networked thought.__",
         "create-time": 1606297199830,
@@ -39735,6 +39859,56 @@
     },
     "children": [
       {
+        "string": "",
+        "create-time": 1622014160861,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "Imba6Ge_L",
+        "edit-time": 1622014160861,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "^^Roam42 has a new site for support, please visit: https://roamjs.com/extensions/roam42^^",
+        "create-time": 1622014160861,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "75hk-iCjy",
+        "edit-time": 1622014160861,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014160861,
+        "uid": "WhTVChAZP",
+        "edit-time": 1622014160861,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014159566,
+        "uid": "0W2E5304W",
+        "edit-time": 1622014159566,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
         "string": "Some features in Roam42 can be configured by adding settings to your local graph database. The following is a list of such settings that can be modified.",
         "create-time": 1607871584750,
         "uid": "WSGiqrsDc",
@@ -44912,6 +45086,68 @@
     },
     "children": [
       {
+        "string": "",
+        "create-time": 1622014244067,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "5ICQ7k9b5",
+        "edit-time": 1622014244067,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "^^Roam42 has a new site for support, please visit: https://roamjs.com/extensions/roam42^^",
+        "create-time": 1622014244067,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "Uc0uAMs7V",
+        "edit-time": 1622014244067,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014244067,
+        "uid": "sBiEeeinV",
+        "edit-time": 1622014244067,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014243225,
+        "uid": "d_FL7gKA-",
+        "edit-time": 1622014243225,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014242968,
+        "uid": "MJgqSY2m5",
+        "edit-time": 1622014242968,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
         "string": "Roam42 has a number of useful functions that can be reused by other SmartBlock builders who know JavaScript",
         "create-time": 1615978620214,
         "uid": "C2_CMjG7V",
@@ -45782,10 +46018,71 @@
     },
     "children": [
       {
-        "string": "^^UNDER DEVELOPMENT - BETA FEATURE IN TESTERS BUILD^^",
+        "string": "",
+        "create-time": 1622014204109,
+        "uid": "GFovi2nZJ",
+        "edit-time": 1622014204109,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "^^Roam42 has a new site for support, please visit: https://roamjs.com/extensions/roam42^^",
+        "create-time": 1622014207595,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "QsxdiUoFT",
+        "edit-time": 1622014207595,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014207595,
+        "uid": "vyAH6wfBa",
+        "edit-time": 1622014207595,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014204919,
+        "uid": "6xYrF8AMl",
+        "edit-time": 1622014204919,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014205326,
+        "uid": "qTEVSADF2",
+        "edit-time": 1622014205326,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
         "create-time": 1616757683026,
         "uid": "AWVAL0L05",
-        "edit-time": 1616757703068,
+        "edit-time": 1622014204127,
         ":create/user": {
           ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
         },
@@ -47946,6 +48243,68 @@
     },
     "children": [
       {
+        "string": "",
+        "create-time": 1622014221179,
+        "heading": 3,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "J2Jtz5K9R",
+        "edit-time": 1622014221179,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "^^Roam42 has a new site for support, please visit: https://roamjs.com/extensions/roam42^^",
+        "create-time": 1622014221179,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        "uid": "XBIW-2Qxu",
+        "edit-time": 1622014221179,
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014221179,
+        "uid": "Riwqqmqof",
+        "edit-time": 1622014221179,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014219455,
+        "uid": "KgewtEdJl",
+        "edit-time": 1622014219455,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622014219069,
+        "uid": "VZPbfIosT",
+        "edit-time": 1622014219069,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
         "string": "If you are a developer and interested in using the workBench feature with your own JavaScript code, this section provides you with an explanation of how the Command Palette works and how to integrate with it.",
         "create-time": 1616757725641,
         "uid": "B-7MwFD-J",
@@ -48936,18 +49295,6 @@
     ],
     "uid": "05-16-2021",
     "edit-time": 1621166921984,
-    ":edit/user": {
-      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-    }
-  },
-  {
-    "create-time": 1621167137419,
-    "title": "firebase",
-    "uid": "MBzhBfBEI",
-    "edit-time": 1621167137420,
-    ":create/user": {
-      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
-    },
     ":edit/user": {
       ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
     }
