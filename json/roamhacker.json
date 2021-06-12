@@ -49310,5 +49310,17 @@
     ":edit/user": {
       ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
     }
+  },
+  {
+    "create-time": 1623409042243,
+    "title": "June 11th, 2021",
+    "uid": "06-11-2021",
+    "edit-time": 1623409042243,
+    ":create/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    },
+    ":edit/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    }
   }
 ]
