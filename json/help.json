@@ -43189,6 +43189,152 @@
             },
             "children": [
               {
+                "edit-time": 1623693421748,
+                "children": [
+                  {
+                    "edit-time": 1623693435013,
+                    "children": [
+                      {
+                        "string": "Desktop app for macOS, Linux, and Windows is out now!",
+                        "create-time": 1623693435005,
+                        ":create/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        "children": [
+                          {
+                            "string": "Download from the `...` menu in the top right of your screen, the [[Graphs and Settings]] page, or [our home page](https://roamresearch.com)",
+                            "create-time": 1623693440455,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "HDaMeE-YM"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "HDaMeE-YM"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            "uid": "wuo4wPYHk",
+                            "edit-time": 1623693537607,
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            }
+                          }
+                        ],
+                        "uid": "wFHh4kZ1a",
+                        "edit-time": 1623693490643,
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "uid": "gVNyZXG8O",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "h_pvMVa7e"
+                      }
+                    ],
+                    "string": "[[New Features]] 🚀",
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "create-time": 1623693421736,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "06-11-2021"
+                  }
+                ],
+                "uid": "7atF5b5Xy",
+                ":block/refs": [
+                  {
+                    ":block/uid": "06-11-2021"
+                  }
+                ],
+                "string": "[[June 11th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1623693413230,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "edit-time": 1623683611676,
+                "children": [
+                  {
+                    "edit-time": 1623683788271,
+                    "children": [
+                      {
+                        "string": "Much faster load times when opening a graph",
+                        "create-time": 1623683792025,
+                        "uid": "B2tzJ7SQ2",
+                        "edit-time": 1623683811476,
+                        ":create/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "uid": "eFIFQykvV",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]] ✨",
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "create-time": 1623683611659,
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "06-09-2021"
+                  }
+                ],
+                "uid": "tFvPKW-2d",
+                ":block/refs": [
+                  {
+                    ":block/uid": "06-09-2021"
+                  }
+                ],
+                "string": "[[June 9th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1623683558120,
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
                 "edit-time": 1623430873093,
                 "children": [
                   {
@@ -43225,7 +43371,8 @@
                     "create-time": 1623430885402,
                     ":edit/user": {
                       ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                    }
+                    },
+                    "heading": 3
                   }
                 ],
                 "refs": [
@@ -71015,10 +71162,22 @@
     }
   },
   {
-    "create-time": 1623634118690,
+    "create-time": 1623653801433,
     "title": "June 14th, 2021",
     "uid": "06-14-2021",
-    "edit-time": 1623634118690,
+    "edit-time": 1623653801433,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1623720608550,
+    "title": "June 15th, 2021",
+    "uid": "06-15-2021",
+    "edit-time": 1623720608550,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
