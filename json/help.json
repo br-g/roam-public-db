@@ -71831,10 +71831,22 @@
     }
   },
   {
-    "create-time": 1626830881027,
+    "create-time": 1626898531251,
     "title": "July 21st, 2021",
     "uid": "07-21-2021",
-    "edit-time": 1626830881027,
+    "edit-time": 1626898531251,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1626917277188,
+    "title": "July 22nd, 2021",
+    "uid": "07-22-2021",
+    "edit-time": 1626917277188,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
