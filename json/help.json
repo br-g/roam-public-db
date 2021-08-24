@@ -5741,7 +5741,7 @@
         "edit-time": 1614781654212,
         "children": [
           {
-            "edit-time": 1614880144489,
+            "edit-time": 1629703813954,
             "children": [
               {
                 "string": "{{iframe: https://www.roamtips.com/home/create-tables-roam-research}}",
@@ -5787,13 +5787,13 @@
                 ":block/uid": "TF3K-ab5g"
               }
             ],
-            "string": "[How to build a table in Roam Research](https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]]",
+            "string": "[How to build a table in Roam Research](https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]] ((edit table))",
             ":create/user": {
               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
             },
             "create-time": 1614880094150,
             ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
             }
           }
         ],
@@ -43431,6 +43431,94 @@
                                     ":edit/user": {
                                       ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                                     }
+                                  },
+                                  {
+                                    "string": "{{[[video-timestamp]]: 00:08:57}}",
+                                    "create-time": 1629693914805,
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    "uid": "m3QGNRH-c",
+                                    "edit-time": 1629693916467,
+                                    ":edit/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    }
+                                  },
+                                  {
+                                    "string": "{{[[video-timestamp]]: 00:09:02}}",
+                                    "create-time": 1629693919617,
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    "uid": "ZeUJkHmfk",
+                                    "edit-time": 1629693921692,
+                                    ":edit/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    }
+                                  },
+                                  {
+                                    "string": "{{[[video-timestamp]]: 00:09:43}}",
+                                    "create-time": 1629693787451,
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    "uid": "35X8m8oRc",
+                                    "edit-time": 1629693962145,
+                                    ":edit/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    }
+                                  },
+                                  {
+                                    "string": "{{[[video-timestamp]]: 00:09:45}}",
+                                    "create-time": 1629693962339,
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "wOgeziZ8U"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    },
+                                    "uid": "PGPilOAxo",
+                                    "edit-time": 1629693964001,
+                                    ":edit/user": {
+                                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                                    }
                                   }
                                 ],
                                 "refs": [
@@ -72479,10 +72567,34 @@
     }
   },
   {
-    "create-time": 1629681789940,
+    "create-time": 1629692523193,
+    "title": "Jessy Huang",
+    "uid": "4-X_oVP1L",
+    "edit-time": 1629692523193,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1629692523195,
+    "title": "August 22nd, 2021",
+    "uid": "08-22-2021",
+    "edit-time": 1629692523195,
+    ":create/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    },
+    ":edit/user": {
+      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+    }
+  },
+  {
+    "create-time": 1629768282032,
     "title": "Bruno Godefroy",
-    "uid": "gtowlr1Ke",
-    "edit-time": 1629681789940,
+    "uid": "h5rXP1YV1",
+    "edit-time": 1629768282032,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -72491,10 +72603,10 @@
     }
   },
   {
-    "create-time": 1629681789946,
-    "title": "August 23rd, 2021",
-    "uid": "08-23-2021",
-    "edit-time": 1629681789946,
+    "create-time": 1629768282039,
+    "title": "August 24th, 2021",
+    "uid": "08-24-2021",
+    "edit-time": 1629768282039,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
