@@ -43318,6 +43318,128 @@
             },
             "children": [
               {
+                "edit-time": 1630000804685,
+                "children": [
+                  {
+                    "edit-time": 1630000909272,
+                    "children": [
+                      {
+                        "string": "Fixed bug where when opening references of a block in the sidebar, two instances would show up",
+                        "create-time": 1630000916394,
+                        "uid": "BEQk4oRiw",
+                        "edit-time": 1630001006374,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Fixed issues around Display Name not showing",
+                        "create-time": 1630001019345,
+                        "uid": "ntZdB9OH_",
+                        "edit-time": 1630001040885,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "uid": "6SNTqQ8TR",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "xxFKZqzYN"
+                      }
+                    ],
+                    "string": "[[Bug Fixes]]  🛠",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1630000901447,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  },
+                  {
+                    "edit-time": 1630000813317,
+                    "children": [
+                      {
+                        "string": "Fixed bug for removing window via front-end API",
+                        "create-time": 1630000815592,
+                        "uid": "f0gaf9FNd",
+                        "edit-time": 1630000881096,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      },
+                      {
+                        "string": "Fixed bug for opening mentions in sidebar via front-end API",
+                        "create-time": 1630000846374,
+                        "uid": "dNDffF1s4",
+                        "edit-time": 1630000878151,
+                        ":create/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "RtfLGrv81"
+                      }
+                    ],
+                    "uid": "frRwhbd4g",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "RtfLGrv81"
+                      }
+                    ],
+                    "string": "[[Developer Notes]] 🧑‍💻 ",
+                    ":create/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "create-time": 1630000804673,
+                    ":edit/user": {
+                      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                    },
+                    "heading": 3
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "08-26-2021"
+                  }
+                ],
+                "uid": "Kbjsq6pDV",
+                ":block/refs": [
+                  {
+                    ":block/uid": "08-26-2021"
+                  }
+                ],
+                "string": "[[August 26th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                },
+                "create-time": 1630000798826,
+                ":edit/user": {
+                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                }
+              },
+              {
                 "edit-time": 1628735516922,
                 "children": [
                   {
@@ -72591,10 +72713,22 @@
     }
   },
   {
-    "create-time": 1629941075653,
+    "create-time": 1630000804334,
+    "title": "August 26th, 2021",
+    "uid": "08-26-2021",
+    "edit-time": 1630000804334,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1630027636988,
     "title": "Bruno Godefroy",
-    "uid": "VABTEcTcL",
-    "edit-time": 1629941075653,
+    "uid": "I5hzD7W8c",
+    "edit-time": 1630027636988,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -72603,10 +72737,10 @@
     }
   },
   {
-    "create-time": 1629941075658,
-    "title": "August 26th, 2021",
-    "uid": "08-26-2021",
-    "edit-time": 1629941075658,
+    "create-time": 1630027636993,
+    "title": "August 27th, 2021",
+    "uid": "08-27-2021",
+    "edit-time": 1630027636993,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
