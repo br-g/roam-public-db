@@ -16724,15 +16724,15 @@
                 }
               },
               {
-                "string": "Each of those pages may contain different data, but all of those pages refer to the same concept... ebooks. Annoying, right?",
+                "string": "Each of those pages may contain different data, but all of those pages refer to the same concept... ebooks.",
                 "create-time": 1605645576983,
                 "uid": "HkafK0XX0",
-                "edit-time": 1616393902237,
+                "edit-time": 1631806884122,
                 ":create/user": {
                   ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 }
               },
               {
@@ -16822,15 +16822,23 @@
                 }
               },
               {
-                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FRoamanAuxilium%2FPmvrZ7mDlH.gif?alt=media&token=0aaad38b-8fff-4013-9677-5c4857fe8e6b)",
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FV4JRLfwMfR.gif?alt=media&token=71d96972-dcdd-497d-89ed-7d6aa09625b1)",
+                "uid": "REuPW7Mt6",
+                "edit-time": 1631806915632,
+                ":edit/user": {
+                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+                }
+              },
+              {
+                "string": "",
                 "create-time": 1606579586663,
                 "uid": "UDGUksPVn",
-                "edit-time": 1616393902237,
+                "edit-time": 1631806878386,
                 ":create/user": {
                   ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 },
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                 }
               }
             ],
@@ -72041,25 +72049,11 @@
   {
     "create-time": 1623071883444,
     "title": "June 7th, 2021",
+    "uid": "06-07-2021",
+    "edit-time": 1623071883444,
     ":create/user": {
       ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
     },
-    "children": [
-      {
-        "string": "",
-        "create-time": 1623072125810,
-        "uid": "AjXt81OHc",
-        "edit-time": 1623072128909,
-        ":create/user": {
-          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-        },
-        ":edit/user": {
-          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-        }
-      }
-    ],
-    "uid": "06-07-2021",
-    "edit-time": 1623071883444,
     ":edit/user": {
       ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
     }
@@ -72777,10 +72771,22 @@
     }
   },
   {
-    "create-time": 1631755703897,
+    "create-time": 1631797252876,
+    "title": "September 16th, 2021",
+    "uid": "09-16-2021",
+    "edit-time": 1631797252876,
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    }
+  },
+  {
+    "create-time": 1631842155885,
     "title": "Bruno Godefroy",
-    "uid": "Qf0nV3Yw8",
-    "edit-time": 1631755703897,
+    "uid": "MuHoSQftB",
+    "edit-time": 1631842155885,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -72789,10 +72795,10 @@
     }
   },
   {
-    "create-time": 1631755703903,
-    "title": "September 16th, 2021",
-    "uid": "09-16-2021",
-    "edit-time": 1631755703903,
+    "create-time": 1631842155893,
+    "title": "September 17th, 2021",
+    "uid": "09-17-2021",
+    "edit-time": 1631842155893,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
