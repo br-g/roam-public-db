@@ -43433,13 +43433,29 @@
                     "edit-time": 1632808150411,
                     "children": [
                       {
-                        "string": "Added a shortcut (`Cmd/Ctrl+Opt+R`) to toggle Youtube video playback while typing in a block",
+                        "string": "Added a shortcut (`Cmd/Ctrl+Opt+R`) to toggle [[Youtube]] [[Videos]] playback while typing in a block",
                         "create-time": 1632808239578,
-                        "uid": "DvyCcM1tu",
-                        "edit-time": 1632808293792,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "vXELsl5zA"
+                          },
+                          {
+                            ":block/uid": "wWQR9IMwk"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "vXELsl5zA"
+                          },
+                          {
+                            "uid": "wWQR9IMwk"
+                          }
+                        ],
                         ":create/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         },
+                        "uid": "DvyCcM1tu",
+                        "edit-time": 1633461050084,
                         ":edit/user": {
                           ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                         }
@@ -74152,10 +74168,22 @@
     }
   },
   {
-    "create-time": 1633397222240,
+    "create-time": 1633461045271,
+    "title": "Youtube",
+    "uid": "wWQR9IMwk",
+    "edit-time": 1633461045274,
+    ":create/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    },
+    ":edit/user": {
+      ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+    }
+  },
+  {
+    "create-time": 1633483624108,
     "title": "Bruno Godefroy",
-    "uid": "q7W4CDfe-",
-    "edit-time": 1633397222240,
+    "uid": "x2Oh_vgXF",
+    "edit-time": 1633483624108,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -74164,10 +74192,10 @@
     }
   },
   {
-    "create-time": 1633397222245,
-    "title": "October 5th, 2021",
-    "uid": "10-05-2021",
-    "edit-time": 1633397222245,
+    "create-time": 1633483624113,
+    "title": "October 6th, 2021",
+    "uid": "10-06-2021",
+    "edit-time": 1633483624113,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
