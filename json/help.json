@@ -35154,15 +35154,25 @@
                     }
                   },
                   {
-                    "string": "Bob:  \"A tree falling in a deserted forest does not [generate auditory experiences].\" {{alias: ((1597)) 4}}",
+                    "string": "Bob:  \"A tree falling in a deserted forest does not [generate auditory experiences].\" [4](((T8k78DDAe)))",
                     "create-time": 1617137848516,
-                    "uid": "hRYGZUUSf",
-                    "edit-time": 1617137848516,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "T8k78DDAe"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "T8k78DDAe"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                     },
+                    "uid": "hRYGZUUSf",
+                    "edit-time": 1635488039974,
                     ":edit/user": {
-                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                     }
                   }
                 ],
@@ -35206,15 +35216,25 @@
             }
           },
           {
-            "string": "The ability to use clearly defined sets within a dependency graph helps to resolve ambiguity, reducing the chances of participants talking at cross-purposes, or deliberate “motte-and-bailey” style strategic equivocation.{{alias: ((1598)) 5}}",
+            "string": "The ability to use clearly defined sets within a dependency graph helps to resolve ambiguity, reducing the chances of participants talking at cross-purposes, or deliberate “motte-and-bailey” style strategic equivocation. [5](((MtGChSUvh)))",
             "create-time": 1617137848516,
-            "uid": "bHMkC49Hd",
-            "edit-time": 1617137848516,
+            ":block/refs": [
+              {
+                ":block/uid": "MtGChSUvh"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "MtGChSUvh"
+              }
+            ],
             ":create/user": {
               ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
             },
+            "uid": "bHMkC49Hd",
+            "edit-time": 1635488148177,
             ":edit/user": {
-              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
             }
           },
           {
@@ -35295,27 +35315,47 @@
                 }
               },
               {
-                "string": "Scott Alexander observes that his peers in psychiatry similarly try to attribute a collection of linked symptoms to a latent variable; for example, depression. {{alias: ((1599)) 6}} However, the symptoms ‘caused’ by depression - e.g. sleep disturbance, fatigue, guilt - can also have a causal effect on one another, and on the disorder itself. This complex web of relationships, which may include feedback loops, does not follow a path of linear causality. For complicated problems of this nature, nodal networks are a much more accurate model:",
+                "string": "Scott Alexander observes that his peers in psychiatry similarly try to attribute a collection of linked symptoms to a latent variable; for example, depression. [6](((36qeTMgmO))) However, the symptoms ‘caused’ by depression - e.g. sleep disturbance, fatigue, guilt - can also have a causal effect on one another, and on the disorder itself. This complex web of relationships, which may include feedback loops, does not follow a path of linear causality. For complicated problems of this nature, nodal networks are a much more accurate model:",
                 "create-time": 1617137848516,
-                "uid": "M6V6vx_a_",
-                "edit-time": 1617137848516,
+                ":block/refs": [
+                  {
+                    ":block/uid": "36qeTMgmO"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "36qeTMgmO"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
+                "uid": "M6V6vx_a_",
+                "edit-time": 1635488163392,
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                 }
               },
               {
-                "string": "A model of major depression (MD) and generalised anxiety disorder (GAD) by Nuijten, Deserno, Cramer, and Borsboom.{{alias: ((1600)) 7}} The disorders roughly map onto clusters of symptoms that are often found together and reinforce one another, but there is no clear ‘bright line’ between the conditions.",
+                "string": "A model of major depression (MD) and generalised anxiety disorder (GAD) by Nuijten, Deserno, Cramer, and Borsboom.[7](((rC_nGuzjf))) The disorders roughly map onto clusters of symptoms that are often found together and reinforce one another, but there is no clear ‘bright line’ between the conditions.",
                 "create-time": 1617137848516,
-                "uid": "5SQ8AOq_q",
-                "edit-time": 1617137848516,
+                ":block/refs": [
+                  {
+                    ":block/uid": "rC_nGuzjf"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "rC_nGuzjf"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
+                "uid": "5SQ8AOq_q",
+                "edit-time": 1635488186001,
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                 }
               },
               {
@@ -35623,27 +35663,47 @@
             },
             "children": [
               {
-                "string": "As the frequency of information increases, the world becomes noisier and noisier. Deliberate exposure to noise is a useful strategy in specific contexts, as described in Chapter 7,  but otherwise obscures meaning. {{alias: ((1601)) 8}} Given we have a propensity for imposing stories and explanations onto randomness - the narrative fallacy - it is becoming increasingly difficult to separate out genuine signal from noise. ",
+                "string": "As the frequency of information increases, the world becomes noisier and noisier. Deliberate exposure to noise is a useful strategy in specific contexts, as described in Chapter 7,  but otherwise obscures meaning. [8](((urKnXjnSR))) Given we have a propensity for imposing stories and explanations onto randomness - the narrative fallacy - it is becoming increasingly difficult to separate out genuine signal from noise. ",
                 "create-time": 1617137848516,
-                "uid": "09ZNnXbGP",
-                "edit-time": 1617137848516,
+                ":block/refs": [
+                  {
+                    ":block/uid": "urKnXjnSR"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "urKnXjnSR"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
+                "uid": "09ZNnXbGP",
+                "edit-time": 1635488076924,
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                 }
               },
               {
-                "string": "Assume a trend has a signal-to-noise ratio of 1:1 on an annual basis (50% of the data are meaningful, 50% are random). Observing the same data on a daily basis, the composition changes to 95% noise, 5% signal. Observing the data hourly (as news hounds and market junkies do), and it becomes 99.5% random - which is to say, two hundred times more noise than signal. {{alias: ((1602)) 9}}",
+                "string": "Assume a trend has a signal-to-noise ratio of 1:1 on an annual basis (50% of the data are meaningful, 50% are random). Observing the same data on a daily basis, the composition changes to 95% noise, 5% signal. Observing the data hourly (as news hounds and market junkies do), and it becomes 99.5% random - which is to say, two hundred times more noise than signal.[9](((_eOgBulZd)))",
                 "create-time": 1617137848516,
-                "uid": "bU0SEY6U2",
-                "edit-time": 1617137848516,
+                ":block/refs": [
+                  {
+                    ":block/uid": "_eOgBulZd"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_eOgBulZd"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
+                "uid": "bU0SEY6U2",
+                "edit-time": 1635488207717,
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                 }
               },
               {
@@ -74866,10 +74926,82 @@
     }
   },
   {
-    "create-time": 1635470753056,
+    "create-time": 1635488209848,
+    "title": "October 29th, 2021",
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    "children": [
+      {
+        "string": "{{[[query]]: {and: [[ex-A]] [[ex-B]]}}}",
+        "create-time": 1635492138474,
+        ":block/refs": [
+          {
+            ":block/uid": "Y_UVaLrNm"
+          },
+          {
+            ":block/uid": "8alQKp5g9"
+          },
+          {
+            ":block/uid": "g5sFpWHrL"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Y_UVaLrNm"
+          },
+          {
+            "uid": "8alQKp5g9"
+          },
+          {
+            "uid": "g5sFpWHrL"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        "uid": "gSYzSaYze",
+        "edit-time": 1635492142109,
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        }
+      }
+    ],
+    "uid": "10-29-2021",
+    "edit-time": 1635488209848,
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "create-time": 1635492142113,
+    "title": "ex-A",
+    "uid": "8alQKp5g9",
+    "edit-time": 1635492142116,
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "create-time": 1635492142113,
+    "title": "ex-B",
+    "uid": "g5sFpWHrL",
+    "edit-time": 1635492142116,
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "create-time": 1635557125705,
     "title": "Bruno Godefroy",
-    "uid": "rqBcQIZxU",
-    "edit-time": 1635470753056,
+    "uid": "UKejKzOFR",
+    "edit-time": 1635557125705,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -74878,10 +75010,10 @@
     }
   },
   {
-    "create-time": 1635470753062,
-    "title": "October 29th, 2021",
-    "uid": "10-29-2021",
-    "edit-time": 1635470753062,
+    "create-time": 1635557125710,
+    "title": "October 30th, 2021",
+    "uid": "10-30-2021",
+    "edit-time": 1635557125710,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
