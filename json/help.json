@@ -43316,6 +43316,262 @@
             },
             "children": [
               {
+                "edit-time": 1636483907887,
+                "children": [
+                  {
+                    "edit-time": 1636483922860,
+                    "children": [
+                      {
+                        "string": "Updated to `codemirror.next`",
+                        "create-time": 1636484195678,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "string": "Performance for large code blocks should be significantly better",
+                            "create-time": 1636484228921,
+                            "uid": "DSFyvZgMV",
+                            "edit-time": 1636484253627,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "uid": "ui6yTNs5l",
+                        "edit-time": 1636484344397,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "Styling changes",
+                        "create-time": 1636483987352,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "string": "**before**",
+                            "create-time": 1636484008677,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fzf8iKJxhjd.png?alt=media&token=840a48fc-71ce-4252-a6c7-d98ad3d85d3f)",
+                                "create-time": 1636484091941,
+                                "uid": "Nj7URJ7wd",
+                                "edit-time": 1636484114683,
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                }
+                              }
+                            ],
+                            "uid": "IZWEvkPC0",
+                            "edit-time": 1636484086261,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "**after**",
+                            "create-time": 1636484012218,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FVbqMOAbS_G.png?alt=media&token=0b5230ad-1701-4728-bf97-19d6fe45ee04)",
+                                "create-time": 1636484142304,
+                                "uid": "jc-sFlROc",
+                                "edit-time": 1636484144076,
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                }
+                              },
+                              {
+                                "string": "",
+                                "create-time": 1636484015489,
+                                "uid": "JnXLBEPq9",
+                                "edit-time": 1636484086261,
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                }
+                              }
+                            ],
+                            "uid": "X9e1Ed2Fd",
+                            "edit-time": 1636484086261,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "uid": "VE5cudH3_",
+                        "edit-time": 1636484086261,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "Added `latex` and `dart` languages",
+                        "create-time": 1636484276504,
+                        "uid": "paUhIBUlP",
+                        "edit-time": 1636484287361,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "Added collapsable code gutters",
+                        "create-time": 1636484158644,
+                        "uid": "7eguQpEBk",
+                        "edit-time": 1636484165962,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "Added highlighting matching brackets",
+                        "create-time": 1636484395148,
+                        "uid": "sAlmyO7x0",
+                        "edit-time": 1636484403752,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "Changed the default font to [fira code](https://github.com/tonsky/FiraCode)",
+                        "create-time": 1636484425893,
+                        "uid": "IMgHZTaCV",
+                        "edit-time": 1636484454030,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "Added line wrapping",
+                        "create-time": 1636484568563,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "edit-time": 1636484577023,
+                            "children": [
+                              {
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F7wwZFV60hs.png?alt=media&token=5c951c49-c9b4-4385-b2ac-30663b6d4b32)",
+                                "create-time": 1636484577017,
+                                "uid": "WLGrn3-8C",
+                                "edit-time": 1636484653922,
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            "uid": "Vgt6OBFEx",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            "string": "[[Example]]",
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "create-time": 1636484572125,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "uid": "-QYVemssH",
+                        "edit-time": 1636484572149,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "Zl4MvhXnM"
+                      },
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "uid": "SM5KTWUuW",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Zl4MvhXnM"
+                      },
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Code Block]] [[Quality of Life Improvements]]",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1636483907873,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "11-09-2021"
+                  }
+                ],
+                "uid": "CCY1ESikJ",
+                ":block/refs": [
+                  {
+                    ":block/uid": "11-09-2021"
+                  }
+                ],
+                "string": "[[November 9th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1636483905241,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              },
+              {
                 "edit-time": 1636162199012,
                 "children": [
                   {
@@ -75108,10 +75364,22 @@
     }
   },
   {
-    "create-time": 1636421181585,
+    "create-time": 1636483873902,
+    "title": "November 9th, 2021",
+    "uid": "11-09-2021",
+    "edit-time": 1636483873902,
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1636507582656,
     "title": "Bruno Godefroy",
-    "uid": "rMido1TWx",
-    "edit-time": 1636421181585,
+    "uid": "Am9GxX81A",
+    "edit-time": 1636507582656,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -75120,10 +75388,10 @@
     }
   },
   {
-    "create-time": 1636421181590,
-    "title": "November 9th, 2021",
-    "uid": "11-09-2021",
-    "edit-time": 1636421181590,
+    "create-time": 1636507582662,
+    "title": "November 10th, 2021",
+    "uid": "11-10-2021",
+    "edit-time": 1636507582662,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
