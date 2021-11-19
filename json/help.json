@@ -43316,6 +43316,70 @@
             },
             "children": [
               {
+                "edit-time": 1637216944750,
+                "children": [
+                  {
+                    "string": "Natural Language Date suggestions now work in \"Find or Create Page\" search bar",
+                    "create-time": 1637216974581,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": " Example screenshot",
+                        "create-time": 1637216945107,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FM37NPNdNsm.png?alt=media&token=90e32ba6-8c10-4cca-8ddc-ff78d605c8b0)",
+                            "create-time": 1637217037358,
+                            "uid": "DDW3DwXxl",
+                            "edit-time": 1637217309003,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "i1Rq0YlmK",
+                        "edit-time": 1637217037363,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "jerSmY0-4",
+                    "edit-time": 1637217030283,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "11-17-2021"
+                  }
+                ],
+                "uid": "wjnqzlXFt",
+                ":block/refs": [
+                  {
+                    ":block/uid": "11-17-2021"
+                  }
+                ],
+                "string": "[[November 17th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1637216941282,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              },
+              {
                 "edit-time": 1637002737951,
                 "children": [
                   {
@@ -43480,18 +43544,6 @@
                             "string": "`[[17 nov 2019]]`",
                             "create-time": 1636597018688,
                             "uid": "EIjXlZjt0",
-                            "edit-time": 1637002718678,
-                            ":create/user": {
-                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                            },
-                            ":edit/user": {
-                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                            }
-                          },
-                          {
-                            "string": "`[[day after tomorrow]]`",
-                            "create-time": 1636596402686,
-                            "uid": "9Pwt3eaPX",
                             "edit-time": 1637002718678,
                             ":create/user": {
                               ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
@@ -75680,10 +75732,22 @@
     }
   },
   {
-    "create-time": 1637198784472,
+    "create-time": 1637216902707,
+    "title": "November 18th, 2021",
+    "uid": "11-18-2021",
+    "edit-time": 1637216902708,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "create-time": 1637285194081,
     "title": "Bruno Godefroy",
-    "uid": "2UkpQEqMY",
-    "edit-time": 1637198784472,
+    "uid": "G1GXzSwnt",
+    "edit-time": 1637285194081,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -75692,10 +75756,10 @@
     }
   },
   {
-    "create-time": 1637198784477,
-    "title": "November 18th, 2021",
-    "uid": "11-18-2021",
-    "edit-time": 1637198784477,
+    "create-time": 1637285194087,
+    "title": "November 19th, 2021",
+    "uid": "11-19-2021",
+    "edit-time": 1637285194087,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
