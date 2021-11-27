@@ -22482,7 +22482,7 @@
             },
             "children": [
               {
-                "string": "Problems::",
+                "string": "[[Problems]]",
                 "refs": [
                   {
                     "uid": "97HMz9WEJ"
@@ -22496,46 +22496,10 @@
                     ":edit/user": {
                       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                     }
-                  },
-                  {
-                    "string": "Symptoms::",
-                    "refs": [
-                      {
-                        "uid": "5kfqwgeVw"
-                      }
-                    ],
-                    "uid": "-xCvyXNUO",
-                    "edit-time": 1620761788768,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "5kfqwgeVw"
-                      }
-                    ],
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
-                  },
-                  {
-                    "string": "Causes::",
-                    "refs": [
-                      {
-                        "uid": "85mI5bmLm"
-                      }
-                    ],
-                    "uid": "ubmbUT0hf",
-                    "edit-time": 1620761788768,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "85mI5bmLm"
-                      }
-                    ],
-                    ":edit/user": {
-                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-                    }
                   }
                 ],
                 "uid": "j2E1Nic6A",
-                "edit-time": 1620761788768,
+                "edit-time": 1637960426846,
                 ":block/refs": [
                   {
                     ":block/uid": "97HMz9WEJ"
@@ -22546,7 +22510,39 @@
                 }
               },
               {
-                "string": "Requirements::",
+                "string": "[[Symptoms]]",
+                "refs": [
+                  {
+                    "uid": "5kfqwgeVw"
+                  }
+                ],
+                "children": [
+                  {
+                    "string": "Symptoms of the problems",
+                    "create-time": 1637960380205,
+                    "uid": "P8Kugqswk",
+                    "edit-time": 1637960401043,
+                    ":create/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                    }
+                  }
+                ],
+                "uid": "-xCvyXNUO",
+                "edit-time": 1637960421055,
+                ":block/refs": [
+                  {
+                    ":block/uid": "5kfqwgeVw"
+                  }
+                ],
+                ":edit/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                }
+              },
+              {
+                "string": "[[Requirements]]",
                 "refs": [
                   {
                     "uid": "oC_P1nOwL"
@@ -22554,7 +22550,7 @@
                 ],
                 "children": [
                   {
-                    "string": "Knowns::",
+                    "string": "[[Knowns]]",
                     "refs": [
                       {
                         "uid": "betia6NIK"
@@ -22571,7 +22567,7 @@
                       }
                     ],
                     "uid": "-pljqCHW6",
-                    "edit-time": 1620761788768,
+                    "edit-time": 1637960431849,
                     ":block/refs": [
                       {
                         ":block/uid": "betia6NIK"
@@ -22582,7 +22578,7 @@
                     }
                   },
                   {
-                    "string": "Unknowns::",
+                    "string": "[[Unknowns]]",
                     "refs": [
                       {
                         "uid": "MpFmapLyn"
@@ -22599,7 +22595,7 @@
                       }
                     ],
                     "uid": "13rmbIfs4",
-                    "edit-time": 1620761788768,
+                    "edit-time": 1637960434875,
                     ":block/refs": [
                       {
                         ":block/uid": "MpFmapLyn"
@@ -22610,7 +22606,7 @@
                     }
                   },
                   {
-                    "string": "Domain-side::",
+                    "string": "[[Domain-side]]",
                     "refs": [
                       {
                         "uid": "RpvkVy_jl"
@@ -22627,7 +22623,7 @@
                       }
                     ],
                     "uid": "bNpkly39d",
-                    "edit-time": 1620761788768,
+                    "edit-time": 1637960437774,
                     ":block/refs": [
                       {
                         ":block/uid": "RpvkVy_jl"
@@ -22638,7 +22634,7 @@
                     }
                   },
                   {
-                    "string": "Solution-side::",
+                    "string": "[[Solution-side]]",
                     "refs": [
                       {
                         "uid": "otdhkmjMW"
@@ -22655,7 +22651,7 @@
                       }
                     ],
                     "uid": "7MP_8XJbB",
-                    "edit-time": 1620761788768,
+                    "edit-time": 1637960440187,
                     ":block/refs": [
                       {
                         ":block/uid": "otdhkmjMW"
@@ -22666,7 +22662,7 @@
                     }
                   },
                   {
-                    "string": "Unstated::",
+                    "string": "[[Unstated]]",
                     "refs": [
                       {
                         "uid": "a4pYPyMXD"
@@ -22693,7 +22689,7 @@
                       }
                     ],
                     "uid": "wVni29VHl",
-                    "edit-time": 1620761788768,
+                    "edit-time": 1637960443225,
                     ":block/refs": [
                       {
                         ":block/uid": "a4pYPyMXD"
@@ -22705,7 +22701,7 @@
                   }
                 ],
                 "uid": "6bw8vwSfg",
-                "edit-time": 1620761788768,
+                "edit-time": 1637960416603,
                 ":block/refs": [
                   {
                     ":block/uid": "oC_P1nOwL"
@@ -22716,7 +22712,7 @@
                 }
               },
               {
-                "string": "Solutions::",
+                "string": "[[Solutions]]",
                 "refs": [
                   {
                     "uid": "PKrTM3pfv"
@@ -22731,6 +22727,20 @@
                         "refs": [
                           {
                             "uid": "ycbVqlgPC"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "",
+                            "create-time": 1637960448918,
+                            "uid": "HVU89DkiU",
+                            "edit-time": 1637960448918,
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            }
                           }
                         ],
                         "uid": "mZbRYlcz1",
@@ -22751,6 +22761,20 @@
                             "uid": "fYd40Hcw3"
                           }
                         ],
+                        "children": [
+                          {
+                            "string": "",
+                            "create-time": 1637960450418,
+                            "uid": "HS3SX1myY",
+                            "edit-time": 1637960450418,
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            }
+                          }
+                        ],
                         "uid": "8AWMEbP3A",
                         "edit-time": 1620761788768,
                         ":block/refs": [
@@ -22769,6 +22793,20 @@
                             "uid": "Y5GLI4K3l"
                           }
                         ],
+                        "children": [
+                          {
+                            "string": "",
+                            "create-time": 1637960451431,
+                            "uid": "HGWfA61jz",
+                            "edit-time": 1637960451431,
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            }
+                          }
+                        ],
                         "uid": "9j4LIqnZz",
                         "edit-time": 1620761788768,
                         ":block/refs": [
@@ -22785,6 +22823,20 @@
                         "refs": [
                           {
                             "uid": "jzu60ouvq"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "",
+                            "create-time": 1637960455237,
+                            "uid": "1qkiaPTnW",
+                            "edit-time": 1637960455237,
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            }
                           }
                         ],
                         "uid": "fRkcPWMzM",
@@ -22815,6 +22867,20 @@
                             "uid": "ycbVqlgPC"
                           }
                         ],
+                        "children": [
+                          {
+                            "string": "",
+                            "create-time": 1637960457576,
+                            "uid": "BsHtWfSGT",
+                            "edit-time": 1637960457576,
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            }
+                          }
+                        ],
                         "uid": "A-kp6HCSs",
                         "edit-time": 1620761788768,
                         ":block/refs": [
@@ -22831,6 +22897,20 @@
                         "refs": [
                           {
                             "uid": "fYd40Hcw3"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "",
+                            "create-time": 1637960458686,
+                            "uid": "-2tisRscP",
+                            "edit-time": 1637960458686,
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            }
                           }
                         ],
                         "uid": "NKN_1G8Fz",
@@ -22851,6 +22931,20 @@
                             "uid": "Y5GLI4K3l"
                           }
                         ],
+                        "children": [
+                          {
+                            "string": "",
+                            "create-time": 1637960459635,
+                            "uid": "YYDTlwRjj",
+                            "edit-time": 1637960459635,
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            }
+                          }
+                        ],
                         "uid": "E6qArhXau",
                         "edit-time": 1620761788768,
                         ":block/refs": [
@@ -22867,6 +22961,20 @@
                         "refs": [
                           {
                             "uid": "jzu60ouvq"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "string": "",
+                            "create-time": 1637960460980,
+                            "uid": "ESgO1dkkA",
+                            "edit-time": 1637960460980,
+                            ":create/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                            }
                           }
                         ],
                         "uid": "T87ZKlLb7",
@@ -22889,7 +22997,7 @@
                   }
                 ],
                 "uid": "ueo7AMRPP",
-                "edit-time": 1620761788768,
+                "edit-time": 1637960446579,
                 ":block/refs": [
                   {
                     ":block/uid": "PKrTM3pfv"
@@ -43315,6 +43423,78 @@
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
             "children": [
+              {
+                "edit-time": 1637918765191,
+                "children": [
+                  {
+                    "edit-time": 1637918777017,
+                    "children": [
+                      {
+                        "string": "Fix upload issues in iOS ",
+                        "create-time": 1637897692207,
+                        "uid": "TrBH9GlMe",
+                        "edit-time": 1637897725811,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Automatic handling of snapshot issues",
+                        "create-time": 1637918777966,
+                        "uid": "FRU8_juGa",
+                        "edit-time": 1637918810209,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "uid": "UFFkKiI0R",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]]",
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1637918765176,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "11-26-2021"
+                  }
+                ],
+                "uid": "nhhDIf6XT",
+                ":block/refs": [
+                  {
+                    ":block/uid": "11-26-2021"
+                  }
+                ],
+                "string": "[[November 26th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1637918761977,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              },
               {
                 "edit-time": 1637216944750,
                 "children": [
@@ -73500,18 +73680,6 @@
     }
   },
   {
-    "create-time": 1620761788760,
-    "title": "Causes",
-    "uid": "85mI5bmLm",
-    "edit-time": 1620761788768,
-    ":create/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    },
-    ":edit/user": {
-      ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-    }
-  },
-  {
     "create-time": 1620797576014,
     "title": "May 12th, 2021",
     "uid": "05-12-2021",
@@ -75756,10 +75924,34 @@
     }
   },
   {
-    "create-time": 1637889959608,
+    "create-time": 1637897664503,
+    "title": "November 26th, 2021",
+    "uid": "11-26-2021",
+    "edit-time": 1637897664503,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "create-time": 1637897691665,
+    "title": "November 25th, 2021",
+    "uid": "11-25-2021",
+    "edit-time": 1637897691665,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "create-time": 1637976328969,
     "title": "Bruno Godefroy",
-    "uid": "FHFOy-VeN",
-    "edit-time": 1637889959608,
+    "uid": "AiMD4gD3H",
+    "edit-time": 1637976328969,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -75768,10 +75960,10 @@
     }
   },
   {
-    "create-time": 1637889959617,
-    "title": "November 26th, 2021",
-    "uid": "11-26-2021",
-    "edit-time": 1637889959617,
+    "create-time": 1637976328975,
+    "title": "November 27th, 2021",
+    "uid": "11-27-2021",
+    "edit-time": 1637976328975,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
