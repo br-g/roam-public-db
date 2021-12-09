@@ -43424,6 +43424,102 @@
             },
             "children": [
               {
+                "edit-time": 1638942864324,
+                "children": [
+                  {
+                    "edit-time": 1638942878242,
+                    "children": [
+                      {
+                        "string": "Better error checking for queries",
+                        "create-time": 1638942887756,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "fixed bug where queries could previously lead to \"Roam was not built in a day\" errors ",
+                            "create-time": 1638942723939,
+                            "uid": "Gz-9BsZKr",
+                            "edit-time": 1638942910720,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "w9X_SQ4Oo",
+                        "edit-time": 1638942887756,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "[[Performance Improvements]] for imports and queries",
+                        "create-time": 1638942553065,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Lgp0csam2"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "Lgp0csam2"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "uid": "Tp2BEk9id",
+                        "edit-time": 1638942935385,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "uid": "_lGTYwjim",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_EqbjQSAF"
+                      }
+                    ],
+                    "string": "[[Quality of Life Improvements]]",
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1638942864882,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "12-07-2021"
+                  }
+                ],
+                "uid": "U2lL5eL9l",
+                ":block/refs": [
+                  {
+                    ":block/uid": "12-07-2021"
+                  }
+                ],
+                "string": "[[December 7th, 2021]]",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1638942860666,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              },
+              {
                 "edit-time": 1637918765191,
                 "children": [
                   {
@@ -75960,10 +76056,60 @@
     }
   },
   {
-    "create-time": 1638926888882,
+    "create-time": 1638942557826,
+    "title": "December 8th, 2021",
+    "uid": "12-08-2021",
+    "edit-time": 1638942557826,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "create-time": 1638942863626,
+    "title": "December 7th, 2021",
+    "uid": "12-07-2021",
+    "edit-time": 1638942863626,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "create-time": 1638997939020,
+    "title": "Encrypted Graphs",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "children": [
+      {
+        "string": "**Coming Soon**",
+        "create-time": 1638997940920,
+        "uid": "1vRxVsYFl",
+        "edit-time": 1638997946595,
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        }
+      }
+    ],
+    "uid": "DTR1FMubL",
+    "edit-time": 1638997939020,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1639013271413,
     "title": "Bruno Godefroy",
-    "uid": "V0EfyofPY",
-    "edit-time": 1638926888882,
+    "uid": "5RFy5wubQ",
+    "edit-time": 1639013271413,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -75972,10 +76118,10 @@
     }
   },
   {
-    "create-time": 1638926888886,
-    "title": "December 8th, 2021",
-    "uid": "12-08-2021",
-    "edit-time": 1638926888887,
+    "create-time": 1639013271418,
+    "title": "December 9th, 2021",
+    "uid": "12-09-2021",
+    "edit-time": 1639013271418,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
