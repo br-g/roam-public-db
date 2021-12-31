@@ -23871,18 +23871,6 @@
         }
       },
       {
-        "string": "To submit a template to be featured here please fill out this typeform",
-        "create-time": 1616398103402,
-        "uid": "thunmEuGE",
-        "edit-time": 1616398202467,
-        ":create/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        },
-        ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-        }
-      },
-      {
         "edit-time": 1614653158266,
         "children": [
           {
@@ -76500,10 +76488,10 @@
     }
   },
   {
-    "create-time": 1640827696390,
+    "create-time": 1640914138896,
     "title": "Bruno Godefroy",
-    "uid": "ZLuDqVzH_",
-    "edit-time": 1640827696390,
+    "uid": "Sm6N7SNmb",
+    "edit-time": 1640914138896,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -76512,10 +76500,10 @@
     }
   },
   {
-    "create-time": 1640827696395,
-    "title": "December 30th, 2021",
-    "uid": "12-30-2021",
-    "edit-time": 1640827696395,
+    "create-time": 1640914138901,
+    "title": "December 31st, 2021",
+    "uid": "12-31-2021",
+    "edit-time": 1640914138901,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
