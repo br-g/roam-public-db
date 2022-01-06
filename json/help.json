@@ -43638,6 +43638,56 @@
             },
             "children": [
               {
+                "edit-time": 1641351679784,
+                "children": [
+                  {
+                    "string": "A major change and some minor additions to `roamAlphaAPI`, the API that roam extensions are built on top of.",
+                    "create-time": 1641351735400,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": "If you're a dev or are interested, more details [here](https://roamresearch.com/#/app/developer-documentation/page/tIaOPdXCj)",
+                        "create-time": 1641351679771,
+                        "uid": "ykTpEP24U",
+                        "edit-time": 1641351947746,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "rAU-HsVlF",
+                    "edit-time": 1641351735400,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "01-03-2022"
+                  }
+                ],
+                "uid": "IU7hMkbon",
+                ":block/refs": [
+                  {
+                    ":block/uid": "01-03-2022"
+                  }
+                ],
+                "string": "[[January 3rd, 2022]]",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1641351674403,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              },
+              {
                 "edit-time": 1638942864324,
                 "children": [
                   {
@@ -76488,10 +76538,22 @@
     }
   },
   {
-    "create-time": 1641346195539,
+    "create-time": 1641351679786,
+    "title": "January 3rd, 2022",
+    "uid": "01-03-2022",
+    "edit-time": 1641351679787,
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "create-time": 1641432676329,
     "title": "Bruno Godefroy",
-    "uid": "Lvy7bYhWW",
-    "edit-time": 1641346195539,
+    "uid": "7xUlmn6s1",
+    "edit-time": 1641432676329,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -76500,10 +76562,10 @@
     }
   },
   {
-    "create-time": 1641346195548,
-    "title": "January 5th, 2022",
-    "uid": "01-05-2022",
-    "edit-time": 1641346195548,
+    "create-time": 1641432676334,
+    "title": "January 6th, 2022",
+    "uid": "01-06-2022",
+    "edit-time": 1641432676334,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
