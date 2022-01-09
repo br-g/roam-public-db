@@ -25778,17 +25778,17 @@
         }
       },
       {
-        "string": "Join via [this link](https://join.slack.com/t/roamresearch/shared_invite/zt-ni1vw9yf-HzeWr05ZJBt55j_zfddPsw)",
+        "string": "Join via [this link](https://join.slack.com/t/roamresearch/shared_invite/zt-xy0pd90x-c0KDkgh1BeLKyi0iUlJ1CA)",
         "create-time": 1616208482887,
         "heading": 1,
         ":create/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         "uid": "jyuam4XJT",
-        "edit-time": 1616554820146,
+        "edit-time": 1641651692545,
         "text-align": "left",
         ":edit/user": {
-          ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
         }
       },
       {
@@ -76550,10 +76550,10 @@
     }
   },
   {
-    "create-time": 1641605331484,
+    "create-time": 1641691815715,
     "title": "Bruno Godefroy",
-    "uid": "R9gsQmP1c",
-    "edit-time": 1641605331484,
+    "uid": "NpSBk42RJ",
+    "edit-time": 1641691815715,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -76562,10 +76562,10 @@
     }
   },
   {
-    "create-time": 1641605331489,
-    "title": "January 8th, 2022",
-    "uid": "01-08-2022",
-    "edit-time": 1641605331489,
+    "create-time": 1641691815720,
+    "title": "January 9th, 2022",
+    "uid": "01-09-2022",
+    "edit-time": 1641691815720,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
