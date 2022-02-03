@@ -846,6 +846,18 @@
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         "heading": 1
+      },
+      {
+        "string": "```javascript\n```",
+        "uid": "nF20ZxmjH",
+        "create-time": 1643801527246,
+        "edit-time": 1643801549547,
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        }
       }
     ],
     "uid": "fCaJekIoX",
@@ -18660,6 +18672,28 @@
                 ":edit/user": {
                   ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
                 }
+              },
+              {
+                "string": "You can also [encrypt your graph]([[Encrypted Graphs]])",
+                "create-time": 1643806612791,
+                ":block/refs": [
+                  {
+                    ":block/uid": "DTR1FMubL"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "DTR1FMubL"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                },
+                "uid": "WKInWFFFl",
+                "edit-time": 1643806629486,
+                ":edit/user": {
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+                }
               }
             ],
             "uid": "f2iH0KVdx",
@@ -18677,15 +18711,25 @@
             },
             "children": [
               {
-                "string": "We do not offer end-to-end encryption currently but it is something we are considering.",
-                "uid": "4PKZfQJCa",
+                "string": "Yep. See [[Encrypted Graphs]]",
                 "create-time": 1618926314481,
-                "edit-time": 1619046072108,
+                ":block/refs": [
+                  {
+                    ":block/uid": "DTR1FMubL"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "DTR1FMubL"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
+                "uid": "4PKZfQJCa",
+                "edit-time": 1643806603793,
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
                 }
               }
             ],
@@ -51854,6 +51898,114 @@
         ":edit/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         }
+      },
+      {
+        "edit-time": 1643838960381,
+        "children": [
+          {
+            "edit-time": 1643838960387,
+            "children": [
+              {
+                "edit-time": 1643838960389,
+                "children": [
+                  {
+                    "edit-time": 1643838960391,
+                    "children": [
+                      {
+                        "string": "* not for beta users",
+                        "uid": "q_A1KLAMp",
+                        "create-time": 1643838960394,
+                        "edit-time": 1643838966777,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "knVAQbuR-"
+                      }
+                    ],
+                    "uid": "BnNhHzEer",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "knVAQbuR-"
+                      }
+                    ],
+                    "string": "((knVAQbuR-))",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1643838960391,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "VWxX5q1VI"
+                  }
+                ],
+                "uid": "edX_QlenT",
+                ":block/refs": [
+                  {
+                    ":block/uid": "VWxX5q1VI"
+                  }
+                ],
+                "string": "[[Joshua Brown]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1643838960389,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "02-02-2022"
+              }
+            ],
+            "uid": "Po5dF_sOC",
+            ":block/refs": [
+              {
+                ":block/uid": "02-02-2022"
+              }
+            ],
+            "string": "[[February 2nd, 2022]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1643838960387,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "yw35wc1ZI"
+          }
+        ],
+        "uid": "BcPBsTVhX",
+        ":block/refs": [
+          {
+            ":block/uid": "yw35wc1ZI"
+          }
+        ],
+        "string": "[[roam/comments]]",
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "create-time": 1643838960381,
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        }
       }
     ],
     "uid": "Ec97klr7x",
@@ -77878,26 +78030,51 @@
     }
   },
   {
-    "uid": "bEBgy3gOH",
-    "create-time": 1643765276072,
-    "edit-time": 1643765276072,
+    "create-time": 1643801879973,
+    "title": "February 2nd, 2022",
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":log/id": 1643801879973,
+    "uid": "02-02-2022",
+    "edit-time": 1643801879973,
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "uid": "yw35wc1ZI",
+    "create-time": 1643838960398,
+    "edit-time": 1643838960399,
+    "title": "roam/comments",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1643848724129,
+    "title": "February 3rd, 2022",
+    ":create/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    },
+    ":log/id": 1643848724128,
+    "uid": "02-03-2022",
+    "edit-time": 1643848724129,
+    ":edit/user": {
+      ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+    }
+  },
+  {
+    "uid": "HIt1Hk0Tc",
+    "create-time": 1643851561199,
+    "edit-time": 1643851561199,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":edit/user": {
-      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
-    }
-  },
-  {
-    "create-time": 1643765276078,
-    "title": "February 2nd, 2022",
-    ":create/user": {
-      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
-    },
-    ":log/id": 1643765276077,
-    "uid": "02-02-2022",
-    "edit-time": 1643765276078,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
