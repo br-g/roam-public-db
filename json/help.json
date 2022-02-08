@@ -43696,6 +43696,90 @@
             },
             "children": [
               {
+                "edit-time": 1644282486272,
+                "children": [
+                  {
+                    "edit-time": 1644282504048,
+                    "children": [
+                      {
+                        "string": "Delayed full release of load performance improvements",
+                        "create-time": 1644282510607,
+                        "uid": "7bxZDIXIj",
+                        "edit-time": 1644282541493,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "fl5hlmHWj"
+                      }
+                    ],
+                    "uid": "F2kwheNZF",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fl5hlmHWj"
+                      }
+                    ],
+                    "string": "Bug fixes related to ((fl5hlmHWj))",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1644282486663,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "Fixed potential memory leak",
+                    "create-time": 1644282759503,
+                    "uid": "8BhOOtqjp",
+                    "edit-time": 1644282765502,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "Bug fixes to our update / upgrade mechanism",
+                    "create-time": 1644282741402,
+                    "uid": "vLt_47LWf",
+                    "edit-time": 1644282753351,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "02-07-2022"
+                  }
+                ],
+                "uid": "ajJ-d5Khd",
+                ":block/refs": [
+                  {
+                    ":block/uid": "02-07-2022"
+                  }
+                ],
+                "string": "[[February 7th, 2022]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1644282482037,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              },
+              {
                 "edit-time": 1643915662679,
                 "children": [
                   {
@@ -78240,10 +78324,23 @@
     }
   },
   {
-    "create-time": 1644197249278,
+    "create-time": 1644258058518,
+    "title": "February 7th, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1644258058517,
+    "uid": "02-07-2022",
+    "edit-time": 1644258058518,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1644283709614,
     "title": "Bruno Godefroy",
-    "uid": "bJvankAd_",
-    "edit-time": 1644197249278,
+    "uid": "fh2bvk7Kn",
+    "edit-time": 1644283709614,
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
@@ -78252,14 +78349,14 @@
     }
   },
   {
-    "create-time": 1644197249283,
-    "title": "February 7th, 2022",
+    "create-time": 1644283709620,
+    "title": "February 8th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1644197249282,
-    "uid": "02-07-2022",
-    "edit-time": 1644197249283,
+    ":log/id": 1644283709619,
+    "uid": "02-08-2022",
+    "edit-time": 1644283709620,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
