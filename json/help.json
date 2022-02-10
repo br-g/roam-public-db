@@ -43696,6 +43696,42 @@
             },
             "children": [
               {
+                "edit-time": 1644425961399,
+                "children": [
+                  {
+                    "string": "Fixed bug selecting multiple blocks in embeds and linked references",
+                    "uid": "C9hbWRsH3",
+                    "create-time": 1644425961383,
+                    "edit-time": 1644425992174,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "02-09-2022"
+                  }
+                ],
+                "uid": "C5WPVy2TK",
+                ":block/refs": [
+                  {
+                    ":block/uid": "02-09-2022"
+                  }
+                ],
+                "string": "[[February 9th, 2022]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1644425959600,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              },
+              {
                 "edit-time": 1644282486272,
                 "children": [
                   {
@@ -78379,9 +78415,35 @@
     }
   },
   {
-    "uid": "onYBBoAG9",
-    "create-time": 1644370213726,
-    "edit-time": 1644370213726,
+    "create-time": 1644377153362,
+    "title": "February 8th, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1644377153361,
+    "uid": "02-08-2022",
+    "edit-time": 1644377153362,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1644425949738,
+    "title": "February 9th, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1644425949737,
+    "uid": "02-09-2022",
+    "edit-time": 1644425949738,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "C1Q-jCQ27",
+    "create-time": 1644456513357,
+    "edit-time": 1644456513357,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -78391,14 +78453,14 @@
     }
   },
   {
-    "create-time": 1644370213731,
-    "title": "February 9th, 2022",
+    "create-time": 1644456513362,
+    "title": "February 10th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1644370213730,
-    "uid": "02-09-2022",
-    "edit-time": 1644370213731,
+    ":log/id": 1644456513361,
+    "uid": "02-10-2022",
+    "edit-time": 1644456513362,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
