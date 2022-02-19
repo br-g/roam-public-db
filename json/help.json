@@ -31850,7 +31850,7 @@
         "heading": 1
       },
       {
-        "edit-time": 1615012290417,
+        "edit-time": 1645162384811,
         "refs": [
           {
             "uid": "vFcKP4O0l"
@@ -31862,15 +31862,39 @@
             ":block/uid": "vFcKP4O0l"
           }
         ],
-        "string": "[Miscellaneous]([[Miscellaneous]])",
+        "string": "[Miscellaneous]([[Miscellaneous]]) ",
         ":create/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         "create-time": 1614819284276,
         ":edit/user": {
-          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
         },
         "heading": 1
+      },
+      {
+        "string": "",
+        "uid": "DRX7CHYEP",
+        "create-time": 1645162385436,
+        "edit-time": 1645162385436,
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        }
+      },
+      {
+        "string": "",
+        "uid": "LLuiTHB9X",
+        "create-time": 1645162354186,
+        "edit-time": 1645162354186,
+        ":create/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        },
+        ":edit/user": {
+          ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+        }
       }
     ],
     "uid": "-bNjVrFfG",
@@ -79320,13 +79344,26 @@
     }
   },
   {
-    "uid": "MRYbe3B57",
-    "create-time": 1645147836358,
-    "edit-time": 1645147836358,
+    "uid": "xTXkXKcrG",
+    "create-time": 1645234149169,
+    "edit-time": 1645234149169,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
+    ":edit/user": {
+      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
+    }
+  },
+  {
+    "create-time": 1645234149175,
+    "title": "February 19th, 2022",
+    ":create/user": {
+      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
+    },
+    ":log/id": 1645234149173,
+    "uid": "02-19-2022",
+    "edit-time": 1645234149175,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
