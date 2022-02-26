@@ -15718,9 +15718,19 @@
                     }
                   },
                   {
-                    "string": "3) Once you are in your new graph, you can import your old graph (click the top right '...' menu and then 'Graph Settings') and then restore this graph, and upload your EDN file. This has then created an identical copy of your graph, with your new name.",
+                    "refs": [
+                      {
+                        "uid": "3A1t8yx-P"
+                      }
+                    ],
+                    "string": "3) Once you are in your new graph, click the top right '...' menu and then 'Settings' -> 'Graph' and then [restore this graph](((3A1t8yx-P))), by uploading your EDN file. This has then created an identical copy of your graph, with your new name.",
                     "uid": "dGbtxfTFL",
-                    "edit-time": 1615316383173,
+                    "edit-time": 1645807828942,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "3A1t8yx-P"
+                      }
+                    ],
                     ":edit/user": {
                       ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
                     }
@@ -79384,9 +79394,9 @@
     }
   },
   {
-    "uid": "UveqlvAKh",
-    "create-time": 1645752665684,
-    "edit-time": 1645752665684,
+    "uid": "MQEXBIOne",
+    "create-time": 1645838884079,
+    "edit-time": 1645838884079,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -79396,14 +79406,14 @@
     }
   },
   {
-    "create-time": 1645752665690,
-    "title": "February 25th, 2022",
+    "create-time": 1645838884092,
+    "title": "February 26th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1645752665689,
-    "uid": "02-25-2022",
-    "edit-time": 1645752665690,
+    ":log/id": 1645838884090,
+    "uid": "02-26-2022",
+    "edit-time": 1645838884092,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
