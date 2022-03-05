@@ -43990,6 +43990,56 @@
             },
             "children": [
               {
+                "edit-time": 1646362272115,
+                "children": [
+                  {
+                    "string": "Fixes \"All Pages\" view so that all columns (Word Count, Mentions, Updated, etc) can be seen when searched",
+                    "create-time": 1646362272099,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": "(was a CSS bug introduced some time ago)",
+                        "uid": "ZnzGgjugp",
+                        "create-time": 1646362419640,
+                        "edit-time": 1646362437880,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "xrDEVX1yR",
+                    "edit-time": 1646362719487,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "03-03-2022"
+                  }
+                ],
+                "uid": "yqvPEiYn7",
+                ":block/refs": [
+                  {
+                    ":block/uid": "03-03-2022"
+                  }
+                ],
+                "string": "[[March 3rd, 2022]]",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1646362264578,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              },
+              {
                 "edit-time": 1645044551998,
                 "children": [
                   {
@@ -79394,9 +79444,35 @@
     }
   },
   {
-    "uid": "1I3hfmLps",
-    "create-time": 1646357557192,
-    "edit-time": 1646357557192,
+    "create-time": 1646362251182,
+    "title": "March 4th, 2022",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1646362251181,
+    "uid": "03-04-2022",
+    "edit-time": 1646362251182,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "create-time": 1646362272116,
+    "title": "March 3rd, 2022",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1646244900000,
+    "uid": "03-03-2022",
+    "edit-time": 1646362272117,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "rrUo84pM4",
+    "create-time": 1646443920695,
+    "edit-time": 1646443920695,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -79406,14 +79482,14 @@
     }
   },
   {
-    "create-time": 1646357557197,
-    "title": "March 4th, 2022",
+    "create-time": 1646443920704,
+    "title": "March 5th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1646357557195,
-    "uid": "03-04-2022",
-    "edit-time": 1646357557197,
+    ":log/id": 1646443920702,
+    "uid": "03-05-2022",
+    "edit-time": 1646443920704,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
