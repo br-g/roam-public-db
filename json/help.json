@@ -5743,39 +5743,11 @@
         "edit-time": 1614781654212,
         "children": [
           {
-            "edit-time": 1629703813954,
-            "children": [
+            "string": "[How to build a table in Roam Research](https://web.archive.org/web/20201109133038/https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]] ",
+            "create-time": 1614880094150,
+            ":block/refs": [
               {
-                "string": "{{iframe: https://www.roamtips.com/home/create-tables-roam-research}}",
-                "props": {
-                  "iframe": {
-                    "https://www.roamtips.com/home/create-tables-roam-research": {
-                      "size": {
-                        "width": 527,
-                        "height": 500
-                      }
-                    }
-                  }
-                },
-                "create-time": 1614881938935,
-                ":block/props": {
-                  ":iframe": {
-                    "https://www.roamtips.com/home/create-tables-roam-research": {
-                      ":size": {
-                        ":width": 527,
-                        ":height": 500
-                      }
-                    }
-                  }
-                },
-                ":create/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                },
-                "uid": "Fq5VeMq4N",
-                "edit-time": 1614881992852,
-                ":edit/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
-                }
+                ":block/uid": "TF3K-ab5g"
               }
             ],
             "refs": [
@@ -5783,17 +5755,11 @@
                 "uid": "TF3K-ab5g"
               }
             ],
-            "uid": "u1drldhl1",
-            ":block/refs": [
-              {
-                ":block/uid": "TF3K-ab5g"
-              }
-            ],
-            "string": "[How to build a table in Roam Research](https://www.roamtips.com/home/create-tables-roam-research) - [[Roam Tips and Hacks]] ((edit table))",
             ":create/user": {
               ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
             },
-            "create-time": 1614880094150,
+            "uid": "u1drldhl1",
+            "edit-time": 1646654556472,
             ":edit/user": {
               ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
             }
@@ -79470,9 +79436,9 @@
     }
   },
   {
-    "uid": "cs7W3Rg9x",
-    "create-time": 1646616744595,
-    "edit-time": 1646616744595,
+    "uid": "DxIuEdybp",
+    "create-time": 1646703143337,
+    "edit-time": 1646703143337,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -79482,14 +79448,14 @@
     }
   },
   {
-    "create-time": 1646616744601,
-    "title": "March 7th, 2022",
+    "create-time": 1646703143348,
+    "title": "March 8th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1646616744599,
-    "uid": "03-07-2022",
-    "edit-time": 1646616744601,
+    ":log/id": 1646703143347,
+    "uid": "03-08-2022",
+    "edit-time": 1646703143348,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
