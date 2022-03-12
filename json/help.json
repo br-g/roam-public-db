@@ -43956,6 +43956,56 @@
             },
             "children": [
               {
+                "edit-time": 1646964022129,
+                "children": [
+                  {
+                    "string": "Performance improvement to opening pages with a large amount of mentions while the mentions are closed (~4x faster for a page with 6.1k mentions)",
+                    "create-time": 1646964023195,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "Note that this does not improve the performance of actually opening the mentions",
+                        "uid": "FVVx4nMXS",
+                        "create-time": 1646964245725,
+                        "edit-time": 1646964558061,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "U6Z--WVW9",
+                    "edit-time": 1646964579080,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "03-10-2022"
+                  }
+                ],
+                "uid": "vC5fQA5UU",
+                ":block/refs": [
+                  {
+                    ":block/uid": "03-10-2022"
+                  }
+                ],
+                "string": "[[March 10th, 2022]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1646964019301,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              },
+              {
                 "edit-time": 1646770241592,
                 "children": [
                   {
@@ -79569,36 +79619,18 @@
     }
   },
   {
-    "children": [
-      {
-        "children": [
-          {
-            "string": "test 2 from TestFlight ",
-            "uid": "NCade3uZD",
-            "edit-time": 1646923625180,
-            ":edit/user": {
-              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-            }
-          }
-        ],
-        "string": "[[March 10th, 2022]] at 15:46",
-        "uid": "Lme9kEWGh",
-        "edit-time": 1646923614369,
-        ":edit/user": {
-          ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-        }
-      }
-    ],
-    "edit-time": 1646923625699,
+    "uid": "03-10-2022",
+    "edit-time": 1646963511288,
     "title": "March 10th, 2022",
     ":edit/user": {
-      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
-    }
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1646963511287
   },
   {
-    "uid": "lvKmgS8vz",
-    "create-time": 1646962356056,
-    "edit-time": 1646962356056,
+    "uid": "BBcAFr8KP",
+    "create-time": 1647048582987,
+    "edit-time": 1647048582987,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -79608,14 +79640,14 @@
     }
   },
   {
-    "create-time": 1646962356061,
-    "title": "March 11th, 2022",
+    "create-time": 1647048582992,
+    "title": "March 12th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1646962356059,
-    "uid": "03-11-2022",
-    "edit-time": 1646962356061,
+    ":log/id": 1647048582991,
+    "uid": "03-12-2022",
+    "edit-time": 1647048582992,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
