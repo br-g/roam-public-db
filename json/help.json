@@ -43956,6 +43956,93 @@
             },
             "children": [
               {
+                "edit-time": 1649101283263,
+                "children": [
+                  {
+                    "string": "Added the ability to remove email-password login if you are also signed in with Google",
+                    "uid": "g3h0_VivB",
+                    "create-time": 1649101283339,
+                    "edit-time": 1649101325138,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "04-04-2022"
+                  }
+                ],
+                "uid": "mDqAOAHzL",
+                ":block/refs": [
+                  {
+                    ":block/uid": "04-04-2022"
+                  }
+                ],
+                "string": "[[April 4th, 2022]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1649101281113,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              },
+              {
+                "edit-time": 1649101690806,
+                "children": [
+                  {
+                    "string": "**Mobile App**",
+                    "create-time": 1649101436422,
+                    "heading": 1,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "The Roam mobile app is now available for download on the [iOS](https://apps.apple.com/us/app/roam-mobile/id1609277273) (iphone and ipad) and [android](https://play.google.com/store/apps/details?id=com.roamresearch.relemma&hl=en_US&gl=US) app stores",
+                        "uid": "nbALu393W",
+                        "create-time": 1649101450807,
+                        "edit-time": 1649101747650,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "CIYBnElhl",
+                    "edit-time": 1649101467652,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "04-03-2022"
+                  }
+                ],
+                "uid": "kbVtIHN3m",
+                ":block/refs": [
+                  {
+                    ":block/uid": "04-03-2022"
+                  }
+                ],
+                "string": "[[April 3rd, 2022]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1649101687585,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              },
+              {
                 "edit-time": 1646964022129,
                 "children": [
                   {
@@ -79947,9 +80034,35 @@
     }
   },
   {
-    "uid": "1IrXPlNjU",
-    "create-time": 1649036199735,
-    "edit-time": 1649036199738,
+    "create-time": 1649101274640,
+    "title": "April 4th, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1649101274639,
+    "uid": "04-04-2022",
+    "edit-time": 1649101274640,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1649101690120,
+    "title": "April 3rd, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1649015290099,
+    "uid": "04-03-2022",
+    "edit-time": 1649101690120,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "e1JxR1lDt",
+    "create-time": 1649122457754,
+    "edit-time": 1649122457754,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -79959,14 +80072,14 @@
     }
   },
   {
-    "create-time": 1649036199744,
-    "title": "April 4th, 2022",
+    "create-time": 1649122457760,
+    "title": "April 5th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1649036199742,
-    "uid": "04-04-2022",
-    "edit-time": 1649036199744,
+    ":log/id": 1649122457758,
+    "uid": "04-05-2022",
+    "edit-time": 1649122457760,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
