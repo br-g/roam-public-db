@@ -49631,5 +49631,68 @@
     ":edit/user": {
       ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
     }
+  },
+  {
+    "create-time": 1651302049463,
+    "title": "April 30th, 2022",
+    ":create/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    },
+    ":log/id": 1651302049462,
+    "children": [
+      {
+        "string": "test typing",
+        "uid": "GNJcqjW6_",
+        "create-time": 1651302301526,
+        "edit-time": 1651302623982,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "tab jumps group",
+        "uid": "VAOwLs1Ee",
+        "create-time": 1651302623957,
+        "edit-time": 1651302639547,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "delete key also works",
+        "uid": "H3tC7Cnwx",
+        "create-time": 1651302659958,
+        "edit-time": 1651302662921,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      },
+      {
+        "string": "",
+        "uid": "XiNVJ3OZY",
+        "create-time": 1651302662911,
+        "edit-time": 1651302662911,
+        ":create/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        },
+        ":edit/user": {
+          ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+        }
+      }
+    ],
+    "uid": "04-30-2022",
+    "edit-time": 1651302049463,
+    ":edit/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    }
   }
 ]
