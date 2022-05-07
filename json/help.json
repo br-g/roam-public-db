@@ -43936,25 +43936,15 @@
             }
           },
           {
-            "string": "[Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)((kiQayH2o4))",
+            "string": "[Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)",
+            "uid": "n4MQraKIM",
             "create-time": 1614802850362,
-            ":block/refs": [
-              {
-                ":block/uid": "kiQayH2o4"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "kiQayH2o4"
-              }
-            ],
+            "edit-time": 1651852339729,
             ":create/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
-            "uid": "n4MQraKIM",
-            "edit-time": 1649663819520,
             ":edit/user": {
-              ":user/uid": "TA5u8OWeTwRw1lcal0Jvoou6wRo1"
+              ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
             }
           },
           {
@@ -80213,9 +80203,22 @@
     }
   },
   {
-    "uid": "w0-TIIPB_",
-    "create-time": 1651801211231,
-    "edit-time": 1651801211231,
+    "create-time": 1651852350358,
+    "title": "May 6th, 2022",
+    ":create/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    },
+    ":log/id": 1651852350358,
+    "uid": "05-06-2022",
+    "edit-time": 1651852350358,
+    ":edit/user": {
+      ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
+    }
+  },
+  {
+    "uid": "xg-oCfUxU",
+    "create-time": 1651887407016,
+    "edit-time": 1651887407016,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -80225,14 +80228,14 @@
     }
   },
   {
-    "create-time": 1651801211238,
-    "title": "May 6th, 2022",
+    "create-time": 1651887407021,
+    "title": "May 7th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1651801211237,
-    "uid": "05-06-2022",
-    "edit-time": 1651801211238,
+    ":log/id": 1651887407020,
+    "uid": "05-07-2022",
+    "edit-time": 1651887407021,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
