@@ -43956,6 +43956,152 @@
             },
             "children": [
               {
+                "edit-time": 1653493104065,
+                "children": [
+                  {
+                    "string": "Fix the parsing of bold in italics and italics in bold (and highlight and strikethrough). It no longer matters what order you put them in.",
+                    "create-time": 1653493104053,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "edit-time": 1653493202474,
+                        "children": [
+                          {
+                            "string": "`**__^^bih^^__**`: **__^^bih^^__**",
+                            "uid": "FoRLo2IJ3",
+                            "create-time": 1653347999464,
+                            "edit-time": 1653493203381,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "`__**^^ibh^^**__`: __**^^ibh^^**__",
+                            "uid": "NvQv9gIWV",
+                            "create-time": 1653348004984,
+                            "edit-time": 1653493203381,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "`**^^__bhi__^^**`: **^^__bhi__^^**",
+                            "uid": "VNJ4yZdVq",
+                            "create-time": 1653348009560,
+                            "edit-time": 1653493203381,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "`__**^^ibh^^**__`: __**^^ibh^^**__",
+                            "uid": "KWVlpf7G-",
+                            "create-time": 1653348045231,
+                            "edit-time": 1653493203381,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "`^^**__hbi__**^^`: ^^**__hbi__**^^",
+                            "uid": "6iemcUI0_",
+                            "create-time": 1653348020421,
+                            "edit-time": 1653493203381,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "`**__^^bih^^__**`: **__^^bih^^__**",
+                            "uid": "roO3zkvjn",
+                            "create-time": 1653348127536,
+                            "edit-time": 1653493203381,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "-77Q9kDnv"
+                          }
+                        ],
+                        "uid": "7t9Z_2DCk",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "-77Q9kDnv"
+                          }
+                        ],
+                        "string": "Examples::",
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1653493198001,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "nQ4TnZxud",
+                    "edit-time": 1653493198007,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "Small improvement to all pages search ((Longer debounce time and normalize the search value))",
+                    "uid": "3bXO4E1fY",
+                    "create-time": 1653508267382,
+                    "edit-time": 1653509326707,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "05-25-2022"
+                  }
+                ],
+                "uid": "RgECHSrOz",
+                ":block/refs": [
+                  {
+                    ":block/uid": "05-25-2022"
+                  }
+                ],
+                "string": "[[May 25th, 2022]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1653493101821,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              },
+              {
                 "edit-time": 1653334412679,
                 "children": [
                   {
@@ -80374,13 +80520,26 @@
     }
   },
   {
-    "uid": "kwnUZqDyh",
-    "create-time": 1653442932828,
-    "edit-time": 1653442932828,
+    "uid": "rYIBzJLds",
+    "create-time": 1653529356724,
+    "edit-time": 1653529356724,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
+    ":edit/user": {
+      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
+    }
+  },
+  {
+    "create-time": 1653529356734,
+    "title": "May 26th, 2022",
+    ":create/user": {
+      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
+    },
+    ":log/id": 1653529356733,
+    "uid": "05-26-2022",
+    "edit-time": 1653529356734,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
