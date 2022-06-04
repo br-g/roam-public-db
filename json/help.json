@@ -43956,10 +43956,70 @@
             },
             "children": [
               {
+                "edit-time": 1654285829025,
+                "children": [
+                  {
+                    "string": "Fixed bug with namespaces not showing correctly",
+                    "create-time": 1654285829106,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "introduced yesterday in ((3XkUpjpkP))",
+                        "create-time": 1654285838449,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "3XkUpjpkP"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "3XkUpjpkP"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "uid": "25QOhn57B",
+                        "edit-time": 1654285846847,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "7XB4uaEQE",
+                    "edit-time": 1654285859537,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "06-03-2022"
+                  }
+                ],
+                "uid": "Uiq69w1UK",
+                ":block/refs": [
+                  {
+                    ":block/uid": "06-03-2022"
+                  }
+                ],
+                "string": "[[June 3rd, 2022]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1654285824347,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              },
+              {
                 "edit-time": 1654185390782,
                 "children": [
                   {
-                    "string": "Fix bug with changing the code block language",
+                    "string": "Fixed bug with changing the code block language",
                     "create-time": 1654185581610,
                     ":create/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
@@ -43989,7 +44049,7 @@
                       }
                     ],
                     "uid": "3XkUpjpkP",
-                    "edit-time": 1654185624384,
+                    "edit-time": 1654285860721,
                     ":edit/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     }
@@ -80617,9 +80677,22 @@
     }
   },
   {
-    "uid": "gH3qszfuS",
-    "create-time": 1654220425323,
-    "edit-time": 1654220425323,
+    "create-time": 1654285749596,
+    "title": "June 3rd, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1654285749595,
+    "uid": "06-03-2022",
+    "edit-time": 1654285749596,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "BkhUVViVO",
+    "create-time": 1654306860304,
+    "edit-time": 1654306860304,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -80629,14 +80702,14 @@
     }
   },
   {
-    "create-time": 1654220425328,
-    "title": "June 3rd, 2022",
+    "create-time": 1654306860308,
+    "title": "June 4th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1654220425327,
-    "uid": "06-03-2022",
-    "edit-time": 1654220425328,
+    ":log/id": 1654306860307,
+    "uid": "06-04-2022",
+    "edit-time": 1654306860308,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
