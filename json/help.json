@@ -43956,6 +43956,84 @@
             },
             "children": [
               {
+                "edit-time": 1654545771150,
+                "children": [
+                  {
+                    "string": "Sign in with Apple",
+                    "uid": "g9LIxHUfM",
+                    "create-time": 1654545771129,
+                    "edit-time": 1654545781176,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "Report this page for public graphs",
+                    "create-time": 1654545965011,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_F1M_ESBjE.png?alt=media&token=3b062277-b461-4c1d-877e-260f53017f5c)",
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_F1M_ESBjE.png?alt=media&token=3b062277-b461-4c1d-877e-260f53017f5c": {
+                              "width": 261,
+                              "height": null
+                            }
+                          }
+                        },
+                        "create-time": 1654546214496,
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_F1M_ESBjE.png?alt=media&token=3b062277-b461-4c1d-877e-260f53017f5c": {
+                              ":width": 261,
+                              ":height": null
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "uid": "XELvWThwy",
+                        "edit-time": 1654546217769,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "pBCrm6opY",
+                    "edit-time": 1654546214504,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "06-06-2022"
+                  }
+                ],
+                "uid": "g2fY6lQda",
+                ":block/refs": [
+                  {
+                    ":block/uid": "06-06-2022"
+                  }
+                ],
+                "string": "[[June 6th, 2022]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1654545769443,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              },
+              {
                 "edit-time": 1654285829025,
                 "children": [
                   {
@@ -80703,9 +80781,35 @@
     }
   },
   {
-    "uid": "PDtaFt2tS",
-    "create-time": 1654479781394,
-    "edit-time": 1654479781394,
+    "create-time": 1654485030173,
+    "title": "June 5th, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1654485030172,
+    "uid": "06-05-2022",
+    "edit-time": 1654485030173,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1654545615074,
+    "title": "June 6th, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1654545615073,
+    "uid": "06-06-2022",
+    "edit-time": 1654545615074,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "e2S8zyXKm",
+    "create-time": 1654566141859,
+    "edit-time": 1654566141859,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -80715,14 +80819,14 @@
     }
   },
   {
-    "create-time": 1654479781400,
-    "title": "June 6th, 2022",
+    "create-time": 1654566141865,
+    "title": "June 7th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1654479781398,
-    "uid": "06-06-2022",
-    "edit-time": 1654479781400,
+    ":log/id": 1654566141863,
+    "uid": "06-07-2022",
+    "edit-time": 1654566141865,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
