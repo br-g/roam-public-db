@@ -43956,6 +43956,180 @@
             },
             "children": [
               {
+                "edit-time": 1655106691153,
+                "children": [
+                  {
+                    "edit-time": 1655106439281,
+                    "children": [
+                      {
+                        "string": "Deep links that allow one to directly navigate to a graph/page/block in the desktop app",
+                        "uid": "gXFY_M2Wf",
+                        "create-time": 1655106439276,
+                        "edit-time": 1655106469423,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Demo video (showing some convenient usage tricks too)",
+                        "create-time": 1655106469418,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "{{[[video]]: https://www.loom.com/share/fb5095868df041a597712b7403c87ed4}}",
+                            "create-time": 1655106473112,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "uid": "aelHviuWo",
+                            "edit-time": 1655106481110,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "DOrMuRNZ7",
+                        "edit-time": 1655106648270,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "URL Format",
+                        "create-time": 1655106479840,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "Similar format to normal Roam web links",
+                            "create-time": 1655106493264,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                "string": "instead of `https://roamresearch.com/` we have `roam://`",
+                                "uid": "Yaml9H8C7",
+                                "create-time": 1655106573489,
+                                "edit-time": 1655106596068,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              }
+                            ],
+                            "uid": "0jgZTwcgg",
+                            "edit-time": 1655106508593,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "Example",
+                            "create-time": 1655106513628,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                "string": "Roam web link: `https://roamresearch.com/#/app/help/page/hyL5OPFah`",
+                                "uid": "nvUym4kUc",
+                                "create-time": 1655106518069,
+                                "edit-time": 1655106601277,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              },
+                              {
+                                "string": "Desktop app link: `roam://#/app/help/page/hyL5OPFah`",
+                                "uid": "UR3-USrS2",
+                                "create-time": 1655106529667,
+                                "edit-time": 1655106563332,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              }
+                            ],
+                            "uid": "UPceZ9szm",
+                            "edit-time": 1655106517447,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "RDx4TmsVC",
+                        "edit-time": 1655106706672,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "hyL5OPFah"
+                      }
+                    ],
+                    "uid": "y23-OKwHg",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "hyL5OPFah"
+                      }
+                    ],
+                    "string": "[[Desktop App]] Links",
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1655106426943,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "06-12-2022"
+                  }
+                ],
+                "uid": "zNmjjTyW5",
+                ":block/refs": [
+                  {
+                    ":block/uid": "06-12-2022"
+                  }
+                ],
+                "string": "[[June 12th, 2022]]",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1655106686723,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              },
+              {
                 "edit-time": 1654545771150,
                 "children": [
                   {
@@ -80807,9 +80981,49 @@
     }
   },
   {
-    "uid": "B4y1bh67D",
-    "create-time": 1655084687064,
-    "edit-time": 1655084687064,
+    "create-time": 1655106387718,
+    "title": "June 13th, 2022",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1655106387717,
+    "children": [
+      {
+        "string": "",
+        "uid": "moXaIp75Z",
+        "create-time": 1655106388692,
+        "edit-time": 1655106393614,
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        }
+      }
+    ],
+    "uid": "06-13-2022",
+    "edit-time": 1655106387718,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "create-time": 1655106691153,
+    "title": "June 12th, 2022",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1654971300000,
+    "uid": "06-12-2022",
+    "edit-time": 1655106691154,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "Mv6u6zVrP",
+    "create-time": 1655171110201,
+    "edit-time": 1655171110201,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -80819,14 +81033,14 @@
     }
   },
   {
-    "create-time": 1655084687069,
-    "title": "June 13th, 2022",
+    "create-time": 1655171110207,
+    "title": "June 14th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1655084687068,
-    "uid": "06-13-2022",
-    "edit-time": 1655084687069,
+    ":log/id": 1655171110205,
+    "uid": "06-14-2022",
+    "edit-time": 1655171110207,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
