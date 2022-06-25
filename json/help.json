@@ -43956,6 +43956,162 @@
             },
             "children": [
               {
+                "edit-time": 1656100173742,
+                "children": [
+                  {
+                    "edit-time": 1656100176566,
+                    "children": [
+                      {
+                        "edit-time": 1656100179968,
+                        "children": [
+                          {
+                            "string": "Fixed tab, shift-tab, backspace, and arrow keys on ipad with an external keyboard",
+                            "uid": "Ck82s-Fzi",
+                            "edit-time": 1656100180578,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Fixed sign in flash on app restart",
+                            "uid": "06EguttO3",
+                            "edit-time": 1656100180578,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Fixed saving the last used graph across app restarts",
+                            "uid": "16xAFm_wi",
+                            "edit-time": 1656100180578,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "N3Uq-2dil"
+                          }
+                        ],
+                        "uid": "AJSpP4l_2",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "N3Uq-2dil"
+                          }
+                        ],
+                        "string": "[[iOS]]",
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1656100176560,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "edit-time": 1656100187832,
+                        "children": [
+                          {
+                            "string": "Fixed back gesture",
+                            "uid": "qmDhvYhyU",
+                            "create-time": 1656100234387,
+                            "edit-time": 1656100236313,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Added native Google and Apple sign in",
+                            "uid": "DYzIgF6tZ",
+                            "create-time": 1656100238767,
+                            "edit-time": 1656100238767,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Added sign out",
+                            "uid": "ZA-88rK_u",
+                            "create-time": 1656100187826,
+                            "edit-time": 1656100238769,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "LK8cfW7Xh"
+                          }
+                        ],
+                        "uid": "qlVmU0ReF",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "LK8cfW7Xh"
+                          }
+                        ],
+                        "string": "[[android]]",
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1656100183909,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "uid": "PgmNW3SqV",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "string": "[[mobile]]",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1656100173724,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "06-24-2022"
+                  }
+                ],
+                "uid": "J7Rh63mf4",
+                ":block/refs": [
+                  {
+                    ":block/uid": "06-24-2022"
+                  }
+                ],
+                "string": "[[June 24th, 2022]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1656100170817,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              },
+              {
                 "edit-time": 1655405768374,
                 "children": [
                   {
@@ -81357,9 +81513,34 @@
     }
   },
   {
-    "uid": "07lVLZbVN",
-    "create-time": 1656035123283,
-    "edit-time": 1656035123283,
+    "create-time": 1656100162169,
+    "title": "June 24th, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1656100162168,
+    "uid": "06-24-2022",
+    "edit-time": 1656100162169,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "LK8cfW7Xh",
+    "create-time": 1656100187833,
+    "edit-time": 1656100187834,
+    "title": "android",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "7r0i1sJnv",
+    "create-time": 1656121519785,
+    "edit-time": 1656121519786,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -81369,14 +81550,14 @@
     }
   },
   {
-    "create-time": 1656035123289,
-    "title": "June 24th, 2022",
+    "create-time": 1656121519791,
+    "title": "June 25th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1656035123288,
-    "uid": "06-24-2022",
-    "edit-time": 1656035123289,
+    ":log/id": 1656121519789,
+    "uid": "06-25-2022",
+    "edit-time": 1656121519791,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
