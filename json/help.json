@@ -43956,6 +43956,68 @@
             },
             "children": [
               {
+                "edit-time": 1657573943015,
+                "children": [
+                  {
+                    "string": "Fixed backspace deleting selected blocks when opening up the command pallete",
+                    "create-time": 1657573984802,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "Also added refocusing of the selected block when hitting `escape` to exit the command pallete",
+                        "uid": "kb0Zuwhsv",
+                        "create-time": 1657576345676,
+                        "edit-time": 1657576369361,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "ragNmkQZT",
+                    "edit-time": 1657576345541,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "Increase markdown import limit from 10 to 10,000",
+                    "uid": "onGCht7ei",
+                    "create-time": 1657573942996,
+                    "edit-time": 1657573954797,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "07-11-2022"
+                  }
+                ],
+                "uid": "oYh_OHkrQ",
+                ":block/refs": [
+                  {
+                    ":block/uid": "07-11-2022"
+                  }
+                ],
+                "string": "[[July 11th, 2022]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1657573940877,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              },
+              {
                 "edit-time": 1656100173742,
                 "children": [
                   {
@@ -81577,9 +81639,22 @@
     }
   },
   {
-    "uid": "UEW3KBchg",
-    "create-time": 1657503816841,
-    "edit-time": 1657503816841,
+    "create-time": 1657573876617,
+    "title": "July 11th, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1657573876616,
+    "uid": "07-11-2022",
+    "edit-time": 1657573876617,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "WlOzIdrmG",
+    "create-time": 1657590191598,
+    "edit-time": 1657590191598,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -81589,14 +81664,14 @@
     }
   },
   {
-    "create-time": 1657503816851,
-    "title": "July 11th, 2022",
+    "create-time": 1657590191606,
+    "title": "July 12th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1657503816849,
-    "uid": "07-11-2022",
-    "edit-time": 1657503816851,
+    ":log/id": 1657590191604,
+    "uid": "07-12-2022",
+    "edit-time": 1657590191606,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
