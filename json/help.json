@@ -42253,35 +42253,37 @@
     },
     "children": [
       {
-        "string": "[Updating Roam]([[Updating Roam]])",
-        "create-time": 1615275082175,
-        ":block/refs": [
-          {
-            ":block/uid": "Qv91DliJE"
-          }
-        ],
+        "edit-time": 1660326326589,
         "refs": [
           {
             "uid": "Qv91DliJE"
           }
         ],
+        "uid": "djBXp7RPe",
+        ":block/refs": [
+          {
+            ":block/uid": "Qv91DliJE"
+          }
+        ],
+        "string": "[Updating Roam]([[Updating Roam]])",
         ":create/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
-        "uid": "djBXp7RPe",
-        "edit-time": 1660326326589,
+        "create-time": 1615275082175,
         ":edit/user": {
           ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
-        }
+        },
+        "heading": 2
       },
       {
         "string": "[Change Log Archive](https://roamresearch.com/#/app/help-archive/page/dxTi-iUs2)",
-        "uid": "n4MQraKIM",
         "create-time": 1614802850362,
-        "edit-time": 1651852339729,
+        "heading": 2,
         ":create/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
+        "uid": "n4MQraKIM",
+        "edit-time": 1651852339729,
         ":edit/user": {
           ":user/uid": "3VEyz63XIsX18jHTxX7ofCDmMLv2"
         }
@@ -42294,6 +42296,172 @@
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         "children": [
+          {
+            "edit-time": 1660569362578,
+            "children": [
+              {
+                "edit-time": 1660569391100,
+                "children": [
+                  {
+                    "string": "`{{embed-path: ((block-ref))}}` - Experimental new view of block embeds where path is visible and clickable - similar to what you'd see for the block in inline-references ",
+                    "create-time": 1660569386409,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "children": [
+                      {
+                        "edit-time": 1660569480915,
+                        "children": [
+                          {
+                            "string": "Often when viewing embeds, it is frustrating to not be able to see the context of the embed - the embed-path component lets you see the parent path of the block at a glance, and navigate to it quickly.",
+                            "uid": "0TeNBg8DA",
+                            "create-time": 1660569480908,
+                            "edit-time": 1660569537859,
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "MtgopsnbI"
+                          }
+                        ],
+                        "uid": "tNX6Z4KBj",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "MtgopsnbI"
+                          }
+                        ],
+                        "string": "[[Problem it Solves]]",
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1660569473736,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "uid": "fTCE5kouH",
+                    "edit-time": 1660569473395,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  },
+                  {
+                    "uid": "odqZ-cQS3"
+                  }
+                ],
+                "uid": "1FYt4brK6",
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  },
+                  {
+                    ":block/uid": "odqZ-cQS3"
+                  }
+                ],
+                "string": "[[New Features]] #[[Alpha]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1660569363479,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "edit-time": 1660569677513,
+                "children": [
+                  {
+                    "string": "Changed the styling when you zoom out of a block in a context - like sidebar and moved the color into a css variable ",
+                    "create-time": 1660569548673,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "children": [
+                      {
+                        "string": "`var(--inline-highlight-color)` for the color of ^^highlights^^",
+                        "uid": "LuuLR5utg",
+                        "create-time": 1660569584306,
+                        "edit-time": 1660569630760,
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      },
+                      {
+                        "string": "`var(--highlight-color)` for color of highlighted blocks due to zooming out in a embedded context like within backlinks, sidebar, or block refs.",
+                        "uid": "8LW3Mdix-",
+                        "create-time": 1660569633348,
+                        "edit-time": 1660569673436,
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "uid": "QyeefpJMU",
+                    "edit-time": 1660569582740,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "yKQVOgmDS"
+                  }
+                ],
+                "uid": "SO5vqJigy",
+                ":block/refs": [
+                  {
+                    ":block/uid": "yKQVOgmDS"
+                  }
+                ],
+                "string": "#[[CSS Changes]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1660569541178,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "08-15-2022"
+              }
+            ],
+            "uid": "rdJcOMHVE",
+            ":block/refs": [
+              {
+                ":block/uid": "08-15-2022"
+              }
+            ],
+            "string": "[[August 15th, 2022]]",
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "create-time": 1660569358115,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
           {
             "edit-time": 1660324211920,
             "children": [
@@ -79899,6 +80067,30 @@
       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
     },
     ":log/id": 1660543200000,
+    "children": [
+      {
+        "string": "{{embed-path: ((rdJcOMHVE))}}",
+        "create-time": 1660569319018,
+        ":block/refs": [
+          {
+            ":block/uid": "rdJcOMHVE"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "rdJcOMHVE"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "uid": "ZxmRGxjhI",
+        "edit-time": 1660569695919,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      }
+    ],
     "uid": "08-15-2022",
     "edit-time": 1660325911645,
     ":edit/user": {
@@ -79945,13 +80137,62 @@
     }
   },
   {
-    "uid": "LQ9Lsbd7B",
-    "create-time": 1660527868225,
-    "edit-time": 1660527868226,
+    "uid": "odqZ-cQS3",
+    "create-time": 1660569386418,
+    "edit-time": 1660569386418,
+    "title": "Alpha",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "MtgopsnbI",
+    "create-time": 1660569480917,
+    "edit-time": 1660569480917,
+    "title": "Problem it Solves",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "yKQVOgmDS",
+    "create-time": 1660569548682,
+    "edit-time": 1660569548682,
+    "title": "CSS Changes",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "lcOulaeTg",
+    "create-time": 1660614238512,
+    "edit-time": 1660614238512,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
+    ":edit/user": {
+      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
+    }
+  },
+  {
+    "create-time": 1660614238519,
+    "title": "August 16th, 2022",
+    ":create/user": {
+      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
+    },
+    ":log/id": 1660614238518,
+    "uid": "08-16-2022",
+    "edit-time": 1660614238519,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
