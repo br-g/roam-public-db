@@ -13,12 +13,12 @@
             "string": "From having a dark theme to opening multiple panels, with a few clicks (and no coding skill required), roam/css helps you customize the look and feel of your Roam graph",
             "uid": "Wuu11jwlb",
             "create-time": 1614777743017,
-            "edit-time": 1616211751334,
+            "edit-time": 1660864549499,
             ":create/user": {
               ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
             ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
             }
           },
           {
@@ -372,6 +372,29 @@
         ":edit/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         }
+      },
+      {
+        "edit-time": 1660837330880,
+        "refs": [
+          {
+            "uid": "Ec97klr7x"
+          }
+        ],
+        "uid": "IkOR-S8IL",
+        ":block/refs": [
+          {
+            ":block/uid": "Ec97klr7x"
+          }
+        ],
+        "string": "[[Change Log]]",
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1660837324683,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "heading": 1
       },
       {
         "edit-time": 1614658608858,
@@ -37313,13 +37336,481 @@
     }
   },
   {
-    "uid": "CAYGhv3Ex",
     "create-time": 1614656093823,
-    "edit-time": 1614656093825,
     "title": "Tag Styles",
     ":create/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     },
+    "children": [
+      {
+        "string": "Links and tags whose name begins with a `.` add a css class to the roam block that they are on",
+        "create-time": 1660866159843,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "edit-time": 1660866852864,
+            "children": [
+              {
+                "string": "visually organizing your day if you track your time",
+                "create-time": 1660866232299,
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "children": [
+                  {
+                    "string": "Try it out",
+                    "create-time": 1660866964456,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "children": [
+                      {
+                        "edit-time": 1660866977938,
+                        "children": [
+                          {
+                            "string": "```css\n.morning-routine {\n background-image: \n    linear-gradient(\n      hsla(4,90%,58%,0.42),\n      hsl(45,100%,51%, 0.6)\n    ); \n}\n\n.break {\n   background-color: #607D8B59;\n}\n\n.increased-emotional-energy {\n  border-right: 4px solid green;\n}\n\n.decreased-emotional-energy {\n    border-right: 4px solid red;\n}\n\n.ramp-up {\n  border-right: 4px solid;\n  border-image: \n    linear-gradient(\n      to top, \n      green, \n      rgba(0, 0, 0, 0)\n    ) 1 100%;\n}\n```",
+                            "uid": "PWRCph4s-",
+                            "create-time": 1660866978722,
+                            "edit-time": 1660867354495,
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "RA1UXmzp0"
+                          }
+                        ],
+                        "uid": "Wk2cMCJjJ",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "RA1UXmzp0"
+                          }
+                        ],
+                        "string": "{{[[roam/css]]}}",
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1660866969060,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "uid": "DQHwDGL6K",
+                    "edit-time": 1660866968684,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "edit-time": 1660867526980,
+                    "children": [
+                      {
+                        "string": "Log",
+                        "create-time": 1660867015100,
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "children": [
+                          {
+                            "string": "06:00 - 7:00 #[[.morning-routine]]",
+                            "create-time": 1660867023761,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "L3VZr0a5G"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "L3VZr0a5G"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "uid": "NEp-uH2nA",
+                            "edit-time": 1660867128792,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "string": "7:00 - 8:00 Great writing #[[.increased-emotional-energy]]",
+                            "create-time": 1660867039730,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "n1QQf6g_8"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "n1QQf6g_8"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "uid": "-be2i31Qt",
+                            "edit-time": 1660867252828,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "string": "8:00 - 8:30 Frustrating Meeting #[[.decreased-emotional-energy]]",
+                            "create-time": 1660867073658,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "Pd1WrxcT8"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "Pd1WrxcT8"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "uid": "kLub7BXjm",
+                            "edit-time": 1660867264686,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "string": "8:30 - 9:30 #[[.break]]",
+                            "create-time": 1660867101942,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "VbnABhUvp"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "VbnABhUvp"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "uid": "_cFWkULD_",
+                            "edit-time": 1660867221259,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "string": "9:30 - 10:00 Getting back in zone #.ramp-up ",
+                            "create-time": 1660867308570,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "aR-38SfVF"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "aR-38SfVF"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "uid": "Infnf6ukG",
+                            "edit-time": 1660867330625,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "uid": "ZV5iNTCQU",
+                        "edit-time": 1660867526983,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      },
+                      {
+                        "string": "What you'll see if you hit turn on the [[roam/css]] [here](((Wk2cMCJjJ)))  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fkb6T9fa4hH.png?alt=media&token=5fa2ddf7-7370-4868-b31b-2961e51b147c)",
+                        "create-time": 1660867464727,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "RA1UXmzp0"
+                          },
+                          {
+                            ":block/uid": "Wk2cMCJjJ"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "RA1UXmzp0"
+                          },
+                          {
+                            "uid": "Wk2cMCJjJ"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "uid": "e38CMRz-X",
+                        "edit-time": 1660867558829,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "0lwvs5tDQ"
+                      }
+                    ],
+                    "uid": "ObNDOTBLS",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "0lwvs5tDQ"
+                      }
+                    ],
+                    "string": "[[Example]] Top Level of your Daily Note ",
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1660867526980,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "uid": "MdPhG3wCJ",
+                "edit-time": 1660867399660,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "4izcNR_x5"
+              }
+            ],
+            "uid": "eVimBSDCL",
+            ":block/refs": [
+              {
+                ":block/uid": "4izcNR_x5"
+              }
+            ],
+            "string": "This can be useful for [[Use Cases]]  like",
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "create-time": 1660866852864,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Taken to the max, they can pretty dramatically change the layout of particular your blocks in your graph",
+            "create-time": 1660866861159,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                "string": "{{[[embed-path]]: ((Nt3syyeHc))}}",
+                "create-time": 1660866569624,
+                ":block/refs": [
+                  {
+                    ":block/uid": "Nt3syyeHc"
+                  },
+                  {
+                    ":block/uid": "qZRShzb3m"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "Nt3syyeHc"
+                  },
+                  {
+                    "uid": "qZRShzb3m"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "uid": "u8jE4o1Ml",
+                "edit-time": 1660866592048,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "uid": "L8kUR8I50",
+            "edit-time": 1660866922445,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Roam ships with these CSS libraries built in, so you can play with classes from them right away",
+            "create-time": 1660866315915,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "children": [
+              {
+                "edit-time": 1660866314537,
+                "children": [
+                  {
+                    "string": "Blue background, white text with `#.bg-blue-500 #.text-white` #.bg-blue-500 #.text-white ",
+                    "create-time": 1660866314938,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "d30qby1kL"
+                      },
+                      {
+                        ":block/uid": "qalnwf5Ug"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "d30qby1kL"
+                      },
+                      {
+                        "uid": "qalnwf5Ug"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "uid": "6kaEwuu5n",
+                    "edit-time": 1660866477027,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "#.text-xl larger text with `#.text-xl`",
+                    "create-time": 1660866371927,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Tu1W9njeH"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "Tu1W9njeH"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "uid": "t6erlRtVX",
+                    "edit-time": 1660866438160,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "nZBMCZMNh"
+                  }
+                ],
+                "uid": "5HuQ-3dq2",
+                ":block/refs": [
+                  {
+                    ":block/uid": "nZBMCZMNh"
+                  }
+                ],
+                "string": "[[TailwindCSS]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1660866308127,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "edit-time": 1660866490315,
+                "children": [
+                  {
+                    "string": "Card is probably the most useful by itself `#.bp3-card` #.bp3-card",
+                    "create-time": 1660866490450,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "6r5zpRAp5"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "6r5zpRAp5"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "uid": "tyqEw4yzO",
+                    "edit-time": 1660866533473,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "dW98JOuj0"
+                  }
+                ],
+                "uid": "BlWWbh2ZV",
+                ":block/refs": [
+                  {
+                    ":block/uid": "dW98JOuj0"
+                  }
+                ],
+                "string": "[[Blueprint]] ",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1660866477796,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "uid": "rUGNg1Led",
+            "edit-time": 1660866340529,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "",
+            "uid": "l-VeXZ0fc",
+            "create-time": 1660866592881,
+            "edit-time": 1660866592881,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "4jjt1GgYA",
+        "edit-time": 1660866231452,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      }
+    ],
+    "uid": "CAYGhv3Ex",
+    "edit-time": 1614656093825,
     ":edit/user": {
       ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
     }
@@ -42296,6 +42787,2422 @@
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         "children": [
+          {
+            "edit-time": 1660864386690,
+            "children": [
+              {
+                "edit-time": 1660867597326,
+                "children": [
+                  {
+                    "edit-time": 1660866633546,
+                    "children": [
+                      {
+                        "string": ".rm-E ",
+                        "create-time": 1660864563458,
+                        "heading": 2,
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "children": [
+                          {
+                            "edit-time": 1660864992459,
+                            "children": [
+                              {
+                                "string": "Blocks tagged with `#.rm-E` will display their immediate children next to them, ",
+                                "create-time": 1660865846712,
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "children": [
+                                  {
+                                    "string": "rather than indented below them",
+                                    "uid": "4dC1v3xzC",
+                                    "create-time": 1660864992433,
+                                    "edit-time": 1660865846715,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "uid": "nWfuiJMSO",
+                                "edit-time": 1660865904051,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "rAtWiBpZt"
+                              }
+                            ],
+                            "uid": "l_wBLqIgV",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "rAtWiBpZt"
+                              }
+                            ],
+                            "string": "Behavior::",
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660864989254,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "edit-time": 1660864716543,
+                            "children": [
+                              {
+                                "edit-time": 1660865851850,
+                                "children": [
+                                  {
+                                    "string": "or just want to view things side by side",
+                                    "uid": "kOXlb0AmU",
+                                    "create-time": 1660865095527,
+                                    "edit-time": 1660865851853,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "C4Wq479D_"
+                                  }
+                                ],
+                                "uid": "lIXz_u3Q0",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "C4Wq479D_"
+                                  }
+                                ],
+                                "string": "When you want a sort of [[Mind Map]] light behavior, ",
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "create-time": 1660865851850,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              },
+                              {
+                                "string": "🤷‍♂️ it's nice to have when you want it not much more to it than that",
+                                "uid": "YSz03KGXw",
+                                "create-time": 1660865856800,
+                                "edit-time": 1660865876680,
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "4izcNR_x5"
+                              }
+                            ],
+                            "uid": "BfKoI2-4e",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "4izcNR_x5"
+                              }
+                            ],
+                            "string": "Use Cases::",
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660864713400,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "edit-time": 1660864755663,
+                            "children": [
+                              {
+                                "edit-time": 1660864766374,
+                                "children": [
+                                  {
+                                    "string": "B",
+                                    "create-time": 1660864766366,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "Note that this only impacts the first level of nesting",
+                                        "uid": "64HExEYXl",
+                                        "create-time": 1660864794103,
+                                        "edit-time": 1660864807976,
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "4_wFhwjNh",
+                                    "edit-time": 1660864786834,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  },
+                                  {
+                                    "string": "C",
+                                    "create-time": 1660864786820,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "If you want to go further, you have to keep using the tag",
+                                        "uid": "r46m0o7b7",
+                                        "create-time": 1660864808448,
+                                        "edit-time": 1660864831688,
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "WegM4oiuH",
+                                    "edit-time": 1660864788154,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  },
+                                  {
+                                    "edit-time": 1660864839634,
+                                    "children": [
+                                      {
+                                        "string": "Using the link, not the tag",
+                                        "uid": "NrIXC87D9",
+                                        "create-time": 1660864897242,
+                                        "edit-time": 1660864901320,
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      },
+                                      {
+                                        "string": "so you can see where it is used",
+                                        "uid": "cdoGFAExE",
+                                        "create-time": 1660864904646,
+                                        "edit-time": 1660865923111,
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      },
+                                      {
+                                        "edit-time": 1660865952382,
+                                        "children": [
+                                          {
+                                            "string": " since this class hides itself when used as a tag",
+                                            "uid": "erGlArVrX",
+                                            "create-time": 1660864878496,
+                                            "edit-time": 1660865934152,
+                                            ":create/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            }
+                                          }
+                                        ],
+                                        "refs": [
+                                          {
+                                            "uid": "X9D3IPXkB"
+                                          }
+                                        ],
+                                        "uid": "OxL4xBGTw",
+                                        ":block/refs": [
+                                          {
+                                            ":block/uid": "X9D3IPXkB"
+                                          }
+                                        ],
+                                        "string": "E [[.rm-E]] ",
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        "create-time": 1660864832349,
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "X9D3IPXkB"
+                                      }
+                                    ],
+                                    "uid": "nNd7VHYMc",
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "X9D3IPXkB"
+                                      }
+                                    ],
+                                    "string": "D [[.rm-E]]",
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "create-time": 1660864788145,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "X9D3IPXkB"
+                                  }
+                                ],
+                                "uid": "IrCE7m3fz",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "X9D3IPXkB"
+                                  }
+                                ],
+                                "string": "A #.rm-E ",
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "create-time": 1660864755656,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            "uid": "w6_riGDZd",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            "string": "Example::",
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660864752620,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "uid": "FmhjiXgxA",
+                        "edit-time": 1660866110607,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      },
+                      {
+                        "string": ".rm-g ",
+                        "create-time": 1660864588711,
+                        "heading": 2,
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "children": [
+                          {
+                            "edit-time": 1660864678864,
+                            "children": [
+                              {
+                                "string": "Blocks tagged with `#.rm-g` are hidden when they are open  - revealing the children nested within them ",
+                                "create-time": 1660865485597,
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "children": [
+                                  {
+                                    "string": "Children are styled to look like they are one level higher in the block hiearchy than they are -- useful for adding meta-data tags without visually cluttering your outline.",
+                                    "uid": "Rl1uHfYlZ",
+                                    "create-time": 1660864678857,
+                                    "edit-time": 1660865517123,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "uid": "-Xkz7YTfA",
+                                "edit-time": 1660865485597,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "rAtWiBpZt"
+                              }
+                            ],
+                            "uid": "6SHV_G5-g",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "rAtWiBpZt"
+                              }
+                            ],
+                            "string": "Behavior::",
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660864673603,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "edit-time": 1660864662270,
+                            "children": [
+                              {
+                                "string": "when you want to group a collection of items and hide the block that contains them",
+                                "uid": "9Dx0vfV4B",
+                                "create-time": 1660864446509,
+                                "edit-time": 1660864673632,
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "4izcNR_x5"
+                              }
+                            ],
+                            "uid": "mUQdWBEOI",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "4izcNR_x5"
+                              }
+                            ],
+                            "string": "Use Cases::",
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660864658893,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "edit-time": 1660864597741,
+                            "children": [
+                              {
+                                "edit-time": 1660864623687,
+                                "children": [
+                                  {
+                                    "string": "Apples",
+                                    "uid": "cY6pxjkN_",
+                                    "create-time": 1660864458929,
+                                    "edit-time": 1660864626299,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  },
+                                  {
+                                    "string": "Pears",
+                                    "uid": "u9XfFZoPh",
+                                    "create-time": 1660864626292,
+                                    "edit-time": 1660864630642,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  },
+                                  {
+                                    "string": "Cherries",
+                                    "uid": "pBaB2WhuO",
+                                    "create-time": 1660864630635,
+                                    "edit-time": 1660864633377,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "KnkoPsb5q"
+                                  },
+                                  {
+                                    "uid": "PP_AKOAEq"
+                                  }
+                                ],
+                                "uid": "YEavBSblm",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "KnkoPsb5q"
+                                  },
+                                  {
+                                    ":block/uid": "PP_AKOAEq"
+                                  }
+                                ],
+                                "string": "[[.rm-g]] #[[Fruits]] ",
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "create-time": 1660864455585,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            "uid": "ZzjnneXs6",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            "string": "Example::",
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660864594544,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "uid": "tY2Q6q3Oo",
+                        "edit-time": 1660864588711,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      },
+                      {
+                        "string": ".rm-hide",
+                        "create-time": 1660864944999,
+                        "heading": 2,
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "children": [
+                          {
+                            "edit-time": 1660864962348,
+                            "children": [
+                              {
+                                "string": "When you want to add some info to a block without visually cluttering things up - but still allow the info to be discoverable easily",
+                                "uid": "706tXeBp0",
+                                "create-time": 1660864962341,
+                                "edit-time": 1660865708669,
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "4izcNR_x5"
+                              }
+                            ],
+                            "uid": "GgKNxrWAK",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "4izcNR_x5"
+                              }
+                            ],
+                            "string": "Use Cases::",
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660864958209,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "edit-time": 1660865720531,
+                            "children": [
+                              {
+                                "string": "This block only displays when it is open - when it is closed, it is replaced with a very light bar across it's length",
+                                "create-time": 1660865795666,
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "children": [
+                                  {
+                                    "string": "The bar get's darker on hover, and which",
+                                    "create-time": 1660865803970,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "when you click it - it opens the block",
+                                        "uid": "Q1DV4hs57",
+                                        "create-time": 1660865746731,
+                                        "edit-time": 1660865809129,
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "rsl2vfafY",
+                                    "edit-time": 1660865803970,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "uid": "MzDlNBYkJ",
+                                "edit-time": 1660865795666,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              },
+                              {
+                                "string": "In some ways a mirror of ((tY2Q6q3Oo)) ",
+                                "create-time": 1660865720525,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "tY2Q6q3Oo"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "tY2Q6q3Oo"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "uid": "d8V-cEGEW",
+                                "edit-time": 1660865746557,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "rAtWiBpZt"
+                              }
+                            ],
+                            "uid": "EHSyEyAOj",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "rAtWiBpZt"
+                              }
+                            ],
+                            "string": "Behavior::",
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660865715738,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "edit-time": 1660865123307,
+                            "children": [
+                              {
+                                "edit-time": 1660865154959,
+                                "children": [
+                                  {
+                                    "edit-time": 1660866682306,
+                                    "children": [
+                                      {
+                                        "string": "Start time:: 17:26",
+                                        "create-time": 1660866685597,
+                                        ":block/refs": [
+                                          {
+                                            ":block/uid": "dkLbDWVhU"
+                                          }
+                                        ],
+                                        "refs": [
+                                          {
+                                            "uid": "dkLbDWVhU"
+                                          }
+                                        ],
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        "uid": "QYSd62vAk",
+                                        "edit-time": 1660866690225,
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      },
+                                      {
+                                        "string": "End time:: 17:28  ",
+                                        "create-time": 1660865171183,
+                                        ":block/refs": [
+                                          {
+                                            ":block/uid": "r__wyo3gX"
+                                          }
+                                        ],
+                                        "refs": [
+                                          {
+                                            "uid": "r__wyo3gX"
+                                          }
+                                        ],
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        "uid": "gim1mQ-8b",
+                                        "edit-time": 1660866693103,
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "IfssowAgD"
+                                      },
+                                      {
+                                        "uid": "UgQ6i4ZcS"
+                                      }
+                                    ],
+                                    "uid": "KtCzmbuBE",
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "IfssowAgD"
+                                      },
+                                      {
+                                        ":block/uid": "UgQ6i4ZcS"
+                                      }
+                                    ],
+                                    "string": "Total Time:: 2 min #.rm-hide  ",
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "create-time": 1660865225515,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "fsPJ2C4FF"
+                                  }
+                                ],
+                                "uid": "jq0MYtn5U",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "fsPJ2C4FF"
+                                  }
+                                ],
+                                "string": "{{[[DONE]]}} This is a task that I'm hiding the metadata for",
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "create-time": 1660865123299,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              },
+                              {
+                                "edit-time": 1660865434048,
+                                "children": [
+                                  {
+                                    "string": "Have some hidden children here too",
+                                    "uid": "EsHmjYG6m",
+                                    "create-time": 1660865557125,
+                                    "edit-time": 1660865604054,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  },
+                                  {
+                                    "edit-time": 1660865545665,
+                                    "children": [
+                                      {
+                                        "string": "hidden children",
+                                        "uid": "AIJXgIFHV",
+                                        "create-time": 1660865551660,
+                                        "edit-time": 1660865555147,
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "IfssowAgD"
+                                      }
+                                    ],
+                                    "uid": "46KhZav46",
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "IfssowAgD"
+                                      }
+                                    ],
+                                    "string": "#.rm-hide ",
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "create-time": 1660865539628,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  },
+                                  {
+                                    "string": "Look between us!",
+                                    "uid": "vK8nQyFd8",
+                                    "create-time": 1660865566244,
+                                    "edit-time": 1660865611561,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "jq0MYtn5U"
+                                  }
+                                ],
+                                "uid": "McoUXjV4T",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "jq0MYtn5U"
+                                  }
+                                ],
+                                "string": "The block above me ((((jq0MYtn5U)))) has a hidden child - hover between us and click the bar to expand it - or arrow key up from me, or down from it, and you'll see it",
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "create-time": 1660865341910,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            "uid": "a9Uw-Ih_e",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            "string": "Example::",
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660865119630,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "uid": "fbGyeCJOo",
+                        "edit-time": 1660864957972,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "RA1UXmzp0"
+                      },
+                      {
+                        "uid": "CAYGhv3Ex"
+                      },
+                      {
+                        "uid": "FmhjiXgxA"
+                      },
+                      {
+                        "uid": "tY2Q6q3Oo"
+                      },
+                      {
+                        "uid": "fbGyeCJOo"
+                      }
+                    ],
+                    "uid": "Nt3syyeHc",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "RA1UXmzp0"
+                      },
+                      {
+                        ":block/uid": "CAYGhv3Ex"
+                      },
+                      {
+                        ":block/uid": "FmhjiXgxA"
+                      },
+                      {
+                        ":block/uid": "tY2Q6q3Oo"
+                      },
+                      {
+                        ":block/uid": "fbGyeCJOo"
+                      }
+                    ],
+                    "string": "We decided to include some of the most useful [[roam/css]] [[Tag Styles]] we've developed for ourselves, you may find helpful/inspiring ((FmhjiXgxA)) ((tY2Q6q3Oo)) and ((fbGyeCJOo))",
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1660864395029,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "CAYGhv3Ex"
+                  },
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "uid": "1AKrIYB5u",
+                ":block/refs": [
+                  {
+                    ":block/uid": "CAYGhv3Ex"
+                  },
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]] __sort of__ #[[Tag Styles]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1660864386671,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "edit-time": 1660867617628,
+                "children": [
+                  {
+                    "string": "Zooming out from sidebar, embed-path, or backlinks now outlines the block you were originally focused on, rather than coloring the block and all it's children with an obnoxious yellow",
+                    "create-time": 1660867860004,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "children": [
+                      {
+                        "edit-time": 1660867937865,
+                        "children": [
+                          {
+                            "edit-time": 1660868125656,
+                            "children": [
+                              {
+                                "string": "you'll see this  ->  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FKfjpSlNswz.png?alt=media&token=7ab3240d-5f22-4292-b0d0-6ca3d217b115)",
+                                "props": {
+                                  "image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FKfjpSlNswz.png?alt=media&token=7ab3240d-5f22-4292-b0d0-6ca3d217b115": {
+                                      "width": 320,
+                                      "height": null
+                                    }
+                                  }
+                                },
+                                "create-time": 1660867937859,
+                                ":block/props": {
+                                  ":image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FKfjpSlNswz.png?alt=media&token=7ab3240d-5f22-4292-b0d0-6ca3d217b115": {
+                                      ":width": 320,
+                                      ":height": null
+                                    }
+                                  }
+                                },
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "uid": "KmAADTWSD",
+                                "edit-time": 1660868000615,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "aD4jjcDOt"
+                              }
+                            ],
+                            "uid": "p8UCDfLez",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "aD4jjcDOt"
+                              }
+                            ],
+                            "string": "Shift click on this reference ((aD4jjcDOt)) and then click a breadcrumb in the sidebar and ",
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660867988375,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "uid": "_TJ8NBzOv",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "string": "Example::",
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1660867934718,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "uid": "cOD0qIOyo",
+                    "edit-time": 1660867907190,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "Images now display inline (previously the forced a line break)",
+                    "uid": "gNakTCrdZ",
+                    "create-time": 1660868066305,
+                    "edit-time": 1660868084700,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  },
+                  {
+                    "string": "References of blockquotes and Images now display inline",
+                    "create-time": 1660868101438,
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "children": [
+                      {
+                        "string": "Now it is easier to use them for building up compound statements",
+                        "create-time": 1660867617622,
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "children": [
+                          {
+                            "edit-time": 1660867672400,
+                            "children": [
+                              {
+                                "string": "[[>]] All Men are Mortal",
+                                "create-time": 1660867672394,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "DyGRUeXiP"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "DyGRUeXiP"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "uid": "rECUGYx_U",
+                                "edit-time": 1660867697089,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              },
+                              {
+                                "string": "[[>]] Socrates is a Man",
+                                "create-time": 1660867697079,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "DyGRUeXiP"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "DyGRUeXiP"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "uid": "rvlquM4gT",
+                                "edit-time": 1660867704812,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              },
+                              {
+                                "string": "[[>]] Socrates is Mortal",
+                                "create-time": 1660867704804,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "DyGRUeXiP"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "DyGRUeXiP"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "uid": "aD4jjcDOt",
+                                "edit-time": 1660867711761,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              },
+                              {
+                                "string": "> [[IF]] ((rECUGYx_U)) [[AND]] ((rvlquM4gT)) \n[[THEN]] ((aD4jjcDOt))",
+                                "create-time": 1660867718856,
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "rECUGYx_U"
+                                  },
+                                  {
+                                    ":block/uid": "rvlquM4gT"
+                                  },
+                                  {
+                                    ":block/uid": "aD4jjcDOt"
+                                  },
+                                  {
+                                    ":block/uid": "jjizUFjgS"
+                                  },
+                                  {
+                                    ":block/uid": "N4iEH6AGL"
+                                  },
+                                  {
+                                    ":block/uid": "hGEYP9Zvf"
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "rECUGYx_U"
+                                  },
+                                  {
+                                    "uid": "rvlquM4gT"
+                                  },
+                                  {
+                                    "uid": "aD4jjcDOt"
+                                  },
+                                  {
+                                    "uid": "jjizUFjgS"
+                                  },
+                                  {
+                                    "uid": "N4iEH6AGL"
+                                  },
+                                  {
+                                    "uid": "hGEYP9Zvf"
+                                  }
+                                ],
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "uid": "ZxWDncpeJ",
+                                "edit-time": 1660867785963,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            "uid": "DlRjJMUBm",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "0lwvs5tDQ"
+                              }
+                            ],
+                            "string": "Example::",
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660867669689,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "uid": "03JMlhQF5",
+                        "edit-time": 1660868104898,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "uid": "zBn-TeA5v",
+                    "edit-time": 1660868109122,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "yKQVOgmDS"
+                  }
+                ],
+                "uid": "0oQTCVjK8",
+                ":block/refs": [
+                  {
+                    ":block/uid": "yKQVOgmDS"
+                  }
+                ],
+                "string": "[[CSS Changes]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1660867613403,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "08-18-2022"
+              }
+            ],
+            "uid": "Y_hd0zt1H",
+            ":block/refs": [
+              {
+                ":block/uid": "08-18-2022"
+              }
+            ],
+            "string": "[[August 18th, 2022]]",
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "create-time": 1660864378506,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "edit-time": 1660837339834,
+            "children": [
+              {
+                "edit-time": 1660837363627,
+                "children": [
+                  {
+                    "edit-time": 1660837584647,
+                    "children": [
+                      {
+                        "edit-time": 1660837395037,
+                        "children": [
+                          {
+                            "edit-time": 1660838386215,
+                            "children": [
+                              {
+                                "string": "Recursive Latex",
+                                "create-time": 1660837771457,
+                                "heading": 3,
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "children": [
+                                  {
+                                    "edit-time": 1660838399925,
+                                    "children": [
+                                      {
+                                        "string": "$$n_1$$",
+                                        "uid": "he0H9MCmU",
+                                        "create-time": 1660837180539,
+                                        "edit-time": 1660837542084,
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      },
+                                      {
+                                        "string": "$$n^n$$",
+                                        "uid": "8YUhtbFfK",
+                                        "create-time": 1660837201066,
+                                        "edit-time": 1660837542084,
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "8YUhtbFfK"
+                                      },
+                                      {
+                                        "uid": "he0H9MCmU"
+                                      }
+                                    ],
+                                    "uid": "Civl1vpd2",
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "8YUhtbFfK"
+                                      },
+                                      {
+                                        ":block/uid": "he0H9MCmU"
+                                      }
+                                    ],
+                                    "string": "$$\\frac{((he0H9MCmU))}{((8YUhtbFfK))}$$",
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "create-time": 1660838385518,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "uid": "RukZCXX_G",
+                                "edit-time": 1660837817911,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              },
+                              {
+                                "string": "Plain Text",
+                                "create-time": 1660837805600,
+                                "heading": 3,
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "children": [
+                                  {
+                                    "edit-time": 1660837888893,
+                                    "children": [
+                                      {
+                                        "string": "^z",
+                                        "uid": "qEPfTMWSO",
+                                        "create-time": 1660837888195,
+                                        "edit-time": 1660837888195,
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      },
+                                      {
+                                        "string": "i=1",
+                                        "uid": "f32673rdf",
+                                        "create-time": 1660837759007,
+                                        "edit-time": 1660837759007,
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "f32673rdf"
+                                      },
+                                      {
+                                        "uid": "qEPfTMWSO"
+                                      }
+                                    ],
+                                    "uid": "eswTPC4el",
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "f32673rdf"
+                                      },
+                                      {
+                                        ":block/uid": "qEPfTMWSO"
+                                      }
+                                    ],
+                                    "string": "\\sum_{((f32673rdf))}((qEPfTMWSO))",
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "create-time": 1660837603272,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "uid": "Cs1mg8QW3",
+                                "edit-time": 1660837812284,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              },
+                              {
+                                "string": "Reference of Reference - to describe how variable used in another context",
+                                "create-time": 1660837912644,
+                                "heading": 3,
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "children": [
+                                  {
+                                    "edit-time": 1660838420604,
+                                    "children": [
+                                      {
+                                        "string": "Here you can describe the meaning of mapsto n^n",
+                                        "uid": "ry6x8LVUk",
+                                        "create-time": 1660838458527,
+                                        "edit-time": 1660839856156,
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      },
+                                      {
+                                        "edit-time": 1660837936084,
+                                        "children": [
+                                          {
+                                            "string": "Here you could describe the meaning of the n^n that is being described here",
+                                            "uid": "tKq5s4nM5",
+                                            "create-time": 1660838478507,
+                                            "edit-time": 1660838496385,
+                                            ":create/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            }
+                                          }
+                                        ],
+                                        "refs": [
+                                          {
+                                            "uid": "8YUhtbFfK"
+                                          }
+                                        ],
+                                        "uid": "LvGTzNBu3",
+                                        ":block/refs": [
+                                          {
+                                            ":block/uid": "8YUhtbFfK"
+                                          }
+                                        ],
+                                        "string": "((8YUhtbFfK))",
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        "create-time": 1660837934841,
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "LvGTzNBu3"
+                                      }
+                                    ],
+                                    "uid": "5XDZIpbeU",
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "LvGTzNBu3"
+                                      }
+                                    ],
+                                    "string": "$$\\mapsto ((LvGTzNBu3))$$",
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "create-time": 1660838306143,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "uid": "CGm7e-atU",
+                                "edit-time": 1660837934847,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              },
+                              {
+                                "string": "Sizing",
+                                "create-time": 1660838005911,
+                                "heading": 3,
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "children": [
+                                  {
+                                    "string": "\\Large",
+                                    "create-time": 1660837999930,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "children": [
+                                      {
+                                        "edit-time": 1660839801387,
+                                        "children": [
+                                          {
+                                            "string": "\\Huge",
+                                            "uid": "XA7Z5QiB_",
+                                            "create-time": 1660838435435,
+                                            "edit-time": 1660838439114,
+                                            ":create/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            }
+                                          },
+                                          {
+                                            "string": "\\Small",
+                                            "uid": "lxlsF0Xc6",
+                                            "create-time": 1660838439107,
+                                            "edit-time": 1660838442577,
+                                            ":create/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            ":edit/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            }
+                                          }
+                                        ],
+                                        "refs": [
+                                          {
+                                            "uid": "86cQzNJhR"
+                                          }
+                                        ],
+                                        "uid": "EqSYeqd7c",
+                                        ":block/refs": [
+                                          {
+                                            ":block/uid": "86cQzNJhR"
+                                          }
+                                        ],
+                                        "string": "Try changing ((86cQzNJhR)) to ",
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        "create-time": 1660838430715,
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "86cQzNJhR",
+                                    "edit-time": 1660838023559,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "uid": "arFPzJCvh",
+                                "edit-time": 1660838009426,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "eswTPC4el"
+                              },
+                              {
+                                "uid": "86cQzNJhR"
+                              },
+                              {
+                                "uid": "5XDZIpbeU"
+                              },
+                              {
+                                "uid": "Civl1vpd2"
+                              }
+                            ],
+                            "uid": "bUYh7TPuV",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "eswTPC4el"
+                              },
+                              {
+                                ":block/uid": "86cQzNJhR"
+                              },
+                              {
+                                ":block/uid": "5XDZIpbeU"
+                              },
+                              {
+                                ":block/uid": "Civl1vpd2"
+                              }
+                            ],
+                            "string": "$$((86cQzNJhR))((Civl1vpd2)) + ((eswTPC4el)) ((5XDZIpbeU)) $$",
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660837202996,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "uid": "F8zOo0mb4",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "string": "Example::",
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1660837391178,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      },
+                      {
+                        "edit-time": 1660837403299,
+                        "children": [
+                          {
+                            "string": "Being able to separately describe each element of the equation.",
+                            "uid": "AZ5XrCmcA",
+                            "create-time": 1660837403292,
+                            "edit-time": 1660838576655,
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "4izcNR_x5"
+                          }
+                        ],
+                        "uid": "NaZd5mR98",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "4izcNR_x5"
+                          }
+                        ],
+                        "string": "Use Cases::",
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1660837395134,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "BsbrAE1TD"
+                      }
+                    ],
+                    "uid": "UvCvJ2V3T",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "BsbrAE1TD"
+                      }
+                    ],
+                    "string": "[[Latex]] now will parse block references, including other latex so you can comp",
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1660837347155,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  },
+                  {
+                    "uid": "aD6Ti3Y_u"
+                  }
+                ],
+                "uid": "CKIqdmwyu",
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  },
+                  {
+                    ":block/uid": "aD6Ti3Y_u"
+                  }
+                ],
+                "string": "[[New Features]]  #[[Improvements]]",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1660837339812,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              },
+              {
+                "edit-time": 1660840909622,
+                "children": [
+                  {
+                    "edit-time": 1660840843947,
+                    "children": [
+                      {
+                        "edit-time": 1660840927972,
+                        "children": [
+                          {
+                            "string": "Previously, when you composed calculations across many blocks - all of the math text was pulled up and flattened - which could lead to unexpected behavior when building up statements and making calculations that depended on other calculations ",
+                            "create-time": 1660840826895,
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "children": [
+                              {
+                                "edit-time": 1660840869738,
+                                "children": [
+                                  {
+                                    "string": "Wait? 2 times 4 doesn't equal 5! ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FeoLoaSY0y_.png?alt=media&token=0fb80ad2-894a-40b5-ba87-841b7fa3cd63)",
+                                    "create-time": 1660841805618,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "children": [
+                                      {
+                                        "string": "After Change:: ((evPly3KEV))",
+                                        "create-time": 1660841838798,
+                                        ":block/refs": [
+                                          {
+                                            ":block/uid": "evPly3KEV"
+                                          },
+                                          {
+                                            ":block/uid": "oanDauozH"
+                                          }
+                                        ],
+                                        "refs": [
+                                          {
+                                            "uid": "evPly3KEV"
+                                          },
+                                          {
+                                            "uid": "oanDauozH"
+                                          }
+                                        ],
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        "uid": "ajVlAyO0o",
+                                        "edit-time": 1660841857642,
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "mexwAqFE1",
+                                    "edit-time": 1660841832272,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "0lwvs5tDQ"
+                                  }
+                                ],
+                                "uid": "Ahy9Fu4S7",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "0lwvs5tDQ"
+                                  }
+                                ],
+                                "string": "Example::",
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "create-time": 1660840866553,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              },
+                              {
+                                "edit-time": 1660841943096,
+                                "children": [
+                                  {
+                                    "string": "This is what is actually being evaluated now - if you're using lots of nested refs  ((5R-4pOGOe))",
+                                    "create-time": 1660842324697,
+                                    ":block/refs": [
+                                      {
+                                        ":block/uid": "5R-4pOGOe"
+                                      }
+                                    ],
+                                    "refs": [
+                                      {
+                                        "uid": "5R-4pOGOe"
+                                      }
+                                    ],
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "uid": "2lK5T0VYt",
+                                    "edit-time": 1660842366382,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "748osab9-"
+                                  },
+                                  {
+                                    "uid": "Ttwz9Om7W"
+                                  }
+                                ],
+                                "uid": "8AFxi0-CD",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "748osab9-"
+                                  },
+                                  {
+                                    ":block/uid": "Ttwz9Om7W"
+                                  }
+                                ],
+                                "string": "The old hack to get around required you to wrap block references in a `( )` to make sure that that each component in the calculation was evaluated independently before the values were aggregated  ((748osab9-)) remember [[PEMDAS]]?",
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "create-time": 1660841632661,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "uid": "VNpoLRkR8",
+                            "edit-time": 1660841349088,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "90ExmsM5l"
+                          }
+                        ],
+                        "uid": "-gSfM5Ngz",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "90ExmsM5l"
+                          }
+                        ],
+                        "string": "[[Old State]]",
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1660773055296,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      },
+                      {
+                        "edit-time": 1660840932639,
+                        "children": [
+                          {
+                            "string": "After this update, every reference used in a calculation will be wrapped in a `()` automatically before calculation is applied",
+                            "create-time": 1660841521537,
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "children": [
+                              {
+                                "edit-time": 1660841956338,
+                                "children": [
+                                  {
+                                    "edit-time": 1660841847041,
+                                    "children": [
+                                      {
+                                        "string": "[Try it here](((YdPt3ZIEV)))",
+                                        "create-time": 1660842267232,
+                                        ":block/refs": [
+                                          {
+                                            ":block/uid": "YdPt3ZIEV"
+                                          }
+                                        ],
+                                        "refs": [
+                                          {
+                                            "uid": "YdPt3ZIEV"
+                                          }
+                                        ],
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        "uid": "WVvcpfjnE",
+                                        "edit-time": 1660842272306,
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "evPly3KEV",
+                                    "string": "2 times 4 = 8  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FC500DSjbn0.png?alt=media&token=5ea62b8f-f710-4e59-ba20-b7d4e25c474e)",
+                                    ":block/props": {
+                                      ":image-size": {
+                                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FC500DSjbn0.png?alt=media&token=5ea62b8f-f710-4e59-ba20-b7d4e25c474e": {
+                                          ":width": 216,
+                                          ":height": null
+                                        }
+                                      }
+                                    },
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "create-time": 1660841695884,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "props": {
+                                      "image-size": {
+                                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FC500DSjbn0.png?alt=media&token=5ea62b8f-f710-4e59-ba20-b7d4e25c474e": {
+                                          "width": 216,
+                                          "height": null
+                                        }
+                                      }
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "0lwvs5tDQ"
+                                  }
+                                ],
+                                "uid": "pMsj2jJUt",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "0lwvs5tDQ"
+                                  }
+                                ],
+                                "string": "Example::",
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "create-time": 1660841952130,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              },
+                              {
+                                "string": "2 times 20 = 40, not 21",
+                                "create-time": 1660841734489,
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FZCxS2W-TvQ.png?alt=media&token=64cd1702-a33f-4517-b198-ebad16f9836c)",
+                                    "props": {
+                                      "image-size": {
+                                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FZCxS2W-TvQ.png?alt=media&token=64cd1702-a33f-4517-b198-ebad16f9836c": {
+                                          "width": 239,
+                                          "height": null
+                                        }
+                                      }
+                                    },
+                                    "create-time": 1660773088762,
+                                    ":block/props": {
+                                      ":image-size": {
+                                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FZCxS2W-TvQ.png?alt=media&token=64cd1702-a33f-4517-b198-ebad16f9836c": {
+                                          ":width": 239,
+                                          ":height": null
+                                        }
+                                      }
+                                    },
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "uid": "zgLRSLJpM",
+                                    "edit-time": 1660840796353,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "uid": "ZGbYVrdWs",
+                                "edit-time": 1660842634216,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "uid": "748osab9-",
+                            "edit-time": 1660841521537,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          },
+                          {
+                            "edit-time": 1660841966261,
+                            "children": [
+                              {
+                                "edit-time": 1660842090493,
+                                "children": [
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FvIZpt-B0OI.png?alt=media&token=a87650f5-0fcc-46c0-a31a-2231b01f9d6d)",
+                                    "props": {
+                                      "image-size": {
+                                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FvIZpt-B0OI.png?alt=media&token=a87650f5-0fcc-46c0-a31a-2231b01f9d6d": {
+                                          "width": 95,
+                                          "height": null
+                                        }
+                                      }
+                                    },
+                                    "create-time": 1660842137815,
+                                    ":block/props": {
+                                      ":image-size": {
+                                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FvIZpt-B0OI.png?alt=media&token=a87650f5-0fcc-46c0-a31a-2231b01f9d6d": {
+                                          ":width": 95,
+                                          ":height": null
+                                        }
+                                      }
+                                    },
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "uid": "zT9LiA8IP",
+                                    "edit-time": 1660842139302,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  },
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F0QAGtWb2NP.png?alt=media&token=f7821d1a-5834-45bc-99c0-6240757cffcd)",
+                                    "props": {
+                                      "image-size": {
+                                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F0QAGtWb2NP.png?alt=media&token=f7821d1a-5834-45bc-99c0-6240757cffcd": {
+                                          "width": 208,
+                                          "height": null
+                                        }
+                                      }
+                                    },
+                                    "create-time": 1660842118086,
+                                    ":block/props": {
+                                      ":image-size": {
+                                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F0QAGtWb2NP.png?alt=media&token=f7821d1a-5834-45bc-99c0-6240757cffcd": {
+                                          ":width": 208,
+                                          ":height": null
+                                        }
+                                      }
+                                    },
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "uid": "FSMvia7tm",
+                                    "edit-time": 1660842121167,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  },
+                                  {
+                                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_0bfRasZfz.png?alt=media&token=edd56c7d-6590-44be-92e3-4b187a50fad2)",
+                                    "props": {
+                                      "image-size": {
+                                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_0bfRasZfz.png?alt=media&token=edd56c7d-6590-44be-92e3-4b187a50fad2": {
+                                          "width": 338,
+                                          "height": null
+                                        }
+                                      }
+                                    },
+                                    "create-time": 1660842151906,
+                                    ":block/props": {
+                                      ":image-size": {
+                                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F_0bfRasZfz.png?alt=media&token=edd56c7d-6590-44be-92e3-4b187a50fad2": {
+                                          ":width": 338,
+                                          ":height": null
+                                        }
+                                      }
+                                    },
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "uid": "5R-4pOGOe",
+                                    "edit-time": 1660842153198,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  },
+                                  {
+                                    "string": "Try it yourself",
+                                    "create-time": 1660840934644,
+                                    "heading": 2,
+                                    ":create/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    },
+                                    "children": [
+                                      {
+                                        "edit-time": 1660841424031,
+                                        "children": [
+                                          {
+                                            "edit-time": 1660841424031,
+                                            "children": [
+                                              {
+                                                "string": "1",
+                                                "uid": "U35nxx0ha",
+                                                "create-time": 1660841107975,
+                                                "edit-time": 1660841424031,
+                                                ":create/user": {
+                                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                                },
+                                                ":edit/user": {
+                                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                                }
+                                              },
+                                              {
+                                                "string": "1",
+                                                "uid": "pJOOIdwKC",
+                                                "create-time": 1660841104378,
+                                                "edit-time": 1660841424031,
+                                                ":create/user": {
+                                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                                },
+                                                ":edit/user": {
+                                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                                }
+                                              }
+                                            ],
+                                            "refs": [
+                                              {
+                                                "uid": "pJOOIdwKC"
+                                              },
+                                              {
+                                                "uid": "U35nxx0ha"
+                                              },
+                                              {
+                                                "uid": "u-eJb70Fn"
+                                              }
+                                            ],
+                                            "uid": "9VZ6lwlfx",
+                                            ":block/refs": [
+                                              {
+                                                ":block/uid": "pJOOIdwKC"
+                                              },
+                                              {
+                                                ":block/uid": "U35nxx0ha"
+                                              },
+                                              {
+                                                ":block/uid": "u-eJb70Fn"
+                                              }
+                                            ],
+                                            "string": "[[X]] {{calc: ((pJOOIdwKC)) + ((U35nxx0ha))}}",
+                                            ":create/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            "create-time": 1660841097331,
+                                            ":edit/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            }
+                                          },
+                                          {
+                                            "edit-time": 1660841424031,
+                                            "children": [
+                                              {
+                                                "string": "2",
+                                                "uid": "k9UaJrwOM",
+                                                "create-time": 1660841139316,
+                                                "edit-time": 1660841424031,
+                                                ":create/user": {
+                                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                                },
+                                                ":edit/user": {
+                                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                                }
+                                              },
+                                              {
+                                                "string": "2",
+                                                "uid": "xdm0aDOmu",
+                                                "create-time": 1660841130997,
+                                                "edit-time": 1660841424031,
+                                                ":create/user": {
+                                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                                },
+                                                ":edit/user": {
+                                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                                }
+                                              }
+                                            ],
+                                            "refs": [
+                                              {
+                                                "uid": "xdm0aDOmu"
+                                              },
+                                              {
+                                                "uid": "k9UaJrwOM"
+                                              },
+                                              {
+                                                "uid": "dtwU2XDV4"
+                                              }
+                                            ],
+                                            "uid": "zqspvHH4e",
+                                            ":block/refs": [
+                                              {
+                                                ":block/uid": "xdm0aDOmu"
+                                              },
+                                              {
+                                                ":block/uid": "k9UaJrwOM"
+                                              },
+                                              {
+                                                ":block/uid": "dtwU2XDV4"
+                                              }
+                                            ],
+                                            "string": "[[Y]] {{calc: ((xdm0aDOmu)) + ((k9UaJrwOM))}}",
+                                            ":create/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            },
+                                            "create-time": 1660841050307,
+                                            ":edit/user": {
+                                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                            }
+                                          }
+                                        ],
+                                        "refs": [
+                                          {
+                                            "uid": "zqspvHH4e"
+                                          },
+                                          {
+                                            "uid": "9VZ6lwlfx"
+                                          },
+                                          {
+                                            "uid": "o1sxc6eL9"
+                                          },
+                                          {
+                                            "uid": "v8yga1nKs"
+                                          }
+                                        ],
+                                        "uid": "YdPt3ZIEV",
+                                        ":block/refs": [
+                                          {
+                                            ":block/uid": "zqspvHH4e"
+                                          },
+                                          {
+                                            ":block/uid": "9VZ6lwlfx"
+                                          },
+                                          {
+                                            ":block/uid": "o1sxc6eL9"
+                                          },
+                                          {
+                                            ":block/uid": "v8yga1nKs"
+                                          }
+                                        ],
+                                        "string": "[[Z]] {{[[calc]]: ((9VZ6lwlfx)) * ((zqspvHH4e))}}",
+                                        ":create/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        },
+                                        "create-time": 1660841144612,
+                                        ":edit/user": {
+                                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                        }
+                                      }
+                                    ],
+                                    "uid": "P1b5PYFI2",
+                                    "edit-time": 1660842160447,
+                                    ":edit/user": {
+                                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                    }
+                                  }
+                                ],
+                                "refs": [
+                                  {
+                                    "uid": "v8yga1nKs"
+                                  }
+                                ],
+                                "uid": "Dkts6U9DR",
+                                ":block/refs": [
+                                  {
+                                    ":block/uid": "v8yga1nKs"
+                                  }
+                                ],
+                                "string": "Clicking the green text of the [[calc]] function has always displayed content of the internals of the calcuation, but now if you click on the = sign after doing this, you can see the fully expanded function which is being evaluated, so you can confirm that everything is happening the way you want it to ",
+                                ":create/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                },
+                                "create-time": 1660841970493,
+                                ":edit/user": {
+                                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                                }
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "h_pvMVa7e"
+                              }
+                            ],
+                            "uid": "hKWfgNiko",
+                            ":block/refs": [
+                              {
+                                ":block/uid": "h_pvMVa7e"
+                              }
+                            ],
+                            "string": "New Features::",
+                            ":create/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            },
+                            "create-time": 1660841962001,
+                            ":edit/user": {
+                              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "RNNOJHCb_"
+                          }
+                        ],
+                        "uid": "KhQzhhTJu",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "RNNOJHCb_"
+                          }
+                        ],
+                        "string": "[[New State]]",
+                        ":create/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        },
+                        "create-time": 1660773085295,
+                        ":edit/user": {
+                          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "PjsgI6PX2"
+                      }
+                    ],
+                    "uid": "rlr60MMFx",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "PjsgI6PX2"
+                      }
+                    ],
+                    "string": "Behavior of [[Inline Calculator]] `{{calc: }}` for parsing block references has changed ",
+                    ":create/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    },
+                    "create-time": 1660840753593,
+                    ":edit/user": {
+                      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  },
+                  {
+                    "uid": "xxFKZqzYN"
+                  },
+                  {
+                    "uid": "wF1ddKZm_"
+                  }
+                ],
+                "uid": "n0QiKPvtm",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  },
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  },
+                  {
+                    ":block/uid": "wF1ddKZm_"
+                  }
+                ],
+                "string": "#[[Quality of Life Improvements]] #[[Bug Fixes]] **[[Feature Behavior Change]]**",
+                ":create/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "create-time": 1660840717950,
+                ":edit/user": {
+                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "08-17-2022"
+              }
+            ],
+            "uid": "9VBWV03Wh",
+            ":block/refs": [
+              {
+                ":block/uid": "08-17-2022"
+              }
+            ],
+            "string": "[[August 17th, 2022]]",
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "create-time": 1660837336990,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
           {
             "edit-time": 1660569362578,
             "children": [
@@ -80173,9 +83080,612 @@
     }
   },
   {
-    "uid": "oQyXtS9XB",
-    "create-time": 1660787027517,
-    "edit-time": 1660787027517,
+    "create-time": 1660837435008,
+    "title": "Latex",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "children": [
+      {
+        "edit-time": 1660837555170,
+        "children": [
+          {
+            "string": "Any text entered with `$$double dollar signs$$` will be evaluated as latex, using [[Khan Academy]]'s katex typesetting library -- see docs for that here https://katex.org/ - particularly here https://katex.org/docs/supported.html",
+            "create-time": 1660837448847,
+            ":block/refs": [
+              {
+                ":block/uid": "458bFnZAJ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "458bFnZAJ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "uid": "-cQEb0-o-",
+            "edit-time": 1660837656331,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "IFW5SbN-Z"
+          }
+        ],
+        "uid": "03bOXWwaf",
+        ":block/refs": [
+          {
+            ":block/uid": "IFW5SbN-Z"
+          }
+        ],
+        "string": "Description::",
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1660837551617,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "edit-time": 1660837667664,
+        "children": [
+          {
+            "string": "{{embed-path: ((UvCvJ2V3T))}}",
+            "create-time": 1660837510195,
+            ":block/refs": [
+              {
+                ":block/uid": "UvCvJ2V3T"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "UvCvJ2V3T"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            "uid": "id2f12lvC",
+            "edit-time": 1660837529361,
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Ec97klr7x"
+          }
+        ],
+        "uid": "YmFy6kNo1",
+        ":block/refs": [
+          {
+            ":block/uid": "Ec97klr7x"
+          }
+        ],
+        "string": "[[Change Log]]",
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1660837556428,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      }
+    ],
+    "uid": "BsbrAE1TD",
+    "edit-time": 1660837435009,
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "458bFnZAJ",
+    "create-time": 1660837493881,
+    "edit-time": 1660837493882,
+    "title": "Khan Academy",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "wF1ddKZm_",
+    "create-time": 1660840753602,
+    "edit-time": 1660840753618,
+    "title": "Feature Behavior Change",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "PjsgI6PX2",
+    "create-time": 1660840843948,
+    "edit-time": 1660840843949,
+    "title": "Inline Calculator",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "90ExmsM5l",
+    "create-time": 1660840915672,
+    "edit-time": 1660840915672,
+    "title": "Old State",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "RNNOJHCb_",
+    "create-time": 1660840932641,
+    "edit-time": 1660840932641,
+    "title": "New State",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "u-eJb70Fn",
+    "create-time": 1660841424044,
+    "edit-time": 1660841424044,
+    "title": "X",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "dtwU2XDV4",
+    "create-time": 1660841424051,
+    "edit-time": 1660841424051,
+    "title": "Y",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "o1sxc6eL9",
+    "create-time": 1660841424057,
+    "edit-time": 1660841424058,
+    "title": "Z",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "v8yga1nKs",
+    "create-time": 1660841424057,
+    "edit-time": 1660841424058,
+    "title": "calc",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1660841583941,
+    "title": "PEMDAS",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "children": [
+      {
+        "string": "The order of operations for evaluating math equations",
+        "create-time": 1660841615458,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "children": [
+          {
+            "string": "Parenthesis",
+            "uid": "UOv_S2aGf",
+            "create-time": 1660841590639,
+            "edit-time": 1660841594784,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Exponents",
+            "uid": "Qs6wxjG6s",
+            "create-time": 1660841594777,
+            "edit-time": 1660841597288,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Multiplication",
+            "uid": "GNmK_1Lnv",
+            "create-time": 1660841597283,
+            "edit-time": 1660841600818,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Division",
+            "uid": "PKfFqPYbH",
+            "create-time": 1660841600814,
+            "edit-time": 1660841602882,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Addition",
+            "uid": "vlbTfzMwd",
+            "create-time": 1660841603009,
+            "edit-time": 1660841611475,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          },
+          {
+            "string": "Subtraction",
+            "uid": "X0mGXd2Vy",
+            "create-time": 1660841611470,
+            "edit-time": 1660841614024,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "uid": "SR9EKoLjK",
+        "edit-time": 1660841625037,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      }
+    ],
+    "uid": "Ttwz9Om7W",
+    "edit-time": 1660841583941,
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "oanDauozH",
+    "create-time": 1660841856035,
+    "edit-time": 1660841856035,
+    "title": "After Change",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "create-time": 1660864386283,
+    "title": "August 18th, 2022",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":log/id": 1660864386251,
+    "uid": "08-18-2022",
+    "edit-time": 1660864386283,
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "PP_AKOAEq",
+    "create-time": 1660864623690,
+    "edit-time": 1660864623709,
+    "title": "Fruits",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "rAtWiBpZt",
+    "create-time": 1660864678865,
+    "edit-time": 1660864678866,
+    "title": "Behavior",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "C4Wq479D_",
+    "create-time": 1660864737090,
+    "edit-time": 1660864737110,
+    "title": "Mind Map",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "X9D3IPXkB",
+    "create-time": 1660864766375,
+    "edit-time": 1660864766392,
+    "title": ".rm-E",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "dkLbDWVhU",
+    "create-time": 1660865187355,
+    "edit-time": 1660865187356,
+    "title": "Start time",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "IfssowAgD",
+    "create-time": 1660865194510,
+    "edit-time": 1660865194529,
+    "title": ".rm-hide",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "r__wyo3gX",
+    "create-time": 1660865245575,
+    "edit-time": 1660865245575,
+    "title": "End time",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "nZBMCZMNh",
+    "create-time": 1660866314540,
+    "edit-time": 1660866314540,
+    "title": "TailwindCSS",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "Tu1W9njeH",
+    "create-time": 1660866418038,
+    "edit-time": 1660866418058,
+    "title": ".text-xl",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "dW98JOuj0",
+    "create-time": 1660866490317,
+    "edit-time": 1660866490317,
+    "title": "Blueprint",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "6r5zpRAp5",
+    "create-time": 1660866499847,
+    "edit-time": 1660866499847,
+    "title": ".bp3-card",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "qZRShzb3m",
+    "create-time": 1660866592050,
+    "edit-time": 1660866592051,
+    "title": "embed-path",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "UgQ6i4ZcS",
+    "create-time": 1660866680312,
+    "edit-time": 1660866680312,
+    "title": "Total Time",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "VbnABhUvp",
+    "create-time": 1660866947450,
+    "edit-time": 1660866947450,
+    "title": ".break",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "L3VZr0a5G",
+    "create-time": 1660867039738,
+    "edit-time": 1660867039739,
+    "title": ".morning-routine",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "n1QQf6g_8",
+    "create-time": 1660867252830,
+    "edit-time": 1660867252851,
+    "title": ".increased-emotional-energy",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "Pd1WrxcT8",
+    "create-time": 1660867264688,
+    "edit-time": 1660867264688,
+    "title": ".decreased-emotional-energy",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "aR-38SfVF",
+    "create-time": 1660867330628,
+    "edit-time": 1660867330628,
+    "title": ".ramp-up",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "DyGRUeXiP",
+    "create-time": 1660867675894,
+    "edit-time": 1660867675894,
+    "title": ">",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "jjizUFjgS",
+    "create-time": 1660867778808,
+    "edit-time": 1660867778809,
+    "title": "AND",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "N4iEH6AGL",
+    "create-time": 1660867782644,
+    "edit-time": 1660867782661,
+    "title": "IF",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "hGEYP9Zvf",
+    "create-time": 1660867785966,
+    "edit-time": 1660867785967,
+    "title": "THEN",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "YN8TNMnD9",
+    "create-time": 1660873434800,
+    "edit-time": 1660873434800,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -80185,14 +83695,14 @@
     }
   },
   {
-    "create-time": 1660787027522,
-    "title": "August 18th, 2022",
+    "create-time": 1660873434806,
+    "title": "August 19th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1660787027521,
-    "uid": "08-18-2022",
-    "edit-time": 1660787027522,
+    ":log/id": 1660873434805,
+    "uid": "08-19-2022",
+    "edit-time": 1660873434806,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
