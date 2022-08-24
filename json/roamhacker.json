@@ -49733,5 +49733,18 @@
     ":edit/user": {
       ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
     }
+  },
+  {
+    "create-time": 1661261773301,
+    "title": "August 23rd, 2022",
+    ":create/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    },
+    ":log/id": 1661261773300,
+    "uid": "08-23-2022",
+    "edit-time": 1661261773301,
+    ":edit/user": {
+      ":user/uid": "kfmqimzFiIOQwL1xgoBOApXxsup1"
+    }
   }
 ]
