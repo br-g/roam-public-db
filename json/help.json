@@ -42788,6 +42788,224 @@
         },
         "children": [
           {
+            "edit-time": 1662593645119,
+            "children": [
+              {
+                "edit-time": 1662593697331,
+                "children": [
+                  {
+                    "string": "[Blueprint Color](https://blueprintjs.com/docs/versions/3/#core/colors) palettes for code blocks (these colors match what is used in Roam)",
+                    "create-time": 1662593697324,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtBmBkVpT0d.png?alt=media&token=35ab4556-dbd5-4694-9621-63a726147657)",
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtBmBkVpT0d.png?alt=media&token=35ab4556-dbd5-4694-9621-63a726147657": {
+                              "width": 356,
+                              "height": null
+                            }
+                          }
+                        },
+                        "create-time": 1662593727475,
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtBmBkVpT0d.png?alt=media&token=35ab4556-dbd5-4694-9621-63a726147657": {
+                              ":width": 356,
+                              ":height": null
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "uid": "CdU8B51Yk",
+                        "edit-time": 1662593740886,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "a1ngQkXdY",
+                    "edit-time": 1662593805440,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  },
+                  {
+                    "uid": "aD6Ti3Y_u"
+                  }
+                ],
+                "uid": "WcaKftS2t",
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  },
+                  {
+                    ":block/uid": "aD6Ti3Y_u"
+                  }
+                ],
+                "string": "[[New Features]]  #[[Improvements]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1662593645095,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              },
+              {
+                "edit-time": 1662593882069,
+                "children": [
+                  {
+                    "edit-time": 1662595089599,
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "props": {
+                              "image-size": {
+                                "https://user-images.githubusercontent.com/285292/188948053-ba930d81-6bc4-4de9-8d13-d0fe9acc01f5.png": {
+                                  "width": 186,
+                                  "height": null
+                                }
+                              }
+                            },
+                            "string": "![Screenshot 2022-09-07 at 17 57 57](https://user-images.githubusercontent.com/285292/188948053-ba930d81-6bc4-4de9-8d13-d0fe9acc01f5.png)",
+                            "uid": "nlevLLRid",
+                            "edit-time": 1662594579452,
+                            ":block/props": {
+                              ":image-size": {
+                                "https://user-images.githubusercontent.com/285292/188948053-ba930d81-6bc4-4de9-8d13-d0fe9acc01f5.png": {
+                                  ":width": 186,
+                                  ":height": null
+                                }
+                              }
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "string": "**Before**",
+                        "uid": "G6gj37lYO",
+                        "edit-time": 1662594546880,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "props": {
+                              "image-size": {
+                                "https://user-images.githubusercontent.com/285292/188948064-96cd01d0-6822-4294-b3fb-19462121368a.png": {
+                                  "width": 196,
+                                  "height": null
+                                }
+                              }
+                            },
+                            "string": "![Screenshot 2022-09-07 at 17 58 16](https://user-images.githubusercontent.com/285292/188948064-96cd01d0-6822-4294-b3fb-19462121368a.png)",
+                            "uid": "a1DGvdZKl",
+                            "edit-time": 1662594583990,
+                            ":block/props": {
+                              ":image-size": {
+                                "https://user-images.githubusercontent.com/285292/188948064-96cd01d0-6822-4294-b3fb-19462121368a.png": {
+                                  ":width": 196,
+                                  ":height": null
+                                }
+                              }
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "string": "**After**",
+                        "uid": "FMp_y2AC-",
+                        "edit-time": 1662594543037,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "R0zy2UaxE"
+                      }
+                    ],
+                    "uid": "jWQ4sjCL6",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "R0zy2UaxE"
+                      }
+                    ],
+                    "string": "Fixed checkbox alignment on [[Firefox]]",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1662593883257,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  },
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "uid": "Nq0QF48fw",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  },
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "#[[Quality of Life Improvements]] #[[Bug Fixes]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1662593748927,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "09-07-2022"
+              }
+            ],
+            "uid": "qfYTJp-rj",
+            ":block/refs": [
+              {
+                ":block/uid": "09-07-2022"
+              }
+            ],
+            "string": "[[September 7th, 2022]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1662593641892,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
             "edit-time": 1660864386690,
             "children": [
               {
@@ -83709,9 +83927,22 @@
     }
   },
   {
-    "uid": "DDfmXxs3a",
-    "create-time": 1662515113104,
-    "edit-time": 1662515113104,
+    "create-time": 1662593629981,
+    "title": "September 7th, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1662593629980,
+    "uid": "09-07-2022",
+    "edit-time": 1662593629982,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "T_ce_yFPv",
+    "create-time": 1662601589216,
+    "edit-time": 1662601589216,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -83721,14 +83952,14 @@
     }
   },
   {
-    "create-time": 1662515113109,
-    "title": "September 7th, 2022",
+    "create-time": 1662601589223,
+    "title": "September 8th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1662515113108,
-    "uid": "09-07-2022",
-    "edit-time": 1662515113109,
+    ":log/id": 1662601589221,
+    "uid": "09-08-2022",
+    "edit-time": 1662601589223,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
