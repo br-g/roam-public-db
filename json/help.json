@@ -42788,6 +42788,92 @@
         },
         "children": [
           {
+            "edit-time": 1664589322250,
+            "children": [
+              {
+                "string": "Small fix: if a window already exists in the sidebar and it is tried to open again, it jumps up to the top of the sidebar",
+                "uid": "zXxAAWkeT",
+                "create-time": 1664589322230,
+                "edit-time": 1664589371547,
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              },
+              {
+                "string": "A number of changes throughout the last week for integration of write actions with the new backend API",
+                "create-time": 1664589589933,
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    "edit-time": 1664589719386,
+                    "children": [
+                      {
+                        "string": "New addition: [Write actions](https://roamresearch.com/#/app/developer-documentation/page/J-hxpYKmK)",
+                        "uid": "-Z7DHaFrm",
+                        "create-time": 1664589634944,
+                        "edit-time": 1664589719388,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "RtfLGrv81"
+                      }
+                    ],
+                    "uid": "mdOnyeoHN",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "RtfLGrv81"
+                      }
+                    ],
+                    "string": "[[Developer Notes]]: Checkout [Roam Backend API (Beta) docs](https://roamresearch.com/#/app/developer-documentation/page/W4Po8pcHQ). ",
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1664589719386,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "uid": "L_5a5TTtB",
+                "edit-time": 1664589634951,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "09-30-2022"
+              }
+            ],
+            "uid": "12Y3C59NQ",
+            ":block/refs": [
+              {
+                ":block/uid": "09-30-2022"
+              }
+            ],
+            "string": "[[September 30th, 2022]]",
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1664589315516,
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          },
+          {
             "edit-time": 1662593645119,
             "children": [
               {
@@ -83953,14 +84039,40 @@
     }
   },
   {
-    "create-time": 1664588664926,
+    "create-time": 1664589322251,
+    "title": "September 30th, 2022",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1664496000000,
+    "uid": "09-30-2022",
+    "edit-time": 1664589322253,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "create-time": 1664589812230,
     "title": "October 1st, 2022",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1664589812230,
+    "uid": "10-01-2022",
+    "edit-time": 1664589812230,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "create-time": 1664675042170,
+    "title": "October 2nd, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1664588664925,
-    "uid": "10-01-2022",
-    "edit-time": 1664588664926,
+    ":log/id": 1664675042169,
+    "uid": "10-02-2022",
+    "edit-time": 1664675042170,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
