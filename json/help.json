@@ -42788,6 +42788,238 @@
         },
         "children": [
           {
+            "edit-time": 1665095872003,
+            "children": [
+              {
+                "edit-time": 1665095879994,
+                "children": [
+                  {
+                    "string": "Single Block Multiselect Mode",
+                    "create-time": 1665095879987,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "Select blocks but not their children or select non consecutive blocks and perform bulk actions on them",
+                        "create-time": 1665096085637,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FCtabMYCHRV.png?alt=media&token=2ff14e70-6c2c-4e3b-8dc0-318966366c07)",
+                            "uid": "6CsE_YyPg",
+                            "create-time": 1665096644593,
+                            "edit-time": 1665096647094,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "uid": "wzPinSXqO",
+                        "edit-time": 1665096445566,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "**How to use**",
+                        "create-time": 1665096799302,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "string": "Toggle the mode on / off with `ctrl-m` (PC) or `cmd-m` (Mac) (customizable)",
+                            "uid": "wNc4Cv_db",
+                            "create-time": 1665096226401,
+                            "edit-time": 1665096674185,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Then click a checkbox to select it",
+                            "uid": "U3Cx6F-3J",
+                            "create-time": 1665096809097,
+                            "edit-time": 1665096821342,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Shift click another checkbox to select a range between that checkbox and the last one selected",
+                            "uid": "vt94OOzpL",
+                            "create-time": 1665096821456,
+                            "edit-time": 1665096850355,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "uid": "evwSBp6WX",
+                        "edit-time": 1665096802503,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "**Available commands**",
+                        "create-time": 1665096449586,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "string": "Drag and dropping blocks",
+                            "uid": "mASDbYN0I",
+                            "create-time": 1665096462005,
+                            "edit-time": 1665096948797,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Right click context menu",
+                            "create-time": 1665096467676,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "children": [
+                              {
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhmG851Z2bl.png?alt=media&token=f2366b67-bd41-4e3c-b373-46bbee59f956)",
+                                "props": {
+                                  "image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhmG851Z2bl.png?alt=media&token=f2366b67-bd41-4e3c-b373-46bbee59f956": {
+                                      "width": 340,
+                                      "height": null
+                                    }
+                                  }
+                                },
+                                "create-time": 1665096522893,
+                                ":block/props": {
+                                  ":image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FhmG851Z2bl.png?alt=media&token=f2366b67-bd41-4e3c-b373-46bbee59f956": {
+                                      ":width": 340,
+                                      ":height": null
+                                    }
+                                  }
+                                },
+                                ":create/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                },
+                                "uid": "9H2Tmx9qU",
+                                "edit-time": 1665096525506,
+                                ":edit/user": {
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                }
+                              }
+                            ],
+                            "uid": "NOS1sZUXi",
+                            "edit-time": 1665096481344,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "uid": "FrJ9TyzjF",
+                        "edit-time": 1665096806237,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "This feature is still a work in progress.",
+                        "create-time": 1665096569010,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "string": "Key commands (tab, shift-tab etc) do not work with it",
+                            "uid": "qCWHo3JOL",
+                            "create-time": 1665096296229,
+                            "edit-time": 1665096571431,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "uid": "n58bH5W6g",
+                        "edit-time": 1665096569010,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "rQOT9lVIP",
+                    "edit-time": 1665096520539,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "uid": "sdgefSByI",
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1665095871978,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "10-06-2022"
+              }
+            ],
+            "uid": "bPI-aqstQ",
+            ":block/refs": [
+              {
+                ":block/uid": "10-06-2022"
+              }
+            ],
+            "string": "[[October 6th, 2022]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1665095868479,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
             "edit-time": 1664589322250,
             "children": [
               {
@@ -84065,14 +84297,27 @@
     }
   },
   {
-    "create-time": 1665020527274,
+    "create-time": 1665095855525,
     "title": "October 6th, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1665095855523,
+    "uid": "10-06-2022",
+    "edit-time": 1665095855525,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1665106996114,
+    "title": "October 7th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1665020527273,
-    "uid": "10-06-2022",
-    "edit-time": 1665020527275,
+    ":log/id": 1665106996113,
+    "uid": "10-07-2022",
+    "edit-time": 1665106996115,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
