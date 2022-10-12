@@ -84310,14 +84310,14 @@
     }
   },
   {
-    "create-time": 1665452679480,
-    "title": "October 11th, 2022",
+    "create-time": 1665539060250,
+    "title": "October 12th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1665452679479,
-    "uid": "10-11-2022",
-    "edit-time": 1665452679480,
+    ":log/id": 1665539060248,
+    "uid": "10-12-2022",
+    "edit-time": 1665539060250,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
