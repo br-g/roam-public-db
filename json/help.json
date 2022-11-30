@@ -42788,6 +42788,249 @@
         },
         "children": [
           {
+            "edit-time": 1669769892132,
+            "children": [
+              {
+                "edit-time": 1669769900638,
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "string": "Import your Oura Ring daily summaries on a given day into your daily note page!",
+                        "uid": "2gXGPx6hA",
+                        "edit-time": 1669770135415,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "string": "You'll first need to add your personal access token associated with your Oura Ring account to the Token field in your Roam Depot Settings. The extension needs this in order to access your personal data. [Click here](https://cloud.ouraring.com/personal-access-tokens), to generate your own personal access token.",
+                            "uid": "Vv0lWv8UN",
+                            "edit-time": 1669770135415,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "To import your Oura Ring data to your daily note page, open the Command Palette and enter \"Import Oura Ring\". If the current page is a Daily note page, it will query the day before the page title, since you usually want to track last night's sleep. Otherwise, it will query yesterday's data by default. It will output the following text:",
+                            "uid": "UBs1AyhIt",
+                            "edit-time": 1669770135415,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "```javascript\nBedtime Start:: hh:mm:ss\nBedtime End:: hh:mm:ss\nSleep Duration:: hh:mm:ss\nTotal Sleep:: hh:mm:ss\nTotal Awake:: hh:mm:ss\nLight Sleep:: hh:mm:ss\nRem Sleep:: hh:mm:ss\nDeep Sleep:: hh:mm:ss\nDay Start:: hh:mm:ss\nDay End:: hh:mm:ss\nLow Activity:: hh:mm:ss\nMedium Activity:: hh:mm:ss\nHigh Activity:: hh:mm:ss\nRest Activity:: hh:mm:ss\nReadiness Score:: hh:mm:ss```",
+                            "uid": "fni6YQY11",
+                            "edit-time": 1669770197779,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "You can also import the data by creating a button by typing `{{import oura ring}}` into a page and clicking the button.",
+                            "uid": "zFln9KoM0",
+                            "edit-time": 1669770275398,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "heading": 2,
+                        "string": "[🔗](https://github.com/dvargas92495/roamjs-oura-ring#usage)Usage",
+                        "uid": "0wF-EXoy9",
+                        "edit-time": 1669770135415,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "heading": 1,
+                    "string": "Oura Ring",
+                    "uid": "UePhNSvhI",
+                    "edit-time": 1669770135415,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "children": [
+                      {
+                        "string": "![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hek.png)[🔗](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hek.png)",
+                        "uid": "FzNKmffN_",
+                        "edit-time": 1669769950301,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "![](https://github.com/dive2Pro/roam-native-dark/raw/master/SCR-20221120-hfj.png)[🔗](https://github.com/dive2Pro/roam-native-dark/blob/master/SCR-20221120-hfj.png)",
+                        "uid": "yaHgMo8v2",
+                        "edit-time": 1669769950301,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "heading": 1,
+                    "string": "Roam native dark theme",
+                    "uid": "fR4ohR_vq",
+                    "edit-time": 1669770157964,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "uid": "RGKRF8rF_",
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Extensions]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1669769892309,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "11-29-2022"
+              }
+            ],
+            "uid": "BfDwgHJNH",
+            ":block/refs": [
+              {
+                ":block/uid": "11-29-2022"
+              }
+            ],
+            "string": "[[November 29th, 2022]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1669769888398,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
+            "edit-time": 1669769579772,
+            "children": [
+              {
+                "edit-time": 1669769900638,
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "string": "Official Roam client into [SamePage](https://samepage.network/) - the intra tool-for-thought protocol.",
+                        "uid": "ZXz9sRL_t",
+                        "edit-time": 1669769637973,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "Use SamePage to connect your Roam Graph to other notebooks to sync changes across them, perform cross notebook queries, and more! To get started, install this extension and request an invite code by emailing [support@samepage.network](mailto:support@samepage.network). Check out our docs at https://samepage.network/docs!",
+                        "uid": "LP5_0Gfq4",
+                        "edit-time": 1669769637973,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "string": "The SamePage family of extensions are still **in beta** and are not considered stable yet for real or sensitive data. All data shared on SamePage is considered public and probability of data loss is high.",
+                            "uid": "DCKvnietC",
+                            "edit-time": 1669769637973,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "heading": 2,
+                        "string": "WARNING",
+                        "uid": "Ot5mcD6jC",
+                        "edit-time": 1669769661004,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "heading": 1,
+                    "string": "SamePage",
+                    "uid": "eY__GnwEx",
+                    "edit-time": 1669769637973,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "Previously, extensions were not listed on the change log, please check out our [github](https://github.com/Roam-Research/roam-depot) for a [full list of new extensions and updates](https://github.com/Roam-Research/roam-depot/pulls?q=is%3Apr+is%3Aclosed). From now on, all new extensions will be listed here",
+                    "uid": "BjxCowMes",
+                    "create-time": 1669769681096,
+                    "edit-time": 1669769843150,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "uid": "u5zZKc0ml",
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Extensions]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1669769579751,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "11-28-2022"
+              }
+            ],
+            "uid": "4wPa6RAgK",
+            ":block/refs": [
+              {
+                ":block/uid": "11-28-2022"
+              }
+            ],
+            "string": "[[November 28th, 2022]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1669769570624,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
             "edit-time": 1668150817579,
             "children": [
               {
@@ -50818,7 +51061,7 @@
             }
           },
           {
-            "edit-time": 1630000804685,
+            "edit-time": 1669770232059,
             "children": [
               {
                 "edit-time": 1630000909272,
@@ -50936,11 +51179,11 @@
             },
             "create-time": 1630000798826,
             ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             }
           },
           {
-            "edit-time": 1628735516922,
+            "edit-time": 1669770238623,
             "children": [
               {
                 "edit-time": 1629134062598,
@@ -51292,7 +51535,7 @@
             },
             "create-time": 1628735489028,
             ":edit/user": {
-              ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             }
           },
           {
@@ -51357,7 +51600,7 @@
             }
           },
           {
-            "edit-time": 1626041306297,
+            "edit-time": 1669770248698,
             "children": [
               {
                 "edit-time": 1626041326965,
@@ -51414,7 +51657,7 @@
             },
             "create-time": 1626041303992,
             ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             }
           },
           {
@@ -84437,9 +84680,61 @@
     }
   },
   {
-    "uid": "nL8FK_0kX",
-    "create-time": 1669686003636,
-    "edit-time": 1669686003636,
+    "create-time": 1669769553176,
+    "title": "November 29th, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1669769553175,
+    "uid": "11-29-2022",
+    "edit-time": 1669769553176,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1669769579773,
+    "title": "November 28th, 2022",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1669593600000,
+    "uid": "11-28-2022",
+    "edit-time": 1669769579775,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1669769636189,
+    "title": "Roam Extensions",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    "children": [
+      {
+        "string": "[Full list of new extensions and updates](https://github.com/Roam-Research/roam-depot/pulls?q=is%3Apr+is%3Aclosed)",
+        "uid": "qtznEPh49",
+        "create-time": 1669769875238,
+        "edit-time": 1669769879730,
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        }
+      }
+    ],
+    "uid": "TpA4naC1T",
+    "edit-time": 1669769900638,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "rDql8pAZd",
+    "create-time": 1669772427332,
+    "edit-time": 1669772427332,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -84449,14 +84744,14 @@
     }
   },
   {
-    "create-time": 1669686003645,
-    "title": "November 29th, 2022",
+    "create-time": 1669772427342,
+    "title": "November 30th, 2022",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1669686003643,
-    "uid": "11-29-2022",
-    "edit-time": 1669686003645,
+    ":log/id": 1669772427341,
+    "uid": "11-30-2022",
+    "edit-time": 1669772427342,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
