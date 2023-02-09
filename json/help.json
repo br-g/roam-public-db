@@ -42788,6 +42788,955 @@
         },
         "children": [
           {
+            "edit-time": 1675872339958,
+            "children": [
+              {
+                "edit-time": 1675872654814,
+                "children": [
+                  {
+                    "string": "Multi-select move block up / down (Mac: `cmd-shift-up/down`, PC: `alt-shift-up/down`)",
+                    "create-time": 1675872402832,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F6f-zVqgMxL.png?alt=media&token=dab07fd6-1a9b-49d2-82ca-6991f5284699)",
+                        "uid": "vcnUVI2Aa",
+                        "create-time": 1675872340060,
+                        "edit-time": 1675872401509,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "jBZBRit_L",
+                    "edit-time": 1675872720727,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "uid": "SCY_MFUyk",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] ✨",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1675872437546,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "heading": 3
+              },
+              {
+                "edit-time": 1675884681243,
+                "children": [
+                  {
+                    "edit-time": 1675884627471,
+                    "children": [
+                      {
+                        "string": "[[android]] version did not have this issue but will be receiving an update as well in the next few days",
+                        "create-time": 1675884636298,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "LK8cfW7Xh"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "LK8cfW7Xh"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "uid": "aep6HzmE3",
+                        "edit-time": 1675884661975,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      },
+                      {
+                        "uid": "N3Uq-2dil"
+                      }
+                    ],
+                    "uid": "kYvUrY7kd",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      },
+                      {
+                        ":block/uid": "N3Uq-2dil"
+                      }
+                    ],
+                    "string": "[[mobile]] [[iOS]] Fix sync issues that would sometimes appear when reinstating app from background",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1675884615012,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "uid": "gJCVkyVIX",
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]] 🛠",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1675884607861,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "heading": 3
+              }
+            ],
+            "refs": [
+              {
+                "uid": "02-08-2023"
+              }
+            ],
+            "uid": "n3ZCV0qGI",
+            ":block/refs": [
+              {
+                ":block/uid": "02-08-2023"
+              }
+            ],
+            "string": "[[February 8th, 2023]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1675872337807,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
+            "edit-time": 1675872336698,
+            "children": [
+              {
+                "edit-time": 1675873373475,
+                "children": [
+                  {
+                    "string": "Open search in sidebar (alt-enter)",
+                    "create-time": 1675872118922,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F5_JZnrFS-l.mp4?alt=media&token=b6bfe09e-14f3-42af-be58-02bb6a2fffbc}}",
+                        "create-time": 1675872125309,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "2h9V-FtAO"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "2h9V-FtAO"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "uid": "9Pxyc8lNh",
+                        "edit-time": 1675872150582,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "Imf3mqjqF",
+                    "edit-time": 1675872161545,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "uid": "HIXwfUJRJ",
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]] 🚀",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1675872043335,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "heading": 3
+              },
+              {
+                "edit-time": 1675873377162,
+                "children": [
+                  {
+                    "string": "If global filters are applied on the log, then show the filter icon so you can remove them",
+                    "uid": "_Eje9zh3q",
+                    "create-time": 1675872093938,
+                    "edit-time": 1675872116252,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "uid": "36rM8So7Q",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] ✨",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1675872046983,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "heading": 3
+              }
+            ],
+            "refs": [
+              {
+                "uid": "02-07-2023"
+              }
+            ],
+            "uid": "JjXyLRYML",
+            ":block/refs": [
+              {
+                ":block/uid": "02-07-2023"
+              }
+            ],
+            "string": "[[February 7th, 2023]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1675872040510,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
+            "edit-time": 1675875166564,
+            "children": [
+              {
+                "edit-time": 1675875171586,
+                "children": [
+                  {
+                    "string": "[Self-Destructing Blocks](https://github.com/8bitgentleman/roam-depot-block-self-destruct)",
+                    "create-time": 1675875320728,
+                    "heading": 2,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "refs": [
+                          {
+                            "uid": "n7QxxSxUy"
+                          }
+                        ],
+                        "string": "Set blocks to self-destruct (be deleted) after a period of time. Every hour the plugin will search for all blocks that reference #[[self-destruct]] (configurable to whatever you would like). Any of those references that are older than the time set will be deleted.",
+                        "uid": "uPDCUX9C3",
+                        "edit-time": 1675875322553,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "n7QxxSxUy"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "A custom deletion time can be set by nesting an attribute below the block that you want deleted.",
+                        "uid": "dV6ZBI1bC",
+                        "edit-time": 1675875322553,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "string": "Blocks left over from daily templates",
+                            "uid": "u4P1mghBN",
+                            "edit-time": 1675875322553,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Using queries on your Daily Notes page or old queries in general.",
+                            "uid": "bzHbVae5_",
+                            "edit-time": 1675875322553,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Keeping your graph lean and clean",
+                            "uid": "ME_WI5JoI",
+                            "edit-time": 1675875322553,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "heading": 3,
+                        "string": "[🔗](https://github.com/8bitgentleman/roam-depot-block-self-destruct#use-case-ideas)Use Case Ideas",
+                        "uid": "E7p_sK7zN",
+                        "edit-time": 1675875322553,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "string": "![](https://github.com/8bitgentleman/roam-depot-block-self-destruct/raw/main/example.png)[🔗](https://github.com/8bitgentleman/roam-depot-block-self-destruct/raw/main/example.png)",
+                            "uid": "ZYfb7J3FK",
+                            "edit-time": 1675875322553,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "heading": 3,
+                        "string": "[🔗](https://github.com/8bitgentleman/roam-depot-block-self-destruct#examples)Examples",
+                        "uid": "zC2TDLOmA",
+                        "edit-time": 1675875322553,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "A03337XRD",
+                    "edit-time": 1675875340972,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "[Hide Topbar Buttons](https://github.com/mlava/hide-topbar-buttons)",
+                    "create-time": 1675875171580,
+                    "heading": 2,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "Reduce unneccessary clutter!",
+                        "uid": "E_f6mx9Tl",
+                        "edit-time": 1675875175877,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "This extension allows you to take control of the appearance of your Roam Research topbar. You can choose to show or hide default Roam Research buttons in the topbar.",
+                        "uid": "yQd9Isj6w",
+                        "edit-time": 1675875175877,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "![image](https://user-images.githubusercontent.com/6857790/213940140-67f212c2-596f-4771-a92a-e5519136a80a.png)[🔗](https://user-images.githubusercontent.com/6857790/213940140-67f212c2-596f-4771-a92a-e5519136a80a.png)",
+                        "uid": "hFKag3LKC",
+                        "edit-time": 1675875175877,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "string": "Page Filter button",
+                            "uid": "q_FCm33Z8",
+                            "edit-time": 1675875175877,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Calendar button",
+                            "uid": "bYtQhDl_z",
+                            "edit-time": 1675875175877,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Three Dot menu button",
+                            "uid": "PfXrTx9La",
+                            "edit-time": 1675875175877,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Page Width button",
+                            "uid": "KGtRGMWPx",
+                            "edit-time": 1675875175877,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Help button",
+                            "uid": "CJFX_CfEG",
+                            "edit-time": 1675875175877,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Right Sidebar button",
+                            "uid": "z_yube04O",
+                            "edit-time": 1675875175877,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "string": "In the topbar you can choose to hide:",
+                        "uid": "vrqQ5uhxb",
+                        "edit-time": 1675875175877,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "You can select to Hide on Mobile or Hide on All Platforms. This means you can have different settings for different purposes.",
+                        "uid": "0-phqH3nI",
+                        "edit-time": 1675875175877,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "For example, if you want to hide the Help button on mobile only but hide the Calendar button on all platforms, just select Hide on Mobile for Help and Hide on All Platforms for Calendar.",
+                        "uid": "C4rzIkCCZ",
+                        "edit-time": 1675875175877,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "string": "allow buttons from Roam Depot extensions to be hidden",
+                            "uid": "kknJ5P_P9",
+                            "edit-time": 1675875175877,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "string": "TODO:",
+                        "uid": "M-leG1V8z",
+                        "edit-time": 1675875175877,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "xTn4jC-Ot",
+                    "edit-time": 1675875213652,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "[Augmented Headings](https://github.com/mlava/augmented-headings)",
+                    "create-time": 1675875248016,
+                    "heading": 2,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "Add H4, H5 and H6 headings to your Roam Research graph!",
+                        "uid": "or3f21Tpe",
+                        "edit-time": 1675875275512,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "With this extension, you can create H4-H6 headings and control their CSS very easily. Simply install the extension and then modify the settings in Roam Depot. Note that if you don't change the font settings in Roam Depot settings you won't see any change in the text output even if you make that block a heading. You **must** set font settings to see any difference.",
+                        "uid": "xd7RJiS_6",
+                        "edit-time": 1675875275512,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "refs": [
+                              {
+                                "uid": "C9q-6Jm44"
+                              },
+                              {
+                                "uid": "_SZz-gl3V"
+                              },
+                              {
+                                "uid": "ofN63hHoq"
+                              }
+                            ],
+                            "string": "added setting to allow user-configured heading tags. If you don't want #h4 you could use #.h4 or even #purple_elephant for that heading tag, and the extension will handle it.",
+                            "uid": "G1tliHOZc",
+                            "edit-time": 1675875275512,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "C9q-6Jm44"
+                              },
+                              {
+                                ":block/uid": "_SZz-gl3V"
+                              },
+                              {
+                                ":block/uid": "ofN63hHoq"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "string": "**New:**",
+                        "uid": "qu7Sq3BZ4",
+                        "edit-time": 1675875275512,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "The new headings even work with my Sticky Headings and Table of Contents extension as well!",
+                        "uid": "deb2D0c8n",
+                        "edit-time": 1675875275512,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "![image](https://user-images.githubusercontent.com/6857790/214956832-d2711867-ab73-4af0-9e29-074eaf0b3ac8.png)[🔗](https://user-images.githubusercontent.com/6857790/214956832-d2711867-ab73-4af0-9e29-074eaf0b3ac8.png)",
+                        "uid": "wQBggVLpm",
+                        "edit-time": 1675875275512,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "string": "font size",
+                            "uid": "TPAA7gIXR",
+                            "edit-time": 1675875275512,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "font weight",
+                            "uid": "0-0fiGSff",
+                            "edit-time": 1675875275512,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "font style",
+                            "uid": "qIDNMjcI2",
+                            "edit-time": 1675875275512,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "font variant",
+                            "uid": "QGqlIalIW",
+                            "edit-time": 1675875275512,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "string": "For each heading level you can configure:",
+                        "uid": "KWpNeON3O",
+                        "edit-time": 1675875275512,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "You can set a heading using the Command Palette. Click into a block and then select 'Toggle Heading - H4', 'Toggle Heading - H5' or 'Toggle Heading - H6'. Or, right click on the block bullet, go to Plugins and then select the Toggle commands from there.",
+                        "uid": "VPRpH10jK",
+                        "edit-time": 1675875275512,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "If your heading is H4 and you click to toggle H4, it will return to normal text. This is how Roam handles H1-H3. However, if you toggle to a different heading level (e.g. H4 -> H5) it will overwrite to the new level. Again, this is how Roam handles this case.",
+                        "uid": "bnx7BZXAy",
+                        "edit-time": 1675875275512,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "pSP75uF7X",
+                    "edit-time": 1675875259416,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "uid": "Qjwu3ePXO",
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Extensions]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1675875166878,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "02-01-2023"
+              }
+            ],
+            "uid": "MYy0a-04e",
+            ":block/refs": [
+              {
+                ":block/uid": "02-01-2023"
+              }
+            ],
+            "string": "[[February 1st, 2023]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1675875159821,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
+            "edit-time": 1675873496068,
+            "children": [
+              {
+                "edit-time": 1675873500545,
+                "children": [
+                  {
+                    "string": "Fix plaintext paste (`ctrl-shift-v`) pasting twice on desktop app in linux and windows",
+                    "uid": "WvnEqf3VR",
+                    "create-time": 1675873507027,
+                    "edit-time": 1675873651863,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "uid": "MDCh5Itc4",
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]] 🛠",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1675873496047,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "heading": 3
+              },
+              {
+                "edit-time": 1675875052621,
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "string": "This extension can parse the website title and transform the link to the markdown format when you paste a url into roam block",
+                        "uid": "NcWWZBvxL",
+                        "edit-time": 1675875066593,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "For example, when you paste a link like this `https://developer.roamjs.com/`, this extension is gonna transform it to `[Introduction - RoamJS](https://developer.roamjs.com/)`",
+                        "uid": "lm9FXSu0H",
+                        "edit-time": 1675875082185,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "heading": 2,
+                    "string": "[Roam Website Title Parser](https://github.com/dragonforce2010/roam-website-title-parser)",
+                    "uid": "aK9IC1vZH",
+                    "edit-time": 1675875102669,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "uid": "9M1_oLyvF",
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Extensions]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1675875048709,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "01-31-2023"
+              }
+            ],
+            "uid": "TZMFrGHrr",
+            ":block/refs": [
+              {
+                ":block/uid": "01-31-2023"
+              }
+            ],
+            "string": "[[January 31st, 2023]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1675873490927,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
+            "edit-time": 1675873743513,
+            "children": [
+              {
+                "edit-time": 1675873820487,
+                "children": [
+                  {
+                    "string": "Fix Chinese language autocomplete not working in top level blocks in references",
+                    "uid": "MSdv5SUWc",
+                    "create-time": 1675873961252,
+                    "edit-time": 1675874054294,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "Fix Chinese language showing the incorrect word count in all pages",
+                    "uid": "uV4BqDfPY",
+                    "create-time": 1675873824523,
+                    "edit-time": 1675873965098,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "uid": "4dDdGTFv_",
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]] 🛠",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1675873743630,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "heading": 3
+              }
+            ],
+            "refs": [
+              {
+                "uid": "01-30-2023"
+              }
+            ],
+            "uid": "ejNQH7IV9",
+            ":block/refs": [
+              {
+                ":block/uid": "01-30-2023"
+              }
+            ],
+            "string": "[[January 30th, 2023]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1675873735408,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
+            "edit-time": 1675873343554,
+            "children": [
+              {
+                "edit-time": 1675873378647,
+                "children": [
+                  {
+                    "string": "Fix drag and drop on [[android]]",
+                    "create-time": 1675873378640,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "LK8cfW7Xh"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "LK8cfW7Xh"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "uid": "xBcSySvNf",
+                    "edit-time": 1675873391538,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "uid": "9RlDaK_jo",
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]] 🛠",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1675873343530,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "heading": 3
+              }
+            ],
+            "refs": [
+              {
+                "uid": "01-24-2023"
+              }
+            ],
+            "uid": "iqMwMl5th",
+            ":block/refs": [
+              {
+                ":block/uid": "01-24-2023"
+              }
+            ],
+            "string": "[[January 24th, 2023]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1675873333492,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
             "edit-time": 1671597716214,
             "children": [
               {
@@ -42895,7 +43844,7 @@
                         }
                       }
                     ],
-                    "heading": 1,
+                    "heading": 2,
                     "string": "Roam reference expands",
                     "uid": "W0y1ST1IL",
                     "edit-time": 1669858737315,
@@ -43065,7 +44014,7 @@
                         }
                       }
                     ],
-                    "heading": 1,
+                    "heading": 2,
                     "string": "Mapbox",
                     "uid": "f6VObdeq4",
                     "edit-time": 1669857899327,
@@ -43175,7 +44124,7 @@
                         }
                       }
                     ],
-                    "heading": 1,
+                    "heading": 2,
                     "string": "Oura Ring",
                     "uid": "UePhNSvhI",
                     "edit-time": 1669770135415,
@@ -43202,7 +44151,7 @@
                         }
                       }
                     ],
-                    "heading": 1,
+                    "heading": 2,
                     "string": "Roam native dark theme",
                     "uid": "fR4ohR_vq",
                     "edit-time": 1669770157964,
@@ -43296,7 +44245,7 @@
                         }
                       }
                     ],
-                    "heading": 1,
+                    "heading": 2,
                     "string": "SamePage",
                     "uid": "eY__GnwEx",
                     "edit-time": 1669769637973,
@@ -85111,9 +86060,135 @@
     }
   },
   {
-    "uid": "Fstpo4Qln",
-    "create-time": 1675820453900,
-    "edit-time": 1675820453900,
+    "create-time": 1675872027256,
+    "title": "February 8th, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1675872027255,
+    "uid": "02-08-2023",
+    "edit-time": 1675872027256,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1675872336007,
+    "title": "February 7th, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1675785935987,
+    "uid": "02-07-2023",
+    "edit-time": 1675872336007,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1675873343556,
+    "title": "January 24th, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1674518400000,
+    "uid": "01-24-2023",
+    "edit-time": 1675873343559,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1675873496069,
+    "title": "January 31st, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1675123200000,
+    "uid": "01-31-2023",
+    "edit-time": 1675873496073,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1675873743515,
+    "title": "January 30th, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1675036800000,
+    "uid": "01-30-2023",
+    "edit-time": 1675873743518,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1675875166566,
+    "title": "February 1st, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1675209600000,
+    "uid": "02-01-2023",
+    "edit-time": 1675875166568,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "C9q-6Jm44",
+    "create-time": 1675875275402,
+    "edit-time": 1675875275512,
+    "title": "h4",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "_SZz-gl3V",
+    "create-time": 1675875275402,
+    "edit-time": 1675875275512,
+    "title": ".h4",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "ofN63hHoq",
+    "create-time": 1675875275402,
+    "edit-time": 1675875275512,
+    "title": "purple_elephant",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "n7QxxSxUy",
+    "create-time": 1675875322551,
+    "edit-time": 1675875322553,
+    "title": "self-destruct",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "XNnrYWY4W",
+    "create-time": 1675906832703,
+    "edit-time": 1675906832703,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -85123,14 +86198,14 @@
     }
   },
   {
-    "create-time": 1675820453920,
-    "title": "February 8th, 2023",
+    "create-time": 1675906832720,
+    "title": "February 9th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1675820453918,
-    "uid": "02-08-2023",
-    "edit-time": 1675820453920,
+    ":log/id": 1675906832719,
+    "uid": "02-09-2023",
+    "edit-time": 1675906832720,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
