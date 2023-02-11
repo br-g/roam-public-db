@@ -42801,10 +42801,10 @@
                     },
                     "children": [
                       {
-                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F6f-zVqgMxL.png?alt=media&token=dab07fd6-1a9b-49d2-82ca-6991f5284699)",
-                        "uid": "vcnUVI2Aa",
-                        "create-time": 1675872340060,
-                        "edit-time": 1675872401509,
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FbibqCXYQLm.gif?alt=media&token=0c4f7e85-8b2c-418a-8017-1b42154ed0d9)",
+                        "uid": "TcB1dAghG",
+                        "create-time": 1676045396600,
+                        "edit-time": 1676045404919,
                         ":create/user": {
                           ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                         },
@@ -42917,36 +42917,12 @@
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "heading": 3
-              }
-            ],
-            "refs": [
-              {
-                "uid": "02-08-2023"
-              }
-            ],
-            "uid": "n3ZCV0qGI",
-            ":block/refs": [
-              {
-                ":block/uid": "02-08-2023"
-              }
-            ],
-            "string": "[[February 8th, 2023]]",
-            ":create/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            },
-            "create-time": 1675872337807,
-            ":edit/user": {
-              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-            }
-          },
-          {
-            "edit-time": 1675872336698,
-            "children": [
+              },
               {
                 "edit-time": 1675873373475,
                 "children": [
                   {
-                    "string": "Open search in sidebar (alt-enter)",
+                    "string": "Open search in sidebar (alt-enter or opt-enter)",
                     "create-time": 1675872118922,
                     ":create/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
@@ -42976,9 +42952,9 @@
                       }
                     ],
                     "uid": "Imf3mqjqF",
-                    "edit-time": 1675872161545,
+                    "edit-time": 1676017866543,
                     ":edit/user": {
-                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                     }
                   }
                 ],
@@ -43002,7 +42978,31 @@
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "heading": 3
-              },
+              }
+            ],
+            "refs": [
+              {
+                "uid": "02-08-2023"
+              }
+            ],
+            "uid": "n3ZCV0qGI",
+            ":block/refs": [
+              {
+                ":block/uid": "02-08-2023"
+              }
+            ],
+            "string": "[[February 8th, 2023]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1675872337807,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
+            "edit-time": 1675872336698,
+            "children": [
               {
                 "edit-time": 1675873377162,
                 "children": [
@@ -86186,9 +86186,133 @@
     }
   },
   {
-    "uid": "rsjUWZq8G",
-    "create-time": 1675993302491,
-    "edit-time": 1675993302491,
+    "create-time": 1671599335090,
+    "title": "December 21st, 2022",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1671599335089,
+    "uid": "12-21-2022",
+    "edit-time": 1671599335090,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "create-time": 1676044939267,
+    "title": "February 10th, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1676044939266,
+    "uid": "02-10-2023",
+    "edit-time": 1676044939267,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1676066741450,
+    "title": "Numbered List Extension",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    "children": [
+      {
+        "string": "Thank you for installing the Numbered List extension for Roam Research. This page has been automatically generated to allow creation of a SmartBlock to allow you to refresh your numbered lists after you move things around and re-order them.",
+        "uid": "tTdAokmvy",
+        "create-time": 1676066741472,
+        "edit-time": 1676066741472,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "Below the horizontal line is the Refresh Numbered List SmartBlock. Please don't change it unless you know what you are doing!",
+        "uid": "dweljrPmS",
+        "create-time": 1676066741480,
+        "edit-time": 1676066741480,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "string": "---",
+        "uid": "Maw2wtpud",
+        "create-time": 1676066741497,
+        "edit-time": 1676066741497,
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      },
+      {
+        "edit-time": 1676066741507,
+        "children": [
+          {
+            "string": "<%REFRESHNUMBEREDLIST%>",
+            "uid": "lt1qdqUDk",
+            "create-time": 1676066741517,
+            "edit-time": 1676066741517,
+            ":create/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            },
+            ":edit/user": {
+              ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "fqX_kn4k-"
+          }
+        ],
+        "uid": "k2OdqU_mk",
+        ":block/refs": [
+          {
+            ":block/uid": "fqX_kn4k-"
+          }
+        ],
+        "string": "#SmartBlock Refresh Numbered List",
+        ":create/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        },
+        "create-time": 1676066741507,
+        ":edit/user": {
+          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+        }
+      }
+    ],
+    "uid": "VqNrWJvY2",
+    "edit-time": 1676066741450,
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "fqX_kn4k-",
+    "create-time": 1676066741510,
+    "edit-time": 1676066741511,
+    "title": "SmartBlock",
+    ":create/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    },
+    ":edit/user": {
+      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+    }
+  },
+  {
+    "uid": "oLVgdMc7E",
+    "create-time": 1676079552818,
+    "edit-time": 1676079552818,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -86198,14 +86322,14 @@
     }
   },
   {
-    "create-time": 1675993302498,
-    "title": "February 10th, 2023",
+    "create-time": 1676079552826,
+    "title": "February 11th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1675993302497,
-    "uid": "02-10-2023",
-    "edit-time": 1675993302498,
+    ":log/id": 1676079552825,
+    "uid": "02-11-2023",
+    "edit-time": 1676079552826,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
