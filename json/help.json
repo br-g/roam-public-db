@@ -42970,6 +42970,50 @@
                 "edit-time": 1676397207812,
                 "children": [
                   {
+                    "string": "Ability to set up hotkeys for commands set up by Extensions",
+                    "create-time": 1676445249288,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "refs": [
+                          {
+                            "uid": "2h9V-FtAO"
+                          }
+                        ],
+                        "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsYWw81Fk4s.mp4?alt=media&token=492f1dab-db08-4d4a-a57e-be0d05dcd655}}",
+                        "uid": "vKzYGB0sv",
+                        "edit-time": 1676446581672,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "2h9V-FtAO"
+                          }
+                        ],
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Currently you might see all commands nested under \"Ungrouped Extension Hotkeys\". Extension-wise groupings will be available once the extension migrates to the new API (If you're an extension dev, [more here](https://roamresearch.com/#/app/developer-documentation/page/Xf6HHUsb3))",
+                        "uid": "Q5NHh3P3U",
+                        "create-time": 1676445809012,
+                        "edit-time": 1676446918865,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "B2v48v-JR",
+                    "edit-time": 1676445804021,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  },
+                  {
                     "string": "Expand block references in templates auto complete",
                     "create-time": 1676398638606,
                     ":create/user": {
@@ -43791,6 +43835,18 @@
                         "edit-time": 1675872150582,
                         ":edit/user": {
                           ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "One can also use the slash command for a persistent search view (i.e. type `/search`)",
+                        "uid": "bKWrk8PpU",
+                        "create-time": 1676445305785,
+                        "edit-time": 1676445338949,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         }
                       }
                     ],
@@ -87865,9 +87921,22 @@
     }
   },
   {
-    "uid": "keWMwCknm",
-    "create-time": 1676425296323,
-    "edit-time": 1676425296323,
+    "create-time": 1676447182283,
+    "title": "February 15th, 2023",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1676447182283,
+    "uid": "02-15-2023",
+    "edit-time": 1676447182284,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "luzrjPn-6",
+    "create-time": 1676511676572,
+    "edit-time": 1676511676572,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -87877,14 +87946,14 @@
     }
   },
   {
-    "create-time": 1676425296330,
-    "title": "February 15th, 2023",
+    "create-time": 1676511676583,
+    "title": "February 16th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1676425296329,
-    "uid": "02-15-2023",
-    "edit-time": 1676425296330,
+    ":log/id": 1676511676582,
+    "uid": "02-16-2023",
+    "edit-time": 1676511676583,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
