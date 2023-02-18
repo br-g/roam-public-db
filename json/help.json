@@ -42964,7 +42964,367 @@
         },
         "children": [
           {
-            "edit-time": 1676397131937,
+            "edit-time": 1676670154422,
+            "children": [
+              {
+                "edit-time": 1676684326366,
+                "children": [
+                  {
+                    "edit-time": 1676682483573,
+                    "children": [
+                      {
+                        "string": "**Before**",
+                        "create-time": 1676676974348,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FXcnjD59K61.MOV?alt=media&token=f2a52be0-21d8-4b59-b797-3985af297e4e}}",
+                            "create-time": 1676680646961,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "uid": "5DXTN9ixG",
+                            "edit-time": 1676682642294,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "uid": "4posP2C5W",
+                        "edit-time": 1676682644168,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "**After**",
+                        "create-time": 1676676975738,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2F6hyWxIeNdl.MOV?alt=media&token=7a0e5e66-ee37-46ae-9b5b-cf872c81d1a0}}",
+                            "create-time": 1676680663915,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "uid": "gHYh5uP7W",
+                            "edit-time": 1676682642294,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "uid": "PkrDf7qOI",
+                        "edit-time": 1676682646299,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "uid": "jqQMAWPaC",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "string": "Fixed the screen jump that happens when clicking into a block in the [[mobile]] app",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1676682391613,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "edit-time": 1676682544260,
+                    "children": [
+                      {
+                        "string": "**Before**",
+                        "create-time": 1676676958817,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2FlWKgJmFnLk.MOV?alt=media&token=ed03d18a-e9c3-4665-a699-1bb76cb45f7c}}",
+                            "create-time": 1676680679750,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "uid": "gQu7wwSBs",
+                            "edit-time": 1676682608969,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "uid": "kQ9jvTUW1",
+                        "edit-time": 1676682611661,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "**After**",
+                        "create-time": 1676676963679,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamteam%2Fu9q9wrvDQ6.MOV?alt=media&token=9e71a37f-9c0b-45c5-af8d-6c2f8dc4452e}}",
+                            "create-time": 1676680698696,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "uid": "2ckxZuWlo",
+                            "edit-time": 1676682608969,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "uid": "fIdBCRCHx",
+                        "edit-time": 1676682614341,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "uid": "BJJAA17Ie",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "fTOY6E5lG"
+                      }
+                    ],
+                    "string": "Fix the block moving off screen when moving a block up or down on [[mobile]]",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1676682445561,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "uid": "9zN7bG7FU",
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]] 🛠",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1676682379806,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "heading": 3
+              },
+              {
+                "edit-time": 1676670169465,
+                "children": [
+                  {
+                    "edit-time": 1676670247083,
+                    "children": [
+                      {
+                        "string": "You can find a user's display page title by hovering over a block they created",
+                        "uid": "cfeJBIdG5",
+                        "create-time": 1676671022603,
+                        "edit-time": 1676671066956,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "edit-time": 1676670220601,
+                        "children": [
+                          {
+                            "string": "{{[[query]]: {and: [[Quality of Life Improvements]] {by: [[Baibhav Bista]]}}}}",
+                            "create-time": 1676670220595,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "Y_UVaLrNm"
+                              },
+                              {
+                                ":block/uid": "_EqbjQSAF"
+                              },
+                              {
+                                ":block/uid": "kPXScOJpv"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "Y_UVaLrNm"
+                              },
+                              {
+                                "uid": "_EqbjQSAF"
+                              },
+                              {
+                                "uid": "kPXScOJpv"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "uid": "ZZnFVi8h7",
+                            "edit-time": 1676670792174,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "uid": "TfxUc8-e5",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "0lwvs5tDQ"
+                          }
+                        ],
+                        "string": "Example::",
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1676670214714,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "bFFLAQoLF"
+                      }
+                    ],
+                    "uid": "EMGweoadY",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "bFFLAQoLF"
+                      }
+                    ],
+                    "string": "Filter [[queries]] by the author of blocks with `{by: [[user's display page]]}`",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1676670169585,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "uid": "20KSQtZc7",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] ✨",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1676670154401,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "heading": 3
+              }
+            ],
+            "refs": [
+              {
+                "uid": "02-17-2023"
+              }
+            ],
+            "uid": "bxQukyYHP",
+            ":block/refs": [
+              {
+                ":block/uid": "02-17-2023"
+              }
+            ],
+            "string": "[[February 17th, 2023]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1676670151675,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
+            "edit-time": 1676670211725,
             "children": [
               {
                 "edit-time": 1676397207812,
@@ -51398,15 +51758,25 @@
                 "edit-time": 1637918777017,
                 "children": [
                   {
-                    "string": "Fix upload issues in iOS ",
-                    "uid": "TrBH9GlMe",
+                    "string": "Fix upload issues in [[iOS]] ",
                     "create-time": 1637897692207,
-                    "edit-time": 1637897725811,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "N3Uq-2dil"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "N3Uq-2dil"
+                      }
+                    ],
                     ":create/user": {
                       ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                     },
+                    "uid": "TrBH9GlMe",
+                    "edit-time": 1676670800739,
                     ":edit/user": {
-                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     }
                   },
                   {
@@ -87947,9 +88317,22 @@
     }
   },
   {
-    "uid": "J_fpgc87k",
-    "create-time": 1676598071283,
-    "edit-time": 1676598071283,
+    "create-time": 1676661199037,
+    "title": "February 17th, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1676661199036,
+    "uid": "02-17-2023",
+    "edit-time": 1676661199037,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "ylAqHuMzR",
+    "create-time": 1676684454032,
+    "edit-time": 1676684454032,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -87959,14 +88342,14 @@
     }
   },
   {
-    "create-time": 1676598071292,
-    "title": "February 17th, 2023",
+    "create-time": 1676684454048,
+    "title": "February 18th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1676598071291,
-    "uid": "02-17-2023",
-    "edit-time": 1676598071292,
+    ":log/id": 1676684454047,
+    "uid": "02-18-2023",
+    "edit-time": 1676684454048,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
