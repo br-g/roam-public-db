@@ -42973,6 +42973,40 @@
                     "edit-time": 1676682483573,
                     "children": [
                       {
+                        "string": "Requires:: [[iOS]] 15.5 or greater (or [[android]])",
+                        "create-time": 1676684558394,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "N3Uq-2dil"
+                          },
+                          {
+                            ":block/uid": "LK8cfW7Xh"
+                          },
+                          {
+                            ":block/uid": "ziOfadhSb"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "N3Uq-2dil"
+                          },
+                          {
+                            "uid": "LK8cfW7Xh"
+                          },
+                          {
+                            "uid": "ziOfadhSb"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "uid": "gSwpOrALc",
+                        "edit-time": 1676684575817,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
                         "string": "**Before**",
                         "create-time": 1676676974348,
                         ":create/user": {
@@ -43066,7 +43100,7 @@
                     }
                   },
                   {
-                    "edit-time": 1676682544260,
+                    "edit-time": 1676684477767,
                     "children": [
                       {
                         "string": "**Before**",
@@ -43152,7 +43186,7 @@
                         ":block/uid": "fTOY6E5lG"
                       }
                     ],
-                    "string": "Fix the block moving off screen when moving a block up or down on [[mobile]]",
+                    "string": "Fixed the block moving off screen when moving a block up or down on [[mobile]]",
                     ":create/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
@@ -88330,9 +88364,21 @@
     }
   },
   {
-    "uid": "ylAqHuMzR",
-    "create-time": 1676684454032,
-    "edit-time": 1676684454032,
+    "uid": "ziOfadhSb",
+    "create-time": 1676684562497,
+    "edit-time": 1676684562498,
+    "title": "Requires",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "-UQn_DjkU",
+    "create-time": 1676770839804,
+    "edit-time": 1676770839804,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -88342,14 +88388,14 @@
     }
   },
   {
-    "create-time": 1676684454048,
-    "title": "February 18th, 2023",
+    "create-time": 1676770839817,
+    "title": "February 19th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1676684454047,
-    "uid": "02-18-2023",
-    "edit-time": 1676684454048,
+    ":log/id": 1676770839816,
+    "uid": "02-19-2023",
+    "edit-time": 1676770839817,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
