@@ -43194,6 +43194,54 @@
                     ":edit/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     }
+                  },
+                  {
+                    "string": "Fixed issues of mobile bar misbehaving",
+                    "create-time": 1676854185181,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": "for example, in some devices, it would float way up and then slowly float down. In others, it would get obscured. The behavior should be much better now across the board",
+                        "uid": "3wIj2R10a",
+                        "create-time": 1676854233522,
+                        "edit-time": 1676854335988,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "((gSwpOrALc))",
+                        "create-time": 1676854335984,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "gSwpOrALc"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "gSwpOrALc"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "uid": "bWzom-S_u",
+                        "edit-time": 1676854350556,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "F0FNkuveb",
+                    "edit-time": 1676854500123,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
                   }
                 ],
                 "refs": [
@@ -88376,26 +88424,26 @@
     }
   },
   {
-    "uid": "-UQn_DjkU",
-    "create-time": 1676770839804,
-    "edit-time": 1676770839804,
+    "create-time": 1676852148579,
+    "title": "February 20th, 2023",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1676852148578,
+    "uid": "02-20-2023",
+    "edit-time": 1676852148579,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "FgTv7YQn3",
+    "create-time": 1676857270749,
+    "edit-time": 1676857270749,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":edit/user": {
-      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
-    }
-  },
-  {
-    "create-time": 1676770839817,
-    "title": "February 19th, 2023",
-    ":create/user": {
-      ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
-    },
-    ":log/id": 1676770839816,
-    "uid": "02-19-2023",
-    "edit-time": 1676770839817,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
