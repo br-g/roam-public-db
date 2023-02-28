@@ -478,7 +478,7 @@
         "heading": 1
       },
       {
-        "edit-time": 1660324769697,
+        "edit-time": 1677519632576,
         "refs": [
           {
             "uid": "N8P6RYE7o"
@@ -490,13 +490,13 @@
             ":block/uid": "N8P6RYE7o"
           }
         ],
-        "string": "[[RoamDepot]]",
+        "string": "[[Roam Depot]]",
         ":create/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
         },
         "create-time": 1614231777234,
         ":edit/user": {
-          ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
         },
         "heading": 1
       },
@@ -42964,6 +42964,517 @@
         },
         "children": [
           {
+            "edit-time": 1677500317288,
+            "children": [
+              {
+                "edit-time": 1677500328595,
+                "children": [
+                  {
+                    "string": "`#.rm-hide-for-readers` css class / tag. Hides the block and it's descendants for people who only have read access to that block. ",
+                    "create-time": 1677535223223,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "Useful for hiding a contributing guide on a public graph from those that can't edit",
+                        "uid": "oXvm2h4-I",
+                        "create-time": 1677535297650,
+                        "edit-time": 1677535375385,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "It is only a visual change ((you can still find the block in the DOM)) so don't use it to hide any secret information",
+                        "uid": "JGyYJ1PJQ",
+                        "create-time": 1677535375377,
+                        "edit-time": 1677535414331,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "h0hgA7Z70",
+                    "edit-time": 1677535285893,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "edit-time": 1677519723958,
+                    "children": [
+                      {
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FU-NrN02BGg.png?alt=media&token=15d8a284-e52e-4b10-a9f9-9cb2cdc080f1)",
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FU-NrN02BGg.png?alt=media&token=15d8a284-e52e-4b10-a9f9-9cb2cdc080f1": {
+                              "width": 290,
+                              "height": null
+                            }
+                          }
+                        },
+                        "create-time": 1677519660253,
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FU-NrN02BGg.png?alt=media&token=15d8a284-e52e-4b10-a9f9-9cb2cdc080f1": {
+                              ":width": 290,
+                              ":height": null
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "uid": "WPrADrM7p",
+                        "edit-time": 1677519681154,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "N8P6RYE7o"
+                      }
+                    ],
+                    "uid": "lapWCLLnO",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "N8P6RYE7o"
+                      }
+                    ],
+                    "string": "You can now sort [[Roam Depot]] extensions by downloads, created time, updated time, or alphabetical",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1677519569818,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "edit-time": 1677519906766,
+                    "children": [
+                      {
+                        "string": "Now it searches through authors, tags, full descriptions, and handles partial matches better",
+                        "uid": "oxIMKQZ2C",
+                        "create-time": 1677519725017,
+                        "edit-time": 1677520056943,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "You can search for all the extensions by an author",
+                        "create-time": 1677519918230,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F3Kf40HxZ1Z.png?alt=media&token=c1692a8c-e61a-4dc1-8751-3e0a59da6781)",
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F3Kf40HxZ1Z.png?alt=media&token=c1692a8c-e61a-4dc1-8751-3e0a59da6781": {
+                                  "width": 215,
+                                  "height": null
+                                }
+                              }
+                            },
+                            "create-time": 1677519929814,
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F3Kf40HxZ1Z.png?alt=media&token=c1692a8c-e61a-4dc1-8751-3e0a59da6781": {
+                                  ":width": 215,
+                                  ":height": null
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "uid": "ye9US4ct0",
+                            "edit-time": 1677519957643,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "uid": "1F38Hmdix",
+                        "edit-time": 1677519929822,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "N8P6RYE7o"
+                      }
+                    ],
+                    "uid": "cNlcEgnvn",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "N8P6RYE7o"
+                      }
+                    ],
+                    "string": "[[Roam Depot]] search improvements",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1677519906766,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "edit-time": 1677501331808,
+                    "children": [
+                      {
+                        "string": "KaTeX (the LaTeX typesetting library we use) has been updated to the latest version, and ((43MRmPiT2)) have been set up",
+                        "create-time": 1677501250444,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "43MRmPiT2"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "43MRmPiT2"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "uid": "vyN3v9jda",
+                        "edit-time": 1677501451946,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "(demos below will not work if Roam has not updated to the latest version. A screenshot has been attached underneath this block)",
+                        "create-time": 1677501608184,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FZB3wt0PRFV.png?alt=media&token=76a9bae9-d167-49cb-a177-d0319d6ce85c)",
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FZB3wt0PRFV.png?alt=media&token=76a9bae9-d167-49cb-a177-d0319d6ce85c": {
+                                  "width": 470,
+                                  "height": null
+                                }
+                              }
+                            },
+                            "create-time": 1677501776242,
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FZB3wt0PRFV.png?alt=media&token=76a9bae9-d167-49cb-a177-d0319d6ce85c": {
+                                  ":width": 470,
+                                  ":height": null
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "uid": "965MCsx4z",
+                            "edit-time": 1677501806394,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "yIpCrzLz5",
+                        "edit-time": 1677501823612,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Examples of some new supported syntax",
+                        "create-time": 1677500689180,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "angl and angln",
+                            "create-time": 1677500701080,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                "string": "$$A_{\\angl n} + B_{\\angl g} + C_\\angln$$",
+                                "uid": "z9jzI15CX",
+                                "create-time": 1677500697800,
+                                "edit-time": 1677500700124,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              }
+                            ],
+                            "uid": "EBQapIyz1",
+                            "edit-time": 1677500705538,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "set",
+                            "create-time": 1677500771057,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                "string": "$$\\Set{x \\| y}$$",
+                                "uid": "_hPv1CBqT",
+                                "create-time": 1677500773469,
+                                "edit-time": 1677500782055,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              }
+                            ],
+                            "uid": "runzyQnko",
+                            "edit-time": 1677500773474,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "etc.",
+                            "uid": "RHR35N1M1",
+                            "create-time": 1677501199114,
+                            "edit-time": 1677501203126,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "IyjOMB3QM",
+                        "edit-time": 1677501042302,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Macros",
+                        "create-time": 1677501043880,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "macro definition",
+                            "create-time": 1676890405432,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                "string": "these definition blocks need to be visible in order for them to be registered",
+                                "uid": "__mI1ZGiZ",
+                                "create-time": 1677501466931,
+                                "edit-time": 1677501519336,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              },
+                              {
+                                "string": "$$\n\\gdef\\matrix#1{\\begin{bmatrix}#1\\end{bmatrix}}\n$$",
+                                "uid": "ZuBkOxzTa",
+                                "create-time": 1676887730316,
+                                "edit-time": 1677501131075,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              }
+                            ],
+                            "uid": "mHRxuI-Dw",
+                            "edit-time": 1677501525068,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "katex blocks using the matrix macro defined above",
+                            "create-time": 1676890408156,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                "string": "$$\n\\matrix{1&2&4\\\\1&2&3}\n$$",
+                                "uid": "jAA2V7T9s",
+                                "create-time": 1676887720651,
+                                "edit-time": 1677501131075,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              }
+                            ],
+                            "uid": "iZo3t14qa",
+                            "edit-time": 1677501192277,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "[More info on using macros](https://katex.org/docs/supported.html#macros)",
+                            "uid": "jG_2rTmv7",
+                            "create-time": 1677501285171,
+                            "edit-time": 1677501292761,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "43MRmPiT2",
+                        "edit-time": 1677501045849,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "If you run into any issues with your latex blocks, please checkout the migration guide: https://katex.org/docs/migration.html",
+                        "create-time": 1677500511538,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "We're now on v0.16.4",
+                            "uid": "4PmpHqrFu",
+                            "create-time": 1677500484212,
+                            "edit-time": 1677501221039,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "If that does not resolve the issue, please contact Roam Support",
+                            "uid": "yEdbLhARn",
+                            "create-time": 1677500544217,
+                            "edit-time": 1677500564536,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "MWfOyz1ze",
+                        "edit-time": 1677501207952,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "43MRmPiT2"
+                      }
+                    ],
+                    "uid": "_TNwTMjCq",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "43MRmPiT2"
+                      }
+                    ],
+                    "string": "New syntax supported in LaTeX. Now also supports ((43MRmPiT2))!",
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1677500334616,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "uid": "_bi8zaaJ4",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] ✨",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1677500317273,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "heading": 3
+              }
+            ],
+            "refs": [
+              {
+                "uid": "02-27-2023"
+              }
+            ],
+            "uid": "13c_MW5BZ",
+            ":block/refs": [
+              {
+                ":block/uid": "02-27-2023"
+              }
+            ],
+            "string": "[[February 27th, 2023]]",
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1677500314244,
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          },
+          {
             "edit-time": 1676670154422,
             "children": [
               {
@@ -48990,7 +49501,7 @@
             "edit-time": 1660324746513,
             "children": [
               {
-                "edit-time": 1660325272453,
+                "edit-time": 1677519632576,
                 "children": [
                   {
                     "edit-time": 1660325028903,
@@ -49060,13 +49571,13 @@
                     ":block/uid": "N8P6RYE7o"
                   }
                 ],
-                "string": "[[RoamDepot]] #[[Plugins]]",
+                "string": "[[Roam Depot]] #[[Plugins]]",
                 ":create/user": {
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
                 "create-time": 1660325016657,
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 }
               }
             ],
@@ -49094,7 +49605,7 @@
             "edit-time": 1660324636293,
             "children": [
               {
-                "edit-time": 1660325258496,
+                "edit-time": 1677519632576,
                 "children": [
                   {
                     "edit-time": 1660325005635,
@@ -49162,13 +49673,13 @@
                     ":block/uid": "N8P6RYE7o"
                   }
                 ],
-                "string": "[[RoamDepot]] #[[Plugins]] ",
+                "string": "[[Roam Depot]] #[[Plugins]] ",
                 ":create/user": {
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
                 "create-time": 1660324638150,
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 }
               }
             ],
@@ -49196,7 +49707,7 @@
             "edit-time": 1660325216475,
             "children": [
               {
-                "edit-time": 1660325397543,
+                "edit-time": 1677519632576,
                 "children": [
                   {
                     "string": "https://twitter.com/RoamResearch/status/1547823281478066177?s=20&t=qEEBfrUN4jkSq9qSt5HDAQ",
@@ -49234,17 +49745,17 @@
                     ":block/uid": "8CmAMnb77"
                   }
                 ],
-                "string": "#[[New Features]] [[RoamDepot]] #[[Major Launch]]",
+                "string": "#[[New Features]] [[Roam Depot]] #[[Major Launch]]",
                 ":create/user": {
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
                 "create-time": 1660325367423,
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 }
               },
               {
-                "edit-time": 1660325248554,
+                "edit-time": 1677519632576,
                 "children": [
                   {
                     "edit-time": 1660325240509,
@@ -49300,13 +49811,13 @@
                     ":block/uid": "N8P6RYE7o"
                   }
                 ],
-                "string": "[[RoamDepot]] #Plugins ",
+                "string": "[[Roam Depot]] #Plugins ",
                 ":create/user": {
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
                 },
                 "create-time": 1660325224280,
                 ":edit/user": {
-                  ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 }
               }
             ],
@@ -86170,7 +86681,7 @@
   },
   {
     "create-time": 1660324765841,
-    "title": "RoamDepot",
+    "title": "Roam Depot",
     ":create/user": {
       ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
     },
@@ -86329,9 +86840,9 @@
       }
     ],
     "uid": "N8P6RYE7o",
-    "edit-time": 1660324765842,
+    "edit-time": 1677519632576,
     ":edit/user": {
-      ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     }
   },
   {
@@ -88437,9 +88948,22 @@
     }
   },
   {
-    "uid": "71DILQTLh",
-    "create-time": 1677462094801,
-    "edit-time": 1677462094802,
+    "create-time": 1677476452998,
+    "title": "February 27th, 2023",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1677476452997,
+    "uid": "02-27-2023",
+    "edit-time": 1677476452998,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "YEqXq4qR3",
+    "create-time": 1677548459184,
+    "edit-time": 1677548459184,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -88449,14 +88973,14 @@
     }
   },
   {
-    "create-time": 1677462094812,
-    "title": "February 27th, 2023",
+    "create-time": 1677548459202,
+    "title": "February 28th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1677462094809,
-    "uid": "02-27-2023",
-    "edit-time": 1677462094812,
+    ":log/id": 1677548459197,
+    "uid": "02-28-2023",
+    "edit-time": 1677548459202,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
