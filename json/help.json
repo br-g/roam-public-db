@@ -30190,7 +30190,7 @@
             }
           },
           {
-            "string": "A variable result: {{[[query]]: {and: [[today]] [[tomorrow]]} {not: [[query]]}}}",
+            "string": "A variable result: {{[[query]]: {and: [[today]] [[tomorrow]] {not: [[query]]}}}}",
             "create-time": 1615210968190,
             ":block/refs": [
               {
@@ -30218,9 +30218,9 @@
               ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
             },
             "uid": "uQH1jXBBt",
-            "edit-time": 1615211037724,
+            "edit-time": 1677794513033,
             ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             }
           }
         ],
@@ -30320,7 +30320,7 @@
             }
           },
           {
-            "string": "A variable result: {{[[query]]: {and: [[today]] [[tomorrow]]} {not: [[query]]}}}",
+            "string": "A variable result: {{[[query]]: {and: [[today]] [[tomorrow]] {not: [[query]]}}}}",
             "create-time": 1615211062260,
             ":block/refs": [
               {
@@ -30348,9 +30348,9 @@
               ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
             },
             "uid": "0yjK64t4I",
-            "edit-time": 1615211062260,
+            "edit-time": 1677794495159,
             ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             }
           }
         ],
@@ -43417,15 +43417,29 @@
                                 }
                               },
                               {
-                                "string": "$$\n\\gdef\\matrix#1{\\begin{bmatrix}#1\\end{bmatrix}}\n$$",
-                                "uid": "ZuBkOxzTa",
-                                "create-time": 1676887730316,
-                                "edit-time": 1677501131075,
+                                "string": "$$\\gdef\\matrix#1{\\begin{bmatrix}#1\\end{bmatrix}}$$",
+                                "create-time": 1677781488161,
                                 ":create/user": {
-                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                                 },
+                                "children": [
+                                  {
+                                    "string": "`\\gdef\\matrix#1{\\begin{bmatrix}#1\\end{bmatrix}}`",
+                                    "uid": "ZuBkOxzTa",
+                                    "create-time": 1676887730316,
+                                    "edit-time": 1677781506479,
+                                    ":create/user": {
+                                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    }
+                                  }
+                                ],
+                                "uid": "Uflnw2h3i",
+                                "edit-time": 1677781515370,
                                 ":edit/user": {
-                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                                 }
                               }
                             ],
@@ -43444,12 +43458,26 @@
                             "children": [
                               {
                                 "string": "$$\n\\matrix{1&2&4\\\\1&2&3}\n$$",
-                                "uid": "jAA2V7T9s",
                                 "create-time": 1676887720651,
-                                "edit-time": 1677501131075,
                                 ":create/user": {
                                   ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                                 },
+                                "children": [
+                                  {
+                                    "string": "`\\matrix{1&2&4\\\\1&2&3}`",
+                                    "uid": "Bbs39CdYK",
+                                    "create-time": 1677781530731,
+                                    "edit-time": 1677781534310,
+                                    ":create/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    },
+                                    ":edit/user": {
+                                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                                    }
+                                  }
+                                ],
+                                "uid": "jAA2V7T9s",
+                                "edit-time": 1677501131075,
                                 ":edit/user": {
                                   ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                                 }
@@ -84750,7 +84778,7 @@
                 }
               },
               {
-                "edit-time": 1643441824345,
+                "edit-time": 1677733882176,
                 "children": [
                   {
                     "string": "If you want to be sure your notes are secure **do not use** [[roam/js]] extensions that you did not write yourself",
@@ -84773,26 +84801,58 @@
                     ":edit/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     }
+                  },
+                  {
+                    "string": "Roam Depot extensions undergo a review process which includes a security review, so they should be okay for most purposes. ",
+                    "create-time": 1677733975009,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": "If the data is very critical, you may want to not use any Roam Depot extensions either",
+                        "uid": "LOp-c_pEX",
+                        "create-time": 1677733887337,
+                        "edit-time": 1677733992012,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "lxAcO4mQj",
+                    "edit-time": 1677733975009,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
                   }
                 ],
                 "refs": [
                   {
                     "uid": "nBCwjGuI7"
+                  },
+                  {
+                    "uid": "N8P6RYE7o"
                   }
                 ],
                 "uid": "-53rC8sor",
                 ":block/refs": [
                   {
                     ":block/uid": "nBCwjGuI7"
+                  },
+                  {
+                    ":block/uid": "N8P6RYE7o"
                   }
                 ],
-                "string": "[[roam/js]] extensions running in an encrypted graph will have access to the unencrypted data",
+                "string": "[[Roam Depot]] and [[roam/js]] extensions running in an encrypted graph will have access to the unencrypted data",
                 ":create/user": {
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "create-time": 1639015913769,
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 }
               }
             ],
@@ -89095,9 +89155,22 @@
     }
   },
   {
-    "uid": "mIxy9eWce",
-    "create-time": 1677721327198,
-    "edit-time": 1677721327198,
+    "create-time": 1677794336785,
+    "title": "March 2nd, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1677794336785,
+    "uid": "03-02-2023",
+    "edit-time": 1677794336785,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "yZGlVkz0G",
+    "create-time": 1677809766504,
+    "edit-time": 1677809766504,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -89107,14 +89180,14 @@
     }
   },
   {
-    "create-time": 1677721327212,
-    "title": "March 2nd, 2023",
+    "create-time": 1677809766513,
+    "title": "March 3rd, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1677721327209,
-    "uid": "03-02-2023",
-    "edit-time": 1677721327212,
+    ":log/id": 1677809766511,
+    "uid": "03-03-2023",
+    "edit-time": 1677809766513,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
