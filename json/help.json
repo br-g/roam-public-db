@@ -44066,21 +44066,15 @@
                     },
                     "children": [
                       {
-                        "refs": [
-                          {
-                            "uid": "2h9V-FtAO"
-                          }
-                        ],
-                        "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsYWw81Fk4s.mp4?alt=media&token=492f1dab-db08-4d4a-a57e-be0d05dcd655}}",
-                        "uid": "vKzYGB0sv",
-                        "edit-time": 1676446581672,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "2h9V-FtAO"
-                          }
-                        ],
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F7bpy58-iBH.gif?alt=media&token=a86d51dc-b3fc-4c1c-a9c2-c45feabeaa1d)",
+                        "uid": "E4-7b3hfk",
+                        "create-time": 1677874288249,
+                        "edit-time": 1677874302637,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
                         ":edit/user": {
-                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                         }
                       },
                       {
@@ -44093,6 +44087,38 @@
                         },
                         ":edit/user": {
                           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Video",
+                        "create-time": 1677874280393,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FsYWw81Fk4s.mp4?alt=media&token=492f1dab-db08-4d4a-a57e-be0d05dcd655}}",
+                            "uid": "vKzYGB0sv",
+                            "edit-time": 1676446581672,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "aEn-meBw4",
+                        "edit-time": 1677874282729,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                         }
                       }
                     ],
@@ -89168,9 +89194,36 @@
     }
   },
   {
-    "uid": "yZGlVkz0G",
-    "create-time": 1677809766504,
-    "edit-time": 1677809766504,
+    "create-time": 1677862508546,
+    "title": "March 3rd, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1677862508545,
+    "children": [
+      {
+        "string": "",
+        "uid": "jDAMYotbT",
+        "create-time": 1677873662661,
+        "edit-time": 1677874261513,
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        }
+      }
+    ],
+    "uid": "03-03-2023",
+    "edit-time": 1677862508546,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "BwFFtSSUj",
+    "create-time": 1677894036084,
+    "edit-time": 1677894036085,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -89180,14 +89233,14 @@
     }
   },
   {
-    "create-time": 1677809766513,
-    "title": "March 3rd, 2023",
+    "create-time": 1677894036100,
+    "title": "March 4th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1677809766511,
-    "uid": "03-03-2023",
-    "edit-time": 1677809766513,
+    ":log/id": 1677894036098,
+    "uid": "03-04-2023",
+    "edit-time": 1677894036100,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
