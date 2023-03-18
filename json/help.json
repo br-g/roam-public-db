@@ -42964,6 +42964,67 @@
         },
         "children": [
           {
+            "edit-time": 1679030536242,
+            "children": [
+              {
+                "edit-time": 1679030542987,
+                "children": [
+                  {
+                    "string": "Fixes Roam Depot issue where \"blank extensions\" would appear in \"Installed Extensions\" section",
+                    "uid": "K5mYYm1Dd",
+                    "create-time": 1679030542987,
+                    "edit-time": 1679030677298,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "xxFKZqzYN"
+                  }
+                ],
+                "uid": "9Ql0hWsU_",
+                ":block/refs": [
+                  {
+                    ":block/uid": "xxFKZqzYN"
+                  }
+                ],
+                "string": "[[Bug Fixes]] 🛠",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1679030542987,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "heading": 3
+              }
+            ],
+            "refs": [
+              {
+                "uid": "03-16-2023"
+              }
+            ],
+            "uid": "-cWSXKkvv",
+            ":block/refs": [
+              {
+                ":block/uid": "03-16-2023"
+              }
+            ],
+            "string": "[[March 16th, 2023]]",
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1679030531013,
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          },
+          {
             "edit-time": 1678387906369,
             "children": [
               {
@@ -89578,9 +89639,22 @@
     }
   },
   {
-    "uid": "ahB64i8DZ",
-    "create-time": 1679017185276,
-    "edit-time": 1679017185276,
+    "create-time": 1679030536243,
+    "title": "March 16th, 2023",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1678924800000,
+    "uid": "03-16-2023",
+    "edit-time": 1679030536244,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "kTlwqurgj",
+    "create-time": 1679103606234,
+    "edit-time": 1679103606234,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -89590,14 +89664,14 @@
     }
   },
   {
-    "create-time": 1679017185289,
-    "title": "March 17th, 2023",
+    "create-time": 1679103606248,
+    "title": "March 18th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1679017185287,
-    "uid": "03-17-2023",
-    "edit-time": 1679017185289,
+    ":log/id": 1679103606246,
+    "uid": "03-18-2023",
+    "edit-time": 1679103606249,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
