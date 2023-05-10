@@ -42964,6 +42964,245 @@
         },
         "children": [
           {
+            "edit-time": 1683648830196,
+            "children": [
+              {
+                "edit-time": 1683652247795,
+                "children": [
+                  {
+                    "string": "Fixes for sign in via Google/Apple issues",
+                    "create-time": 1683646143133,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": "Say goodbye to the dreaded \"Enable Third Party Cookies to Sign up with Google\" error message 🤣",
+                        "uid": "X6ZoLnFBo",
+                        "create-time": 1683648918867,
+                        "edit-time": 1683652247795,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "ZG6jT26uk",
+                    "edit-time": 1683652247795,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  },
+                  {
+                    "edit-time": 1683652247795,
+                    "children": [
+                      {
+                        "string": "Upgraded to electron 22",
+                        "create-time": 1681381706700,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "Alongside security updates and performance improvements,  enables new features like `has()` CSS selector.",
+                            "uid": "MH6k1buP_",
+                            "create-time": 1681381711502,
+                            "edit-time": 1683652247795,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "4Q-E99njE",
+                        "edit-time": 1683652247795,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Changed history navigation shortcuts to default browser ones (`cmd + [ / ]` in mac, `alt + left/right` in windows/linux). Old shortcuts still work too.",
+                        "uid": "6StrWp5kO",
+                        "create-time": 1681381664976,
+                        "edit-time": 1683652247795,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Fixes issue where forward and backward buttons in some mouses (like Logi) did not work",
+                        "uid": "Oh-StGOUl",
+                        "create-time": 1681382046476,
+                        "edit-time": 1683652247795,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Fixes issues in Ubuntu 22.04, popOS 22.04, etc.",
+                        "uid": "_ysttgZXj",
+                        "create-time": 1681381607007,
+                        "edit-time": 1683652247795,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "hyL5OPFah"
+                      }
+                    ],
+                    "uid": "d4ZECrtV0",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "hyL5OPFah"
+                      }
+                    ],
+                    "string": "[[Desktop App]] version 0.0.18",
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1681381568246,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  },
+                  {
+                    "string": "Added a setting \"Exportable By\" via which graph owners/admins can allow/restrict users from being able to export graph data",
+                    "create-time": 1682418133020,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F6SvAKpTn3y.png?alt=media&token=fcf7e7d0-039f-4d82-9e63-d9508372a7f2)",
+                        "uid": "3JqiJgkf8",
+                        "create-time": 1682418463873,
+                        "edit-time": 1683652513499,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Settings is under the \"Sharing\" tab in the settings panel",
+                        "create-time": 1682418503566,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "... > Settings > Sharing > Exportable By",
+                            "uid": "PrwRYN0iP",
+                            "create-time": 1682418524490,
+                            "edit-time": 1683652453048,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "dGZ63_Vh3",
+                        "edit-time": 1683652453048,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "The default is \"Anyone with access to the full graph\". ",
+                        "create-time": 1682418628654,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "If the graph has not been shared with any other email and is not public, then that option is the same as \"Only Me\" ",
+                            "uid": "xcbz_d2P-",
+                            "create-time": 1682418250501,
+                            "edit-time": 1683652453048,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "o_xZHb-kS",
+                        "edit-time": 1683652453048,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "I7RruA8Sd",
+                    "edit-time": 1683652453048,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "uid": "dRlWgWRxn",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] ✨",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1683646156855,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "heading": 3
+              }
+            ],
+            "refs": [
+              {
+                "uid": "05-09-2023"
+              }
+            ],
+            "uid": "DUx75cAJ4",
+            ":block/refs": [
+              {
+                ":block/uid": "05-09-2023"
+              }
+            ],
+            "string": "[[May 9th, 2023]]",
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1683648825785,
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          },
+          {
             "edit-time": 1682094915666,
             "children": [
               {
@@ -90886,9 +91125,22 @@
     }
   },
   {
-    "uid": "ZBVBZmWHS",
-    "create-time": 1683596380165,
-    "edit-time": 1683596380165,
+    "create-time": 1683648818648,
+    "title": "May 9th, 2023",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1683648818648,
+    "uid": "05-09-2023",
+    "edit-time": 1683648818648,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "Z8cAveUn-",
+    "create-time": 1683682735991,
+    "edit-time": 1683682735991,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -90898,14 +91150,14 @@
     }
   },
   {
-    "create-time": 1683596380181,
-    "title": "May 9th, 2023",
+    "create-time": 1683682736006,
+    "title": "May 10th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1683596380179,
-    "uid": "05-09-2023",
-    "edit-time": 1683596380181,
+    ":log/id": 1683682736001,
+    "uid": "05-10-2023",
+    "edit-time": 1683682736006,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
