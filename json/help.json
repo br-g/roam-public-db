@@ -42964,6 +42964,149 @@
         },
         "children": [
           {
+            "edit-time": 1683781519361,
+            "children": [
+              {
+                "edit-time": 1683781551974,
+                "children": [
+                  {
+                    "string": "Delete button in Mobile App Quick Capture",
+                    "create-time": 1683781519345,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "edit-time": 1683781784077,
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FrwLtgqsEA8.jpeg?alt=media&token=952cc2f4-bdb8-45b7-9165-261bddcd7bad)",
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FrwLtgqsEA8.jpeg?alt=media&token=952cc2f4-bdb8-45b7-9165-261bddcd7bad": {
+                                  "width": 239,
+                                  "height": null
+                                }
+                              }
+                            },
+                            "create-time": 1683781565469,
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FrwLtgqsEA8.jpeg?alt=media&token=952cc2f4-bdb8-45b7-9165-261bddcd7bad": {
+                                  ":width": 239,
+                                  ":height": null
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "uid": "xsiRWW1BS",
+                            "edit-time": 1683781588990,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fa8RYect2Yq.jpeg?alt=media&token=978220e0-aeb5-404b-99ff-8dba718a233b)",
+                            "props": {
+                              "image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fa8RYect2Yq.jpeg?alt=media&token=978220e0-aeb5-404b-99ff-8dba718a233b": {
+                                  "width": 239.01214599609375,
+                                  "height": null
+                                }
+                              }
+                            },
+                            "create-time": 1683781587033,
+                            ":block/props": {
+                              ":image-size": {
+                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fa8RYect2Yq.jpeg?alt=media&token=978220e0-aeb5-404b-99ff-8dba718a233b": {
+                                  ":width": 239.01214599609375,
+                                  ":height": null
+                                }
+                              }
+                            },
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "uid": "i_uWT6HZl",
+                            "edit-time": 1683781601054,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "Aa7fywYAg"
+                          }
+                        ],
+                        "uid": "_7JKQRlnF",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "Aa7fywYAg"
+                          }
+                        ],
+                        "string": "[[Screenshots]]",
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "create-time": 1683781612901,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "L8wMBxCFc",
+                    "edit-time": 1683781662124,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "uid": "Rpktcucw-",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] ✨",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1683781551273,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "heading": 3
+              }
+            ],
+            "refs": [
+              {
+                "uid": "05-10-2023"
+              }
+            ],
+            "uid": "0FhX_7KRC",
+            ":block/refs": [
+              {
+                ":block/uid": "05-10-2023"
+              }
+            ],
+            "string": "[[May 10th, 2023]]",
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1683781515386,
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          },
+          {
             "edit-time": 1683648830196,
             "children": [
               {
@@ -61900,6 +62043,104 @@
       {
         "edit-time": 1643838960381,
         "children": [
+          {
+            "edit-time": 1683782072843,
+            "children": [
+              {
+                "edit-time": 1683782072846,
+                "children": [
+                  {
+                    "edit-time": 1683782072847,
+                    "children": [
+                      {
+                        "string": "If anyone is curious how I got the two images side by side, open the command palette (cmd-p) and then \"Change block view\". The one I'm using here is \"horizontal\"",
+                        "create-time": 1683782072850,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "If you use these block views regularly, might want to set a hotkey for it. That can be done via the command palette as well",
+                            "uid": "eaUD7Jni4",
+                            "create-time": 1683782146396,
+                            "edit-time": 1683782185672,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "OwRwwjCsJ",
+                        "edit-time": 1683782191639,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "_7JKQRlnF"
+                      }
+                    ],
+                    "uid": "JtReIayAm",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "_7JKQRlnF"
+                      }
+                    ],
+                    "string": "((_7JKQRlnF))",
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "create-time": 1683782072847,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "kPXScOJpv"
+                  }
+                ],
+                "uid": "k6OElaTi-",
+                ":block/refs": [
+                  {
+                    ":block/uid": "kPXScOJpv"
+                  }
+                ],
+                "string": "[[Baibhav Bista]]",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1683782072846,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "05-11-2023"
+              }
+            ],
+            "uid": "ytDAQN3no",
+            ":block/refs": [
+              {
+                ":block/uid": "05-11-2023"
+              }
+            ],
+            "string": "[[May 11th, 2023]]",
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1683782072843,
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          },
           {
             "edit-time": 1643838960387,
             "children": [
@@ -91151,9 +91392,22 @@
     }
   },
   {
-    "uid": "B8KLlIiwW",
-    "create-time": 1683769204081,
-    "edit-time": 1683769204081,
+    "create-time": 1683781506877,
+    "title": "May 11th, 2023",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1683781506876,
+    "uid": "05-11-2023",
+    "edit-time": 1683781506877,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "j4Go4PyKm",
+    "create-time": 1683855551519,
+    "edit-time": 1683855551520,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -91163,14 +91417,14 @@
     }
   },
   {
-    "create-time": 1683769204091,
-    "title": "May 11th, 2023",
+    "create-time": 1683855551530,
+    "title": "May 12th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1683769204089,
-    "uid": "05-11-2023",
-    "edit-time": 1683769204091,
+    ":log/id": 1683855551528,
+    "uid": "05-12-2023",
+    "edit-time": 1683855551530,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
