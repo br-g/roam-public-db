@@ -42964,6 +42964,513 @@
         },
         "children": [
           {
+            "edit-time": 1684144100417,
+            "children": [
+              {
+                "edit-time": 1684143637305,
+                "children": [
+                  {
+                    "string": "[Switch+](https://github.com/dive2Pro/roam-switch-plus)",
+                    "create-time": 1684143518877,
+                    "heading": 2,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": "An awesome new extension by [[hyc]] which will change the way you navigate between blocks on a page. ",
+                        "create-time": 1684144801788,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "f1lxUcEYl"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "f1lxUcEYl"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "uid": "iDk-MO8Gq",
+                        "edit-time": 1684144801788,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Has a number of different modes: text mode, tag mode, line mode, sidebar mode, latest changes mode. ",
+                        "uid": "cWmb9-S8p",
+                        "create-time": 1684144490122,
+                        "edit-time": 1684144801791,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Usage",
+                        "create-time": 1684144723595,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "Shortcut to activate the extension is ctrl/cmd + shift + p\nThen, just start typing to search",
+                            "uid": "SuVTj4bWU",
+                            "create-time": 1684144727861,
+                            "edit-time": 1684144940605,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "You can switch modes by typing `@`, `:`, `r:` or `e:` in the beginning of the search, or you can also set hotkeys which takes you directly to a particular mode",
+                            "uid": "OI6glyyfh",
+                            "create-time": 1684144783451,
+                            "edit-time": 1684144936168,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "7R0AFiNcy",
+                        "edit-time": 1684144725476,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Do checkout the video walkthrough below:",
+                        "create-time": 1684144804079,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "string": "{{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FzIJm0nHEOh.mp4?alt=media&token=d69cb2b5-8002-459e-9eae-08022a028f70}}",
+                            "uid": "vmPNQp0Tv",
+                            "edit-time": 1684144323138,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "2CTfiylBk",
+                        "edit-time": 1684144919162,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Separate GIFs demo-ing each mode",
+                        "create-time": 1684144996435,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "Text Mode",
+                            "create-time": 1684145006390,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                "string": "![](https://user-images.githubusercontent.com/23192045/236662454-11c2ccb4-6285-41bb-b9eb-5f5232ee8275.gif)",
+                                "uid": "ygriR7Sk3",
+                                "create-time": 1684145029372,
+                                "edit-time": 1684145042542,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              }
+                            ],
+                            "uid": "_Zih59sxv",
+                            "edit-time": 1684145029378,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "Tag Mode",
+                            "create-time": 1684145048948,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                "string": "![search with tags](https://user-images.githubusercontent.com/23192045/236662466-e5d1f2d4-7189-434b-b13b-79330a2f0082.gif)",
+                                "uid": "a24l9qH4V",
+                                "create-time": 1684145074898,
+                                "edit-time": 1684145076600,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              }
+                            ],
+                            "uid": "lsI_FXyZC",
+                            "edit-time": 1684145053449,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "Line Mode",
+                            "create-time": 1684145053442,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                "string": "![search with line](https://user-images.githubusercontent.com/23192045/236662488-c7eca005-51cd-4bad-b781-5446b099b09c.gif)",
+                                "uid": "i4OxD8iOb",
+                                "create-time": 1684145082721,
+                                "edit-time": 1684145085023,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              }
+                            ],
+                            "uid": "eSUs2Jb9h",
+                            "edit-time": 1684145056965,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "Right Sidebar Mode",
+                            "create-time": 1684145063180,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                "string": "![search with sidebar](https://user-images.githubusercontent.com/23192045/236662513-0deef455-86c9-4e98-abcf-11981e0ce805.gif)",
+                                "uid": "tiR1BVXuR",
+                                "create-time": 1684145104444,
+                                "edit-time": 1684145106558,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              }
+                            ],
+                            "uid": "n1x6fnelx",
+                            "edit-time": 1684145066957,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "RiSxu8z8q",
+                        "edit-time": 1684145215932,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "If you like this, you might like another one of [[hyc]]'s extensions: [Search+](https://github.com/dive2Pro/roam-search-plus). Search for it in Roam Depot!",
+                        "create-time": 1684144360874,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "f1lxUcEYl"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "f1lxUcEYl"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "uid": "YgbqCWlcA",
+                        "edit-time": 1684144483276,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "nW4JPTKyV",
+                    "edit-time": 1684144360755,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  },
+                  {
+                    "string": "[Power CSS Pack](https://github.com/Roam-Research/roam-depot/pull/530)",
+                    "create-time": 1684143447680,
+                    "heading": 2,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": "An extension by [[Zhang Michael]] which adds a lot of useful CSS classes you can use to change how a particular block in your Roam graph looks",
+                        "create-time": 1684143676491,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "oxjGd1LZA"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "oxjGd1LZA"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "uid": "qXd7wPN56",
+                        "edit-time": 1684143949751,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Usage",
+                        "create-time": 1684143960951,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "Just apply the tag you want in your block and the corresponding style will be applied. Some examples:",
+                            "create-time": 1684143971324,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                "string": "`#.css-level-bg`",
+                                "uid": "d5NNgdT3f",
+                                "create-time": 1684143996786,
+                                "edit-time": 1684144016131,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              },
+                              {
+                                "string": "`#.css-level-color`",
+                                "uid": "LFXrZTy3X",
+                                "create-time": 1684144030196,
+                                "edit-time": 1684144032068,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              },
+                              {
+                                "string": "`#.css-font-yellow`",
+                                "uid": "7Kb2hI5dn",
+                                "create-time": 1684144040733,
+                                "edit-time": 1684144046332,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              },
+                              {
+                                "string": "`#.css-bg-olive-300`",
+                                "uid": "mDPl0TEmc",
+                                "create-time": 1684144046328,
+                                "edit-time": 1684144053851,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              },
+                              {
+                                "string": "`#.css-grid3`",
+                                "uid": "bHU1cgzCi",
+                                "create-time": 1684144061014,
+                                "edit-time": 1684144062195,
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              }
+                            ],
+                            "uid": "o6jeZCTZm",
+                            "edit-time": 1684144006529,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "q3UdxWBhf",
+                        "edit-time": 1684143970763,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Check the GIF below for some examples:",
+                        "create-time": 1684143949866,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FfzFyJoIH5_.gif?alt=media&token=122ef668-6881-4489-b10f-6fb1f675de25)",
+                            "uid": "Ge__WWZhX",
+                            "create-time": 1684143642608,
+                            "edit-time": 1684143781014,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "kemdmMygh",
+                        "edit-time": 1684143957196,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "VSD_f7I1g",
+                    "edit-time": 1684144242081,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  },
+                  {
+                    "string": "[Roam Power Themes](https://github.com/dragonforce2010/roam-power-themes)",
+                    "create-time": 1684143496330,
+                    "heading": 2,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": "An extension by [[Zhang Michael]] with a collection of 23 beautiful themes",
+                        "create-time": 1684143665364,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "oxjGd1LZA"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "oxjGd1LZA"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "uid": "Zp_cOVlH9",
+                        "edit-time": 1684143869250,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FExploreSpace%2FTDzPIseMY_.31.47.gif?alt=media&token=69075b59-b268-4eb7-a28e-f0ad113212d4)",
+                        "uid": "eC9hGYAl2",
+                        "create-time": 1684143505517,
+                        "edit-time": 1684143663511,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "GoivJl7mQ",
+                    "edit-time": 1684144271077,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "uid": "IljN1VlPe",
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Extensions]]",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1684143629213,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "05-15-2023"
+              }
+            ],
+            "uid": "n9pDwGxFL",
+            ":block/refs": [
+              {
+                ":block/uid": "05-15-2023"
+              }
+            ],
+            "string": "[[May 15th, 2023]]",
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1684144096792,
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          },
+          {
             "edit-time": 1683781519361,
             "children": [
               {
@@ -90011,6 +90518,18 @@
         ":edit/user": {
           ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
         }
+      },
+      {
+        "string": "newly released",
+        "uid": "057om1n6z",
+        "create-time": 1684143625498,
+        "edit-time": 1684143629216,
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        }
       }
     ],
     "uid": "TpA4naC1T",
@@ -91405,9 +91924,46 @@
     }
   },
   {
-    "uid": "hlSbi9lZY",
-    "create-time": 1684114781813,
-    "edit-time": 1684114781813,
+    "uid": "oxjGd1LZA",
+    "create-time": 1684143865864,
+    "edit-time": 1684143865865,
+    "title": "Zhang Michael",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "create-time": 1684144100418,
+    "title": "May 15th, 2023",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1684108800000,
+    "uid": "05-15-2023",
+    "edit-time": 1684144100420,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "f1lxUcEYl",
+    "create-time": 1684144425327,
+    "edit-time": 1684144425328,
+    "title": "hyc",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "I2a_8mobs",
+    "create-time": 1684201209839,
+    "edit-time": 1684201209839,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -91417,14 +91973,14 @@
     }
   },
   {
-    "create-time": 1684114781824,
-    "title": "May 15th, 2023",
+    "create-time": 1684201209857,
+    "title": "May 16th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1684114781822,
-    "uid": "05-15-2023",
-    "edit-time": 1684114781824,
+    ":log/id": 1684201209854,
+    "uid": "05-16-2023",
+    "edit-time": 1684201209857,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
