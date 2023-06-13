@@ -42964,6 +42964,678 @@
         },
         "children": [
           {
+            "edit-time": 1686562231264,
+            "children": [
+              {
+                "edit-time": 1686596713036,
+                "children": [
+                  {
+                    "edit-time": 1686597528174,
+                    "children": [
+                      {
+                        "string": "Linked references now load lazily, which means it should open __much__ faster than before.",
+                        "uid": "W2WIPfBV8",
+                        "create-time": 1686596811476,
+                        "edit-time": 1686597528174,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "The downside is that you can no longer search through them with `cmd-f` or `ctrl-f`, you need to use the built in search component.",
+                        "uid": "Cu_gkiKhR",
+                        "create-time": 1686597073153,
+                        "edit-time": 1686597528174,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "The new search looks through all of the references, the paths of the references, or the children if the children are open.",
+                        "create-time": 1686596884073,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2F58Rma4DQAw.png?alt=media&token=542425e8-6a9d-422e-a06b-dcce8f8c1b61)",
+                            "uid": "UyS6-q25d",
+                            "create-time": 1686597216305,
+                            "edit-time": 1686597564200,
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "uid": "Obiqz9ajd",
+                        "edit-time": 1686597528174,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "Lgp0csam2"
+                      },
+                      {
+                        "uid": "H0gWSfyQm"
+                      }
+                    ],
+                    "uid": "XJhLRZsAE",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Lgp0csam2"
+                      },
+                      {
+                        ":block/uid": "H0gWSfyQm"
+                      }
+                    ],
+                    "string": "[[Performance Improvements]] and new search feature for [[linked references]]",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1686596793345,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "uid": "ZD1U5IfOA",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]] ✨",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1686596692762,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "heading": 3
+              },
+              {
+                "edit-time": 1686562314579,
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "string": "Magic Tags transforms tags you specify into beautiful icons while maintaining all functionality, like backlinking and searching.",
+                        "uid": "4iFq0xMFb",
+                        "edit-time": 1686584570914,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "![Demo of magic tags in action](https://github.com/rcvd/magic-tags/raw/main/screenshots/magic-tags.gif)[🔗](https://github.com/rcvd/magic-tags/raw/main/screenshots/magic-tags.gif)",
+                        "uid": "mbYDdyUOG",
+                        "edit-time": 1686584570914,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "string": "Select the Icon Theme. [Blueprint](https://blueprintjs.com/docs/versions/3/#icons) is the default for Roam Research. Roam Studio provides [Feather Icons](https://feathericons.com/).",
+                            "uid": "mSYFYz94d",
+                            "edit-time": 1686584570914,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "refs": [
+                              {
+                                "uid": "qXFB6VJSQ"
+                              }
+                            ],
+                            "string": "Select the first magic word - this is the name of the tag (e.g., if your tag is #love, your magic word is \"love\")",
+                            "uid": "2Bgzbx3Bz",
+                            "edit-time": 1686584570914,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "qXFB6VJSQ"
+                              }
+                            ],
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Select an icon from the predefined list",
+                            "uid": "MoY5Xyxfm",
+                            "edit-time": 1686584570914,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Select a color from the predefined list",
+                            "uid": "5MmpNd1qm",
+                            "edit-time": 1686584570914,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "Select the lightness of the color",
+                            "uid": "qCWd9Dx4S",
+                            "edit-time": 1686584570914,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "**Notes** You can use the same icon for multiple tags - with different colors if you like. An example of this would be a marker for high and critical tasks, which both would use the alert icon, but in yellow for high and red for critical.",
+                            "uid": "D4XK4mKLV",
+                            "edit-time": 1686584570914,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "![Settings showing tags using the same icon but different colors](https://github.com/rcvd/magic-tags/raw/main/screenshots/high-critical.png)[🔗](https://github.com/rcvd/magic-tags/raw/main/screenshots/high-critical.png)",
+                            "uid": "nr_IfrfEL",
+                            "edit-time": 1686584570914,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "heading": 3,
+                        "string": "How does it work",
+                        "uid": "DQ5Qew3nY",
+                        "edit-time": 1686584643469,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "string": "If you need an additional icon, have an idea for a new feature, or find a bug, file it under [Issues](https://github.com/rcvd/MagicTags/issues) with a short description and a screenshot. If you have any additional comments or suggestions, please send them to [alex@goedel.io](mailto:alex@goedel.io).",
+                            "uid": "dJdbOrny5",
+                            "edit-time": 1686584570914,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "heading": 3,
+                        "string": "Feature Requests, Bugs, and Feedback",
+                        "uid": "13CNDO8CR",
+                        "edit-time": 1686584617740,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "string": "[Become a GitHub Sponsor](https://github.com/sponsors/rcvd)",
+                            "uid": "IdfL-QU_w",
+                            "edit-time": 1686584570914,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "[Buy Me a Coffee](https://www.buymeacoffee.com/rcvdio)",
+                            "uid": "37qgg7T6f",
+                            "edit-time": 1686584570914,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "[Become a supporter on gödel.io](https://www.goedel.io/subscribe?utm_medium=web&utm_source=subscribe-widget&utm_content=47299057)",
+                            "uid": "u8OS-yj1U",
+                            "edit-time": 1686584570914,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "[Flattr](https://flattr.com/@rcvd)",
+                            "uid": "ZPCPsUrn_",
+                            "edit-time": 1686584570914,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "[Paypal](https://paypal.me/rcvd)",
+                            "uid": "mZAxW5Jif",
+                            "edit-time": 1686584570914,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "heading": 3,
+                        "string": "If you want to support my work",
+                        "uid": "Vd4tfb1a8",
+                        "edit-time": 1686584609019,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "heading": 2,
+                    "string": "[Magic Tags](https://github.com/rcvd/magic-tags)",
+                    "uid": "GS4eUfKaP",
+                    "edit-time": 1686584593237,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "[roam-depot-todo-progress-bar](https://github.com/8bitgentleman/roam-depot-todo-progress-bar)",
+                    "create-time": 1686595142541,
+                    "heading": 2,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "Roam Research progress bar component for visually tracking TODOs in a list.",
+                        "uid": "QDWVD-mFW",
+                        "edit-time": 1686595176548,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "string": "![](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/example.gif)[🔗](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/example.gif)",
+                            "uid": "CD8P3Y9D3",
+                            "edit-time": 1686595176548,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "heading": 3,
+                        "string": "Example",
+                        "uid": "zoTTMzMBf",
+                        "edit-time": 1686595184576,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "string": "First make sure that **User code** is enabled in your settings. This allows custom components in your graph.",
+                            "uid": "GqE1HlRQz",
+                            "edit-time": 1686595176548,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "![](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/settings.png)[🔗](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/settings.png)",
+                            "uid": "1ntE8hZ_o",
+                            "edit-time": 1686595176548,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "heading": 3,
+                        "string": "Setup",
+                        "uid": "tsIELyJyL",
+                        "edit-time": 1686595194864,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "children": [
+                          {
+                            "string": "Easiest way to insert the component is though Roam's native template menu. Simply type ;; and look for **TODO Progress Bar**",
+                            "uid": "vCYaF9DIw",
+                            "edit-time": 1686595176548,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          },
+                          {
+                            "string": "![](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/template.png)[🔗](https://github.com/8bitgentleman/roam-depot-todo-progress-bar/raw/main/template.png)",
+                            "uid": "pfCpqfqvU",
+                            "edit-time": 1686595176548,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "heading": 3,
+                        "string": "Usage",
+                        "uid": "dOVBzvdGy",
+                        "edit-time": 1686595209437,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "pyIdSOHXO",
+                    "edit-time": 1686595154198,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "[oblique-strategies](https://github.com/mlava/oblique-strategies)",
+                    "create-time": 1686595751747,
+                    "heading": 2,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "Overcome creative block by using an Oblique Strategy.",
+                        "uid": "G8gW-fySJ",
+                        "edit-time": 1686595771661,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "Originally create by Brian Eno and Peter Schmidt as a way to encourage lateral thinking, Oblique Strategies were originally available as a stack of cards from which you would draw a random card which held a simple prompt. See also: https://en.wikipedia.org/wiki/Oblique_Strategies for more information.",
+                        "uid": "z4hDO0aot",
+                        "edit-time": 1686595771661,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "![image](https://user-images.githubusercontent.com/6857790/238811874-8d73b616-2bc1-49c4-89b0-f3755ed1a5a3.png)[🔗](https://user-images.githubusercontent.com/6857790/238811874-8d73b616-2bc1-49c4-89b0-f3755ed1a5a3.png)",
+                        "uid": "qL8TrRCeL",
+                        "edit-time": 1686595771661,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "There have been six editions. This extension for Roam Research provides the ability to draw from any of the first five editions, or a combined list containing all of the prompts from the first five editions. The prompts were sourced from https://github.com/noaoh/oblique-stratagems with thanks.",
+                        "uid": "g2KPlOMSt",
+                        "edit-time": 1686595771661,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "An Oblique Strategy prompt can be obtained using a Command Palette command or Roam Research Hotkey.",
+                        "uid": "KyUZiAung",
+                        "edit-time": 1686595771661,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "The following commands are available:",
+                        "uid": "wja_ipJST",
+                        "edit-time": 1686595771661,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "Random Oblique Strategy Random Oblique Strategy - 1st Edition Random Oblique Strategy - 2nd Edition Random Oblique Strategy - 3rd Edition Random Oblique Strategy - 4th Edition Random Oblique Strategy - 5th Edition",
+                        "uid": "SZJmO5Ebd",
+                        "edit-time": 1686595771661,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "KniayKNHJ",
+                    "edit-time": 1686595754439,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "[Roam Power Previewer](https://github.com/dragonforce2010/roam-power-previewer)",
+                    "create-time": 1686562253631,
+                    "heading": 2,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": "Allows you to preview a website in a side drawer, without having to go out of Roam!",
+                        "create-time": 1686562375689,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FjnZuhSGODA.gif?alt=media&token=02e9465f-5ab4-4da7-847d-0d2f6691c23f)",
+                            "uid": "m4nc9Ej7c",
+                            "edit-time": 1686563857172,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "2g7FiwHj8",
+                        "edit-time": 1686562560980,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Usage",
+                        "create-time": 1686563882140,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "After installing the extension from Roam Depot, just click on a link",
+                            "uid": "26c_ZNM2N",
+                            "create-time": 1686563884197,
+                            "edit-time": 1686563904058,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "Please note that If you don't want to preview the website content in the sidedrawer or sometimes the website you are tring to preview has a iframe securty policy which forbids to do so, then you can simply press the following keys(ctrl, meta, shift) when click the link, to view the website in a new tab in browser",
+                            "uid": "kJXpzAfRl",
+                            "edit-time": 1686563956952,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "e7gsMP32v",
+                        "edit-time": 1686563884201,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "qgZPQ2k32",
+                    "edit-time": 1686562515469,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  },
+                  {
+                    "string": "[Automatic DNP](https://github.com/mlava/auto-DNP)",
+                    "create-time": 1686562502142,
+                    "heading": 2,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": "Automatically paste in your preferred daily note page template when you open your DNP for the first time each day.",
+                        "uid": "3Pdnpcnim",
+                        "create-time": 1686562502142,
+                        "edit-time": 1686562502142,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "This extension allows you to define templates for every day of the week, or for weekdays and weekends if you prefer to keep it simple.",
+                        "uid": "GW3qVlAIt",
+                        "create-time": 1686562502142,
+                        "edit-time": 1686562502142,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Usage",
+                        "create-time": 1686562502142,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "Use the Roam Depot settings panel to choose either Daily or Weekday/Weekend for Preferred Mode.",
+                            "uid": "UzEgS8zFS",
+                            "create-time": 1686562502142,
+                            "edit-time": 1686562502142,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "Then, paste in the block reference of a template to the corresponding fields in the Roam Depot settings screen. The example below shows the configuration for Weekday/Weekend mode:",
+                            "create-time": 1686562502142,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "children": [
+                              {
+                                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDlSwEX58eB.png?alt=media&token=c4ec9f22-124c-40c8-8f0b-56b662afe774)",
+                                "props": {
+                                  "image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDlSwEX58eB.png?alt=media&token=c4ec9f22-124c-40c8-8f0b-56b662afe774": {
+                                      "width": 332,
+                                      "height": null
+                                    }
+                                  }
+                                },
+                                "create-time": 1686562502142,
+                                ":block/props": {
+                                  ":image-size": {
+                                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FDlSwEX58eB.png?alt=media&token=c4ec9f22-124c-40c8-8f0b-56b662afe774": {
+                                      ":width": 332,
+                                      ":height": null
+                                    }
+                                  }
+                                },
+                                ":create/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                },
+                                "uid": "bXNXTit1I",
+                                "edit-time": 1686563970267,
+                                ":edit/user": {
+                                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                                }
+                              }
+                            ],
+                            "uid": "AruRxpNa0",
+                            "edit-time": 1686562502142,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "Njdo4EF5I",
+                        "edit-time": 1686562502142,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "DFCNaVNyv",
+                    "edit-time": 1686562700016,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "uid": "KbgPwIJm4",
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Depot Extensions]]",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1686562231256,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "06-12-2023"
+              }
+            ],
+            "uid": "CvPOZldyl",
+            ":block/refs": [
+              {
+                ":block/uid": "06-12-2023"
+              }
+            ],
+            "string": "[[June 12th, 2023]]",
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1686562226424,
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          },
+          {
             "edit-time": 1686331401295,
             "children": [
               {
@@ -43733,7 +44405,7 @@
             "edit-time": 1684144100417,
             "children": [
               {
-                "edit-time": 1684143637305,
+                "edit-time": 1686562314579,
                 "children": [
                   {
                     "string": "[Switch+](https://github.com/dive2Pro/roam-switch-plus)",
@@ -44206,7 +44878,7 @@
                     ":block/uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 ":create/user": {
                   ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
@@ -44250,63 +44922,11 @@
                     },
                     "children": [
                       {
-                        "edit-time": 1683781784077,
-                        "children": [
+                        "string": "[[Screenshots]]",
+                        "create-time": 1683781612901,
+                        ":block/refs": [
                           {
-                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FrwLtgqsEA8.jpeg?alt=media&token=952cc2f4-bdb8-45b7-9165-261bddcd7bad)",
-                            "props": {
-                              "image-size": {
-                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FrwLtgqsEA8.jpeg?alt=media&token=952cc2f4-bdb8-45b7-9165-261bddcd7bad": {
-                                  "width": 239,
-                                  "height": null
-                                }
-                              }
-                            },
-                            "create-time": 1683781565469,
-                            ":block/props": {
-                              ":image-size": {
-                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FrwLtgqsEA8.jpeg?alt=media&token=952cc2f4-bdb8-45b7-9165-261bddcd7bad": {
-                                  ":width": 239,
-                                  ":height": null
-                                }
-                              }
-                            },
-                            ":create/user": {
-                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                            },
-                            "uid": "xsiRWW1BS",
-                            "edit-time": 1683781588990,
-                            ":edit/user": {
-                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                            }
-                          },
-                          {
-                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fa8RYect2Yq.jpeg?alt=media&token=978220e0-aeb5-404b-99ff-8dba718a233b)",
-                            "props": {
-                              "image-size": {
-                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fa8RYect2Yq.jpeg?alt=media&token=978220e0-aeb5-404b-99ff-8dba718a233b": {
-                                  "width": 239.01214599609375,
-                                  "height": null
-                                }
-                              }
-                            },
-                            "create-time": 1683781587033,
-                            ":block/props": {
-                              ":image-size": {
-                                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2Fa8RYect2Yq.jpeg?alt=media&token=978220e0-aeb5-404b-99ff-8dba718a233b": {
-                                  ":width": 239.01214599609375,
-                                  ":height": null
-                                }
-                              }
-                            },
-                            ":create/user": {
-                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                            },
-                            "uid": "i_uWT6HZl",
-                            "edit-time": 1683781601054,
-                            ":edit/user": {
-                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
-                            }
+                            ":block/uid": "Aa7fywYAg"
                           }
                         ],
                         "refs": [
@@ -44314,17 +44934,11 @@
                             "uid": "Aa7fywYAg"
                           }
                         ],
-                        "uid": "_7JKQRlnF",
-                        ":block/refs": [
-                          {
-                            ":block/uid": "Aa7fywYAg"
-                          }
-                        ],
-                        "string": "[[Screenshots]]",
                         ":create/user": {
                           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         },
-                        "create-time": 1683781612901,
+                        "uid": "_7JKQRlnF",
+                        "edit-time": 1683781784077,
                         ":edit/user": {
                           ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         }
@@ -45425,7 +46039,7 @@
             "edit-time": 1680827364231,
             "children": [
               {
-                "edit-time": 1680827369585,
+                "edit-time": 1686562314579,
                 "children": [
                   {
                     "string": "[Roam Portal](https://github.com/dkapila/Roam-Portal)",
@@ -45658,7 +46272,7 @@
                     ":block/uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 ":create/user": {
                   ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 },
@@ -45753,7 +46367,7 @@
             "edit-time": 1678387906369,
             "children": [
               {
-                "edit-time": 1678387911926,
+                "edit-time": 1686562314579,
                 "children": [
                   {
                     "children": [
@@ -46063,13 +46677,13 @@
                     ":block/uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 ":create/user": {
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "create-time": 1678387906745,
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 }
               }
             ],
@@ -48209,7 +48823,7 @@
             "edit-time": 1675875166564,
             "children": [
               {
-                "edit-time": 1675875171586,
+                "edit-time": 1686562314579,
                 "children": [
                   {
                     "string": "[Self-Destructing Blocks](https://github.com/8bitgentleman/roam-depot-block-self-destruct)",
@@ -48594,13 +49208,13 @@
                     ":block/uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 ":create/user": {
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "create-time": 1675875166878,
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 }
               }
             ],
@@ -48665,7 +49279,7 @@
                 "heading": 3
               },
               {
-                "edit-time": 1675875052621,
+                "edit-time": 1686562314579,
                 "children": [
                   {
                     "children": [
@@ -48706,13 +49320,13 @@
                     ":block/uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 ":create/user": {
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "create-time": 1675875048709,
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 }
               }
             ],
@@ -48930,7 +49544,7 @@
             "edit-time": 1669857894648,
             "children": [
               {
-                "edit-time": 1669857898434,
+                "edit-time": 1686562314579,
                 "children": [
                   {
                     "children": [
@@ -49178,13 +49792,13 @@
                     ":block/uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 ":create/user": {
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "create-time": 1669857894628,
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 }
               }
             ],
@@ -49212,7 +49826,7 @@
             "edit-time": 1669769892132,
             "children": [
               {
-                "edit-time": 1669769900638,
+                "edit-time": 1686562314579,
                 "children": [
                   {
                     "children": [
@@ -49315,13 +49929,13 @@
                     ":block/uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 ":create/user": {
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "create-time": 1669769892309,
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 }
               }
             ],
@@ -49349,7 +49963,7 @@
             "edit-time": 1669769579772,
             "children": [
               {
-                "edit-time": 1669769900638,
+                "edit-time": 1686562314579,
                 "children": [
                   {
                     "children": [
@@ -49421,13 +50035,13 @@
                     ":block/uid": "TpA4naC1T"
                   }
                 ],
-                "string": "[[Roam Extensions]]",
+                "string": "[[Roam Depot Extensions]]",
                 ":create/user": {
                   ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                 },
                 "create-time": 1669769579751,
                 ":edit/user": {
-                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 }
               }
             ],
@@ -91312,7 +91926,7 @@
   },
   {
     "create-time": 1669769636189,
-    "title": "Roam Extensions",
+    "title": "Roam Depot Extensions",
     ":create/user": {
       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
     },
@@ -91343,9 +91957,9 @@
       }
     ],
     "uid": "TpA4naC1T",
-    "edit-time": 1669769900638,
+    "edit-time": 1686562314579,
     ":edit/user": {
-      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     }
   },
   {
@@ -92896,9 +93510,46 @@
     }
   },
   {
-    "uid": "C_EwasdO-",
-    "create-time": 1686534072238,
-    "edit-time": 1686534072238,
+    "create-time": 1686562135834,
+    "title": "June 12th, 2023",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1686562135833,
+    "uid": "06-12-2023",
+    "edit-time": 1686562135834,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "qXFB6VJSQ",
+    "create-time": 1686584570912,
+    "edit-time": 1686584570914,
+    "title": "love",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "H0gWSfyQm",
+    "create-time": 1686597528188,
+    "edit-time": 1686597528188,
+    "title": "linked references",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "zZLRzOKU5",
+    "create-time": 1686620461842,
+    "edit-time": 1686620461843,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -92908,14 +93559,14 @@
     }
   },
   {
-    "create-time": 1686534072249,
-    "title": "June 12th, 2023",
+    "create-time": 1686620461863,
+    "title": "June 13th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1686534072247,
-    "uid": "06-12-2023",
-    "edit-time": 1686534072249,
+    ":log/id": 1686620461861,
+    "uid": "06-13-2023",
+    "edit-time": 1686620461863,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
