@@ -43077,11 +43077,21 @@
                   {
                     "children": [
                       {
-                        "string": "Magic Tags transforms tags you specify into beautiful icons while maintaining all functionality, like backlinking and searching.",
+                        "refs": [
+                          {
+                            "uid": "W8BQTGEBd"
+                          }
+                        ],
+                        "string": "Magic Tags by [[Alexander Rink]] transforms tags you specify into beautiful icons while maintaining all functionality, like backlinking and searching.",
                         "uid": "4iFq0xMFb",
-                        "edit-time": 1686584570914,
+                        "edit-time": 1686630688733,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "W8BQTGEBd"
+                          }
+                        ],
                         ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         }
                       },
                       {
@@ -43232,20 +43242,20 @@
                           }
                         ],
                         "heading": 3,
-                        "string": "If you want to support my work",
+                        "string": "If you want to support Alex's work",
                         "uid": "Vd4tfb1a8",
-                        "edit-time": 1686584609019,
+                        "edit-time": 1686630627713,
                         ":edit/user": {
-                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                         }
                       }
                     ],
                     "heading": 2,
                     "string": "[Magic Tags](https://github.com/rcvd/magic-tags)",
                     "uid": "GS4eUfKaP",
-                    "edit-time": 1686584593237,
+                    "edit-time": 1686630558764,
                     ":edit/user": {
-                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                     }
                   },
                   {
@@ -93547,9 +93557,95 @@
     }
   },
   {
-    "uid": "zZLRzOKU5",
-    "create-time": 1686620461842,
-    "edit-time": 1686620461843,
+    "create-time": 1686630688734,
+    "title": "Alexander Rink",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "children": [
+      {
+        "edit-time": 1686630711317,
+        "children": [
+          {
+            "string": "[Roam Studio](https://github.com/rcvd/RoamStudio)",
+            "create-time": 1686630711313,
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                "string": "Discover a wide range of themes for Roam Research that are beautiful and highly customizable, with various options and modules to choose from.",
+                "uid": "_ms5e8vmX",
+                "create-time": 1686630740727,
+                "edit-time": 1686630741174,
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              }
+            ],
+            "uid": "8t0VvvZ1R",
+            "edit-time": 1686630751286,
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          },
+          {
+            "string": "((GS4eUfKaP))",
+            "create-time": 1686630723423,
+            ":block/refs": [
+              {
+                ":block/uid": "GS4eUfKaP"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "GS4eUfKaP"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "uid": "Cg2aYZTlv",
+            "edit-time": 1686630729370,
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "TpA4naC1T"
+          }
+        ],
+        "uid": "xjHcsaExR",
+        ":block/refs": [
+          {
+            ":block/uid": "TpA4naC1T"
+          }
+        ],
+        "string": "[[Roam Depot Extensions]]",
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        "create-time": 1686630706615,
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        }
+      }
+    ],
+    "uid": "W8BQTGEBd",
+    "edit-time": 1686630688734,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "E44cBMOCS",
+    "create-time": 1686706867239,
+    "edit-time": 1686706867239,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -93559,14 +93655,14 @@
     }
   },
   {
-    "create-time": 1686620461863,
-    "title": "June 13th, 2023",
+    "create-time": 1686706867252,
+    "title": "June 14th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1686620461861,
-    "uid": "06-13-2023",
-    "edit-time": 1686620461863,
+    ":log/id": 1686706867250,
+    "uid": "06-14-2023",
+    "edit-time": 1686706867252,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
