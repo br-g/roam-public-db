@@ -42964,6 +42964,82 @@
         },
         "children": [
           {
+            "edit-time": 1687803461504,
+            "children": [
+              {
+                "string": "Changes to the block context menu",
+                "create-time": 1687803461489,
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    "string": "New button and key command for copying embed",
+                    "create-time": 1687803490766,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "Original button still works to copy the block ref",
+                        "uid": "Zi7gtx6fV",
+                        "create-time": 1687803517172,
+                        "edit-time": 1687803527060,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "K3necUj2I",
+                    "edit-time": 1687803513302,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FywRWXjCVNW.png?alt=media&token=630eaa4f-819e-433c-96ba-a0735c5cdb51)",
+                    "uid": "6pDoo6iHv",
+                    "create-time": 1687803479352,
+                    "edit-time": 1687803481286,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "uid": "92HBA-CIV",
+                "edit-time": 1687803479361,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "06-26-2023"
+              }
+            ],
+            "uid": "xc308x3Lj",
+            ":block/refs": [
+              {
+                ":block/uid": "06-26-2023"
+              }
+            ],
+            "string": "[[June 26th, 2023]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1687803458631,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
             "edit-time": 1687278799688,
             "children": [
               {
@@ -93821,9 +93897,22 @@
     }
   },
   {
-    "uid": "7dpB9GkWz",
-    "create-time": 1687743768395,
-    "edit-time": 1687743768395,
+    "create-time": 1687802710057,
+    "title": "June 26th, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1687802710056,
+    "uid": "06-26-2023",
+    "edit-time": 1687802710058,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "w4spGRSzE",
+    "create-time": 1687830148535,
+    "edit-time": 1687830148535,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -93833,14 +93922,14 @@
     }
   },
   {
-    "create-time": 1687743768404,
-    "title": "June 26th, 2023",
+    "create-time": 1687830148545,
+    "title": "June 27th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1687743768402,
-    "uid": "06-26-2023",
-    "edit-time": 1687743768404,
+    ":log/id": 1687830148544,
+    "uid": "06-27-2023",
+    "edit-time": 1687830148545,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
