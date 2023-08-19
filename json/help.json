@@ -42964,6 +42964,78 @@
         },
         "children": [
           {
+            "edit-time": 1692373001184,
+            "children": [
+              {
+                "edit-time": 1692373040250,
+                "children": [
+                  {
+                    "string": "If there are two or more of the same videos on screen, play the last used one",
+                    "uid": "SSGuu0sIW",
+                    "create-time": 1692373052454,
+                    "edit-time": 1692373080058,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "Scroll video into view if it's not visible",
+                    "uid": "4ckzYHNpi",
+                    "create-time": 1692373040848,
+                    "edit-time": 1692373052090,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "YhCkenNOy"
+                  }
+                ],
+                "uid": "fqrw5oZDb",
+                ":block/refs": [
+                  {
+                    ":block/uid": "YhCkenNOy"
+                  }
+                ],
+                "string": "Small fixes for [[Video Timestamps]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1692373001169,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "08-18-2023"
+              }
+            ],
+            "uid": "jxkEyxHZp",
+            ":block/refs": [
+              {
+                ":block/uid": "08-18-2023"
+              }
+            ],
+            "string": "[[August 18th, 2023]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1692372998520,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
             "edit-time": 1692101781969,
             "children": [
               {
@@ -44426,11 +44498,7 @@
                 "edit-time": 1690923752171,
                 "children": [
                   {
-                    "string": "Changes to `{{video}}` `{{video-timestamp}}`",
-                    "create-time": 1690923313843,
-                    ":create/user": {
-                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-                    },
+                    "edit-time": 1692373025546,
                     "children": [
                       {
                         "string": "Video timestamps now include a block reference to the video they belong to",
@@ -44495,8 +44563,22 @@
                         }
                       }
                     ],
+                    "refs": [
+                      {
+                        "uid": "YhCkenNOy"
+                      }
+                    ],
                     "uid": "yUgQ7k0sl",
-                    "edit-time": 1690923589003,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "YhCkenNOy"
+                      }
+                    ],
+                    "string": "Changes to `{{video}}` `{{video-timestamp}}` #[[Video Timestamps]]",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1690923313843,
                     ":edit/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     }
@@ -95762,9 +95844,22 @@
     }
   },
   {
-    "uid": "YnexdPTJC",
-    "create-time": 1692322256343,
-    "edit-time": 1692322256343,
+    "create-time": 1692368830887,
+    "title": "August 18th, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1692368830885,
+    "uid": "08-18-2023",
+    "edit-time": 1692368830887,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "Dr4RPX91d",
+    "create-time": 1692408554135,
+    "edit-time": 1692408554135,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -95774,14 +95869,14 @@
     }
   },
   {
-    "create-time": 1692322256354,
-    "title": "August 18th, 2023",
+    "create-time": 1692408554143,
+    "title": "August 19th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1692322256353,
-    "uid": "08-18-2023",
-    "edit-time": 1692322256355,
+    ":log/id": 1692408554142,
+    "uid": "08-19-2023",
+    "edit-time": 1692408554143,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
