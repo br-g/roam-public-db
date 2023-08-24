@@ -42964,6 +42964,68 @@
         },
         "children": [
           {
+            "edit-time": 1692807532251,
+            "children": [
+              {
+                "string": "Button to reload graph and disable all extensions",
+                "create-time": 1692807532238,
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "children": [
+                  {
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnOcedJDFG9.png?alt=media&token=1b2ce47e-b8e5-41a3-8236-a20426ea7a95)",
+                    "uid": "7iCyx9nJ4",
+                    "create-time": 1692807587741,
+                    "edit-time": 1692807610021,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "Useful if you are having an issue with Roam and think it might be one of your extensions",
+                    "uid": "1oI-Jpraz",
+                    "create-time": 1692807565692,
+                    "edit-time": 1692807587355,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "uid": "bgeHKd4JP",
+                "edit-time": 1692807561869,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "08-23-2023"
+              }
+            ],
+            "uid": "nfsZZ9ZAG",
+            ":block/refs": [
+              {
+                ":block/uid": "08-23-2023"
+              }
+            ],
+            "string": "[[August 23rd, 2023]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1692807529871,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
             "edit-time": 1692629906811,
             "children": [
               {
@@ -95938,9 +96000,22 @@
     }
   },
   {
-    "uid": "jtNuVwuIs",
-    "create-time": 1692754264734,
-    "edit-time": 1692754264734,
+    "create-time": 1692807524917,
+    "title": "August 23rd, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1692807524916,
+    "uid": "08-23-2023",
+    "edit-time": 1692807524917,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "k5TPCEPU0",
+    "create-time": 1692840665590,
+    "edit-time": 1692840665590,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -95950,14 +96025,14 @@
     }
   },
   {
-    "create-time": 1692754264742,
-    "title": "August 23rd, 2023",
+    "create-time": 1692840665601,
+    "title": "August 24th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1692754264741,
-    "uid": "08-23-2023",
-    "edit-time": 1692754264742,
+    ":log/id": 1692840665600,
+    "uid": "08-24-2023",
+    "edit-time": 1692840665601,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
