@@ -71447,7 +71447,7 @@
             }
           },
           {
-            "string": "edit-email",
+            "string": "edit-user",
             "create-time": 1576024541563,
             ":create/user": {
               ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
@@ -71459,16 +71459,16 @@
                     "uid": "xosNQ_B-p"
                   }
                 ],
-                "string": "description:: The email of the user who last edited the object. If not supplied, will be filled in by the create-email, or the user who uploaded the JSON.",
+                "string": "description:: The user who last edited the object. ",
                 "uid": "y1edQoo9V",
-                "edit-time": 1614783006310,
+                "edit-time": 1692868511345,
                 ":block/refs": [
                   {
                     ":block/uid": "xosNQ_B-p"
                   }
                 ],
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 }
               },
               {
@@ -71477,23 +71477,23 @@
                     "uid": "EO7c3laa8"
                   }
                 ],
-                "string": "type:: string",
+                "string": "type:: json object of the format `{\":user/uid\" \"ROAM-USER-UID\"}`",
                 "uid": "Z7yyPUjGr",
-                "edit-time": 1614783006310,
+                "edit-time": 1692868540226,
                 ":block/refs": [
                   {
                     ":block/uid": "EO7c3laa8"
                   }
                 ],
                 ":edit/user": {
-                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
                 }
               }
             ],
             "uid": "ZXjN4S0N3",
-            "edit-time": 1614783006310,
+            "edit-time": 1692868481502,
             ":edit/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
             }
           },
           {
@@ -95935,16 +95935,16 @@
     }
   },
   {
-    "create-time": 1692101402423,
+    "create-time": 1692090189924,
     "title": "August 15th, 2023",
     ":create/user": {
-      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     },
-    ":log/id": 1692101402422,
+    ":log/id": 1692090189923,
     "uid": "08-15-2023",
-    "edit-time": 1692101402423,
+    "edit-time": 1692090189924,
     ":edit/user": {
-      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
     }
   },
   {
@@ -96013,9 +96013,22 @@
     }
   },
   {
-    "uid": "k5TPCEPU0",
-    "create-time": 1692840665590,
-    "edit-time": 1692840665590,
+    "create-time": 1692868627869,
+    "title": "August 24th, 2023",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1692868627869,
+    "uid": "08-24-2023",
+    "edit-time": 1692868627869,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "QPOvoidaT",
+    "create-time": 1692927138675,
+    "edit-time": 1692927138675,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -96025,14 +96038,14 @@
     }
   },
   {
-    "create-time": 1692840665601,
-    "title": "August 24th, 2023",
+    "create-time": 1692927138705,
+    "title": "August 25th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1692840665600,
-    "uid": "08-24-2023",
-    "edit-time": 1692840665601,
+    ":log/id": 1692927138704,
+    "uid": "08-25-2023",
+    "edit-time": 1692927138705,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
