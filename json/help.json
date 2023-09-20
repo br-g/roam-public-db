@@ -96403,9 +96403,58 @@
     }
   },
   {
-    "uid": "UyHJ7ff39",
-    "create-time": 1695088763034,
-    "edit-time": 1695088763034,
+    "create-time": 1695149566678,
+    "title": "September 19th, 2023",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1695149566677,
+    "children": [
+      {
+        "string": "[[Change Log]]",
+        "create-time": 1695149726400,
+        ":block/refs": [
+          {
+            ":block/uid": "Ec97klr7x"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "Ec97klr7x"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        },
+        "uid": "QHjnTNBN3",
+        "edit-time": 1695149729590,
+        ":edit/user": {
+          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+        }
+      }
+    ],
+    "uid": "09-19-2023",
+    "edit-time": 1695149566678,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "dwCjiez9U",
+    "create-time": 1695149592219,
+    "edit-time": 1695149592219,
+    "title": "Anonymous",
+    ":create/user": {
+      ":user/uid": "1ouKfJ93E0gTUMlPr6uPvRymaAS2"
+    },
+    ":edit/user": {
+      ":user/uid": "1ouKfJ93E0gTUMlPr6uPvRymaAS2"
+    }
+  },
+  {
+    "uid": "6E4wpD-2y",
+    "create-time": 1695173578585,
+    "edit-time": 1695173578585,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -96415,14 +96464,14 @@
     }
   },
   {
-    "create-time": 1695088763041,
-    "title": "September 19th, 2023",
+    "create-time": 1695173578593,
+    "title": "September 20th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1695088763040,
-    "uid": "09-19-2023",
-    "edit-time": 1695088763041,
+    ":log/id": 1695173578592,
+    "uid": "09-20-2023",
+    "edit-time": 1695173578593,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
