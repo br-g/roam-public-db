@@ -96699,9 +96699,9 @@
     }
   },
   {
-    "uid": "NXYFlX4bt",
-    "create-time": 1697506467716,
-    "edit-time": 1697506467716,
+    "uid": "klZBRLkO6",
+    "create-time": 1697592856190,
+    "edit-time": 1697592856190,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -96711,14 +96711,14 @@
     }
   },
   {
-    "create-time": 1697506467726,
-    "title": "October 17th, 2023",
+    "create-time": 1697592856198,
+    "title": "October 18th, 2023",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1697506467725,
-    "uid": "10-17-2023",
-    "edit-time": 1697506467726,
+    ":log/id": 1697592856197,
+    "uid": "10-18-2023",
+    "edit-time": 1697592856198,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
