@@ -42964,6 +42964,268 @@
         },
         "children": [
           {
+            "edit-time": 1706176157572,
+            "children": [
+              {
+                "edit-time": 1706176173546,
+                "children": [
+                  {
+                    "string": "[Nautilus](https://github.com/tombarys/roam-depot-nautilus)",
+                    "create-time": 1706176167414,
+                    "heading": 1,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": "Nautilus is a Roam Research extension with a unique approach to stress-free day planning and time blocking in Roam",
+                        "uid": "XbKV4v2Gk",
+                        "create-time": 1706176167414,
+                        "edit-time": 1706176167414,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "This visual approach reduces the feeling of being overwhelmed, enhances task-effort estimating skills, and clearly shows what the feasible tasks are for the rest of the day. The spiral shape mirrors one's diminishing energy for creative tasks over a given day.",
+                        "uid": "oRoJyJlt8",
+                        "create-time": 1706176167414,
+                        "edit-time": 1706176167414,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Features",
+                        "create-time": 1706176167414,
+                        "heading": 2,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FW6-cphnZ2t.png?alt=media&token=f8b434e1-653b-455a-8971-4020ed0781b6)",
+                            "uid": "CU3qW82G2",
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176193294,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "0gXj9o--X",
+                        "edit-time": 1706176167414,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Usage",
+                        "create-time": 1706176167414,
+                        "heading": 2,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "only once: install **Nautilus** and **TODO Trigger** extension",
+                            "uid": "JCKBLLTu3",
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "insert the component at the top of your Daily Page using ;;Nautilus template",
+                            "uid": "29prZU_0S",
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "indent all events and tasks that you want to accomplish below the component as its children",
+                            "uid": "pBI_3sP_s",
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "start inserting tasks, then folow up with events",
+                            "uid": "WJz9ptJcX",
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "use e.g. \"12:30-14:20\" or \"9 to 10:45\" to anchor fixed time events",
+                            "uid": "eT2_oS4zx",
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "use e.g. \"10m\" or \"20min\" to set the task duration (other than default)",
+                            "uid": "vcVPTJj3L",
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "use e.g. \"d18:30\" or \"d9:05\" in tasks to denote the time when they were finished (or use extension for it)",
+                            "uid": "CFtuEV4xD",
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "during a day: reorder tasks and move some of them after fixed events to ensure they will not be planned earlier",
+                            "uid": "klePHvSwz",
+                            "create-time": 1706176167414,
+                            "edit-time": 1706176167414,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "DBVlpiaCn",
+                        "edit-time": 1706176167414,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "Quick Start Video",
+                        "create-time": 1706176167414,
+                        "heading": 2,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "{{[[video]]: https://www.loom.com/embed/c66b99a39a5a4f74b2889ccab467e9eb?sid=5809279e-7deb-44e2-a448-f9de33ba8510}}",
+                            "create-time": 1706176167414,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            "uid": "USO4qVD7K",
+                            "edit-time": 1706176167414,
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "O64JM9jCY",
+                        "edit-time": 1706176167414,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "mrE04bvr9",
+                    "edit-time": 1706176167414,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "TpA4naC1T"
+                  }
+                ],
+                "uid": "rDZg1l02C",
+                ":block/refs": [
+                  {
+                    ":block/uid": "TpA4naC1T"
+                  }
+                ],
+                "string": "[[Roam Depot Extensions]]",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1706176172912,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "01-25-2024"
+              }
+            ],
+            "uid": "NQOw7KInl",
+            ":block/refs": [
+              {
+                ":block/uid": "01-25-2024"
+              }
+            ],
+            "string": "[[January 25th, 2024]]",
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "create-time": 1706176151417,
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          },
+          {
             "edit-time": 1705900978143,
             "children": [
               {
@@ -97491,9 +97753,22 @@
     }
   },
   {
-    "uid": "DswwX2is8",
-    "create-time": 1706146665006,
-    "edit-time": 1706146665006,
+    "create-time": 1706176157573,
+    "title": "January 25th, 2024",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1706140800000,
+    "uid": "01-25-2024",
+    "edit-time": 1706176157574,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "Go6WkYsV3",
+    "create-time": 1706232836488,
+    "edit-time": 1706232836488,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -97503,14 +97778,14 @@
     }
   },
   {
-    "create-time": 1706146665014,
-    "title": "January 25th, 2024",
+    "create-time": 1706232836495,
+    "title": "January 26th, 2024",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1706146665013,
-    "uid": "01-25-2024",
-    "edit-time": 1706146665014,
+    ":log/id": 1706232836494,
+    "uid": "01-26-2024",
+    "edit-time": 1706232836495,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
