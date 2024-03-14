@@ -42964,7 +42964,53 @@
         },
         "children": [
           {
-            "edit-time": 1706329291747,
+            "edit-time": 1710298383043,
+            "children": [
+              {
+                "string": "Fix setting custom hotkeys on [[mobile]] web",
+                "create-time": 1710298383032,
+                ":block/refs": [
+                  {
+                    ":block/uid": "fTOY6E5lG"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "fTOY6E5lG"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "uid": "6mzISY-wm",
+                "edit-time": 1710298412923,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "03-12-2024"
+              }
+            ],
+            "uid": "kzUgoJBR2",
+            ":block/refs": [
+              {
+                ":block/uid": "03-12-2024"
+              }
+            ],
+            "string": "[[March 12th, 2024]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1710298380925,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
+            "edit-time": 1710298411517,
             "children": [
               {
                 "edit-time": 1706329297635,
@@ -43312,7 +43358,7 @@
             },
             "create-time": 1706329288853,
             ":edit/user": {
-              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
             }
           },
           {
@@ -98144,9 +98190,22 @@
     }
   },
   {
-    "uid": "zOdr1Fxd4",
-    "create-time": 1710293654682,
-    "edit-time": 1710293654682,
+    "create-time": 1710298370731,
+    "title": "March 12th, 2024",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1710298370730,
+    "uid": "03-12-2024",
+    "edit-time": 1710298370731,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "WaiYE9r3l",
+    "create-time": 1710379953989,
+    "edit-time": 1710379953989,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -98156,14 +98215,14 @@
     }
   },
   {
-    "create-time": 1710293654689,
-    "title": "March 13th, 2024",
+    "create-time": 1710379953995,
+    "title": "March 14th, 2024",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1710293654689,
-    "uid": "03-13-2024",
-    "edit-time": 1710293654689,
+    ":log/id": 1710379953994,
+    "uid": "03-14-2024",
+    "edit-time": 1710379953995,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
