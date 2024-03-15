@@ -42964,6 +42964,109 @@
         },
         "children": [
           {
+            "edit-time": 1710382313108,
+            "children": [
+              {
+                "edit-time": 1710382342386,
+                "children": [
+                  {
+                    "edit-time": 1710382447432,
+                    "children": [
+                      {
+                        "string": "Tap on \"daily notes\" to bring up a calendar to navigate to future or past days",
+                        "uid": "OBP42qPeg",
+                        "create-time": 1710382313094,
+                        "edit-time": 1710382484678,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "Hold the back button to bring up your history, or to navigate to daily notes or open your shortcuts",
+                        "uid": "crvr7jNHu",
+                        "create-time": 1710382484672,
+                        "edit-time": 1710382516599,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "FeXr1kL0k"
+                      }
+                    ],
+                    "uid": "CAqBFd1Oh",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "FeXr1kL0k"
+                      }
+                    ],
+                    "string": "Added the ability to edit the [new mobile beta for believers](((FeXr1kL0k)))",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1710382366696,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  },
+                  {
+                    "uid": "fTOY6E5lG"
+                  }
+                ],
+                "uid": "Cwunb1-HI",
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  },
+                  {
+                    ":block/uid": "fTOY6E5lG"
+                  }
+                ],
+                "string": "[[New Features]] 🚀 #[[mobile]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1710382341339,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "heading": 2
+              }
+            ],
+            "refs": [
+              {
+                "uid": "03-13-2024"
+              }
+            ],
+            "uid": "5YKdcnp9q",
+            ":block/refs": [
+              {
+                ":block/uid": "03-13-2024"
+              }
+            ],
+            "string": "[[March 13th, 2024]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1710382309963,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
             "edit-time": 1710298383043,
             "children": [
               {
@@ -98203,9 +98306,22 @@
     }
   },
   {
-    "uid": "WaiYE9r3l",
-    "create-time": 1710379953989,
-    "edit-time": 1710379953989,
+    "create-time": 1710382300421,
+    "title": "March 13th, 2024",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1710382300420,
+    "uid": "03-13-2024",
+    "edit-time": 1710382300421,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "Si8q2s8U4",
+    "create-time": 1710466393155,
+    "edit-time": 1710466393156,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -98215,14 +98331,14 @@
     }
   },
   {
-    "create-time": 1710379953995,
-    "title": "March 14th, 2024",
+    "create-time": 1710466393162,
+    "title": "March 15th, 2024",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1710379953994,
-    "uid": "03-14-2024",
-    "edit-time": 1710379953995,
+    ":log/id": 1710466393161,
+    "uid": "03-15-2024",
+    "edit-time": 1710466393162,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
