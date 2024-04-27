@@ -42964,6 +42964,257 @@
         },
         "children": [
           {
+            "edit-time": 1714141058316,
+            "children": [
+              {
+                "edit-time": 1714146952693,
+                "children": [
+                  {
+                    "edit-time": 1714146930630,
+                    "children": [
+                      {
+                        "string": "Quickly find and open content across all of your graphs!",
+                        "uid": "5X5JEQNfV",
+                        "create-time": 1714147036834,
+                        "edit-time": 1714147500379,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "Trigger with `cmd-shift-u` on mac or `ctrl-shift-u` on windows",
+                        "uid": "Q_5bVO1PP",
+                        "create-time": 1714147529352,
+                        "edit-time": 1714147621779,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "edit-time": 1714147557695,
+                        "children": [
+                          {
+                            "string": "{{[[video]]: https://www.loom.com/share/b99af123b0b84d118594a04fce159e47}}",
+                            "create-time": 1714146922500,
+                            ":block/refs": [
+                              {
+                                ":block/uid": "2h9V-FtAO"
+                              }
+                            ],
+                            "refs": [
+                              {
+                                "uid": "2h9V-FtAO"
+                              }
+                            ],
+                            ":create/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            },
+                            "uid": "wIsstnsnB",
+                            "edit-time": 1714146955610,
+                            ":edit/user": {
+                              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                            }
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "HBMS1wdeb"
+                          }
+                        ],
+                        "uid": "f7UWHd_Ul",
+                        ":block/refs": [
+                          {
+                            ":block/uid": "HBMS1wdeb"
+                          }
+                        ],
+                        "string": "Demo::",
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "create-time": 1714147552515,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "UR0YllYKu"
+                      }
+                    ],
+                    "uid": "cKtCAu8uS",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "UR0YllYKu"
+                      }
+                    ],
+                    "string": "[[Cross Graph Search]]",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1714146924679,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "h_pvMVa7e"
+                  }
+                ],
+                "uid": "BWGSvKtEs",
+                ":block/refs": [
+                  {
+                    ":block/uid": "h_pvMVa7e"
+                  }
+                ],
+                "string": "[[New Features]] 🚀",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1714146918390,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "heading": 2
+              },
+              {
+                "edit-time": 1714141068607,
+                "children": [
+                  {
+                    "string": "Image improvements",
+                    "create-time": 1714141070017,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "children": [
+                      {
+                        "string": "Tap on an image to bring it up in fullscreen",
+                        "uid": "T4Kk_xFF8",
+                        "create-time": 1714141080404,
+                        "edit-time": 1714141080404,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "Pinch to zoom in",
+                        "uid": "nWr1h3y6y",
+                        "create-time": 1714141083517,
+                        "edit-time": 1714141083517,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "Share or download the image",
+                        "uid": "FvOaHpiSC",
+                        "create-time": 1714141070017,
+                        "edit-time": 1714141083519,
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "uid": "RifEdVVpc",
+                    "edit-time": 1714141070017,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "Fix -- [[iOS]] smart dash deleting a block (disabled smart dashes)",
+                    "create-time": 1714141070017,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "N3Uq-2dil"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "N3Uq-2dil"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "uid": "haMlPbXvC",
+                    "edit-time": 1714141113302,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  },
+                  {
+                    "string": "Added an edit block button to the toolbar so you can edit images or other components when there is no space to click into the block",
+                    "uid": "O47jXl77C",
+                    "create-time": 1714141070017,
+                    "edit-time": 1714141070017,
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "PwoE6qnIL"
+                  }
+                ],
+                "uid": "JS1G9k2KZ",
+                ":block/refs": [
+                  {
+                    ":block/uid": "PwoE6qnIL"
+                  }
+                ],
+                "string": "[[Mobile Beta]] 1.0.86",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1714141058304,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "04-26-2024"
+              }
+            ],
+            "uid": "aF5Q7kYkq",
+            ":block/refs": [
+              {
+                ":block/uid": "04-26-2024"
+              }
+            ],
+            "string": "[[April 26th, 2024]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1714141055555,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
             "edit-time": 1713793717779,
             "children": [
               {
@@ -99391,9 +99642,46 @@
     }
   },
   {
-    "uid": "6ZfVd7uHz",
-    "create-time": 1714095296389,
-    "edit-time": 1714095296389,
+    "create-time": 1714141031165,
+    "title": "April 26th, 2024",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1714141031163,
+    "uid": "04-26-2024",
+    "edit-time": 1714141031165,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "UR0YllYKu",
+    "create-time": 1714146930632,
+    "edit-time": 1714146930633,
+    "title": "Cross Graph Search",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "HBMS1wdeb",
+    "create-time": 1714147557697,
+    "edit-time": 1714147557698,
+    "title": "Demo",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "ednkJjhRw",
+    "create-time": 1714181668535,
+    "edit-time": 1714181668535,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -99403,14 +99691,14 @@
     }
   },
   {
-    "create-time": 1714095296396,
-    "title": "April 26th, 2024",
+    "create-time": 1714181668541,
+    "title": "April 27th, 2024",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1714095296395,
-    "uid": "04-26-2024",
-    "edit-time": 1714095296396,
+    ":log/id": 1714181668541,
+    "uid": "04-27-2024",
+    "edit-time": 1714181668541,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
