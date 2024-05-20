@@ -42964,6 +42964,128 @@
         },
         "children": [
           {
+            "edit-time": 1715962958988,
+            "children": [
+              {
+                "edit-time": 1715964181285,
+                "children": [
+                  {
+                    "edit-time": 1715965361419,
+                    "children": [
+                      {
+                        "string": "[Previously](((XJhLRZsAE))) it would only search through the path or the linked block",
+                        "create-time": 1715965132078,
+                        ":block/refs": [
+                          {
+                            ":block/uid": "XJhLRZsAE"
+                          }
+                        ],
+                        "refs": [
+                          {
+                            "uid": "XJhLRZsAE"
+                          }
+                        ],
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "uid": "xqJDBBySC",
+                        "edit-time": 1715965212941,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      },
+                      {
+                        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnnEuwBBgSN.gif?alt=media&token=9acfa0d6-83e2-4235-998f-9c6d57e5e659)",
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnnEuwBBgSN.gif?alt=media&token=9acfa0d6-83e2-4235-998f-9c6d57e5e659": {
+                              "width": 580,
+                              "height": null
+                            }
+                          }
+                        },
+                        "create-time": 1715962959057,
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FnnEuwBBgSN.gif?alt=media&token=9acfa0d6-83e2-4235-998f-9c6d57e5e659": {
+                              ":width": 580,
+                              ":height": null
+                            }
+                          }
+                        },
+                        ":create/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        },
+                        "uid": "xNoHGaBQP",
+                        "edit-time": 1715964166937,
+                        ":edit/user": {
+                          ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                        }
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "D8ld3cXC3"
+                      }
+                    ],
+                    "uid": "LL0-v-RwL",
+                    ":block/refs": [
+                      {
+                        ":block/uid": "D8ld3cXC3"
+                      }
+                    ],
+                    "string": "[[Linked References]] now searches through the children of references and opens the tree up down to the match",
+                    ":create/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    },
+                    "create-time": 1715964626256,
+                    ":edit/user": {
+                      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "_EqbjQSAF"
+                  }
+                ],
+                "uid": "qoKsRo7Lu",
+                ":block/refs": [
+                  {
+                    ":block/uid": "_EqbjQSAF"
+                  }
+                ],
+                "string": "[[Quality of Life Improvements]]",
+                ":create/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                },
+                "create-time": 1715964176864,
+                ":edit/user": {
+                  ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "05-17-2024"
+              }
+            ],
+            "uid": "TcQvwbRaT",
+            ":block/refs": [
+              {
+                ":block/uid": "05-17-2024"
+              }
+            ],
+            "string": "[[May 17th, 2024]]",
+            ":create/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            },
+            "create-time": 1715962956973,
+            ":edit/user": {
+              ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+            }
+          },
+          {
             "edit-time": 1714710956100,
             "children": [
               {
@@ -47915,7 +48037,7 @@
                 "edit-time": 1686596713036,
                 "children": [
                   {
-                    "edit-time": 1686597528174,
+                    "edit-time": 1715965198762,
                     "children": [
                       {
                         "string": "Linked references now load lazily, which means it should open __much__ faster than before.",
@@ -47970,22 +48092,22 @@
                     ],
                     "refs": [
                       {
-                        "uid": "Lgp0csam2"
+                        "uid": "D8ld3cXC3"
                       },
                       {
-                        "uid": "H0gWSfyQm"
+                        "uid": "Lgp0csam2"
                       }
                     ],
                     "uid": "XJhLRZsAE",
                     ":block/refs": [
                       {
-                        ":block/uid": "Lgp0csam2"
+                        ":block/uid": "D8ld3cXC3"
                       },
                       {
-                        ":block/uid": "H0gWSfyQm"
+                        ":block/uid": "Lgp0csam2"
                       }
                     ],
-                    "string": "[[Performance Improvements]] and new search feature for [[linked references]]",
+                    "string": "[[Performance Improvements]] and new search feature for [[Linked References]]",
                     ":create/user": {
                       ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
                     },
@@ -98529,18 +98651,6 @@
     }
   },
   {
-    "uid": "H0gWSfyQm",
-    "create-time": 1686597528188,
-    "edit-time": 1686597528188,
-    "title": "linked references",
-    ":create/user": {
-      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-    },
-    ":edit/user": {
-      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
-    }
-  },
-  {
     "create-time": 1686630688734,
     "title": "Alexander Rink",
     ":create/user": {
@@ -99882,9 +99992,35 @@
     }
   },
   {
-    "uid": "O1HSaP8hR",
-    "create-time": 1715909812920,
-    "edit-time": 1715909812920,
+    "create-time": 1715962940442,
+    "title": "May 17th, 2024",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1715962940441,
+    "uid": "05-17-2024",
+    "edit-time": 1715962940442,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "create-time": 1716083113619,
+    "title": "May 18th, 2024",
+    ":create/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    },
+    ":log/id": 1716083113618,
+    "uid": "05-18-2024",
+    "edit-time": 1716083113620,
+    ":edit/user": {
+      ":user/uid": "dkrWimjDPURurZhoRjXsD9Wwebg1"
+    }
+  },
+  {
+    "uid": "W_Y6BP839",
+    "create-time": 1716169050129,
+    "edit-time": 1716169050129,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -99894,14 +100030,14 @@
     }
   },
   {
-    "create-time": 1715909812928,
-    "title": "May 17th, 2024",
+    "create-time": 1716169050136,
+    "title": "May 20th, 2024",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1715909812927,
-    "uid": "05-17-2024",
-    "edit-time": 1715909812928,
+    ":log/id": 1716169050135,
+    "uid": "05-20-2024",
+    "edit-time": 1716169050136,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
