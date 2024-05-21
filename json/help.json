@@ -10468,7 +10468,7 @@
     },
     "children": [
       {
-        "string": "Diagrams lets you represent content in a more visual manner (such as creating mindmaps and flow charts), there are a few diagrams you can create with Roam",
+        "string": "Diagrams let you represent content in a more visual manner (such as creating mindmaps and flow charts), there are a few diagrams you can create with Roam",
         "create-time": 1614781711124,
         ":create/user": {
           ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
@@ -10482,7 +10482,7 @@
             },
             "children": [
               {
-                "edit-time": 1614880747024,
+                "edit-time": 1716229851464,
                 "children": [
                   {
                     "string": "Hello",
@@ -10563,7 +10563,7 @@
                 },
                 "create-time": 1614880744735,
                 ":edit/user": {
-                  ":user/uid": "eyxGl1TJWCTcRVSJVJDyoLzWVqk2"
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
                 },
                 "props": {
                   "diagram": {
@@ -10624,66 +10624,1892 @@
           }
         ],
         "uid": "XjN0v6fUL",
-        "edit-time": 1615285699023,
+        "edit-time": 1716229943405,
         ":edit/user": {
-          ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+          ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
         }
       },
       {
-        "edit-time": 1614792907702,
+        "edit-time": 1716230041805,
         "children": [
           {
-            "edit-time": 1615273490544,
+            "edit-time": 1716231782766,
             "children": [
               {
-                "string": "{{[[video]]: https://www.youtube.com/watch?v=RD_Gi8EQGVQ}}\n#[[Diagram]]",
-                "create-time": 1615273490613,
-                ":block/refs": [
-                  {
-                    ":block/uid": "Y61WIJQKq"
+                "string": "**Introspect.** If you don’t\nknow what you want, your\nwants will be decided for\nyou, by people and forces\nwho don’t have your best\ninterests at heart.",
+                "uid": "waMd87gMI",
+                "create-time": 1716231782785,
+                "edit-time": 1716231782785,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Beware assholes.** Learn to\nidentify assholes, and to lead\npeople in coordinating\neffectively to diminish the\ncosts of their actions.",
+                "uid": "rmwVCMDTs",
+                "create-time": 1716231782788,
+                "edit-time": 1716231782788,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Develop your taste.** Taste is the most\nprecious and important thing in the world.\nPeople with great taste create a\ndisproportionate amount of value in the\nworld, but the world we live in\ndisincentivizes the development of taste.",
+                "uid": "7lUZwHn0e",
+                "create-time": 1716231782791,
+                "edit-time": 1716231782791,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Do not dehumanize\npeople**. People are\npeople. Do not demonize\nor pedestalize them.",
+                "uid": "SqbNJfvZG",
+                "create-time": 1716231782793,
+                "edit-time": 1716231782793,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Be honest\nabout what\nyou don’t\nknow.**",
+                "uid": "pyAsTLfu_",
+                "create-time": 1716231782796,
+                "edit-time": 1716231782796,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Be kind.**",
+                "uid": "eR7_PvFPs",
+                "create-time": 1716231782798,
+                "edit-time": 1716231782798,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Own your shit and fix\nit.** You will never be\nperfect, but you can\nalways be better than\nyou were yesterday.",
+                "uid": "z-pZMYi6S",
+                "create-time": 1716231782800,
+                "edit-time": 1716231782800,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Aggressively seek\nout agreements,\nparticularly with\noutgroup.",
+                "uid": "OzIDQZ03b",
+                "create-time": 1716231782803,
+                "edit-time": 1716231782803,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "everything is connected",
+                "uid": "xXcEsP_Bx",
+                "create-time": 1716231782805,
+                "edit-time": 1716231782805,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Be more sensitive.** In\nevery sense. It helps\nwith everything.",
+                "uid": "sVBYm0c9H",
+                "create-time": 1716231782807,
+                "edit-time": 1716231782807,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "If you don’t decide,\nyou’re letting\nsomebody else\ndecide.",
+                "uid": "f98acwuI0",
+                "create-time": 1716231782809,
+                "edit-time": 1716231782809,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Real progress\nhappens at the\nbottlenecks.",
+                "uid": "45_PD2SR_",
+                "create-time": 1716231782811,
+                "edit-time": 1716231782811,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "The public is insufficiently\neducated on how to be a good\npublic.",
+                "uid": "4sVitSe1w",
+                "create-time": 1716231782813,
+                "edit-time": 1716231782813,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Confront your fears headon.** Most fears are outdated,\nobsolete, and can be\ndismantled with a little work",
+                "uid": "4v55bB-Kb",
+                "create-time": 1716231782815,
+                "edit-time": 1716231782815,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Find out how you are\nfucked up.** “They fuck you\nup your mom and dad, they\ndon’t mean to but they do…”\nYou inherited all sorts of\nbullshit that you don’t even\nknow.",
+                "uid": "kob4JoGx6",
+                "create-time": 1716231782817,
+                "edit-time": 1716231782817,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Appreciate\nincentives.**",
+                "uid": "H1QNh7i2s",
+                "create-time": 1716231782819,
+                "edit-time": 1716231782819,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Recognize that\nyour mental\nmodels are\nflawed.** Everybody\ninherits a flawed,\nimperfect system.",
+                "uid": "ou-VX-Wlj",
+                "create-time": 1716231782822,
+                "edit-time": 1716231782822,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "everything is a remix,\nso don’t worry about\nbeing “original”",
+                "uid": "YB-0hsI6i",
+                "create-time": 1716231782824,
+                "edit-time": 1716231782824,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Everything is vague to a\ndegree you do not\nrealize until you attempt\nto make it precise.",
+                "uid": "K9i-TswFs",
+                "create-time": 1716231782826,
+                "edit-time": 1716231782826,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Have stuff to look\nforward to.** You can’t\nengineer happiness,\nbut you sure can\nengineer excitement.",
+                "uid": "6lYN_-P-U",
+                "create-time": 1716231782828,
+                "edit-time": 1716231782828,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Learn project\nmanagement.**\nEverything is a\nproject.",
+                "uid": "120oZ7yrc",
+                "create-time": 1716231782830,
+                "edit-time": 1716231782830,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**The main thing\nholding you back\nis the way that\nyou’re thinking.**",
+                "uid": "5GeUEQlSR",
+                "create-time": 1716231782832,
+                "edit-time": 1716231782832,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Have fun. **You were born\ncrying. You should die\nlaughing.",
+                "uid": "-KtTGxQIL",
+                "create-time": 1716231782834,
+                "edit-time": 1716231782834,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Take notes.** Keeping a journal of your\nown thoughts, ideas and beliefs over\ntime will teach you things about yourself\nyou cannot learn any other way.",
+                "uid": "wwrZF4PLq",
+                "create-time": 1716231782837,
+                "edit-time": 1716231782837,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**It’s not about you.**",
+                "uid": "supGw3Wdy",
+                "create-time": 1716231782839,
+                "edit-time": 1716231782839,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Prioritize.**\nThere’s an\ninfinite set of\nthings to do.\nWhat’s the\nmost important\nthing? Do that.",
+                "uid": "fpGjWd_2S",
+                "create-time": 1716231782840,
+                "edit-time": 1716231782840,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Do not be afraid of\nbeing sad or wrong.**",
+                "uid": "9HhySfsOF",
+                "create-time": 1716231782842,
+                "edit-time": 1716231782842,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "the point of strength\nis to nourish others.",
+                "uid": "_e9FkOl_G",
+                "create-time": 1716231782844,
+                "edit-time": 1716231782844,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Strategize**. You have\nlimited time and limited\nresources.",
+                "uid": "58W6O9ASi",
+                "create-time": 1716231782847,
+                "edit-time": 1716231782847,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Continue.** Life will kick\nyour ass. Dont’ give up,\ndon’t give in. Get up and\ntry again.",
+                "uid": "uE551_boC",
+                "create-time": 1716231782849,
+                "edit-time": 1716231782849,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Be so prolific you don’t\nrecognize yourself.** This is\nthe most effective way to\ndevelop your ability to gratify\nyour own taste.",
+                "uid": "mkXBI48yR",
+                "create-time": 1716231782851,
+                "edit-time": 1716231782851,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Be Economically Useful.**\nThe world is not kind to\nthose who cannot create\nvalue in the marketplace.",
+                "uid": "zexRoGbI8",
+                "create-time": 1716231782853,
+                "edit-time": 1716231782853,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Seek to learn &\nunderstand\neverything.** It can\nnever be done, but\nit’s always worth\ntrying.",
+                "uid": "gefNOFist",
+                "create-time": 1716231782855,
+                "edit-time": 1716231782855,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Make Friends.** It is\ndangerous to go alone.\nYou heal yourself by\nhelping others. Be kind\nand serve others. We can\ndo more together than we\ncan do alone.",
+                "uid": "YfNWjFpG9",
+                "create-time": 1716231782860,
+                "edit-time": 1716231782860,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**One must imagine Sisyphus\nLOL-ing.** Existence is absurd, and\nlaughter is the only reasonable\nresponse to an absurd universe.",
+                "uid": "fmOAbIohz",
+                "create-time": 1716231782864,
+                "edit-time": 1716231782864,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Articulate your\nassumptions and\nquestion them.** If you\nidentify a bad one, you\ncan get rid of it and have\na marginally better life,\ninstantly",
+                "uid": "qvgBDsrxN",
+                "create-time": 1716231782867,
+                "edit-time": 1716231782867,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "the tool should\nfit the user",
+                "uid": "kgILJQ5_q",
+                "create-time": 1716231782870,
+                "edit-time": 1716231782870,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Narcissists ruin\nself-love for the\nrest of us.",
+                "uid": "7CtWHvMoD",
+                "create-time": 1716231782873,
+                "edit-time": 1716231782873,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Fiddle with it.**\nMess around.\nIt’s the most\nnatural way of\nlearning\nthings.",
+                "uid": "0GC6lPpzu",
+                "create-time": 1716231782880,
+                "edit-time": 1716231782880,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "all advice is context dependent to a\ndegree most do not realize until\nthey encounter a different context",
+                "uid": "lV_BHppiB",
+                "create-time": 1716231782882,
+                "edit-time": 1716231782882,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**We all want to be loved.**",
+                "uid": "YPcyUzxy-",
+                "create-time": 1716231782884,
+                "edit-time": 1716231782884,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Indulge your curiosity.**\nFollowing your nose will lead\nyou to interesting places, and\nin the process you will become\nan interesting person.",
+                "uid": "e2ks9XN05",
+                "create-time": 1716231782886,
+                "edit-time": 1716231782886,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "safe spaces are for\nnurturing, not coddling.",
+                "uid": "yPCDp2ShR",
+                "create-time": 1716231782889,
+                "edit-time": 1716231782889,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Ask clarifying questions.**",
+                "uid": "89nIudhFX",
+                "create-time": 1716231782891,
+                "edit-time": 1716231782891,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              }
+            ],
+            "uid": "W2TFg6OpO",
+            "string": "{{diagram:@visakan's Memex}}",
+            ":block/props": {
+              ":rf-diagram": {
+                ":overridden-data-defaults": {
+                  ":edge": {
+                    ":edge-stroke-color": "rgb(0,0,0)"
                   },
+                  ":block": {
+                    ":block-border-color": "#3DCC91"
+                  }
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "create-time": 1716231625930,
+            ":edit/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "props": {
+              "rf-diagram": {
+                "overridden-data-defaults": {
+                  "edge": {
+                    "edge-stroke-color": "rgb(0,0,0)"
+                  },
+                  "block": {
+                    "block-border-color": "#3DCC91"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "edit-time": 1716231995608,
+            "children": [
+              {
+                "string": "Fate and Prophecy",
+                "uid": "0i-VdoJHX",
+                "create-time": 1716231986958,
+                "edit-time": 1716231986958,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Survival",
+                "uid": "WllZCBgpT",
+                "create-time": 1716231986962,
+                "edit-time": 1716231986962,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Secondary Plots",
+                "uid": "hxT9OvsVx",
+                "create-time": 1716231986965,
+                "edit-time": 1716231986965,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Kaitain",
+                "uid": "Qg7he4l0e",
+                "create-time": 1716231986968,
+                "edit-time": 1716231986968,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Planets",
+                "uid": "6ZfvF7yHt",
+                "create-time": 1716231986970,
+                "edit-time": 1716231986970,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Lady Jessica",
+                "uid": "Vjorkxl1n",
+                "create-time": 1716231986973,
+                "edit-time": 1716231986973,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Betrayal of House Atreides",
+                "uid": "nO0H5P8wq",
+                "create-time": 1716231986975,
+                "edit-time": 1716231986975,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Primary Plots",
+                "uid": "05Mj87Vfn",
+                "create-time": 1716231986978,
+                "edit-time": 1716231986978,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Baron Vladimir Harkonnen",
+                "uid": "_RxyrLg7u",
+                "create-time": 1716231986981,
+                "edit-time": 1716231986981,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Caladan",
+                "uid": "nvVvChCRa",
+                "create-time": 1716231986983,
+                "edit-time": 1716231986983,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Themes",
+                "uid": "yPbwp_XOU",
+                "create-time": 1716231986985,
+                "edit-time": 1716231986985,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "House Corrino",
+                "uid": "Qg2Run0c7",
+                "create-time": 1716231986987,
+                "edit-time": 1716231986987,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Duncan Idaho",
+                "uid": "n13_1m1iA",
+                "create-time": 1716231986990,
+                "edit-time": 1716231986990,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Atreides' Move to Arrakis",
+                "uid": "N5YgVdhBV",
+                "create-time": 1716231986992,
+                "edit-time": 1716231986992,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Characters",
+                "uid": "PDl0_Mb_y",
+                "create-time": 1716231986994,
+                "edit-time": 1716231986994,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "House Harkonnen",
+                "uid": "hFVCjeOWR",
+                "create-time": 1716231986996,
+                "edit-time": 1716231986996,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Stilgar",
+                "uid": "J0nSC3XaW",
+                "create-time": 1716231986998,
+                "edit-time": 1716231986998,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "The Spice Melange Trade",
+                "uid": "0NMc5p8jg",
+                "create-time": 1716231987001,
+                "edit-time": 1716231987001,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Paul's Fremen Integration",
+                "uid": "bfKo8KOom",
+                "create-time": 1716231987003,
+                "edit-time": 1716231987003,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Fremen Rebellion",
+                "uid": "239MRMsjG",
+                "create-time": 1716231987005,
+                "edit-time": 1716231987005,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Jessica's Bene Gesserit Agenda",
+                "uid": "vARbFXjWT",
+                "create-time": 1716231987007,
+                "edit-time": 1716231987007,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Houses",
+                "uid": "7xsiwHhue",
+                "create-time": 1716231987009,
+                "edit-time": 1716231987009,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Duke Leto Atreides",
+                "uid": "3Uf7x_rVM",
+                "create-time": 1716231987012,
+                "edit-time": 1716231987012,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Rise of Paul Atreides",
+                "uid": "0h8jVsvP5",
+                "create-time": 1716231987014,
+                "edit-time": 1716231987014,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Giedi Prime",
+                "uid": "nHIVP5uF8",
+                "create-time": 1716231987016,
+                "edit-time": 1716231987016,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "House Atreides",
+                "uid": "fKBGdd3yB",
+                "create-time": 1716231987018,
+                "edit-time": 1716231987018,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Religion and Mysticism",
+                "uid": "Q5YER7mIC",
+                "create-time": 1716231987020,
+                "edit-time": 1716231987020,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Plots",
+                "uid": "gHKGMmaV6",
+                "create-time": 1716231987022,
+                "edit-time": 1716231987022,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Gurney Halleck",
+                "uid": "pVmVHYNlM",
+                "create-time": 1716231987024,
+                "edit-time": 1716231987024,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Power and Politics",
+                "uid": "nTrnuG73E",
+                "create-time": 1716231987026,
+                "edit-time": 1716231987026,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Paul Atreides",
+                "uid": "kW0W12ktO",
+                "create-time": 1716231987028,
+                "edit-time": 1716231987028,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "House Vernius",
+                "uid": "7NjMLD7MA",
+                "create-time": 1716231987030,
+                "edit-time": 1716231987030,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Chani",
+                "uid": "CGRGbIDiT",
+                "create-time": 1716231987032,
+                "edit-time": 1716231987032,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Arrakis",
+                "uid": "ClJIUb_Ms",
+                "create-time": 1716231987034,
+                "edit-time": 1716231987034,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Ecology and Environment",
+                "uid": "EGFlM6fvU",
+                "create-time": 1716231987036,
+                "edit-time": 1716231987036,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              }
+            ],
+            "uid": "ClZME4Eaz",
+            "string": "{{diagram:Dune Mindmap: Paul Atreides}}",
+            ":block/props": {
+              ":rf-diagram": {}
+            },
+            ":create/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "create-time": 1716231980186,
+            ":edit/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "props": {
+              "rf-diagram": {}
+            }
+          },
+          {
+            "edit-time": 1716238159526,
+            "children": [
+              {
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2F2kWC_stVi3.jpg?alt=media&token=6f73cf37-983e-4a49-8804-331baa109167)",
+                "uid": "GfZ2nXaav",
+                "create-time": 1716231077666,
+                "edit-time": 1716231077666,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Scorpion Pose",
+                "uid": "_f8sdUA6Y",
+                "create-time": 1716231077673,
+                "edit-time": 1716231077673,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FDXBH9ePVjN.jpeg?alt=media&token=c36faa4f-09bd-4506-8c31-f602d1bb4d4b)",
+                "uid": "lgpR1s0pf",
+                "create-time": 1716231077675,
+                "edit-time": 1716231077675,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "No Hands Middle Split",
+                "uid": "mS75kdpaL",
+                "create-time": 1716231077678,
+                "edit-time": 1716231077678,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Full-release single twist",
+                "uid": "za9uyZ6OZ",
+                "create-time": 1716231077681,
+                "edit-time": 1716231077681,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Russian Climb",
+                "uid": "Eu1zBXLui",
+                "create-time": 1716231077683,
+                "edit-time": 1716231077683,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Triple Twist Open Drop",
+                "uid": "MBdAutg5U",
+                "create-time": 1716231077690,
+                "edit-time": 1716231077690,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Vibe:**\n{{[[video]]: https://www.youtube.com/watch?v=_ZtHxP4EMV0}}",
+                "create-time": 1716231077695,
+                ":block/refs": [
                   {
                     ":block/uid": "2h9V-FtAO"
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "Y61WIJQKq"
-                  },
-                  {
                     "uid": "2h9V-FtAO"
                   }
                 ],
                 ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
                 },
-                "uid": "LyN87GiMy",
-                "edit-time": 1615273503343,
+                "uid": "TREfKwWP_",
+                "edit-time": 1716231077695,
                 ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Croissant Climb",
+                "uid": "EKjwVX03h",
+                "create-time": 1716231077706,
+                "edit-time": 1716231077706,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FhzWOXy0k14.jpeg?alt=media&token=f3e95937-f339-474f-84a5-f0a040e9fe8f)",
+                "uid": "_REmZk1bk",
+                "create-time": 1716231077710,
+                "edit-time": 1716231077710,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Double-Sided Knee Climb",
+                "uid": "QjKNVJi9N",
+                "create-time": 1716231077714,
+                "edit-time": 1716231077714,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Funky Climbs",
+                "uid": "4bDt127Bj",
+                "create-time": 1716231077721,
+                "edit-time": 1716231077721,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Flexible Poses",
+                "uid": "txqf4WnbM",
+                "create-time": 1716231077723,
+                "edit-time": 1716231077723,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "S-Wrap Bridge Pose",
+                "uid": "vgC1x1R1O",
+                "create-time": 1716231077729,
+                "edit-time": 1716231077729,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Helicopter",
+                "uid": "dyVl7Lhr9",
+                "create-time": 1716231077731,
+                "edit-time": 1716231077731,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Full-release Front Salto",
+                "uid": "PODJdZEIV",
+                "create-time": 1716231077733,
+                "edit-time": 1716231077733,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froam-maya%2FXvnX0lRJYZ.jpeg?alt=media&token=be0f3cba-2c20-40da-a7cc-e147aca2ffe8)",
+                "uid": "BkvoZR1i2",
+                "create-time": 1716231077735,
+                "edit-time": 1716231077735,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Possible Aerial Silk Colors",
+                "uid": "AlpsKDn31",
+                "create-time": 1716231213845,
+                "edit-time": 1716231215244,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Costumes",
+                "uid": "UMp0QXtI7",
+                "create-time": 1716231246586,
+                "edit-time": 1716231253022,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Dynamic Elements",
+                "uid": "SzMV3U8gj",
+                "create-time": 1716231276132,
+                "edit-time": 1716231277295,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Sequence on the Silks",
+                "uid": "mQ98P1_0x",
+                "create-time": 1716231288565,
+                "edit-time": 1716231289201,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Makeup",
+                "uid": "mJ1g4ubm6",
+                "create-time": 1716238137159,
+                "edit-time": 1716238139143,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Thinner, bold lips",
+                "uid": "yNJZ6u7M6",
+                "create-time": 1716238139614,
+                "edit-time": 1716238147080,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Pigmented cheekbones",
+                "uid": "lQ5vk7Oyv",
+                "create-time": 1716238147928,
+                "edit-time": 1716238153607,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Bright eyeshadow: orange, red, blue",
+                "uid": "EM9YgKshK",
+                "create-time": 1716238159529,
+                "edit-time": 1716238172666,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "**Music Choice:**\n{{spotify: https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N?si=2ecb0b31c20d41f3}}",
+                "uid": "2Yj58FSrA",
+                "create-time": 1716238206674,
+                "edit-time": 1716238225876,
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
                 }
               }
             ],
-            "refs": [
-              {
-                "uid": "CV_O2qTlP"
+            "uid": "SWtnQQQ24",
+            "string": "{{diagram: David Bowie: Aerial Silk Act - Moodboard}}",
+            ":block/props": {
+              ":rf-diagram": {
+                ":overridden-data-defaults": {
+                  ":edge": {
+                    ":edge-stroke-color": "#F2B824"
+                  },
+                  ":block": {
+                    ":block-border-color": "#48AFF0"
+                  }
+                }
               }
-            ],
-            "uid": "szoq4JciR",
-            ":block/refs": [
-              {
-                ":block/uid": "CV_O2qTlP"
-              }
-            ],
-            "string": "Diagrams in Roam Research by [[Conor White-Sullivan]]",
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
             },
-            "create-time": 1614781712655,
+            ":create/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "create-time": 1716230892754,
             ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "props": {
+              "rf-diagram": {
+                "overridden-data-defaults": {
+                  "edge": {
+                    "edge-stroke-color": "#F2B824"
+                  },
+                  "block": {
+                    "block-border-color": "#48AFF0"
+                  }
+                }
+              }
             }
           },
+          {
+            "edit-time": 1716230653711,
+            "children": [
+              {
+                "string": "Cause Areas",
+                "uid": "7XL3mEMcJ",
+                "create-time": 1716065040994,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Nuclear Warfare",
+                "uid": "62aQjyPUj",
+                "create-time": 1716065052656,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Existential Risk",
+                "uid": "BJ7UXG5sY",
+                "create-time": 1716065067172,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Global Health",
+                "uid": "KgrQJnjqc",
+                "create-time": 1716065088869,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Vaccine Development",
+                "uid": "k3iSWJr8o",
+                "create-time": 1716065101167,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Malaria",
+                "uid": "DTPxY0WHt",
+                "create-time": 1716065105617,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "AI Existential Risk",
+                "uid": "SH_FC_EVk",
+                "create-time": 1716065118445,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Misalignment",
+                "uid": "yaSl04szh",
+                "create-time": 1716065127236,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Losing Control of AGI",
+                "uid": "HRHnmS_51",
+                "create-time": 1716065144076,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Animal Welfare",
+                "uid": "r2kdvkzda",
+                "create-time": 1716065159049,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Wildlife Welfare",
+                "uid": "kQSU6gUy4",
+                "create-time": 1716065181727,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Animal Abuse",
+                "uid": "sT2M50daT",
+                "create-time": 1716065192154,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Zoos",
+                "uid": "vejKLVFJ6",
+                "create-time": 1716065194888,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Factory Farming",
+                "uid": "yqVm1wmuF",
+                "create-time": 1716065205903,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Animal Testing",
+                "uid": "rrEaII0yx",
+                "create-time": 1716065212411,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Biosecurity",
+                "uid": "c7DVTE9yk",
+                "create-time": 1716065219835,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Bioweapons",
+                "uid": "G1H_RQXPR",
+                "create-time": 1716065225071,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Pandemics",
+                "uid": "oGBYqe4d3",
+                "create-time": 1716065227792,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Poverty",
+                "uid": "-G4e2Y7mf",
+                "create-time": 1716065241156,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Climate Change",
+                "uid": "aTOvS9r6a",
+                "create-time": 1716065248489,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Eliminating Conflict",
+                "uid": "9PmqE-e9l",
+                "create-time": 1716065261581,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "EA",
+                "uid": "LwWRzN1k7",
+                "create-time": 1716065275212,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Short Termism",
+                "uid": "8LoU3thxZ",
+                "create-time": 1716065284017,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Longtermism",
+                "uid": "e3Rxg17mj",
+                "create-time": 1716065290579,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "ITN Framework",
+                "uid": "jA-DWyy8q",
+                "create-time": 1716065315679,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Neglectedness",
+                "uid": "xwoWgzWYn",
+                "create-time": 1716065336865,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Impact",
+                "uid": "pgcVwpLhR",
+                "create-time": 1716065364616,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Cost effectiveness/\ntangible",
+                "uid": "iycrM6B9f",
+                "create-time": 1716065381661,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Policy",
+                "uid": "AaTGP7cKR",
+                "create-time": 1716065423385,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "EA Literature",
+                "uid": "Y3eN0S-j2",
+                "create-time": 1716065438779,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "LessWrong",
+                "uid": "j9hzZcZ6o",
+                "create-time": 1716065539865,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Do Good Better",
+                "uid": "REO0tA9yV",
+                "create-time": 1716065549193,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Twitter",
+                "uid": "iQJbntvs3",
+                "create-time": 1716065558790,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "The Precipice",
+                "uid": "wqCjB7Oah",
+                "create-time": 1716065567345,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Eliezer Yudkowsky",
+                "uid": "nqlKFIOpX",
+                "create-time": 1716065580547,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Eigenrobot",
+                "uid": "6dAgugUDr",
+                "create-time": 1716065591545,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Slate Star Codex",
+                "uid": "Y53x9i5rb",
+                "create-time": 1716065611230,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              },
+              {
+                "string": "Gwern",
+                "uid": "y9NJvPI-S",
+                "create-time": 1716065685488,
+                "edit-time": 1716230208416,
+                ":create/user": {
+                  ":user/uid": "mZmqBLokvTUG9Dq9HCVBc8xUwny1"
+                },
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                }
+              }
+            ],
+            "uid": "7xmYe-QTb",
+            "string": "{{diagram: EA Memespace}}",
+            ":block/props": {
+              ":rf-diagram": {
+                ":overridden-data-defaults": {
+                  ":edge": {
+                    ":edge-stroke-color": "#AD99FF"
+                  }
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "create-time": 1716230041797,
+            ":edit/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "props": {
+              "rf-diagram": {
+                "overridden-data-defaults": {
+                  "edge": {
+                    "edge-stroke-color": "#AD99FF"
+                  }
+                }
+              }
+            }
+          }
+        ],
+        "refs": [
+          {
+            "uid": "-77Q9kDnv"
+          }
+        ],
+        "uid": "9eL4OG8Mv",
+        ":block/refs": [
+          {
+            ":block/uid": "-77Q9kDnv"
+          }
+        ],
+        "string": "Examples::",
+        ":create/user": {
+          ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+        },
+        "create-time": 1716230036832,
+        ":edit/user": {
+          ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+        }
+      },
+      {
+        "edit-time": 1614792907702,
+        "children": [
           {
             "edit-time": 1615273613491,
             "children": [
@@ -10729,6 +12555,72 @@
             ":edit/user": {
               ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
             }
+          },
+          {
+            "string": "Archived⬇️ (old version of the diagram feature)",
+            "create-time": 1716252967341,
+            ":create/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
+            "children": [
+              {
+                "edit-time": 1615273490544,
+                "children": [
+                  {
+                    "string": "{{[[video]]: https://www.youtube.com/watch?v=RD_Gi8EQGVQ}}\n#[[Diagram]]",
+                    "create-time": 1615273490613,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Y61WIJQKq"
+                      },
+                      {
+                        ":block/uid": "2h9V-FtAO"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "Y61WIJQKq"
+                      },
+                      {
+                        "uid": "2h9V-FtAO"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    },
+                    "uid": "LyN87GiMy",
+                    "edit-time": 1615273503343,
+                    ":edit/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "CV_O2qTlP"
+                  }
+                ],
+                "uid": "szoq4JciR",
+                ":block/refs": [
+                  {
+                    ":block/uid": "CV_O2qTlP"
+                  }
+                ],
+                "string": "Diagrams in Roam Research by [[Conor White-Sullivan]]",
+                ":create/user": {
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
+                },
+                "create-time": 1614781712655,
+                ":edit/user": {
+                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                }
+              }
+            ],
+            "uid": "6J_qGuke5",
+            "edit-time": 1716253123222,
+            ":edit/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            }
           }
         ],
         "refs": [
@@ -10755,49 +12647,45 @@
         "edit-time": 1614781712655,
         "children": [
           {
-            "edit-time": 1615273543594,
+            "string": "Archived⬇️ (old version of the diagram feature)",
+            "create-time": 1716253140123,
+            ":create/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
             "children": [
               {
-                "string": "#Diagram",
-                "create-time": 1615273543574,
+                "string": "[How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [[Anne-Laure Le Cunff]] #Diagram",
+                "create-time": 1614781712655,
                 ":block/refs": [
                   {
                     ":block/uid": "Y61WIJQKq"
+                  },
+                  {
+                    ":block/uid": "sB0yQf6IR"
                   }
                 ],
                 "refs": [
                   {
                     "uid": "Y61WIJQKq"
+                  },
+                  {
+                    "uid": "sB0yQf6IR"
                   }
                 ],
                 ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "uid": "ova33oLZh",
-                "edit-time": 1615273548225,
+                "uid": "R3JgC9IiB",
+                "edit-time": 1716229956253,
                 ":edit/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
                 }
               }
             ],
-            "refs": [
-              {
-                "uid": "sB0yQf6IR"
-              }
-            ],
-            "uid": "R3JgC9IiB",
-            ":block/refs": [
-              {
-                ":block/uid": "sB0yQf6IR"
-              }
-            ],
-            "string": "[How to build diagrams in Roam Research](https://nesslabs.com/roam-research-diagrams) by [[Anne-Laure Le Cunff]]",
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "create-time": 1614781712655,
+            "uid": "dahYTV9y6",
+            "edit-time": 1716253141055,
             ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
             }
           }
         ],
@@ -10825,49 +12713,63 @@
         "edit-time": 1614792892119,
         "children": [
           {
-            "edit-time": 1615273820440,
+            "string": "Archived⬇️ (old version of the diagram feature)",
+            "create-time": 1716253147590,
+            ":create/user": {
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+            },
             "children": [
               {
-                "string": "{{[[video]]: https://www.youtube.com/watch?v=-q5JRaZbcrA}}",
-                "create-time": 1615273449464,
-                ":block/refs": [
+                "edit-time": 1615273820440,
+                "children": [
                   {
-                    ":block/uid": "2h9V-FtAO"
+                    "string": "{{[[video]]: https://www.youtube.com/watch?v=-q5JRaZbcrA}}",
+                    "create-time": 1615273449464,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "2h9V-FtAO"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "2h9V-FtAO"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    },
+                    "uid": "zDeFbTyqU",
+                    "edit-time": 1615273456626,
+                    ":edit/user": {
+                      ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                    }
                   }
                 ],
                 "refs": [
                   {
-                    "uid": "2h9V-FtAO"
+                    "uid": "ti2FseEAb"
                   }
                 ],
+                "uid": "d2PjXnK9P",
+                ":block/refs": [
+                  {
+                    ":block/uid": "ti2FseEAb"
+                  }
+                ],
+                "string": "Drawing and Diagrams in Roam Research by [[Chester]]",
                 ":create/user": {
-                  ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+                  ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
                 },
-                "uid": "zDeFbTyqU",
-                "edit-time": 1615273456626,
+                "create-time": 1614781712655,
                 ":edit/user": {
                   ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
                 }
               }
             ],
-            "refs": [
-              {
-                "uid": "ti2FseEAb"
-              }
-            ],
-            "uid": "d2PjXnK9P",
-            ":block/refs": [
-              {
-                ":block/uid": "ti2FseEAb"
-              }
-            ],
-            "string": "Drawing and Diagrams in Roam Research by [[Chester]]",
-            ":create/user": {
-              ":user/uid": "CHxhvJ7VwhSEeJI217QsbgO8hpu1"
-            },
-            "create-time": 1614781712655,
+            "uid": "od61sjx6-",
+            "edit-time": 1716253148605,
             ":edit/user": {
-              ":user/uid": "0srxZalJfufGq6CwC9viQbR4ctU2"
+              ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
             }
           }
         ],
@@ -13766,6 +15668,29 @@
                 "create-time": 1614356892238,
                 ":edit/user": {
                   ":user/uid": "BVbsWigfZ4YniEIvPnEMBwqbiSA2"
+                },
+                "heading": 3
+              },
+              {
+                "edit-time": 1716229738558,
+                "refs": [
+                  {
+                    "uid": "Y61WIJQKq"
+                  }
+                ],
+                "uid": "O6tulk3ms",
+                ":block/refs": [
+                  {
+                    ":block/uid": "Y61WIJQKq"
+                  }
+                ],
+                "string": "[[Diagram]]",
+                ":create/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+                },
+                "create-time": 1716229733873,
+                ":edit/user": {
+                  ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
                 },
                 "heading": 3
               },
@@ -100018,9 +101943,426 @@
     }
   },
   {
-    "uid": "W_Y6BP839",
-    "create-time": 1716169050129,
-    "edit-time": 1716169050129,
+    "create-time": 1716216894801,
+    "title": "May 20th, 2024",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    ":log/id": 1716216894801,
+    "uid": "05-20-2024",
+    "edit-time": 1716216894801,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "create-time": 1716216941664,
+    "title": "Zapier Integration",
+    ":create/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    },
+    "children": [
+      {
+        "string": "Link to test the official Roam Research <-> Zapier integration: https://zapier.com/developer/public-invite/204502/af5c17efb79c4f536eb213eb63503b4f/",
+        "uid": "gaJIkCAbV",
+        "create-time": 1716226180040,
+        "edit-time": 1716226204348,
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        }
+      },
+      {
+        "string": "**Setup Process**",
+        "create-time": 1716216944313,
+        ":create/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        },
+        "children": [
+          {
+            "string": "Open the graph you want to access via Zapier",
+            "uid": "lkj1llZ_3",
+            "create-time": 1716216981268,
+            "edit-time": 1716216990467,
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          },
+          {
+            "string": "Please make sure you have the latest version of Roam (via ... > Check for updates)",
+            "create-time": 1716226122313,
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FweI5_7pLPu.png?alt=media&token=21bf5ce3-5e7c-465e-a09b-febed83acc65)",
+                "uid": "qAFMNQ3VW",
+                "create-time": 1716226142880,
+                "edit-time": 1716226159774,
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              }
+            ],
+            "uid": "P1QFWE6SA",
+            "edit-time": 1716226138023,
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          },
+          {
+            "string": "Get API Token (linked elsewhere)",
+            "create-time": 1716216958570,
+            ":create/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            },
+            "children": [
+              {
+                "string": "Open your settings via ... > Settings, then go to the \"Graph\" tab",
+                "create-time": 1716217879076,
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    "string": " ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FfagWR_XbE7.png?alt=media&token=0d1d5156-d91b-4078-ad2f-e35db1ceb8ba)",
+                    "props": {
+                      "image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FfagWR_XbE7.png?alt=media&token=0d1d5156-d91b-4078-ad2f-e35db1ceb8ba": {
+                          "width": 372,
+                          "height": null
+                        }
+                      }
+                    },
+                    "create-time": 1716216948708,
+                    ":block/props": {
+                      ":image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FfagWR_XbE7.png?alt=media&token=0d1d5156-d91b-4078-ad2f-e35db1ceb8ba": {
+                          ":width": 372,
+                          ":height": null
+                        }
+                      }
+                    },
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "uid": "2utpMAjue",
+                    "edit-time": 1716217914523,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "uid": "yrPfOEajI",
+                "edit-time": 1716217879076,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              },
+              {
+                "string": "In the \"Graph\" tab in settings, click on the green \"+ New API Token\" button",
+                "create-time": 1716217918070,
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    "string": "Do note that you need to be the owner/admin of the graph in order to create API tokens",
+                    "uid": "DXEo-UZeg",
+                    "create-time": 1716218093566,
+                    "edit-time": 1716218094683,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  },
+                  {
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FvLvpJCRi36.png?alt=media&token=7cc08bb8-f684-4537-ba15-0f76c07e30d1)",
+                    "uid": "Lm2EyLTBl",
+                    "create-time": 1716217963876,
+                    "edit-time": 1716217967539,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "uid": "eZ-EMRRqq",
+                "edit-time": 1716218051586,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              },
+              {
+                "edit-time": 1716218403105,
+                "children": [
+                  {
+                    "string": "More details regarding scopes for API tokens below:",
+                    "create-time": 1716218192365,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    "children": [
+                      {
+                        "string": "**read-only access**",
+                        "create-time": 1716218203747,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "(only available for unencrypted graphs)",
+                            "uid": "9RX7_0CYg",
+                            "create-time": 1716218259186,
+                            "edit-time": 1716218268781,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "This scope only allows access to read to your graph.",
+                            "uid": "YYKDEgCcr",
+                            "create-time": 1716218311512,
+                            "edit-time": 1716218325120,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "In the case of the Zapier integration, this means that you can only use the \"Trigger\"s, but not the \"Action\"s",
+                            "uid": "4vJloMTkD",
+                            "create-time": 1716218325116,
+                            "edit-time": 1716218356153,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "v-aQT4G3q",
+                        "edit-time": 1716218368043,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "**read & edit access**",
+                        "create-time": 1716218209827,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "(only available for unencrypted graphs)",
+                            "uid": "OqHPFp0wL",
+                            "create-time": 1716218269909,
+                            "edit-time": 1716218272230,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "this scope is the most permissive one. It allows the service to both read your graph and edit/add stuff to it. ",
+                            "uid": "V3QDzcNu1",
+                            "create-time": 1716218238328,
+                            "edit-time": 1716218310461,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "In the case of the Zapier integration, this means that you can use both the \"Trigger\"s and the \"Action\"s",
+                            "uid": "uSQXSHOBV",
+                            "create-time": 1716218357865,
+                            "edit-time": 1716218431505,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "039yINLTB",
+                        "edit-time": 1716218370350,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      },
+                      {
+                        "string": "**append-only access**",
+                        "create-time": 1716218213252,
+                        ":create/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        },
+                        "children": [
+                          {
+                            "string": "(available for **both** encrypted & unencrypted graphs)",
+                            "uid": "4JlsI3C8Z",
+                            "create-time": 1716218275027,
+                            "edit-time": 1716218291039,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "this access only provides the service ability to __add__ stuff to your graph",
+                            "uid": "ZlxWWoj_K",
+                            "create-time": 1716218216498,
+                            "edit-time": 1716218296375,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          },
+                          {
+                            "string": "In the case of the Zapier integration, this means that you can only use the \"Actions\"s, but not the \"Trigger\"s",
+                            "uid": "aV749_Ra-",
+                            "create-time": 1716218435897,
+                            "edit-time": 1716218445944,
+                            ":create/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                            }
+                          }
+                        ],
+                        "uid": "MjOPohEUF",
+                        "edit-time": 1716218372776,
+                        ":edit/user": {
+                          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                        }
+                      }
+                    ],
+                    "uid": "yKJXvoQIP",
+                    "edit-time": 1716218471258,
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "039yINLTB"
+                  },
+                  {
+                    "uid": "MjOPohEUF"
+                  }
+                ],
+                "uid": "YBEMDnwfx",
+                ":block/refs": [
+                  {
+                    ":block/uid": "039yINLTB"
+                  },
+                  {
+                    ":block/uid": "MjOPohEUF"
+                  }
+                ],
+                "string": "After clicking the button, please enter a clear description of expected usage. In the access scope, select ((039yINLTB)) for unencrypted graphs and ((MjOPohEUF)) for encrypted graphs. More regarding scope below",
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "create-time": 1716218051616,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              },
+              {
+                "string": "In the next screen, click on the \"Clipboard\" icon 📋 to copy the token to your clipboard. It will start with \"roam-graph-token-\"",
+                "create-time": 1716218473429,
+                ":create/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                },
+                "children": [
+                  {
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fhelp%2FtnYMdlay_y.png?alt=media&token=e49cdfbc-872e-44b6-bc01-4b0c0b22a386)",
+                    "uid": "890AXUsiR",
+                    "create-time": 1716218483508,
+                    "edit-time": 1716218491347,
+                    ":create/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                    }
+                  }
+                ],
+                "uid": "6FT_CyCjf",
+                "edit-time": 1716218483516,
+                ":edit/user": {
+                  ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+                }
+              }
+            ],
+            "uid": "53YoFEPO1",
+            "edit-time": 1716219329534,
+            ":edit/user": {
+              ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+            }
+          }
+        ],
+        "uid": "KPij3a2Jf",
+        "edit-time": 1716226211204,
+        ":edit/user": {
+          ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+        }
+      }
+    ],
+    "uid": "rQV5KEoFk",
+    "edit-time": 1716216941664,
+    ":edit/user": {
+      ":user/uid": "VlRhovvR7xelaiL4Yg1osW8jrLz2"
+    }
+  },
+  {
+    "uid": "D-KzWj3bZ",
+    "create-time": 1716229514361,
+    "edit-time": 1716229514361,
+    "title": "Maya Kristoff",
+    ":create/user": {
+      ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+    },
+    ":edit/user": {
+      ":user/uid": "zEBu6aWCauOQ1bUzvQ45am2HUVj2"
+    }
+  },
+  {
+    "uid": "4hyUunlAU",
+    "create-time": 1716255417170,
+    "edit-time": 1716255417170,
     "title": "Bruno Godefroy",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
@@ -100030,14 +102372,14 @@
     }
   },
   {
-    "create-time": 1716169050136,
-    "title": "May 20th, 2024",
+    "create-time": 1716255417178,
+    "title": "May 21st, 2024",
     ":create/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     },
-    ":log/id": 1716169050135,
-    "uid": "05-20-2024",
-    "edit-time": 1716169050136,
+    ":log/id": 1716255417177,
+    "uid": "05-21-2024",
+    "edit-time": 1716255417178,
     ":edit/user": {
       ":user/uid": "jRfgD7K9eCfY7OitKmKgo7ORx2o2"
     }
